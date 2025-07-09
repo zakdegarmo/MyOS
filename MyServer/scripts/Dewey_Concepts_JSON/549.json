@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QJRYVCtvCk93bTGryRKQbTjp",
+  "scopeNote": {
+    "sv": [
+      "Förekomst, beskrivning, klassifikation, identifiering av i naturen förekommande mineraler"
+    ],
+    "no": [
+      "Forekomster, beskrivelse, klassifikasjon, identifisering av naturlig forekommende mineraler"
+    ],
+    "de": [
+      "Beschreibung, Klassifikation, Identifizierung natürlicher Mineralienvorkommen"
+    ],
+    "en": [
+      "Occurrence, description, classification, identification of naturally occurring minerals"
+    ],
+    "fr": [
+      "Occurrence, description, classification, identification des minéraux naturels"
+    ],
+    "it": [
+      "Presenza, descrizione, classificazione, identificazione dei minerali presenti in natura"
+    ]
+  },
+  "prefLabel": {
+    "en": "Mineralogy",
+    "sv": "Mineralogi",
+    "no": "Mineralogi",
+    "de": "Mineralogie",
+    "it": "Mineralogia",
+    "fr": "Minéralogie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d4fdtMbRXJbwXFWcJ3X6r7rP",
+  "created": "1996-06-01",
+  "modified": "2021-05-14T19:27:16Z",
+  "notation": "549",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

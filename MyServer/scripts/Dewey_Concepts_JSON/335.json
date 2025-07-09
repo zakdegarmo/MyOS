@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36jfjx98WMvDfgj7fRDWFYvb3",
+  "notation": "335",
+  "prefLabel": {
+    "fr": "Socialisme et systèmes connexes",
+    "sv": "Socialism och liknande system",
+    "en": "Socialism and related systems",
+    "no": "Sosialisme og lignende systemer",
+    "it": "Socialismo e sistemi affini",
+    "de": "Sozialismus und verwandte Systeme"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here schools of thought featuring planned economies, state socialism, interdisciplinary works on socialism and related systems"
+    ],
+    "it": [
+      "Classificare qui le scuole di pensiero che danno risalto alle economie pianificate, il socialismo di stato, le opere interdisciplinari su socialismo e sistemi affini"
+    ],
+    "fr": [
+      "Classer ici les écoles de pensée qui mettent en valeur les économies planifiées, le socialisme d’État, les ouvrages interdisciplinaires sur le socialisme et les systèmes connexes"
+    ],
+    "sv": [
+      "Klassificera här skolor och riktningar där planekonomi och statssocialism ingår, tvärvetenskapliga verk om socialism och liknande system"
+    ],
+    "no": [
+      "Her: Skoler og retninger som fremhever planøkonomi, statssosialisme, tverrfaglige verker om sosialisme og lignende systemer"
+    ],
+    "de": [
+      "Hier auch: Denkschulen mit Planwirtschaften als Merkmal, Staatssozialismus, fächerübergreifende Werke über Sozialismus und verwandte Systeme"
+    ]
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-09-28T09:43:22Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

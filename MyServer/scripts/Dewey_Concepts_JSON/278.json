@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rWp6qPBHbJ4tw9QCy9DPTWMC",
+  "prefLabel": {
+    "no": "Kristendom i Sør-Amerika",
+    "it": "Cristianesimo in Sudamerica",
+    "en": "Christianity in South America",
+    "sv": "Kristendom i Sydamerika",
+    "fr": "Christianisme en Amérique du Sud    ",
+    "de": "Christentum in Südamerika"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2025-02-03T19:58:09Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "notation": "278",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

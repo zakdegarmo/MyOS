@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VPVRyYy7TpBhRPXrFW6mp6HX",
+  "prefLabel": {
+    "no": "Tysk og beslektede litteraturer",
+    "de": "Deutsche & verwandte Literaturen",
+    "fr": "Littératures allemande et apparentées",
+    "it": "Letteratura tedesca e letterature affini",
+    "en": "German & related literatures",
+    "sv": "Tyska & besläktade litteraturer"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E37h44gqVt9bp7wdD6wCvKCKj9",
+    "https://id.oclc.org/worldcat/ddc/E3QVkT9mbHQ9brHHgvBtwj7JfQ",
+    "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM"
+  ],
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "83",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

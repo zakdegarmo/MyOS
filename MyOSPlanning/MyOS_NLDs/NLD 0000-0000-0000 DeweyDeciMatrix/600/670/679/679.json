@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QfQRq34cCBMT79wrMQgpfdfk",
+  "modified": "2024-08-21T20:01:01Z",
+  "prefLabel": {
+    "fr": "Autres produits de catégories particulières de matériaux",
+    "sv": "Övriga produkter i särskilda slags material",
+    "no": "Andre produkter av bestemte typer råstoffer",
+    "de": "Andere Produkte aus einzelnen Arten von Werkstoffen",
+    "en": "Other products of specific kinds of materials",
+    "it": "Altri prodotti di specifici tipi di materiale"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "679",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cYH9rjyMYTwT4tyFM74rCKY7",
+  "prefLabel": {
+    "it": "Biografia, genealogia, insegne",
+    "no": "Biografier, genealogi, insignier",
+    "sv": "Biografi, genealogi, insignier",
+    "en": "Biography, genealogy, insignia",
+    "de": "Biografien, Genealogie, Insignien",
+    "fr": "Biographie, généalogie, emblèmes, insignes"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here autobiographies, correspondence, diaries, reminiscences; biography as a discipline"
+    ],
+    "de": [
+      "Hier auch: Autobiografien, Tagebücher, Erinnerungen, Briefwechsel; Biografik"
+    ],
+    "no": [
+      "Her: Selvbiografier, dagbøker, erindringer, brevsamlinger; biografifaget (biografi som fag)"
+    ],
+    "it": [
+      "Classificare qui le autobiografie, la corrispondenza, i diari, i ricordi; la biografia come disciplina"
+    ],
+    "sv": [
+      "Klassificera här självbiografier, korrespondens, dagböcker, hågkomster; biografi som disciplin"
+    ],
+    "fr": [
+      "Classer ici les autobiographies, la correspondance, les journaux intimes, les mémoires, les réminiscences, les souvenirs ; la biographie considérée comme discipline"
+    ]
+  },
+  "notation": "920",
+  "modified": "2024-10-17T14:47:57Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

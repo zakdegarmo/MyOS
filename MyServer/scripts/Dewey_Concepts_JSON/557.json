@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4d8yBkvmvxjyMGbpgqcJ67JGr",
+  "notation": "557",
+  "prefLabel": {
+    "it": "Scienze della Terra del Nordamerica",
+    "de": "Geowissenschaften Nordamerikas",
+    "fr": "Sciences de la Terre de l'Amérique du Nord",
+    "sv": "Geovetenskaper gällande Nordamerika",
+    "no": "Geovitenskap vedrørende Nord-Amerika",
+    "en": "Earth sciences of North America"
+  },
+  "modified": "2019-11-05T14:37:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

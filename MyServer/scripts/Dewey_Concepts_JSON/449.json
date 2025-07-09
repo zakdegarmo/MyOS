@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rGbWFrpVYVFHthYCP9WqjRBf",
+  "prefLabel": {
+    "no": "Oksitansk, katalansk, frankoprovençalsk",
+    "it": "Occitanico, catalano, franco-provenzale",
+    "de": "Okzitanisch, Katalanisch, Frankoprovenzalisch",
+    "fr": "Occitan, catalan, franco-provençal",
+    "en": "Occitan, Catalan, Franco-Provençal",
+    "sv": "Occitanska, katalanska, frankoprovensalska"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui la lingua d'oc, la lingua provenzale (occitanico)"
+    ],
+    "no": [
+      "Her: Langue d'oc; provençalsk (oksitansk)"
+    ],
+    "fr": [
+      "Classer ici la langue d'oc, le provençal (occitan)"
+    ],
+    "sv": [
+      "Klassificera här langue d'oc, provensalska (occitanska)"
+    ],
+    "en": [
+      "Class here Langue d'oc; Provençal (Occitan)"
+    ],
+    "de": [
+      "Hier auch: Langue d’oc (Synonym zu Okzitanisch); Provenzalisch (Synonym zu Okzitanisch)"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-15T12:43:10Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VXMqmy6bhF9BHQv7v3DMytFg",
+  "notation": "449",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

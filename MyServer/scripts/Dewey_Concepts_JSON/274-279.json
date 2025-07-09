@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "notation": "274-279",
+  "prefLabel": {
+    "sv": "Kristendom efter särskilda världsdelar, länder, orter i den moderna världen",
+    "de": "Christentum nach einzelnen Kontinenten, Ländern, Ortschaften",
+    "no": "Kristendom inndelt etter bestemte verdensdeler, stater, lokalområder",
+    "en": "Christianity by specific continents, countries, localities",
+    "fr": "Christianisme par continents, pays, localités particuliers",
+    "it": "Cristianesimo in specifici continenti, paesi, località"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här kristna kyrkans historia efter världsdel, land, ort"
+    ],
+    "en": [
+      "Class here Christian church history by continent, country, locality"
+    ],
+    "fr": [
+      "Classer ici l'histoire de l'Église chrétienne par continent, pays, localité"
+    ],
+    "no": [
+      "Her: Den kristne kirkes historie inndelt etter verdensdel, stat, lokalområde"
+    ],
+    "it": [
+      "Classificare qui la storia della chiesa cristiana in specifici continenti, paesi, località"
+    ],
+    "de": [
+      "Hier auch: Geschichte christlicher Kirchen nach Kontinent, Land, Ortschaft"
+    ]
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46VC9yCCT8hjcQxrKFWTmpBJB",
+    "https://id.oclc.org/worldcat/ddc/E436w8YGpkmtrmYF79pxBgjBm6",
+    "https://id.oclc.org/worldcat/ddc/E3rWp6qPBHbJ4tw9QCy9DPTWMC",
+    "https://id.oclc.org/worldcat/ddc/E3x7gjQW4wy6xwRtMvBxfq4CfJ",
+    "https://id.oclc.org/worldcat/ddc/E36Y89gD8KHqDfYCfDGfxFC4Jg",
+    "https://id.oclc.org/worldcat/ddc/E3WQkgkTWR8Mj48x9G7dtgd6md"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3V3MTtT4xT46jFhm6vfQQkBpt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1998-10-27",
+  "modified": "2025-03-06T12:09:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

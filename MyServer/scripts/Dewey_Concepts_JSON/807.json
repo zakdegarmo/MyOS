@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38MCmkMvqDRkQtPjt6H3xkDyy",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Educazione, ricerca, soggetti connessi",
+    "de": "Ausbildung, Forschung, verwandte Themen",
+    "en": "Education, research, related topics",
+    "no": "Utdanning og opplæring, forskning, lignende emner",
+    "fr": "Étude et enseignement, recherche, sujets connexes",
+    "sv": "Utbildning, forskning, liknande ämnen"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "notation": "807",
+  "modified": "2018-02-05T15:02:20Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

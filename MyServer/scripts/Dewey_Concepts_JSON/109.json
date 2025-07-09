@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RPyf8vBM76k34v4W4wyjpqdt",
+  "modified": "2024-11-20T06:37:21Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Storia e biografia collettiva",
+    "en": "History and collected biography",
+    "fr": "Histoire et biographie collective",
+    "no": "Historie og samlingsbiografier",
+    "sv": "Historia och samlingsbiografi",
+    "de": "Geschichte und Sammelbiografien"
+  },
+  "scopeNote": {
+    "no": [
+      "Ikke begrenset til periode eller sted"
+    ],
+    "de": [
+      "Nicht begrenzt auf Zeitabschnitt oder Ort"
+    ],
+    "fr": [
+      "Indice non limité à une époque ni à un lieu"
+    ],
+    "it": [
+      "Senza limiti di periodo o di luogo"
+    ],
+    "en": [
+      "Not limited by period or place"
+    ],
+    "sv": [
+      "Ej begränsat av tid eller plats"
+    ]
+  },
+  "type": "Concept",
+  "notation": "109",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

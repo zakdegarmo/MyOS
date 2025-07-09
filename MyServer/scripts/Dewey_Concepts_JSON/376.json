@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E399XXMqwgYgXqPypJhGkXgVdf",
+  "prefLabel": {
+    "en": "[Unassigned]",
+    "it": "[Non assegnato]",
+    "sv": "[Vakant]",
+    "no": "[Ubenyttet]",
+    "de": "[Unbesetzt]",
+    "fr": "[Vacant]"
+  },
+  "type": "Concept",
+  "created": "2000-02-02",
+  "notation": "376",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-03-31T12:39:11Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

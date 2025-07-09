@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38Hrr8yHtJ7mcVvRHVWqY8WpK",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Französische & verwandte Literaturen",
+    "sv": "Franska & besläktade litteraturer",
+    "en": "French & related literatures",
+    "fr": "Littératures française et apparentées",
+    "no": "Fransk og beslektede litteraturer",
+    "it": "Letteratura francese e letterature affini"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3DFykFBdJ8h9TX6tWvFFRhJp7",
+    "https://id.oclc.org/worldcat/ddc/E3fQcFYT7gqv8jpPJBkxM9Pjkp",
+    "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "type": "Concept",
+  "notation": "84",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

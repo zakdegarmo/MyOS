@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4c34F3p7wJYM6kwFCpKm9c8yh",
+  "created": "1998-10-23",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Pathologie von Agrarpflanzen; umfassende Werke über Schäden, Verletzungen, Krankheiten, Schädlinge an Pflanzen und Tieren"
+    ],
+    "no": [
+      "Her: Patologi vedrørende landbruksplanter; oversiktsverker om planteskader og dyreskader, sykdommer, skadeorganismer"
+    ],
+    "fr": [
+      "Classer ici la pathologie des plantes agricoles ; les ouvrages généraux sur les dégâts causés aux plantes et aux animaux, sur les maladies et parasites des plantes et des animaux, sur les animaux et les plantes nuisibles à l'agriculture"
+    ],
+    "en": [
+      "Class here pathology of agricultural plants; comprehensive works on plant and animal injuries, diseases, pests"
+    ],
+    "it": [
+      "Classificare qui la patologia delle piante agrarie; le opere d'insieme su danni e malattie di piante e animali"
+    ],
+    "sv": [
+      "Klassificera här patologi gällande jordbruksväxter; övergripande verk om växtskador och skador på djur, växtsjukdomar och sjukdomar hos djur, växtskadegörare och skadegörare hos djur"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "modified": "2023-08-24T18:01:12Z",
+  "prefLabel": {
+    "de": "Schäden, Krankheiten, Schädlinge an Pflanzen",
+    "fr": "Dégâts causés aux plantes cultivées, maladies et parasites des plantes cultivées, animaux et plantes nuisibles à l'agriculture",
+    "en": "Plant injuries, diseases, pests",
+    "sv": "Växtskador, växtsjukdomar, växtskadegörare",
+    "it": "Danni, infestazioni, malattie delle piante",
+    "no": "Planteskader, sykdommer, skadeorganismer"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "632",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

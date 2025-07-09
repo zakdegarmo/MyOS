@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jGJJ6RXR7Yth7hCmYYXxyMjc",
+  "prefLabel": {
+    "sv": "Kosmologi (naturfilosofi)",
+    "de": "Kosmologie (Naturphilosophie)",
+    "en": "Cosmology (Philosophy of nature)",
+    "fr": "Cosmologie (Philosophie de la nature)",
+    "it": "Cosmologia (Filosofia della natura)",
+    "no": "Kosmologi (naturfilosofi)"
+  },
+  "scopeNote": {
+    "fr": [
+      "Y compris l’harmonie cosmique, l’origine de l’univers (cosmogonie)"
+    ],
+    "it": [
+      "Include l'armonia cosmica, l'origine dell'universo (cosmogonia)"
+    ],
+    "no": [
+      "Inkluderer: Kosmisk harmoni, kosmogoni (universets opprinnelse og utvikling)"
+    ],
+    "en": [
+      "Including cosmic harmony, origin of universe (cosmogony)"
+    ],
+    "de": [
+      "Einschließlich: kosmische Harmonie, Entstehung des Universums (Kosmogonie)"
+    ],
+    "sv": [
+      "Omfattar kosmisk harmoni, universums uppkomst (kosmogoni)"
+    ]
+  },
+  "notation": "113",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "modified": "2025-03-10T08:13:39Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

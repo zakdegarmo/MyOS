@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33wrjJkxK6wCVGWwhQRWx9wM8",
+  "prefLabel": {
+    "en": "Printmaking & prints",
+    "fr": "Estampe",
+    "it": "Incisione e stampe",
+    "no": "Trykkekunst og grafiske trykk",
+    "de": "Druckgrafik & Drucke",
+    "sv": "Tryckframställning & grafiska tryck"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jVXD7f9YJFpxkXfyhXTQjQXV",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3JwD88gTM8h6MVKvQqpWbV7T6",
+    "https://id.oclc.org/worldcat/ddc/E37TM86hdpFgTd3yK6VWyJYyCM",
+    "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+    "https://id.oclc.org/worldcat/ddc/E4cKxDp7TvcfcMkVTg3FjjPrhf"
+  ],
+  "created": "1996-06-01",
+  "notation": "76",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-11-16T19:47:36Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

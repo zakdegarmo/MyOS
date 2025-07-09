@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Db4KxcjwdVK8CcpYFtfk3VxV",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här skolsystem, skolpolitik; övergripande verk om skolor, deras verksamhet och utbildningspolitiska frågor tillsammans"
+    ],
+    "no": [
+      "Her: Skolesystemer, skolens strategiske planer; oversiktsverker om skoler og deres virksomhet, og utdanningspolitikk behandlet sammen"
+    ],
+    "it": [
+      "Classificare qui i sistemi scolastici, la politica scolastica; le opere d'insieme sulle scuole, le attività scolastiche, le questioni di politica pubblica nell'educazione"
+    ],
+    "en": [
+      "Class here school systems, school policy; comprehensive works on schools, school activities, public policy issues in education together"
+    ],
+    "fr": [
+      "Classer ici les systèmes scolaires, les politiques scolaires ; les ouvrages généraux sur les écoles, les activités scolaires, les questions concernant la politique publique en matière d'éducation étudiés ensemble"
+    ],
+    "de": [
+      "Hier auch: Schulsysteme, Schulpolitik; umfassende Werke über Schulen, Tätigkeiten von bzw. an Schulen, bildungspolitische Themen im Schulwesen zusammen"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Schools and their activities; special education",
+    "no": "Skoler og deres virksomhet; spesialpedagogikk",
+    "sv": "Skolor och deras verksamhet; specialundervisning",
+    "de": "Schulen und schulische Tätigkeiten; Sonderpädagogik",
+    "fr": "Écoles et leurs activités ; éducation spéciale",
+    "it": "Scuole e loro attività; educazione speciale"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "371",
+  "type": "Concept",
+  "modified": "2025-03-04T03:06:41Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

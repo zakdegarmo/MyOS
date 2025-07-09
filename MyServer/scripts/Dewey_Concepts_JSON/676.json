@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YR3wWMwpRmtBGt73hVHH6bCv",
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on paper and paper products, on the total process of making paper out of logs or other sources of pulp"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Papier und Papierprodukte, über den gesamten Prozess der Papierherstellung aus Stammholz oder anderen Quellen für Zellstoff"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om papper och pappersprodukter, om hela processen att tillverka papper av timmer eller andra råvaror för pappersmassa"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur le papier et les produits du papier, sur le procédé global de fabrication du papier à partir des billes de bois ou d’autres sources de pâte à papier"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su carta e prodotti di carta, sull'intero processo di fabbricazione della carta dal legno o da altre fonti di pasta per carta"
+    ],
+    "no": [
+      "Her: Treforedling; oversiktsverker om papir og papirprodukter, om hele prosessen med å produsere papir fra tømmer eller andre papirmassekilder"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "notation": "676",
+  "prefLabel": {
+    "it": "Tecnologia cartaria (Tecnologia della pasta per carta e della carta)",
+    "sv": "Pappersmasseteknik och pappersteknik",
+    "fr": "Technologie de la pâte à papier et du papier",
+    "en": "Pulp and paper technology",
+    "de": "Zellstoff- und Papierherstellung",
+    "no": "Papirmasseteknologi og papirteknologi"
+  },
+  "modified": "2024-09-09T21:07:19Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E433k6Vh3JKqdP9brWPXC3TWRT",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "notation": "756",
+  "prefLabel": {
+    "fr": "[Vacant]",
+    "it": "[Non assegnato]",
+    "en": "[Unassigned]",
+    "de": "[Unbesetzt]",
+    "sv": "[Vakant]",
+    "no": "[Ubenyttet]"
+  },
+  "modified": "2020-10-29T13:32:44Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

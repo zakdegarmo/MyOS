@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XGJPyvgp6H9TmWtX7Jdbr83w",
+  "scopeNote": {
+    "no": [
+      "Her: Astrometri, posisjonell og praktisk astronomi"
+    ],
+    "fr": [
+      "Classer ici l’astrométrie, l’astronomie de position et l’astronomie pratique"
+    ],
+    "en": [
+      "Class here astrometry, positional and practical astronomy"
+    ],
+    "it": [
+      "Classificare qui l'astrometria, l'astronomia posizionale e pratica"
+    ],
+    "sv": [
+      "Klassificera här astrometri, positionsastronomi och praktisk astronomi"
+    ],
+    "de": [
+      "Hier auch: Astrometrie, Positionsastronomie und praktische Astronomie"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Techniques, procédés, appareils, équipement, matériel",
+    "sv": "Tekniker, procedurer, apparatur, utrustning, material",
+    "no": "Teknikker, arbeidsmetoder, apparater, utstyr, materialer",
+    "it": "Tecniche, procedure, apparecchi, attrezzature, materiali",
+    "en": "Techniques, procedures, apparatus, equipment, materials",
+    "de": "Techniken, Verfahren, Geräte, Ausstattung, Materialien"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "notation": "522",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

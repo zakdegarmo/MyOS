@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38HxYtvygHbkHX3QMCgwHkWmY",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QwXX8k3gdqqkMywM8hjwjfCr",
+  "prefLabel": {
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til standard spansk",
+    "de": "Schriftsysteme, Phonologie, Phonetik des Spanischen",
+    "sv": "Skriftsystem, fonologi, fonetik gällande standardspanska",
+    "en": "Writing systems, phonology, phonetics of standard Spanish",
+    "fr": "Systèmes d’écriture, phonologie, phonétique de l’espagnol standard",
+    "it": "Sistemi di scrittura, fonologia, fonetica dello spagnolo standard"
+  },
+  "type": "Concept",
+  "modified": "2021-02-09T16:17:56Z",
+  "notation": "461",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vrWDHDYVgc8RvT8C8Chb8Yph",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Class here grammatical categories, sentences, syntax, topic and comment; word order; comprehensive works on phonology, morphology, syntax; on phonology and morphology; on phonology and syntax"
+    ],
+    "sv": [
+      "Klassificera här grammatiska kategorier, satser, syntax, tema och rema; ordföljd; övergripande verk om fonologi, morfologi, syntax; om fonologi och morfologi; om fonologi och syntax"
+    ],
+    "no": [
+      "Her: Grammatiske kategorier, setninger, syntaks, tema-rema; ordstilling; oversiktsverker om fonologi, morfologi, syntaks; oversiktsverker om fonologi og morfologi; oversiktsverker om fonologi og syntaks"
+    ],
+    "de": [
+      "Hier auch: grammatische Kategorien; Sätze, Syntax, Thema und Rhema; Wortstellung; umfassende Werke über Phonologie, Morphologie, Syntax; über Phonologie und Morphologie; über Phonologie und Syntax"
+    ],
+    "fr": [
+      "Classer ici les catégories grammaticales, les phrases, la syntaxe, le sujet et le prédicat ; l'ordre des mots ; les ouvrages généraux sur la phonologie, la morphologie, la syntaxe ; sur la phonologie et la morphologie ; sur la phonologie et la syntaxe"
+    ],
+    "it": [
+      "Classificare qui le categorie grammaticali, le frasi, la sintassi, il soggetto e il predicato; l'ordine delle parole; le opere d'insieme su fonologia, morfologia, sintassi; su fonologia e morfologia; su fonologia e sintassi"
+    ]
+  },
+  "created": "1999-02-16",
+  "modified": "2025-06-07T12:41:14Z",
+  "notation": "415",
+  "prefLabel": {
+    "no": "Standardspråkets grammatikk",
+    "fr": "Grammaire des formes standard des langues",
+    "sv": "Grammatik gällande språkens standardformer",
+    "it": "Grammatica delle forme standard delle lingue",
+    "en": "Grammar of standard forms of languages",
+    "de": "Grammatik der Standardformen von Sprachen"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

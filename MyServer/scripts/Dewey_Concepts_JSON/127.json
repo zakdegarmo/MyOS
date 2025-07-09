@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VT7Vv9q9qY6rCVBbVfGWY394",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "prefLabel": {
+    "sv": "Det omedvetna och det undermedvetna",
+    "no": "Det ubevisste og det underbevisste",
+    "de": "Das Unbewusste und das Unterbewusste",
+    "fr": "L'inconscient et le subconscient",
+    "it": "L'inconscio e il subconscio",
+    "en": "The unconscious and the subconscious"
+  },
+  "notation": "127",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wWrrWkPCdgxfMXyrBKrqFXxT",
+  "notation": "976",
+  "modified": "2024-05-10T13:20:08Z",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Det sør-sentrale USA",
+    "de": "Südliche zentrale Staaten der USA",
+    "en": "South central United States",
+    "sv": "Sydcentrala Förenta staterna",
+    "fr": "Centre-Sud des États-Unis",
+    "it": "Stati Uniti centromeridionali"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

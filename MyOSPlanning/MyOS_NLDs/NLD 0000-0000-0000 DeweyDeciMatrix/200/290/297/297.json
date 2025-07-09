@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3f4p6c7JbYpwqtJGxHYrKmJGp",
+  "notation": "297",
+  "prefLabel": {
+    "it": "Islamismo, Babismo, fede Bahai",
+    "no": "Islam, babisme, baha'i",
+    "fr": "Islam, babisme, foi bahaïe",
+    "de": "Islam, Babismus, Bahaismus",
+    "sv": "Islam, babism, bahai",
+    "en": "Islam, Babism, Bahai Faith"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2025-02-10T21:54:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

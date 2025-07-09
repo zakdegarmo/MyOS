@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38VcvYhKg6CFx8WmvX4jv8JMx",
+  "prefLabel": {
+    "de": "Management und unterstützende Tätigkeiten",
+    "no": "Ledelse og administrative funksjoner",
+    "en": "Management and auxiliary services",
+    "sv": "Företagsledning och stödjande tjänster",
+    "it": "Gestione e servizi ausiliari",
+    "fr": "Gestion et services auxiliaires"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Kj3G3gqBqRHtqyRP7QYYTym",
+  "modified": "2025-06-24T08:17:15Z",
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Betriebswirtschaft"
+    ],
+    "sv": [
+      "Klassificera här affärsverksamhet"
+    ],
+    "en": [
+      "Class here business"
+    ],
+    "no": [
+      "Her: Forretningsvirksomhet"
+    ],
+    "fr": [
+      "Classer ici les affaires"
+    ],
+    "it": [
+      "Classificare qui gli affari"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "650",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

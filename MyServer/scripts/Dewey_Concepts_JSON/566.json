@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4b7MHPTXk93KDfHVRPRHRcThv",
+  "prefLabel": {
+    "de": "Fossile Chordata (Chordatiere)",
+    "fr": "Cordés fossiles",
+    "en": "Fossil Chordata",
+    "no": "Fossile Chordata (ryggstrengdyr)",
+    "sv": "Fossil Chordata (ryggsträngsdjur)",
+    "it": "Chordata fossili"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Cephalochordata, Tunicata (Manteltiere)",
+      "Hier auch: Vertebrata (Wirbeltiere), Tetrapoda (Landwirbeltiere)"
+    ],
+    "en": [
+      "Class here Vertebrata (Craniata, vertebrates), Tetrapoda (land vertebrates)",
+      "Including Cephalochordata, Urochordata (Tunicata)"
+    ],
+    "it": [
+      "Classificare qui i Vertebrata (Craniata, vertebrati), i Tetrapoda (vertebrati terrestri)",
+      "Include i Cephalochordata, gli Urochordata (Tunicata)"
+    ],
+    "fr": [
+      "Classer ici les Vertébrés (Craniates) fossiles, les Tétrapodes (vertébrés terrestres) fossiles",
+      "Y compris les Céphalocordés, les Urocordés (Tuniciers) fossiles"
+    ],
+    "sv": [
+      "Omfattar Cephalochordata (lansettfiskar), Urochordata (Tunicata)",
+      "Klassificera här Vertebrata (Craniata, ryggradsdjur, vertebrater, kraniedjur, kraniater), Tetrapoda (tetrapoder, fyrfotadjur)"
+    ],
+    "no": [
+      "Her: Vertebrata (virveldyr), Craniata (kraniedyr), Tetrapoda (firbente virveldyr)",
+      "Inkluderer: Cephalochordata (lansettfisk), Urochordata (kappedyr)"
+    ]
+  },
+  "modified": "2024-01-31T14:29:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "566",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

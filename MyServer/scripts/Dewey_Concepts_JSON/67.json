@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QW7XC9gKJvf47FbFGBJ8XWGh",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+    "https://id.oclc.org/worldcat/ddc/E36yPTRMqXCBtk4DddCXFJvbfb"
+  ],
+  "prefLabel": {
+    "it": "Manifattura",
+    "en": "Manufacturing",
+    "sv": "Tillverkning",
+    "fr": "Fabrication industrielle",
+    "no": "Industriell produksjon",
+    "de": "Industrielle Fertigung"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "type": "Concept",
+  "notation": "67",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

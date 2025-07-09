@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49Tqwrmq3GvK8XKp7YPD84xTK",
+  "prefLabel": {
+    "sv": "Franska tal",
+    "fr": "Discours français",
+    "no": "Franske taler",
+    "it": "Discorsi francesi",
+    "en": "French speeches",
+    "de": "Französische Reden"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "notation": "845",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-07-13T05:34:40Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

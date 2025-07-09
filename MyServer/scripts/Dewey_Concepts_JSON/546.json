@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43FQ4PJy3rRtxxB6X8XHHwCQC",
+  "scopeNote": {
+    "it": [
+      "Classificare qui i soggetti generali di chimica applicata a specifici elementi, composti, miscugli, raggruppamenti; le opere d'insieme su chimica inorganica e organica di specifici elementi, composti, miscugli, raggruppamenti"
+    ],
+    "en": [
+      "Class here general topics of chemistry applied to specific elements, compounds, mixtures, groupings; comprehensive works on inorganic and organic chemistry of specific elements, compounds, mixtures, groupings"
+    ],
+    "no": [
+      "Her: Generelle emner innen kjemi som gjelder bestemte grunnstoffer, forbindelser, blandinger, stoffgrupper; oversiktsverker om uorganisk og organisk kjemi for bestemte grunnstoffer, forbindelser, blandinger, stoffgrupper"
+    ],
+    "fr": [
+      "Classer ici les sujets généraux de la chimie appliqués aux éléments, composés, mélanges, groupements particuliers ; les ouvrages généraux sur la chimie inorganique et organique des éléments, composés, mélanges, groupements particuliers"
+    ],
+    "sv": [
+      "Klassificera här allmänna ämnen inom kemi tillämpade på särskilda grundämnen, föreningar, blandningar, grupperingar; övergripande verk om oorganisk kemi och organisk kemi gällande särskilda grundämnen, föreningar, blandningar, grupperingar"
+    ],
+    "de": [
+      "Hier auch: allgemeine chemische Themen in Anwendung auf einzelne Elemente, Verbindungen, Gemische, Gruppierungen; umfassende Werke über anorganische und organische Chemie einzelner Elemente, Verbindungen, Gemische, Gruppierungen"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Oorganisk kemi",
+    "fr": "Chimie inorganique",
+    "it": "Chimica inorganica",
+    "en": "Inorganic chemistry",
+    "no": "Uorganisk kjemi",
+    "de": "Anorganische Chemie"
+  },
+  "modified": "2021-11-25T12:16:02Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "546",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

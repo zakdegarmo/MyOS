@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pcxfjfJvfF8c8gvVYMjBwHXP",
+  "notation": "668",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "prefLabel": {
+    "it": "Tecnologia di altri prodotti organici",
+    "de": "Technik anderer organischer Produkte",
+    "no": "Teknologi som gjelder andre organiske produkter",
+    "fr": "Technologie d’autres produits organiques",
+    "sv": "Övriga organiska produkters tillverkningsteknik",
+    "en": "Technology of other organic products"
+  },
+  "created": "1996-06-01",
+  "modified": "2019-10-28T11:37:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

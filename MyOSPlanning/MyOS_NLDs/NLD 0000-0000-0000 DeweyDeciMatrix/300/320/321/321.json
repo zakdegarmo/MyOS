@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44hcYKTqjrWMBJQX9BxcrXygV",
+  "scopeNote": {
+    "en": [
+      "Class here kinds of states"
+    ],
+    "sv": [
+      "Klassificera här olika slags stater"
+    ],
+    "fr": [
+      "Classer ici les catégories d’États"
+    ],
+    "no": [
+      "Her: Ulike typer stater"
+    ],
+    "it": [
+      "Classificare qui i tipi di stati"
+    ],
+    "de": [
+      "Hier auch: Arten von Staaten"
+    ]
+  },
+  "prefLabel": {
+    "it": "Forme di governo e di stato",
+    "en": "Systems of governments and states",
+    "de": "Staatsformen und Regierungssysteme",
+    "fr": "Systèmes des gouvernements et des États",
+    "no": "Styreformer og statsformer",
+    "sv": "Styrelseskick och statsskick"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "321",
+  "modified": "2024-10-03T12:01:55Z",
+  "created": "1998-10-29",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

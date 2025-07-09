@@ -1,0 +1,39 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FG4P7r9FrCBkVC7MBd6qcq4X",
+  "modified": "2024-01-29T10:02:54Z",
+  "prefLabel": {
+    "no": "Forfølgelser i kirkehistorie",
+    "de": "Verfolgung in der allgemeinen Kirchengeschichte",
+    "fr": "Persécutions dans l’histoire de l’Église",
+    "en": "Persecutions in church history",
+    "sv": "Förföljelser i allmän kyrkohistoria",
+    "it": "Persecuzioni nella storia della chiesa"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Kw4jwwHk9jbR9fH3GQC6J4Wy",
+  "notation": "272",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här martyrer"
+    ],
+    "de": [
+      "Hier auch: Märtyrer",
+      "Ungeachtet der Konfession"
+    ],
+    "en": [
+      "Class here martyrs"
+    ],
+    "it": [
+      "Classificare qui i martiri"
+    ],
+    "fr": [
+      "Classer ici les martyrs"
+    ],
+    "no": [
+      "Her: Martyrer"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

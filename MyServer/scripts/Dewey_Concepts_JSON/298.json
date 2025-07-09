@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BHmHQMgRbgDrG36H9kXMmrBb",
+  "prefLabel": {
+    "en": "(Permanently unassigned)",
+    "fr": "(Vacant de façon permanente)",
+    "sv": "(Permanent vakant)",
+    "no": "(Permanent ubenyttet)",
+    "it": "(Permanentemente non assegnato)",
+    "de": "(Dauerhaft unbesetzt)"
+  },
+  "modified": "2019-03-18T20:36:17Z",
+  "notation": "298",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

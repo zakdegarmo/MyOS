@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YDpKHB7VkrhcXH3KF6hv9CP6",
+  "prefLabel": {
+    "sv": "Pneumatik (gasmekanik)",
+    "en": "Pneumatics (Gas mechanics)",
+    "de": "Pneumatik (Gasmechanik)",
+    "it": "Meccanica dei gas",
+    "no": "Pneumatikk (gassers mekanikk)",
+    "fr": "Pneumatique (Mécanique des gaz)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "533",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "modified": "2024-02-23T10:54:05Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

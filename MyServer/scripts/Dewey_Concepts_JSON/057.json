@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CKK4x9pDV7WbHHYJmDyF9Rfv",
+  "prefLabel": {
+    "no": "Generelle periodika på slaviske språk",
+    "it": "Seriali generali in lingue slave",
+    "fr": "Publications en série d’ordre général en langues slaves",
+    "sv": "Allmänna seriella resurser på slaviska språk",
+    "en": "General serial publications in Slavic languages",
+    "de": "Allgemeine fortlaufende Sammelwerke in slawischen Sprachen"
+  },
+  "notation": "057",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-05T14:56:30Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

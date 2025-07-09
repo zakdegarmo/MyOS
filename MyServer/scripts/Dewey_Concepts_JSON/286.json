@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Dr8cwt7Bx66C6YXvBHVVWRtg",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "modified": "2024-08-13T05:21:39Z",
+  "prefLabel": {
+    "de": "Baptisten, Restoration Movement, Adventisten",
+    "fr": "Églises baptistes, mouvement de la Restauration, Églises adventistes",
+    "sv": "Baptistkyrkor, reformationsrörelsen, adventistkyrkor",
+    "en": "Baptist, Restoration movement, Adventist churches",
+    "no": "Baptistkirker, Restoration movement, adventistkirker",
+    "it": "Chiese battiste, Movimento di Restaurazione, chiese avventiste"
+  },
+  "notation": "286",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

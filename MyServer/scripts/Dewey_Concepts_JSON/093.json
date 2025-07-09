@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WkXT8xgBJXB8jrjhkT99Xtq6",
+  "scopeNote": {
+    "de": [
+      "Vor 1501 gedruckte Bücher"
+    ],
+    "sv": [
+      "Böcker tryckta före 1501"
+    ],
+    "it": [
+      "Libri stampati prima del 1501"
+    ],
+    "fr": [
+      "Livres imprimés avant 1501"
+    ],
+    "no": [
+      "Bøker trykket før 1501 (i Norden før 1551)"
+    ],
+    "en": [
+      "Books printed before 1501"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Inkunabler (paleotyper)",
+    "it": "Incunaboli",
+    "de": "Inkunabeln",
+    "en": "Incunabula",
+    "fr": "Incunables",
+    "sv": "Inkunabler"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "093",
+  "modified": "2021-05-28T12:33:00Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

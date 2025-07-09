@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HRR6MfbrqwkVkBm6RDdpRKy9",
+  "prefLabel": {
+    "no": "Standardspråkets ordbøker",
+    "de": "Wörterbücher der Standardformen von Sprachen",
+    "it": "Dizionari delle forme standard delle lingue",
+    "sv": "Lexikon, ordböcker gällande språkens standardformer",
+    "fr": "Dictionnaires des formes standard des langues",
+    "en": "Dictionaries of standard forms of languages"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les dictionnaires polyglottes",
+      "Sans tenir compte du type de support (imprimé ou électronique)"
+    ],
+    "de": [
+      "Hier auch: mehrsprachige Wörterbücher"
+    ],
+    "en": [
+      "Regardless of format (print or electronic)",
+      "Class here polyglot dictionaries"
+    ],
+    "sv": [
+      "Oavsett format (tryck eller elektronisk)",
+      "Klassificera här flerspråkiga lexikon"
+    ],
+    "no": [
+      "Uavhengig av format (trykt eller elektronisk)",
+      "Her: Polyglottordbøker"
+    ],
+    "it": [
+      "Senza tener conto della forma (a stampa o elettronica)",
+      "Classificare qui i dizionari poliglotti"
+    ]
+  },
+  "notation": "413",
+  "modified": "2024-10-17T10:11:38Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

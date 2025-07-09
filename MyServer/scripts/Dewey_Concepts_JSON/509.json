@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kk7D6ycdCqfr3pCCxF4PGWg3",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Historia, geografisk aspekt, biografi",
+    "no": "Historie, geografisk behandling, biografier",
+    "fr": "Histoire, étude géographique, biographie",
+    "de": "Geschichte, geografische Behandlung, Biografien",
+    "en": "History, geographic treatment, biography",
+    "it": "Storia, geografia, biografia"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2019-09-18T18:08:35Z",
+  "notation": "509",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

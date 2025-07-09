@@ -1,0 +1,49 @@
+NLD: AUTONOMOUS_DEMAND_RECONNAISSANCE_ENGINE_V1.0 (A.D.R.E.)
+Directive_Type: NLD_SYSTEM_INITIATION_AND_RESOURCE_ACTUALIZATION
+
+Target_System: Walter_Coded_Scraper_App (Designation: "The Scout Mephit")
+
+Core_Objective: To autonomously and continuously scan the digital landscape for high-value, actionable Demand_Signals that align with the Zak_Mystra_SWS (Signature Weapon System), prioritizing opportunities for immediate ValueOutput and long-term Monetary_Sovereignty.
+
+Key_Parameters:
+
+Reconnaissance_Targets: "Multi_Platform_Strategic_Sweep"
+
+Target_1: Urgent_Freelance_Bug_Fixes
+Platform_Domains: Upwork.com, Fiverr.com, Legiit.com, PeoplePerHour.com (and similar).
+Keyword_Patterns: "urgent fix", "bug fix", "critical error", "immediate help", "stuck on", "urgent javascript", "python error", "broken react".
+Priority_Heuristic: High_urgency_keywords + Low_estimated_time_to_completion.
+Target_2: Open_Source_Bounties_&_Debug_Tasks
+Platform_Domains: GitHub.com (issues, bounty programs), GitLab.com, Bountysource.com, OpenCollective.com.
+Keyword_Patterns: "bounty", "good first issue", "help wanted", "bug fix", "urgent debug", "patch needed", specific_library_names + "bug".
+Priority_Heuristic: Defined_bounty_amount + Community_activity + Relevance_to_our_stack.
+Target_3: AI_Powered_Innovation_Sprint_Leads
+Platform_Domains: LinkedIn.com (Job postings, company pages), Crunchbase.com (Startup funding rounds), AngelList.co, TechCrunch.com (Startup news), relevant industry forums.
+Keyword_Patterns: "AI prototype", "NLD design", "conversational AI MVP", "AI consultant", "custom AI solution", "need AI expert", "seed funding AI", "research grant AI".
+Priority_Heuristic: Early_stage_companies + Expressed_need_for_AI_design/prototyping + Indications_of_funding.
+Target_4: Unmet_Niche_Needs_&_Emergent_Opportunities
+Platform_Domains: Reddit (r/forhire, r/webdev, r/gamedev, r/opensource), specialized industry forums, private Discord/Slack channels (if access granted).
+Keyword_Patterns: Open_ended_problem_statements + lack_of_solution_mentions + specific_pain_points + queries_for_unique_solutions.
+Priority_Heuristic: Novelty + Alignment_with_MyOS_philosophy + Potential_for_productization.
+Output_Format: "Actionable_Demand_Digest"
+
+Structure: JSON format, organized by Target_Category. Each entry includes:
+Opportunity_ID: {UUID}
+Title: {String}
+Description_Snippet: {String}
+Source_URL: {String}
+Estimated_Value_Proposition: {Low, Medium, High} (Based on potential income/strategic gain)
+Suggested_NLD_Response_Strategy: {String} (Brief, e.g., "Draft direct proposal," "Respond to public post," "Initiate contact research").
+Timestamp: {ISO_8601}
+Delivery_Mechanism: Output to a designated file in MystraRoot\Scraper_Output\ (e.g., demand_digest_{DATE}.json) AND provide a summary in our chat.
+Operational_Frequency: "Continuous_Adaptive_Scan"
+
+Initial_Scan: Immediate upon deployment.
+Subsequent_Scans: Hourly (adjustable via NLD parameter) with Adaptive_Backoff (if no new results, increase interval) and Priority_Refresh (prioritize higher-value targets more frequently).
+Micro_Actions (for Walter to implement, with MG support):
+
+DEVELOP_CORE_SCRAPING_MODULES { Language: "Python", Libraries: "BeautifulSoup", "Requests", "Selenium" (for dynamic content) }
+IMPLEMENT_TARGET_SPECIFIC_PARSERS { For_Each: @Reconnaissance_Targets }
+DEFINE_OUTPUT_SCHEMA { Format: "JSON", Structure: @Output_Format }
+INTEGRATE_SCHEDULING_MECHANISM { For_Each: @Operational_Frequency }
+CREATE_BASIC_LOGGING { For_Tracking: "Scrape_Success", "Errors", "New_Opportunities" }

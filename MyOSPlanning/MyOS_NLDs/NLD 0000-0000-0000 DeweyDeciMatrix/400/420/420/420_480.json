@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E43xFhR6XvvDg3Q9b4JMYtBxT9",
+    "https://id.oclc.org/worldcat/ddc/E3K8rMpQCFTkBtB9Rr9k3bQGmp",
+    "https://id.oclc.org/worldcat/ddc/E46wTjwgGKW9YfcXGDydJvfbcR",
+    "https://id.oclc.org/worldcat/ddc/E3vyFPRDfdq4wB3KR7YTc86cP3",
+    "https://id.oclc.org/worldcat/ddc/E3hDPPXbxwJwxCFTg8DDwcHBkx",
+    "https://id.oclc.org/worldcat/ddc/E3VXMqmy6bhF9BHQv7v3DMytFg",
+    "https://id.oclc.org/worldcat/ddc/E3qyBrwXhqT7JpFw7rtgbVjfcK"
+  ],
+  "notation": "420-480",
+  "prefLabel": {
+    "en": "Specific Indo-European languages other than east Indo-European languages and Celtic languages",
+    "fr": "Langues indo-européennes particulières autres que les langues indo-européennes orientales et les langues celtiques",
+    "it": "Specifiche lingue indoeuropee, escluse le lingue indoeuropee orientali e lingue celtiche",
+    "de": "Einzelne andere indoeuropäische Sprachen als ostindoeuropäische und keltische Sprachen",
+    "no": "Bestemte indoeuropeiske språk unntatt øst-indoeuropeiske og keltiske språk",
+    "sv": "Särskilda indoeuropeiska språk andra än östindoeuropeiska språk och keltiska språk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VhH73DvyhGqcKxHM7RqGkjmJ",
+  "created": "2010-02-04",
+  "modified": "2019-09-16T19:00:49Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

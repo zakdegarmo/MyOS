@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mQd6G8YKP7RTd4Kx4QMmm4Hy",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Narrativa francese",
+    "fr": "Fiction française",
+    "en": "French fiction",
+    "de": "Französische Erzählprosa",
+    "sv": "Franska romaner och noveller",
+    "no": "Fransk fiksjon"
+  },
+  "notation": "843",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2021-12-27T20:44:43Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

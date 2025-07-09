@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3C33xdkc7bQvjvjffvgRKbX34",
+  "notation": "889",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VpFb64j7Tvh9vmkF7xwFdc7M",
+  "prefLabel": {
+    "de": "Neugriechische Literatur",
+    "it": "Letteratura greca moderna",
+    "fr": "Littérature grecque moderne",
+    "sv": "Nygrekisk litteratur",
+    "en": "Modern Greek literature",
+    "no": "Nygresk litteratur"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här katharevusa och dimotiki"
+    ],
+    "en": [
+      "Class here Katharevusa and Demotic literature"
+    ],
+    "it": [
+      "Classificare qui la letteratura in kathareuousa e in demotico"
+    ],
+    "no": [
+      "Her: Katharevusa litteratur og demotisk litteratur"
+    ],
+    "fr": [
+      "Classer ici la littérature katharévousa et la littérature démotique"
+    ],
+    "de": [
+      "Hier auch: Literatur in Katharevussa und Demotiki"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-03-14T12:25:08Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

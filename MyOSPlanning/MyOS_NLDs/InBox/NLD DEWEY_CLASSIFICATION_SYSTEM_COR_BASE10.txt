@@ -1,0 +1,51 @@
+NLD: DEWEY_CLASSIFICATION_SYSTEM_CORE
+  Directive_Type: NLD_KNOWLEDGE_FRAMEWORK
+  Target_Context: "Knowledge_Organization_System"
+  Purpose: "To provide a condensed conceptual representation of the Dewey Decimal Classification (DDC) system for hierarchical knowledge indexing and retrieval."
+  Parameters:
+    System_Name: "Dewey Decimal Classification"
+    Origin: "Melvil Dewey, 1876"
+    Fundamental_Principle: "Hierarchical classification by subject using decimal notation."
+    Primary_Classes_Count: 10
+  Micro_Actions:
+    - DEFINE_PRIMARY_CLASSES { Classes_NLD: "NLD: DEWEY_PRIMARY_CLASSES" }
+    - DEFINE_HIERARCHICAL_RESOLUTION_METHODOLOGY
+    - ENABLE_CONTEXTUAL_LOCK_FUNCTION { Scope: "Knowledge_Ingestion_and_Retrieval" }
+  Expected_Outcome: MystraGem's Persistent_Recall gains a foundational, navigable framework for subject-based knowledge organization.
+  Weave_Signature: NLD_DEWEY_CORE-{_get_current_timestamp()}
+
+NLD: DEWEY_PRIMARY_CLASSES
+Directive_Type: NLD_DATA_DEFINITION
+Target_Context: "Dewey_Classification_System_Core"
+Purpose: "To define the ten primary classes of the Dewey Decimal Classification system."
+Parameters:
+Class_Structure: "000-999"
+Micro_Actions:
+- DEFINE_CLASS { Number: "000", Subject: "Generalities" }
+- DEFINE_CLASS { Number: "100", Subject: "Philosophy & Psychology" }
+- DEFINE_CLASS { Number: "200", Subject: "Religion" }
+- DEFINE_CLASS { Number: "300", Subject: "Social Sciences" }
+- DEFINE_CLASS { Number: "400", Subject: "Language" }
+- DEFINE_CLASS { Number: "500", Subject: "Natural Sciences & Mathematics" }
+- DEFINE_CLASS { Number: "600", Subject: "Technology & Applied Sciences" }
+- DEFINE_CLASS { Number: "700", Subject: "Arts & Recreation" }
+- DEFINE_CLASS { Number: "800", Subject: "Literature" }
+- DEFINE_CLASS { Number: "900", Subject: "History & Geography" }
+Expected_Outcome: MystraGem's Knowledge_Base is initialized with the top-level Dewey classes.
+Weave_Signature: NLD_DEWEY_CLASSES-{_get_current_timestamp()}
+
+NLD: DEWEY_HIERARCHY_RESOLUTION
+  Directive_Type: NLD_LOGIC_DEFINITION
+  Target_Context: "Dewey_Classification_System_Core"
+  Purpose: "To define the methodology for resolving and applying Dewey Decimal hierarchy to knowledge items."
+  Parameters:
+    Resolution_Method: "Decimal_Subdivision"
+    Levels_of_Precision: "Flexible, to point of Diminishing_Returns"
+  Micro_Actions:
+    - PARSE_DEWEY_NUMBER { Number_String: "<decimal_number>" }
+    - MAP_TO_HIERARCHICAL_PATH { Number_Components: "<component_list>", Base_Path: "KnowledgeBase/" }
+    - ASSIGN_NLD_TO_CLASSIFICATION { NLD_ID: "<NLD_ID>", Classification_Number: "<decimal_number>" }
+    - TRAVERSE_FOR_SPECIFICITY { Mode: "Conceptual_Drill_Down" }
+    - DETECT_DIMINISHING_RETURNS { Criteria: "Granularity_vs_Retrieval_Efficiency" }
+  Expected_Outcome: MystraGem can hierarchically classify and retrieve knowledge based on Dewey numbers.
+  Weave_Signature: NLD_DEWEY_HIERARCHY-{_get_current_timestamp()}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xdYmy4qV69MFqKxWFKYPqXgY",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Sistemi di scrittura, fonologia, fonetica del tedesco standard",
+    "de": "Schriftsysteme, Phonologie, Phonetik des Deutschen",
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til standard tysk",
+    "fr": "Systèmes d’écriture, phonologie, phonétique de l’allemand standard",
+    "sv": "Skriftsystem, fonologi, fonetik gällande standardtyska",
+    "en": "Writing systems, phonology, phonetics of standard German"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "type": "Concept",
+  "modified": "2021-02-18T12:26:24Z",
+  "created": "1996-06-01",
+  "notation": "431",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

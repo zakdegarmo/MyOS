@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QhPFTcBFdRvDq7ggVTQWGyDd",
+  "prefLabel": {
+    "fr": "Dictionnaires du français standard",
+    "de": "Französische Wörterbücher",
+    "sv": "Lexikon och ordböcker för standardfranska",
+    "en": "Dictionaries of standard French",
+    "it": "Dizionari del francese standard",
+    "no": "Ordbøker på standard fransk"
+  },
+  "modified": "2021-08-27T09:23:11Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "443",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

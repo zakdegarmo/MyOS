@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PR6JKB6KVhrfktfkTY3xdtTq",
+  "modified": "2023-01-23T21:26:26Z",
+  "prefLabel": {
+    "fr": "Écrits divers latins",
+    "en": "Latin miscellaneous writings",
+    "no": "Latinske diverse skrifter",
+    "de": "Lateinische vermischte Schriften",
+    "it": "Miscellanea latina",
+    "sv": "Diverse latinska texter"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "878",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

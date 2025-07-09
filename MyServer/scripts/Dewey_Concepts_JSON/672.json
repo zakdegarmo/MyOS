@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xQbKtkrGCQcdkd9PcprRpGjp",
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Processi di lavorazione dei metalli e prodotti primari"
+    ],
+    "no": [
+      "Metallarbeidsprosesser og primærprodukter"
+    ],
+    "de": [
+      "Verfahren der Metallverarbeitung und Rohprodukte"
+    ],
+    "sv": [
+      "Metallbearbetningsprocesser och halvfabrikat"
+    ],
+    "fr": [
+      "Procédés du travail des métaux et produits semi-finis"
+    ],
+    "en": [
+      "Metalworking processes and primary products"
+    ]
+  },
+  "prefLabel": {
+    "no": "Jern, stål, andre jernlegeringer",
+    "it": "Ferro, acciaio, altre leghe del ferro",
+    "en": "Iron, steel, other iron alloys",
+    "fr": "Fer, acier, autres alliages ferreux",
+    "sv": "Järn, stål, övriga järnlegeringar",
+    "de": "Eisen, Stahl, andere Eisenlegierungen"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-10T08:53:17Z",
+  "notation": "672",
+  "created": "1998-10-27",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

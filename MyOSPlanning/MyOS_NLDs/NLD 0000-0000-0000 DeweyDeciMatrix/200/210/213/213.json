@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3p4QKCwygTpQPmMqCJFFHtDYH",
+  "scopeNote": {
+    "it": [
+      "Include la creazione della vita e della vita umana, l'evoluzione contrapposta alla creazione, l'evoluzione come metodo della creazione"
+    ],
+    "sv": [
+      "Omfattar skapelse av liv och av mänskligt liv, evolution i motsats till skapelse, evolution som metod för skapelse"
+    ],
+    "fr": [
+      "Y compris la création de la vie et de la vie humaine, l’évolution par opposition à la création, l’évolution considérée comme méthode de création"
+    ],
+    "no": [
+      "Inkluderer: Livets og menneskelivets skapelse, evolusjon og skapelse, evolusjon som skapelsesmetode"
+    ],
+    "en": [
+      "Including creation of life and human life, evolution versus creation, evolution as method of creation"
+    ],
+    "de": [
+      "Einschließlich: Schöpfung des Lebens und des menschlichen Lebens, Evolution versus Schöpfung, Evolution als Weise der Schöpfung"
+    ]
+  },
+  "prefLabel": {
+    "en": "Creation",
+    "it": "Creazione",
+    "fr": "Création",
+    "no": "Skapelse",
+    "sv": "Skapelse",
+    "de": "Schöpfung"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "modified": "2023-06-02T09:55:15Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "213",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Dg3mPRBJkqpP89TTR8JJT73v",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här bostadsarkitektur, konventionella bostäder"
+    ],
+    "it": [
+      "Classificare qui l'abitazione tradizionale, l'architettura domestica"
+    ],
+    "de": [
+      "Hier auch: Wohnhausarchitektur, konventionelles Wohnen"
+    ],
+    "no": [
+      "Her: Boligarkitektur, vanlige (konvensjonelle) boliger"
+    ],
+    "en": [
+      "Class here domestic architecture, conventional housing"
+    ],
+    "fr": [
+      "Classer ici l’architecture domestique, le logement de type traditionnel"
+    ]
+  },
+  "modified": "2025-02-19T22:16:10Z",
+  "prefLabel": {
+    "en": "Residential and related buildings",
+    "de": "Wohnbauten und verwandte Gebäude",
+    "fr": "Immeubles d’habitation et bâtiments connexes",
+    "no": "Bolighus og lignende bygninger",
+    "it": "Edifici residenziali e affini",
+    "sv": "Bostadshus och liknande byggnader"
+  },
+  "notation": "728",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

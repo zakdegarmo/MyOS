@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36wpjgVyVtv8WxmFf9hW99qhy",
+  "prefLabel": {
+    "fr": "Migration internationale et colonisation",
+    "it": "Migrazioni internazionali e colonizzazione",
+    "no": "Internasjonal migrasjon og kolonisering",
+    "en": "International migration and colonization",
+    "sv": "Internationell migration och kolonisering",
+    "de": "Internationale Migration und Kolonisation"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "sv": [
+      "Omfattar folkomflyttningar"
+    ],
+    "en": [
+      "Including population transfers"
+    ],
+    "no": [
+      "Inkluderer: Folkeforflytninger"
+    ],
+    "fr": [
+      "Y compris les transferts de populations"
+    ],
+    "de": [
+      "Einschließlich: Bevölkerungsumsiedlung"
+    ],
+    "it": [
+      "Include i trasferimenti forzati di popolazione"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-11-22T08:22:53Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "notation": "325",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

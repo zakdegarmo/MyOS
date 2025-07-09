@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RKMVdHKKk7RDqgBPwmq9FBxR",
+  "prefLabel": {
+    "de": "Personen aus dem Bereich der Sozialwissenschaften",
+    "it": "Persone operanti nel campo delle scienze sociali",
+    "en": "People in social sciences",
+    "sv": "Personer inom samhällsvetenskaper",
+    "fr": "Personnes dont l’activité est liée aux sciences sociales",
+    "no": "Personer knyttet til samfunnsvitenskapene"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "notation": "923",
+  "modified": "2022-08-29T10:01:08Z",
+  "created": "2000-02-02",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

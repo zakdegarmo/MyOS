@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qrvCVTMYFXC6Drm74rC7B9XM",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "prefLabel": {
+    "sv": "Metodistkyrkor; kyrkor relaterade till metodism",
+    "fr": "Églises méthodistes (Methodist Church) ; Églises liées au méthodisme",
+    "en": "Methodist churches; churches related to Methodism",
+    "no": "Metodistkirker; kirker beslektet med metodismen",
+    "it": "Chiese metodiste; chiese connesse al metodismo",
+    "de": "Methodistische Kirchen; dem Methodismus verwandte Kirchen"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "287",
+  "modified": "2023-10-16T04:50:59Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fRwXbTxTRG9TRXrrTxmcrgk3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "General and external biological phenomena",
+    "sv": "Allmänna och yttre biologiska fenomen",
+    "no": "Generelle og ytre biologiske fenomener",
+    "it": "Fenomeni biologici generali ed esterni",
+    "de": "Allgemeine und äußerliche biologische Phänomene",
+    "fr": "Facteurs généraux et externes de la biologie des organismes"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3VwVKtkXvwB6vJrJq3Ff64XXC",
+    "https://id.oclc.org/worldcat/ddc/E48kbHchtxdWBHyJtRggkywRkV",
+    "https://id.oclc.org/worldcat/ddc/E3hrPJck6k9vXfrBk4ymrxvPyk"
+  ],
+  "modified": "2022-01-20T11:26:59Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3KV8ycpCVYvD3h48hvvf494Xg",
+  "notation": "576-578",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

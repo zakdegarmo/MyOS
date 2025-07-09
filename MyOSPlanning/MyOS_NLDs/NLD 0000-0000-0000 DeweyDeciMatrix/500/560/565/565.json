@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wMyT3KWgm3JB3XPJ9HCGbQjj",
+  "prefLabel": {
+    "fr": "Arthropodes fossiles",
+    "no": "Fossile Arthropoda (leddyr)",
+    "it": "Arthropoda fossili",
+    "en": "Fossil Arthropoda",
+    "de": "Fossile Arthropoden (Gliederfüßer)",
+    "sv": "Fossil Arthropoda (leddjur)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "565",
+  "modified": "2024-01-31T14:29:21Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

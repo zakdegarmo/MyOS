@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dcr6cvk67J8rFv6VhtmCgpTD",
+  "notation": "105",
+  "prefLabel": {
+    "it": "Seriali di filosofia",
+    "no": "Periodika innen filosofi",
+    "fr": "Publications en série de philosophie",
+    "sv": "Seriella resurser om filosofi",
+    "de": "Fortlaufende Sammelwerke der Philosophie",
+    "en": "Serial publications of philosophy"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "modified": "2025-02-03T19:58:09Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

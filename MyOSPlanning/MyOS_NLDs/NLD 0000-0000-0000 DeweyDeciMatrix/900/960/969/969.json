@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VWxbWrrtPtj8Qxxv4htPv4f6",
+  "prefLabel": {
+    "fr": "Îles du sud de l’océan Indien",
+    "de": "Inseln im südlichen Indischen Ozean",
+    "no": "Øyene i det sørlige Indiahavet",
+    "en": "South Indian Ocean islands",
+    "it": "Isole dell'oceano Indiano meridionale",
+    "sv": "Öar i södra Indiska oceanen"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "969",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "modified": "2022-01-19T13:54:19Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

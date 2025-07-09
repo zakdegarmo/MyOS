@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46hkgQgMh4qKDcJr4K6rrYFYV",
+  "prefLabel": {
+    "no": "Colombia og Ecuador",
+    "fr": "Colombie et Équateur",
+    "de": "Kolumbien und Ecuador",
+    "it": "Colombia ed Ecuador",
+    "en": "Colombia and Ecuador",
+    "sv": "Colombia och Ecuador"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2023-01-17T19:01:19Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "986",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rxJDxkxrWFQ9VyjqwdqYW3xt",
+  "prefLabel": {
+    "de": "Recht einzelner Gebietskörperschaften, Gebiete, sozioökonomischer Regionen, regionaler zwischenstaatlicher Organisationen",
+    "fr": "Droit des autorités administratives, aires géographiques, régions socio-économiques, organisations régionales intergouvernementales particulières",
+    "no": "Bestemte jurisdiksjoners, geografiske områders, sosioøkonomiske områders, regionale mellomstatlige organisasjoners rett",
+    "it": "Diritto di specifiche giurisdizioni, aree, regioni socioeconomiche, organizzazioni intergovernative regionali",
+    "en": "Law of specific jurisdictions, areas, socioeconomic regions, regional intergovernmental organizations",
+    "sv": "Juridik avseende särskilda jurisdiktioner, geografiska områden, socioekonomiska områden, regionala mellanstatliga organisationer"
+  },
+  "type": "Concept",
+  "notation": "349",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3djf9T4JWY8hd6fhQ6Dkkjqry",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

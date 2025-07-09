@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tBxX9fqctjkchCXgtP89xjvP",
+  "prefLabel": {
+    "no": "Misjon og religionsundervisning",
+    "en": "Missions and religious education",
+    "de": "Mission und religiöse Erziehung",
+    "fr": "Missions et enseignement religieux",
+    "sv": "Mission och religiös undervisning",
+    "it": "Missioni e educazione religiosa"
+  },
+  "notation": "207",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "modified": "2023-07-26T08:53:51Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Q6XdTy9tDRqCcdTxPYGffCpV",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'avventura, le opere interdisciplinari sulle catastrofi"
+    ],
+    "de": [
+      "Hier auch: Abenteuer, fächerübergreifende Werke über Katastrophen"
+    ],
+    "no": [
+      "Her: Spennende og eventyrlige opplevelser, tverrfaglige verker om katastrofer"
+    ],
+    "sv": [
+      "Klassificera här äventyr"
+    ],
+    "en": [
+      "Class here adventure, interdisciplinary works on disasters"
+    ],
+    "fr": [
+      "Classer ici les aventures, les ouvrages interdisciplinaires sur les catastrophes"
+    ]
+  },
+  "modified": "2023-10-31T11:01:52Z",
+  "prefLabel": {
+    "en": "Collected accounts of events",
+    "no": "Samlede beretninger om ulike begivenheter",
+    "fr": "Recueils de relations d’événements",
+    "it": "Raccolte di narrazioni di avvenimenti",
+    "de": "Allgemeine Darstellungen von Ereignissen",
+    "sv": "Samlade framställningar av händelser"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "904",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

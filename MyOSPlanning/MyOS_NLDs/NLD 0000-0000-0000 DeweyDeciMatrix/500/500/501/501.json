@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KCFgwJQFV4hcYFtbD8r9MkRT",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "en": "Philosophy and theory",
+    "it": "Filosofia e teoria",
+    "sv": "Filosofi och teori",
+    "no": "Filosofi og teori",
+    "fr": "Philosophie et théorie",
+    "de": "Philosophie und Theorie"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "notation": "501",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

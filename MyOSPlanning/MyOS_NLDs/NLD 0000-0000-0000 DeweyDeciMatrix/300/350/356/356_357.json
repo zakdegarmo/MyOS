@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49HCpqfXhXM33yDQ84RFFKdhh",
+  "type": "Concept",
+  "modified": "2019-07-21T18:32:55Z",
+  "prefLabel": {
+    "de": "Landstreitkräfte und Kampfführung",
+    "sv": "Landstridskrafter (lantkrigsväsen) och landkrigföring",
+    "fr": "Forces terrestres et leurs opérations",
+    "en": "Land forces and warfare",
+    "no": "Landstridskrefter og krigføring på land",
+    "it": "Forze e operazioni terrestri"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4dby3kbCvfjtGJPDfdB3xXJHC",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3B469PrWXXj3P6BqH96MpqWjd",
+    "https://id.oclc.org/worldcat/ddc/E3wygG73fG77qJyJWmY6rTMTyc"
+  ],
+  "notation": "356-357",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

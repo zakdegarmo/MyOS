@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wxJ3BTJ68HcKRpy4MpH63b9J",
+  "prefLabel": {
+    "en": "Language",
+    "fr": "Langues",
+    "sv": "Språk",
+    "no": "Språk",
+    "it": "Linguaggio",
+    "de": "Sprache"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+    "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+    "https://id.oclc.org/worldcat/ddc/E3VhH73DvyhGqcKxHM7RqGkjmJ"
+  ],
+  "type": "Concept",
+  "notation": "4",
+  "modified": "2025-03-13T15:25:30Z",
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

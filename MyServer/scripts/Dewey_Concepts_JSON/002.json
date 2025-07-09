@@ -1,0 +1,49 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CtmgXDd8wJdkcXKcffM4M3qm",
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: historische Bibliografie, fächerübergreifende Werke über das Buch",
+      "Einschließlich: Volksbücher"
+    ],
+    "it": [
+      "Senza tener conto della forma (a stampa o elettronica)",
+      "Include le opere interdisciplinari sui chapbook",
+      "Classificare qui la bibliografia storica, le opere interdisciplinari sul libro"
+    ],
+    "en": [
+      "Regardless of format (print or electronic)",
+      "Including chapbooks",
+      "Class here historical bibliography, interdisciplinary works on the book"
+    ],
+    "fr": [
+      "Sans tenir compte du type de support (imprimé ou électronique)",
+      "Classer ici la bibliographie historique, les ouvrages interdisciplinaires sur le livre",
+      "Y compris la littérature de colportage"
+    ],
+    "sv": [
+      "Oavsett format (tryck eller elektronisk)",
+      "Klassificera här historisk bibliografi, tvärvetenskapliga verk om boken",
+      "Omfattar skillingtryck"
+    ],
+    "no": [
+      "Her: Historisk bibliografi, tverrfaglige verker om boken",
+      "Inkluderer: Folkebøker",
+      "Uavhengig av format (trykt eller elektronisk)"
+    ]
+  },
+  "prefLabel": {
+    "de": "Das Buch",
+    "fr": "Le livre",
+    "it": "Il libro",
+    "sv": "Boken",
+    "en": "The book",
+    "no": "Boken"
+  },
+  "created": "1998-10-20",
+  "notation": "002",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-07T02:20:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BGD9V9vDMrh3TXQtHbWbvxfh",
+  "scopeNote": {
+    "en": [
+      "Class here medieval architecture"
+    ],
+    "fr": [
+      "Classer ici l’architecture médiévale"
+    ],
+    "no": [
+      "Her: Middelalderarkitektur"
+    ],
+    "de": [
+      "Hier auch: mittelalterliche Architektur"
+    ],
+    "sv": [
+      "Klassificera här medeltida arkitektur"
+    ],
+    "it": [
+      "Classificare qui l'architettura medievale"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Architecture, vers 300–1399",
+    "sv": "Arkitektur från 300 till 1399",
+    "en": "Architecture from ca. 300 to 1399",
+    "it": "Architettura dal 300 ca. al 1399",
+    "de": "Architektur von ca. 300 bis 1399",
+    "no": "Arkitektur fra ca. 300 fram til 1399"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44h36RWgQQtG4JJYVRby86BxY",
+  "notation": "723",
+  "type": "Concept",
+  "modified": "2022-03-11T06:04:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

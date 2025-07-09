@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38CM33vy9DMBGfdfk78YXyXcB",
+  "scopeNote": {
+    "en": [
+      "Class here geophysics; phenomena of celestial bodies directly comparable to terrestrial phenomena, e.g., volcanic activity on Mars 551.21099923"
+    ],
+    "sv": [
+      "Klassificera här geofysik; fenomen gällande himlakroppar som är direkt jämförbara med fenomen på jorden, t.ex. vulkanisk aktivitet på Mars 551.21099923"
+    ],
+    "de": [
+      "Hier auch: Geophysik; mit Phänomenen auf der Erde direkt vergleichbare Phänomene von Himmelskörpern, z.B. vulkanische Aktivität auf dem Mars 551.21099923"
+    ],
+    "no": [
+      "Her: Geofysikk; fenomener på himmellegemer som er direkte sammenlignbare med fenomener på jorda, f.eks. vulkansk aktivitet på Mars 551.21099923"
+    ],
+    "it": [
+      "Classificare qui la geofisica; i fenomeni dei corpi celesti esattamente paragonabili a fenomeni terrestri, p.e., attività vulcanica su Marte 551.21099923"
+    ],
+    "fr": [
+      "Classer ici la géophysique ; les phénomènes des corps célestes directement comparables aux phénomènes terrestres, ex. : activité volcanique sur Mars, 551.21099923"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Sciences de la Terre",
+    "no": "Geovitenskap",
+    "sv": "Geovetenskaper",
+    "en": "Earth sciences",
+    "de": "Geowissenschaften",
+    "it": "Scienze della Terra"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "550",
+  "created": "1996-06-01",
+  "modified": "2025-02-28T12:31:04Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

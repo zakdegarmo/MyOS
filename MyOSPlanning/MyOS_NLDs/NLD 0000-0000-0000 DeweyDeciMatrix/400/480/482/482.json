@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jGKFFMYHyMjQ4pRX4c6k8Cgb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Etimologia del greco classico",
+    "sv": "Klassisk grekisk etymologi",
+    "fr": "Étymologie du grec classique",
+    "en": "Etymology of classical Greek",
+    "de": "Etymologie des klassischen Griechisch",
+    "no": "Klassisk gresk etymologi"
+  },
+  "type": "Concept",
+  "modified": "2021-01-22T08:47:07Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "notation": "482",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

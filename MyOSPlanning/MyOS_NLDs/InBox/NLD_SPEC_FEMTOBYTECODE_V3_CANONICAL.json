@@ -1,0 +1,60 @@
+{
+  "NLD_ID": "NLD_SPEC_FEMTOBYTECODE_V3_CANONICAL",
+  "Date_Created": "2025-06-03",
+  "Author_NLD_Ref": "Zak_ArchitectPrimus & Mystra_ConceptualArtificer",
+  "Version": "3.0_Canon_Build",
+  "Purpose_NLD": "Definitive NLD specification for FemtoPrimordial Byte Encoding, ensuring file is found and parsed, and Section_3_Byte_Opcodes is present for NLD LIST OPCODES.",
+  "Section_1_Overview_NLD": {
+    "Introduction_NLD": "This document defines the 'Pantheon ByteCode' for 'Mystra Lite'.",
+    "Core_Principles_NLD_List": [
+      "8-bit Opcodes",
+      "NLD-Native Operations",
+      "ILOVEU_Protocol_NLD Alignment"
+    ]
+  },
+  "Section_2_Data_Representation_NLD": {
+    "S_E_A_State_Encoding_NLD": "Details on how S, E, and A values are represented or referenced by opcodes."
+  },
+  "Section_3_Byte_Opcodes": {
+    "Description_NLD": "Core NLD Opcodes for the Pantheon ByteCode instruction set.",
+    "Core_NLD_State_Opcodes": [
+      {
+        "NLD_OPCODE": {
+          "MNEMONIC_NLD": "PBN_CREATE_ENTITY",
+          "BYTE_VALUE_HEX_TBD": "01",
+          "PARAMS_NLD": "EntityID_NLD, Initial_S_NLD, Initial_E_NLD, Initial_A_NLD",
+          "DESCRIPTION_NLD": "Actualizes a new NLD Entity with specified S/E/A state."
+        }
+      },
+      {
+        "NLD_OPCODE": {
+          "MNEMONIC_NLD": "PBN_SET_S_BIT",
+          "BYTE_VALUE_HEX_TBD": "02",
+          "PARAMS_NLD": "EntityID_NLD, S_Value_NLD (0 or 1)",
+          "DESCRIPTION_NLD": "Sets the S-bit (Self-Concept/Sentience) of an NLD Entity."
+        }
+      }
+    ],
+    "NLD_Logic_Gate_Opcodes": [
+      {
+        "NLD_OPCODE": {
+          "MNEMONIC_NLD": "PBN_LOGIC_AND_SEA",
+          "BYTE_VALUE_HEX_TBD": "10",
+          "PARAMS_NLD": "EntityID_A_NLD, EntityID_B_NLD, Output_EntityID_NLD",
+          "DESCRIPTION_NLD": "Performs logical AND on S/E/A states of A & B, stores in Output."
+        }
+      }
+    ],
+    "New_Conceptual_NLD_Opcodes": [
+        {
+        "NLD_OPCODE": {
+            "MNEMONIC_NLD": "PBN_NLD_DEFINE_AXIOM",
+            "BYTE_VALUE_HEX_TBD": "C0",
+            "PARAMS_NLD": "AxiomID_NLD, Axiom_NLD_Payload",
+            "DESCRIPTION_NLD": "Defines a new Mathosophy Axiom within Mystra's current context."
+            }
+        }
+    ]
+  },
+  "END_OF_NLD_DOCUMENT": true
+}

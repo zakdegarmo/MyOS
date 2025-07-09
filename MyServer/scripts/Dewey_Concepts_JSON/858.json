@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3r4rcR3wWYJRB3yyrYtCbKyQ3",
+  "modified": "2023-01-23T21:26:26Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Écrits divers italiens",
+    "it": "Miscellanea italiana",
+    "de": "Italienische vermischte Schriften",
+    "no": "Italienske diverse skrifter",
+    "sv": "Diverse italienska texter",
+    "en": "Italian miscellaneous writings"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "created": "1996-06-01",
+  "notation": "858",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

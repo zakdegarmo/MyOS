@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BTwRyBGCyg3FmCVQgDH4dTVx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Allgemeine Bräuche",
+    "no": "Generelle samfunnsskikker",
+    "it": "Costumi generali",
+    "fr": "Coutumes générales",
+    "en": "General customs",
+    "sv": "Allmänna seder"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+  "modified": "2025-05-06T05:26:07Z",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le opere interdisciplinari sugli eventi (celebrazioni, cerimonie, occasioni, riti) associati con i costumi; le opere interdisciplinari sulla pianificazione di eventi",
+      "Include i baci, le imprecazioni"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur les événements (célébrations, cérémonies, occasions, rites) associés aux coutumes ; les ouvrages interdisciplinaires sur la planification d'événements",
+      "Y compris les embrassades, les jurons"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om händelser (ceremonier, evenemang, riter) som förknippas med seder; tvärvetenskapliga verk som planerar för händelser som förknippas med seder",
+      "Omfattar kyssar, svordomar"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om arrangementer (feiringer, seremonier, anledninger, riter) knyttet til skikker; tverrfaglige verker om planlegging av arrangementer knyttet til skikker",
+      "Inkluderer: Kyssing, banning"
+    ],
+    "en": [
+      "Including kissing, swearing",
+      "Class here interdisciplinary works on events (celebrations, ceremonies, occasions, rites) associated with customs; interdisciplinary works on planning for events"
+    ],
+    "de": [
+      "Einschließlich: Küssen, Fluchen"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "394",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

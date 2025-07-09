@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cGHDGqRF73GqWmHCfPMqFFJj",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "prefLabel": {
+    "en": "German poetry",
+    "fr": "Poésie allemande",
+    "it": "Poesia tedesca",
+    "no": "Tysk poesi",
+    "sv": "Tysk poesi",
+    "de": "Deutsche Versdichtung"
+  },
+  "modified": "2021-12-27T20:44:43Z",
+  "created": "1996-06-01",
+  "notation": "831",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

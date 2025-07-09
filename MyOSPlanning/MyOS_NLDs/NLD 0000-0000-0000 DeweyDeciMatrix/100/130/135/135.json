@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fcDtj9Xf6xRWCrFbcXMfpJDc",
+  "prefLabel": {
+    "en": "Dreams and mysteries",
+    "fr": "Rêves et ésotérisme",
+    "de": "Träume und Mysterien",
+    "it": "Sogni e misteri",
+    "sv": "Drömmar och mysterier",
+    "no": "Drømmer og mysterier"
+  },
+  "notation": "135",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-11-26T10:14:41Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Tvhh48tBHKdCF4pR4qqbPfvC",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "prefLabel": {
+    "en": "Public administration and military science",
+    "fr": "Administration publique et science militaire",
+    "no": "Offentlig administrasjon og militærvitenskap",
+    "sv": "Offentlig förvaltning och militärvetenskap",
+    "de": "Öffentliche Verwaltung und Militärwissenschaft",
+    "it": "Amministrazione pubblica e scienza militare"
+  },
+  "modified": "2023-01-10T14:40:29Z",
+  "notation": "350",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

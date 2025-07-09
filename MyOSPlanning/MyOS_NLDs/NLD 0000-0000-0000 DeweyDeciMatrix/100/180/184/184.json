@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cf7xtM6PTK8RRCGMhw78krYH",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om antik och modern platonism"
+    ],
+    "no": [
+      "Her: Oversiktsverker om oldtidens og nyere tids platonisme"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su platonismo antico e moderno"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur le platonisme antique et moderne"
+    ],
+    "en": [
+      "Class here comprehensive works on ancient and modern Platonism"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über antiken und neuzeitlichen Platonismus"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "notation": "184",
+  "prefLabel": {
+    "no": "Platonsk filosofi",
+    "de": "Platonische Philosophie",
+    "sv": "Platonism",
+    "fr": "Platonisme",
+    "en": "Platonic philosophy",
+    "it": "Filosofia platonica"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2019-01-14T22:41:04Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

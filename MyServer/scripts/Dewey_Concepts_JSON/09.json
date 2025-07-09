@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E487dc69Cf6xMT7rDwKCGh9Hfp",
+    "https://id.oclc.org/worldcat/ddc/E3tcBrFCvTVqt9rRykHmyJ6PrY",
+    "https://id.oclc.org/worldcat/ddc/E3WkXT8xgBJXB8jrjhkT99Xtq6",
+    "https://id.oclc.org/worldcat/ddc/E3Hrd7PPVbyCyjKktH9fbWTKgX",
+    "https://id.oclc.org/worldcat/ddc/E3XMTFBV4w94cVYpPMcJR47WjF",
+    "https://id.oclc.org/worldcat/ddc/E483x7v9vjJ6xThMQCmVcTHT4b",
+    "https://id.oclc.org/worldcat/ddc/E3Hgx8MchqGwHTDDKpxpQt94dF",
+    "https://id.oclc.org/worldcat/ddc/E44gfmXtjGhH6vWjph3HDdgX8v",
+    "https://id.oclc.org/worldcat/ddc/E34FM6mpMJF3yMFdPXcw8bpXKM",
+    "https://id.oclc.org/worldcat/ddc/E49DMpcPvw3VmBBg3VM3qQYpV4"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "prefLabel": {
+    "no": "Håndskrifter og sjeldne bøker",
+    "fr": "Manuscrits et livres rares",
+    "sv": "Handskrifter & rariteter",
+    "en": "Manuscripts & rare books",
+    "it": "Manoscritti e libri rari",
+    "de": "Handschriften & seltene Bücher"
+  },
+  "created": "1996-06-01",
+  "notation": "09",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

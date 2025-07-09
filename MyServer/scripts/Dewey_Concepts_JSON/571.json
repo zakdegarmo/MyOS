@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44gf7G8HWTRyqDWDXDKg744Kk",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le opere d'insieme sui processi biologici interni"
+    ],
+    "en": [
+      "Class here comprehensive works on internal biological processes"
+    ],
+    "no": [
+      "Her: Oversiktsverker om indre biologiske prosesser"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om inre biologiska processer"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über innere biologische Prozesse"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les processus biologiques internes"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Fysiologi och liknande ämnen",
+    "en": "Physiology and related subjects",
+    "no": "Fysiologi og lignende emner",
+    "de": "Physiologie und verwandte Themen",
+    "it": "Fisiologia e soggetti connessi",
+    "fr": "Physiologie et sujets connexes"
+  },
+  "modified": "2022-07-12T16:43:35Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gv7kffMFqVpmt8jtJpVghvjX",
+  "notation": "571",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3qCrrQb7Qy9kYXDq9BGv7qVJF",
+    "https://id.oclc.org/worldcat/ddc/E3tqcVwrx4dBXpGJ66VbrRvtMC",
+    "https://id.oclc.org/worldcat/ddc/E3qrvCVTMYFXC6Drm74rC7B9XM",
+    "https://id.oclc.org/worldcat/ddc/E3qrvThMwVd363xYXfkbX3DmpX",
+    "https://id.oclc.org/worldcat/ddc/E3Ht9Jff7jK78Tw7fbYCw6TqBP",
+    "https://id.oclc.org/worldcat/ddc/E3gWMBQ4g7yXpJKPj9hpxJ9txH",
+    "https://id.oclc.org/worldcat/ddc/E3Dr8cwt7Bx66C6YXvBHVVWRtg"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "no": "Protestantiske og andre trossamfunn",
+    "fr": "Confessions protestantes et autres confessions",
+    "en": "Protestant and other denominations",
+    "it": "Denominazioni protestanti e altre denominazioni",
+    "sv": "Protestantiska och övriga samfund",
+    "de": "Protestantische und andere Konfessionen"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YJMQCXwTmHxYxyx4kqhQ9FQr",
+  "type": "Concept",
+  "notation": "283-289",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

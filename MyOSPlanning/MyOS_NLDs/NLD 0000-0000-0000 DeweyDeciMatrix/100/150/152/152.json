@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3V8DFYy4pYMRR9frd3W4DfKBk",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Classer ici la perception sensorielle, le mouvement, les émotions, les pulsions physiologiques des adultes en général  ; les ouvrages généraux sur la psychologie et la neurophysiologie de la perception sensorielle, du mouvement, des émotions, des pulsions physiologiques"
+    ],
+    "de": [
+      "Hier auch: Sinneswahrnehmung, Bewegung, Emotionen, physiologische Triebe bei Erwachsenen im Allgemeinen; umfassende Werke über Psychologie und Neurophysiologie der Sinneswahrnehmung, Bewegung, Emotionen, physiologischen Triebe"
+    ],
+    "en": [
+      "Class here sensory perception, movement, emotions, physiological drives of adults in general; comprehensive works on psychology and neurophysiology of sensory perception, movement, emotions, physiological drives"
+    ],
+    "no": [
+      "Her: Sansning, bevegelse, emosjoner, fysiologiske drifter hos voksne generelt; oversiktsverker om psykologi og nevrofysiologi innen sansning, bevegelse, emosjoner, fysiologiske drifter"
+    ],
+    "sv": [
+      "Klassificera här sinnesförnimmelse, rörelse, känslor, fysiologiska drifter gällande vuxna i allmänhet; övergripande verk om psykologi och neurofysiologi gällande sinnesförnimmelse, rörelse, känslor, fysiologiska drifter"
+    ],
+    "it": [
+      "Classificare qui percezione sensoria, movimento, emozioni, pulsioni fisiologiche degli adulti in generale; le opere d'insieme sulla psicologia e la neurofisiologia di percezione sensoria, movimento, emozioni, pulsioni fisiologiche"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Percezione sensoria, movimento, emozioni, pulsioni fisiologiche",
+    "de": "Sinneswahrnehmung, Bewegung, Emotionen, physiologische Triebe",
+    "fr": "Perception sensorielle, mouvement, émotions, pulsions physiologiques",
+    "en": "Sensory perception, movement, emotions, physiological drives",
+    "no": "Sansning, bevegelse, emosjoner, fysiologiske drifter",
+    "sv": "Sinnesförnimmelse, rörelse, känslor, fysiologiska drifter"
+  },
+  "modified": "2024-11-15T06:48:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "152",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

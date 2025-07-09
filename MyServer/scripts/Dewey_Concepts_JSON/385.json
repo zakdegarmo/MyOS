@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37mWDMVjwh4gfrydvRtkJQYfg",
+  "modified": "2025-02-26T13:27:10Z",
+  "prefLabel": {
+    "sv": "Järnvägstransporter",
+    "en": "Railroad transportation",
+    "fr": "Transports ferroviaires",
+    "de": "Schienenverkehr",
+    "it": "Trasporto ferroviario",
+    "no": "Jernbanetransport"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui le ferrovie a scartamento normale e allargato"
+    ],
+    "no": [
+      "Her: Normalsporede og bredsporede jernbaner"
+    ],
+    "sv": [
+      "Klassificera här normalspåriga järnvägar och bredspåriga järnvägar"
+    ],
+    "en": [
+      "Class here standard-gage and broad-gage railways"
+    ],
+    "fr": [
+      "Classer ici les chemins de fer à voie normale et à voie large"
+    ],
+    "de": [
+      "Hier auch: Normalspur- und Breitspurbahnen"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "385",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

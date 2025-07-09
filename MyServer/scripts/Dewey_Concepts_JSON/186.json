@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rP9CPpYdJVdDdmTG8gwYKjQG",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Filosofia scettica e filosofia neoplatonica",
+    "no": "Skeptisisme og nyplatonisme",
+    "sv": "Skepticism och nyplatonism",
+    "de": "Skeptische und neuplatonische Philosophien",
+    "fr": "Scepticisme et néo-platonisme",
+    "en": "Skeptic and Neoplatonic philosophies"
+  },
+  "modified": "2024-11-12T03:20:35Z",
+  "notation": "186",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

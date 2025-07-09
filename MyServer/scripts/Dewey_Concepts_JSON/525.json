@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wDtFwvCRJK9TbkBchkfc6CXk",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Jorda (astronomisk geografi)",
+    "en": "Earth (Astronomical geography)",
+    "it": "Terra (Geografia astronomica)",
+    "sv": "Jorden (astronomisk geografi)",
+    "fr": "La Terre (Géographie astronomique)",
+    "de": "Erde (Astronomische Geografie)"
+  },
+  "notation": "525",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

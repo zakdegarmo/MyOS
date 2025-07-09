@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bbdXdh3mkQ4xV3kXthCbfQb9",
+  "prefLabel": {
+    "en": "Production",
+    "fr": "Production",
+    "no": "Produksjon",
+    "de": "Produktion",
+    "sv": "Produktion",
+    "it": "Produzione"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur l’industrie, sur la production"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om industri, om produktion"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om næringslivsvirksomhet, om industri, om produksjon"
+    ],
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Industrie, über Produktion"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari sull'industria, sulla produzione"
+    ],
+    "en": [
+      "Class here interdisciplinary works on industry, on production"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "338",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "modified": "2025-01-14T08:50:29Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

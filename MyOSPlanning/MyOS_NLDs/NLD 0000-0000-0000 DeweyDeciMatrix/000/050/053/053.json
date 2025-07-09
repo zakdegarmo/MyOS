@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44fgf373HyTgH39CdjQvVjVPc",
+  "prefLabel": {
+    "fr": "Publications en série d’ordre général dans les autres langues germaniques",
+    "en": "General serial publications in other Germanic languages",
+    "no": "Generelle periodika på andre germanske språk",
+    "sv": "Allmänna seriella resurser på övriga germanska språk",
+    "de": "Allgemeine fortlaufende Sammelwerke in anderen germanischen Sprachen",
+    "it": "Seriali generali in altre lingue germaniche"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om allmänna seriella resurser på germanska språk"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les publications en série d’ordre général dans les langues germaniques"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über allgemeine fortlaufende Sammelwerke in germanischen Sprachen"
+    ],
+    "en": [
+      "Class here comprehensive works on general serial publications in Germanic languages"
+    ],
+    "no": [
+      "Her: Oversiktsverker om generelle periodika på germanske språk"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sui seriali generali in lingue germaniche"
+    ]
+  },
+  "modified": "2023-06-23T12:51:40Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "type": "Concept",
+  "notation": "053",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

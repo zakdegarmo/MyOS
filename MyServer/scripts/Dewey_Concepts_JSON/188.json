@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3b3p7DwgX8cRKyQjMvtXF8PJy",
+  "prefLabel": {
+    "de": "Stoische Philosophie",
+    "sv": "Stoicism",
+    "no": "Stoisk filosofi",
+    "fr": "Stoïcisme",
+    "en": "Stoic philosophy",
+    "it": "Filosofia stoica"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "188",
+  "created": "1996-06-01",
+  "modified": "2017-12-16T21:35:49Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

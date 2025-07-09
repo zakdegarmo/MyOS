@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33GHJfhwV8VWV4JKBMtKB4mFG",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "en": [
+      "Including matter, form, order, chaos"
+    ],
+    "fr": [
+      "Y compris la matière, la forme, l’ordre, le chaos"
+    ],
+    "sv": [
+      "Omfattar materia, form, ordning, kaos"
+    ],
+    "de": [
+      "Einschließlich: Materie, Form, Ordnung, Chaos"
+    ],
+    "it": [
+      "Include la materia, la forma, l'ordine, il caos"
+    ],
+    "no": [
+      "Inkluderer: Materie, form, orden, kaos"
+    ]
+  },
+  "prefLabel": {
+    "no": "Struktur",
+    "de": "Struktur",
+    "it": "Struttura",
+    "sv": "Struktur",
+    "en": "Structure",
+    "fr": "Structure"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "117",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

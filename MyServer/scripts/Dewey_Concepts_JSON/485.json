@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K8xhw8bYmdGBr9WXQ9DTf6mY",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Grammatik des klassischen Griechisch",
+    "no": "Klassisk gresk grammatikk",
+    "sv": "Klassisk grekisk grammatik",
+    "en": "Grammar of classical Greek",
+    "it": "Grammatica del greco classico",
+    "fr": "Grammaire du grec classique    "
+  },
+  "created": "1996-06-01",
+  "modified": "2021-01-22T08:47:07Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "notation": "485",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

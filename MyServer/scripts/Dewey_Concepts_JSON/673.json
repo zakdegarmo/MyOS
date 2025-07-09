@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4djwdRqkBCxGhr8RPTkKf3DhF",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "notation": "673",
+  "prefLabel": {
+    "en": "Nonferrous metals",
+    "fr": "Métaux non ferreux",
+    "sv": "Icke-järnhaltiga metaller",
+    "it": "Metalli non ferrosi",
+    "no": "Ikke-jernholdige metaller",
+    "de": "Nichteisenmetalle"
+  },
+  "scopeNote": {
+    "en": [
+      "Metalworking processes and primary products",
+      "Class here alloys of nonferrous metals"
+    ],
+    "de": [
+      "Verfahren der Metallverarbeitung und Rohprodukte",
+      "Hier auch: Nichteisenlegierungen"
+    ],
+    "no": [
+      "Her: Legeringer av ikke-jernholdige metaller",
+      "Metallarbeidsprosesser og primærprodukter"
+    ],
+    "sv": [
+      "Klassificera här legeringar gällande icke-järnhaltiga metaller",
+      "Metallbearbetningsprocesser och halvfabrikat"
+    ],
+    "it": [
+      "Processi di lavorazione e prodotti primari",
+      "Classificare qui le leghe di metalli non ferrosi"
+    ],
+    "fr": [
+      "Classer ici les alliages de métaux non ferreux",
+      "Procédés du travail des métaux et des produits semi-finis"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-08-12T09:31:01Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

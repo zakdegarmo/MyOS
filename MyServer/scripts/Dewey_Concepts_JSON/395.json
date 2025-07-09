@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vXhMJY3w6MfMV8QCWJtHVTtb",
+  "notation": "395",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Etikette (Manieren)",
+    "sv": "Etikett",
+    "no": "Etikette (manerer)",
+    "fr": "Étiquette (Savoir-vivre)",
+    "it": "Galateo (Etichetta)",
+    "en": "Etiquette (Manners)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+  "modified": "2025-04-08T20:00:14Z",
+  "scopeNote": {
+    "fr": [
+      "Ouvrages normatifs et pratiques sur les règles de comportement social"
+    ],
+    "de": [
+      "Werke über Vorschriften und Richtlinien für das Verhalten in Gesellschaft"
+    ],
+    "sv": [
+      "Normativa och praktiska verk om socialt beteende"
+    ],
+    "en": [
+      "Prescriptive and practical works on social behavior"
+    ],
+    "it": [
+      "Opere normative e pratiche sul comportamento sociale"
+    ],
+    "no": [
+      "Normative og praktiske verker om sosial atferd"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

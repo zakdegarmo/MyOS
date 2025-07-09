@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47Dtjh3gxdCRVmjTJbRgkWpTt",
+  "notation": "343",
+  "prefLabel": {
+    "sv": "Militärrätt, försvarsrätt, offentlig egendom, finansrätt, skatterätt, handelsrätt, näringsliv",
+    "en": "Military, defense, public property, public finance, tax, commerce (trade), industrial law",
+    "fr": "Droit militaire, de la défense, du domaine public, des finances publiques, droit fiscal, commercial, industriel",
+    "no": "Militærrett, forsvarsrett, offentlig eiendomsrett, lover om offentlige finanser, skattelovgivning, handelsrett (næringsrett), arbeidsmarkedsrett",
+    "it": "Diritto in materia militare, di difesa, di patrimonio pubblico, di finanza pubblica, tributario, in materia di commercio, in materia industriale",
+    "de": "Wehrrecht, öffentliches Sachenrecht, öffentliches Finanzrecht, Steuerrecht, Wirtschaftsrecht"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-09-23T18:45:45Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

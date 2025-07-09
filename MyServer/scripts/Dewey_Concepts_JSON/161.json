@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fycwvXpMqCyWHGgvQ8Tyxcrj",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Induktion",
+    "en": "Induction",
+    "no": "Induksjon",
+    "it": "Induzione",
+    "fr": "Induction",
+    "de": "Induktion"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "161",
+  "modified": "2019-01-12T22:01:55Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

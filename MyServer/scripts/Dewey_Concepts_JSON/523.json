@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WFVmVWm3cDMMQmhvwYmhBr8k",
+  "scopeNote": {
+    "fr": [
+      "Y compris le zodiaque"
+    ],
+    "sv": [
+      "Omfattar djurkretsen"
+    ],
+    "en": [
+      "Including zodiac"
+    ],
+    "it": [
+      "Include lo zodiaco"
+    ],
+    "de": [
+      "Einschließlich: Tierkreis"
+    ],
+    "no": [
+      "Inkluderer: Dyrekretsen"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Särskilda himlakroppar och fenomen",
+    "no": "Bestemte himmellegemer og fenomener",
+    "fr": "Corps et phénomènes célestes particuliers",
+    "en": "Specific celestial bodies and phenomena",
+    "it": "Specifici corpi e fenomeni celesti",
+    "de": "Einzelne Himmelskörper und Himmelsphänomene"
+  },
+  "created": "1998-10-28",
+  "modified": "2024-11-12T07:54:49Z",
+  "type": "Concept",
+  "notation": "523",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

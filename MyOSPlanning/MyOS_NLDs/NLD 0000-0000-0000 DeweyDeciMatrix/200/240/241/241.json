@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fFRjFkGGTgQCVqBmg8qJkp8R",
+  "prefLabel": {
+    "fr": "Morale chrétienne",
+    "it": "Etica cristiana",
+    "sv": "Kristen etik",
+    "de": "Christliche Ethik",
+    "en": "Christian ethics",
+    "no": "Kristen etikk"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Annat namn: moralteologi"
+    ],
+    "no": [
+      "Annen betegnelse: Moralteologi"
+    ],
+    "fr": [
+      "Variante du nom : théologie morale"
+    ],
+    "de": [
+      "Synonyme Bezeichnung: Moraltheologie"
+    ],
+    "en": [
+      "Variant name: Moral theology"
+    ],
+    "it": [
+      "Altro nome: teologia morale"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2023-06-22T10:35:35Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "notation": "241",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

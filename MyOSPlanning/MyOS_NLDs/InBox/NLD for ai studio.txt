@@ -1,0 +1,63 @@
+please take the following code and the natural language instructions below it and make me an awesome app to push my job data to websites semi-automatically, with a minimal amount of button clicks required on my end after my data is input into the app. 
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mephit Post Office</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Mephit Post Office v0.1</h1>
+    <p>Your friendly, semi-automated content delivery system.</p>
+
+    <hr>
+
+    <h2>Content to Send:</h2>
+    <textarea id="content-input" rows="15" style="width: 95%;" placeholder="Paste your White Paper or article text here..."></textarea>
+
+    <hr>
+
+    <h2>Target Leads:</h2>
+    <div id="lead-list">
+        <p><i>No leads added yet.</i></p>
+    </div>
+    
+    <h3>Add a New Lead:</h3>
+    <input type="text" id="lead-platform-input" placeholder="Platform (e.g., LinkedIn)">
+    <input type="text" id="lead-contact-input" placeholder="Contact URL or Email">
+    <button id="add-lead-button">Add Lead</button>
+
+    <hr>
+
+    <button id="send-all-button" style="font-size: 20px; padding: 10px;">SEND IT</button>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
+
+
+NLDs for get.zak.hired.app v1.1
+1. NLD: Implement "Persona-Tuned" Cover Letter Generation
+
+Description: Create a module that takes the base text of our White Paper as input. When a user selects a target company or job description from their "lead list," this module will analyze the job description for key terms (e.g., "fast-paced environment," "collaborative team," "deep technical knowledge"). It will then generate a new, slightly modified version of the cover letter that subtly emphasizes the aspects of our case study that best match the target's desired traits. For example, it might highlight our "rapid iteration" for a "fast-paced" company or emphasize the "symbiotic workflow" for a "collaborative" team.
+2. NLD: Implement "Lead Management & Tracking" System
+
+Description: Enhance the simple lead list. Each lead entry in the UI should have fields for: CompanyName, Role, ContactURL, Status (e.g., 'Researching', 'Applied', 'Interviewing', 'Rejected', 'Offer'), and Notes. The app should allow the user to update the status of each lead with a dropdown menu, creating a simple, effective job application pipeline tracker.
+3. NLD: Implement "Automated Follow-Up Reminder"
+
+Description: Create a system that monitors the Status and date of each lead. If a lead has been in the "Applied" status for a set number of days (e.g., 7 days, user-configurable), the system should create a desktop notification reminding the user to send a follow-up email.
+Bonus Feature: It could even draft a polite, professional follow-up email template for the user, referencing the original job role.
+4. NLD: Implement "Resume/Portfolio Keyword Analyzer"
+
+Description: Create a feature where the user can paste a job description. The AI will analyze the text and compare it against the text of our White Paper. It will then output a list of matching keywords and, more importantly, a list of "missing" keywords from the job description that aren't strongly represented in our document. This allows the user to quickly see if they are a good match or if they need to tweak their materials for that specific application.
+5. NLD: Implement One-Click "Mephit" Deployment
+
+Description: This is the core of the "Mephit Post Office." Create the postmaster.js logic. When the user clicks the "SEND IT" button next to a specific lead, the app will use the data from the "Persona-Tuned Cover Letter" module and the credentials from the config.json to automatically post the content to the specified platform's API (e.g., submit an application through an "Apply with LinkedIn" API, or post an article to Medium).
+These NLDs should give AI Studio a powerful blueprint for building the get.zak.hired.app. They transform it from a simple content-poster into a full-fledged, AI-powered career management tool.
+
+thank you for your help. 
+have a wonderful day!

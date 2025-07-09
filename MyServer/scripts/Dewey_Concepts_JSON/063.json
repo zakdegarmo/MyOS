@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pXk8WMbPCgrDdWJKvxgFTfPt",
+  "prefLabel": {
+    "en": "General organizations in Germany and neighboring central European countries",
+    "no": "Generelle organisasjoner i Tyskland og mellomeuropeiske naboland",
+    "fr": "Organisations générales en Allemagne et dans les pays avoisinants de l'Europe centrale",
+    "sv": "Allmänna institutioner i Tyskland och angränsande centraleuropeiska länder",
+    "it": "Organizzazioni generali in Germania e nei paesi limitrofi dell'Europa centrale",
+    "de": "Allgemeine Organisationen in Deutschland und benachbarten mitteleuropäischen Ländern"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: allgemeine Organisationen in Mitteleuropa"
+    ],
+    "sv": [
+      "Klassificera här allmänna organisationer i Centraleuropa"
+    ],
+    "fr": [
+      "Classer ici les organisations générales en Europe centrale"
+    ],
+    "no": [
+      "Her: Generelle organisasjoner i Mellom-Europa"
+    ],
+    "it": [
+      "Classificare qui le organizzazioni generale in Europa centrale"
+    ],
+    "en": [
+      "Class here general organizations in central Europe"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "notation": "063",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

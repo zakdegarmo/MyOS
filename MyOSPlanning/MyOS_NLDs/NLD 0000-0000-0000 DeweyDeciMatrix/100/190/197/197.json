@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XQkP9kkrmrVM6f8JHDDcQFcq",
+  "scopeNote": {
+    "no": [
+      "Her: Filosofi i tidligere Sovjetunionen"
+    ],
+    "sv": [
+      "Klassificera här före detta Sovietunionens filosofi"
+    ],
+    "de": [
+      "Hier auch: Philosophie der ehemaligen Sowjetunion"
+    ],
+    "en": [
+      "Class here philosophy of former Soviet Union"
+    ],
+    "fr": [
+      "Classer ici la philosophie de l'ex-Union soviétique"
+    ],
+    "it": [
+      "Classificare qui la filosofia dell'ex Unione sovietica"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Rysslands filosofi",
+    "en": "Philosophy of Russia",
+    "no": "Filosofi i Russland",
+    "it": "Filosofia della Russia",
+    "fr": "Philosophie de la Russie",
+    "de": "Philosophie Russlands"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "197",
+  "created": "1996-06-01",
+  "modified": "2024-11-15T06:48:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

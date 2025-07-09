@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "prefLabel": {
+    "de": "Sozialwissenschaften",
+    "it": "Scienze sociali",
+    "sv": "Samhällsvetenskaper",
+    "fr": "Sciences sociales",
+    "no": "Samfunnsvitenskap",
+    "en": "Social sciences"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+    "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+    "https://id.oclc.org/worldcat/ddc/E3fWrrTVQ7tqpKcpQ4QCyGKJJ4",
+    "https://id.oclc.org/worldcat/ddc/E3VCYqcy3CJcvhBjh8V4WwFTJf",
+    "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+    "https://id.oclc.org/worldcat/ddc/E36rFpd6j6FkYh8qHHHBTmJbm4",
+    "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+    "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+    "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+    "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV"
+  ],
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-13T15:25:02Z",
+  "notation": "3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38mvQxXmdMGMKM8wk6Rmwyjw8",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "prefLabel": {
+    "de": "Ephemeriden",
+    "sv": "Efemerider",
+    "it": "Effemeridi",
+    "en": "Ephemerides",
+    "fr": "Éphémérides",
+    "no": "Efemerider"
+  },
+  "modified": "2019-09-22T19:40:36Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Variantes du nom : almanachs astronomiques, almanachs nautiques"
+    ],
+    "it": [
+      "Altri nomi: almanacchi astronomici, almanacchi nautici"
+    ],
+    "sv": [
+      "Andra namn: astronomiska almanackor, nautiska almanackor"
+    ],
+    "de": [
+      "Synonyme Bezeichnungen: astronomische Jahrbücher, nautische Jahrbücher"
+    ],
+    "en": [
+      "Variant names: astronomical, nautical almanacs"
+    ],
+    "no": [
+      "Andre betegnelser: Astronomiske tabeller, nautiske almanakker"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "528",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

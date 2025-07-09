@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49rDDr3W63QyyM4WWT9MM8tYM",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Innenarchitektur (Kunstform oder Kunstausübung, die die Planung und Beaufsichtigung von Entwürfen und ihrer Umsetzung in Innenräumen und deren Einrichtung umfasst)"
+    ],
+    "en": [
+      "Class here interior architecture (the art or practice of planning and supervising the design and execution of architectural interiors and their furnishings)"
+    ],
+    "it": [
+      "Classificare qui il design d'interni (l'arte o la pratica di programmare e controllare la progettazione e l'esecuzione degli interni architettonici e del loro arredamento)"
+    ],
+    "no": [
+      "Her: Interiørarkitektur (kunsten eller virksomheten ved å planlegge og kontrollere designen og utførelsen av arkitektoniske interiører og deres innredninger)"
+    ],
+    "fr": [
+      "Classer ici l’architecture intérieure (art ou pratique de la planification et de la surveillance de la conception et de l’exécution de l’aménagement intérieur et de l’ameublement)"
+    ],
+    "sv": [
+      "Klassificera här inredningsarkitektur (det konstnärliga eller praktiska arbetet med att planera och överse formgivning och utförande av arkitektoniska interiörer och dess inventarier)"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Formgivning och utsmyckning av byggnader och tillbehör",
+    "no": "Design og utsmykning av byggverk og tilbehør",
+    "en": "Design and decoration of structures and accessories",
+    "de": "Entwurf und Gestaltung von Gebäuden und Nebengebäuden",
+    "fr": "Conception et décoration des constructions et des constructions accessoires",
+    "it": "Progettazione e decorazione di strutture e di accessori"
+  },
+  "modified": "2023-02-06T16:10:27Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "729",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

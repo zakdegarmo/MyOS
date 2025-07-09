@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mDRDBQxMtkHfy7hJ6cKTXYpx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "518",
+  "scopeNote": {
+    "en": [
+      "Class here applied numerical analysis, numerical calculations, numerical mathematics"
+    ],
+    "no": [
+      "Her: Anvendt numerisk analyse, numeriske beregninger, numerisk matematikk"
+    ],
+    "fr": [
+      "Classer ici l'analyse numérique appliquée, les calculs numériques, les mathématiques numériques"
+    ],
+    "de": [
+      "Hier auch: angewandte numerische Analysis, numerische Berechnungen, numerische Mathematik"
+    ],
+    "sv": [
+      "Klassificera här tillämpad numerisk analys, numeriska beräkningar, numerisk matematik"
+    ],
+    "it": [
+      "Classificare qui l'analisi numerica applicata, il calcolo numerico, la matematica numerica"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Numerisk analys",
+    "de": "Numerische Analysis",
+    "it": "Analisi numerica",
+    "fr": "Analyse numérique",
+    "no": "Numerisk analyse",
+    "en": "Numerical analysis"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "modified": "2024-05-07T10:27:34Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

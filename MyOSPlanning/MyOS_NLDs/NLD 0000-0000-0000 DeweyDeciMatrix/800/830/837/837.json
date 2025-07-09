@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E494GXhtP6VqYqqjfTywvhTDyv",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Humour et satire allemands",
+    "it": "Satira e umorismo tedesco",
+    "no": "Tysk humor og satire",
+    "de": "Deutscher Humor und deutsche Satire",
+    "en": "German humor and satire",
+    "sv": "Tysk humor och satir"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "type": "Concept",
+  "notation": "837",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

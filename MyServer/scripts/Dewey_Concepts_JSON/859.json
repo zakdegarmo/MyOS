@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YxQtK3TxFhBc6HrfbhM8mmVf",
+  "prefLabel": {
+    "sv": "Rumänska, rätoromanska, sardiska, korsikanska litteraturer",
+    "no": "Rumensk, retoromansk, sardinsk, korsikansk litteratur",
+    "en": "Literatures of Romanian, Rhaetian, Sardinian, Corsican languages",
+    "fr": "Littératures des langues roumaine, rhétique, sarde, corse",
+    "de": "Rumänische, rätoromanische, sardische, korsische Literaturen",
+    "it": "Letteratura romena, letteratura retica, letteratura sarda, letteratura corsa"
+  },
+  "type": "Concept",
+  "modified": "2022-01-14T13:49:02Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "859",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fpXkCTxtHTDGjhrXb4cCGY6X",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

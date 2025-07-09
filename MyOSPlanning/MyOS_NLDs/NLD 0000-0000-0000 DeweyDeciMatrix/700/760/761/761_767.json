@@ -1,0 +1,51 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3MGYtxfcwfKB4CYwxBhfGTBh3",
+    "https://id.oclc.org/worldcat/ddc/E3HhdCbRGJj7TVTHRGrwrryj7X",
+    "https://id.oclc.org/worldcat/ddc/E373XRjMxbdr4BkbBHBPc7vBV4",
+    "https://id.oclc.org/worldcat/ddc/E3gDPfkWp8DHRg8hxVT4wVCxWc",
+    "https://id.oclc.org/worldcat/ddc/E3DCjQxVfHc6HMF8GyXbq38YXk"
+  ],
+  "scopeNote": {
+    "fr": [
+      "Techniques, procédés, équipement, matériel",
+      "L’art de réaliser un cliché ou une planche représentant une image ou un dessin conçus par le graveur d'estampes ou reproduits d’après la peinture ou le dessin d’un autre artiste ou d’après une photographie"
+    ],
+    "it": [
+      "Tecniche, procedure, attrezzature, materiali",
+      "Arte di eseguire una matrice o lastra rappresentante un'immagine o un disegno concepito dall'incisore stesso, o copiato da un dipinto o disegno di un altro artista, o da una fotografia"
+    ],
+    "sv": [
+      "Konsten att göra ett tryckblock eller en tryckplåt som återger en bild eller design utformad av tryckaren eller kopierad från en målning eller teckning av annan konstnär, eller från ett fotografi",
+      "Tekniker, procedurer, utrustning, material"
+    ],
+    "de": [
+      "Bildende Kunst, bei der mit einer Druckform in Form eines Druckstocks (Klischees) oder einer Druckplatte gearbeitet wird, die ein Bild oder Design enthält oder darstellt, das vom Druckgrafiker erstellt oder von einem anderen Kunstwerk (Gemälde, Zeichnung, Fotografie) kopiert wurde",
+      "Techniken, Verfahren, Ausstattung, Materialien"
+    ],
+    "en": [
+      "Techniques, procedures, equipment, materials",
+      "Fine art of executing a printing block or plate representing a picture or design conceived by the printmaker or copied from another artist's painting or drawing or from a photograph"
+    ],
+    "no": [
+      "Kunsten å skape en trykkblokk eller trykkplate som gjengir et bilde eller design utformet av den grafiske trykkeren eller kopiert fra en annen kunstners maleri eller tegning eller fra et fotografi",
+      "Teknikker, arbeidsmetoder, utstyr, materialer"
+    ]
+  },
+  "modified": "2024-11-05T12:03:18Z",
+  "prefLabel": {
+    "no": "Trykkekunst",
+    "en": "Printmaking",
+    "de": "Druckgrafik",
+    "it": "Incisione",
+    "sv": "Tryckframställning",
+    "fr": "Estampe"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33wrjJkxK6wCVGWwhQRWx9wM8",
+  "notation": "761-767",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

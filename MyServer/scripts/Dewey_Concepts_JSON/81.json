@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jjwKWQrjy9DxTCCW7j8Gck3b",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3FpWVXPMrgGVKwpFPrm4CBPKD",
+    "https://id.oclc.org/worldcat/ddc/E3gkvr3mhGxKrW4pJGVjHKrkrr",
+    "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf"
+  ],
+  "prefLabel": {
+    "de": "Amerikanische Literatur in Englisch",
+    "it": "Letteratura americana in inglese",
+    "no": "Amerikansk litteratur på engelsk",
+    "en": "American literature in English",
+    "sv": "Amerikansk litteratur på engelska",
+    "fr": "Littérature américaine en anglais"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "81",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48PHjFxWXH6wyJvTJV7T7Qrch",
+  "prefLabel": {
+    "it": "Lavorazione del legname, prodotti di legno, sughero",
+    "sv": "Träindustri, träprodukter, kork",
+    "fr": "Technologie du bois d'industrie, produits du bois, liège",
+    "de": "Holzverarbeitung, Holzprodukte, Kork",
+    "en": "Lumber processing, wood products, cork",
+    "no": "Trelastproduksjon, treprodukter, kork"
+  },
+  "notation": "674",
+  "modified": "2024-09-09T21:07:19Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

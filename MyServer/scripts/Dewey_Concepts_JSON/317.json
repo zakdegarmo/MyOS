@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kRbbRqfjQx66VB9qYMDbjTpg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "317",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "prefLabel": {
+    "it": "Statistiche generali del Nordamerica",
+    "fr": "Statistiques générales de l'Amérique du Nord",
+    "en": "General statistics of North America",
+    "sv": "Allmän statistik för Nordamerika",
+    "no": "Generell statistikk for Nord-Amerika",
+    "de": "Allgemeine Statistiken zu Nordamerika"
+  },
+  "type": "Concept",
+  "modified": "2025-02-03T19:58:09Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

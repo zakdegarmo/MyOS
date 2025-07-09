@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3djf9T4JWY8hd6fhQ6Dkkjqry",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36rFpd6j6FkYh8qHHHBTmJbm4",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+    "https://id.oclc.org/worldcat/ddc/E3mPTKPR33GCyhCwffJpcC4Mwf",
+    "https://id.oclc.org/worldcat/ddc/E3rxJDxkxrWFQ9VyjqwdqYW3xt"
+  ],
+  "prefLabel": {
+    "it": "Rami del diritto; leggi, regolamenti, giurisprudenza; diritto di specifiche giurisdizioni, aree, regioni socioeconomiche",
+    "en": "Branches of law; laws, regulations, cases; law of specific jurisdictions, areas, socioeconomic regions",
+    "sv": "Rättsområden; lagar, föreskrifter, rättsfall; juridik avseende särskilda jurisdiktioner, geografiska områden, socioekonomiska områden",
+    "de": "Rechtsgebiete; Gesetze, Verordnungen, Rechtsfälle; Recht einzelner Gebietskörperschaften, Gebiete, sozioökonomischer Regionen",
+    "no": "Rettsområder; lover, forskrifter, rettssaker; bestemte jurisdiksjoners, geografiske områders, sosioøkonomiske områders rett",
+    "fr": "Branches du droit ; lois, règlements, jurisprudence ; droit interne des autorités administratives, aires géographiques, régions socio-économiques particulières"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "342-349",
+  "modified": "2024-01-25T07:19:28Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

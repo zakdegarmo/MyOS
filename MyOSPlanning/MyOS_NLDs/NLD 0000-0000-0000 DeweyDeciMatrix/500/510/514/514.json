@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3v3h9WJfqqRhht7YB7wKw3vXP",
+  "prefLabel": {
+    "no": "Topologi",
+    "it": "Topologia",
+    "fr": "Topologie",
+    "de": "Topologie",
+    "sv": "Topologi",
+    "en": "Topology"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here analysis situs, homeomorphisms, homogeneous spaces, mappings"
+    ],
+    "de": [
+      "Hier auch: Analysis situs, Homöomorphismen, homogene Räume, Abbildungen"
+    ],
+    "fr": [
+      "Classer ici l’analyse situs, les espaces homogènes, les homéomorphismes, les applications"
+    ],
+    "sv": [
+      "Klassificera här analysis situs, homeomorfismer, homogena rum, avbildningar"
+    ],
+    "no": [
+      "Her: Analysis situs, homeomorfismer, homogene rom, avbildninger"
+    ],
+    "it": [
+      "Classificare qui l'analysis situs, le mappe, gli omeomorfismi, gli spazi omogenei"
+    ]
+  },
+  "notation": "514",
+  "modified": "2024-02-28T13:57:45Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

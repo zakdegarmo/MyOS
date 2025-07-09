@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RQTwTxC4QbbMy6gbkV3CKHcW",
+  "prefLabel": {
+    "de": "Amerikanische Reden in Englisch",
+    "no": "Amerikanske taler på engelsk",
+    "it": "Discorsi americani in inglese",
+    "sv": "Amerikanska tal på engelska",
+    "en": "American speeches in English",
+    "fr": "Discours américains en anglais"
+  },
+  "created": "1996-06-01",
+  "notation": "815",
+  "modified": "2017-02-01T12:23:13Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

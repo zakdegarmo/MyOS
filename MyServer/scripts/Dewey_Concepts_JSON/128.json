@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qHYQcmjM4XkVwW7gxVr7Mr7F",
+  "scopeNote": {
+    "en": [
+      "Class here philosophical anthropology; comprehensive works on philosophy of human life, on philosophy and psychology of human life"
+    ],
+    "de": [
+      "Hier auch: philosophische Anthropologie; umfassende Werke über Philosophie des menschlichen Lebens, über Philosophie und Psychologie des menschlichen Lebens"
+    ],
+    "no": [
+      "Her: Filosofisk antropologi; oversiktsverker om menneskelivets filosofi, oversiktsverker om menneskelivets filosofi og psykologi"
+    ],
+    "it": [
+      "Classificare qui l'antropologia filosofica; le opere d'insieme sulla filosofia della vita umana, su filosofia e psicologia della vita umana"
+    ],
+    "sv": [
+      "Klassificera här filosofisk antropologi; övergripande verk om filosofi om mänskligt liv, om mänskligt livs filosofi och psykologi"
+    ],
+    "fr": [
+      "Classer ici l’anthropologie philosophique ; les ouvrages généraux sur la philosophie de la vie humaine, sur la philosophie et la psychologie de la vie humaine"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Humanité (Le genre humain)",
+    "it": "Il genere umano",
+    "sv": "Mänskligheten",
+    "no": "Mennesket",
+    "de": "Menschheit",
+    "en": "Humankind"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "notation": "128",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "type": "Concept",
+  "modified": "2021-09-28T12:53:35Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kgcBfwDmfydkDvmdfvbh4hXg",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la storia naturale degli animali; la biologia descrittiva degli animali; la biologia tassonimica degli animali; la zoologia; le opere d'insieme sugli animali; le opere interdisciplinari sugli animali"
+    ],
+    "en": [
+      "Class here natural history of animals; descriptive biology of animals; taxonomic biology of animals; zoology; comprehensive works on biology of animals, interdisciplinary works on animals"
+    ],
+    "sv": [
+      "Klassificera här djurens naturhistoria; deskriptiv djurbiologi; taxonomisk djurbiologi; zoologi; övergripande verk om djurbiologi, tvärvetenskapliga verk om djur"
+    ],
+    "de": [
+      "Hier auch: Naturgeschichte von Tieren; deskriptive Biologie von Tieren; taxonomische Biologie von Tieren; Zoologie; umfassende Werke über Tierbiologie, fächerübergreifende Werke über Tiere"
+    ],
+    "fr": [
+      "Classer ici l'histoire naturelle des animaux ; la biologie descriptive des animaux ; la biologie taxinomique des animaux ; la zoologie ; les ouvrages généraux sur la biologie des animaux, les ouvrages interdisciplinaires sur les animaux"
+    ],
+    "no": [
+      "Her: Naturhistorie for dyr; deskriptiv biologi for dyr; taksonomisk biologi for dyr; zoologi; oversiktsverker om biologi for dyr, tverrfaglige verker om dyr"
+    ]
+  },
+  "type": "Concept",
+  "created": "1999-07-23",
+  "prefLabel": {
+    "no": "Dyr",
+    "en": "Animals",
+    "fr": "Animaux",
+    "de": "Tiere",
+    "it": "Animali",
+    "sv": "Djur"
+  },
+  "notation": "590",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wgvJvJ6ddXrpQPHWbMH33btF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-12T06:39:12Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

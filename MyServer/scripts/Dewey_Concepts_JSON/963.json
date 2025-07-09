@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3M9MdFJvJW8KRTyXGmPgwHXyq",
+  "prefLabel": {
+    "fr": "Éthiopie et Érythrée",
+    "it": "Etiopia ed Eritrea",
+    "sv": "Etiopien och Eritrea",
+    "en": "Ethiopia and Eritrea",
+    "no": "Etiopia og Eritrea",
+    "de": "Äthiopien und Eritrea"
+  },
+  "modified": "2024-04-25T18:16:48Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "notation": "963",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

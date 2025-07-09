@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46tyqpYBxxY3RtxHjhJMRcWRb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "it": [
+      "Include le chiese non confessionali e interconfessionali",
+      "Classificare qui la storia generale e la geografia generale, le opere d'insieme su specifiche denominazioni e sette e sulle loro singole chiese locali"
+    ],
+    "sv": [
+      "Omfattar kyrkor med fristående ställning från samfund och kyrkor med flera samfund",
+      "Klassificera här allmän historia och geografisk aspekt av, övergripande verk om särskilda samfund och sekter och deras enskilda lokala kyrkor"
+    ],
+    "en": [
+      "Class here general history and geographic treatment of, comprehensive works on specific denominations and sects and their individual local churches",
+      "Including nondenominational and interdenominational churches"
+    ],
+    "no": [
+      "Inkluderer: Kirker som er uavhengig av eller inkluderer flere trossamfunn",
+      "Her: Generell historie og geografisk behandling av, oversiktsverker om bestemte trossamfunn og sekter og deres enkelte lokale kirker"
+    ],
+    "de": [
+      "Einschließlich: nichtkonfessionelle und interkonfessionelle Kirchen",
+      "Hier auch: allgemeine Geschichte und geografische Behandlung einzelner Konfessionen und Sekten und ihrer Ortskirchen, umfassende Werke über einzelne Konfessionen und Sekten und ihre Ortskirchen"
+    ],
+    "fr": [
+      "Classer ici l'histoire générale et l'étude géographique, les ouvrages généraux sur les confessions et sectes particulières et leurs Églises locales respectives",
+      "Y compris les Églises non confessionnelles et interconfessionnelles"
+    ]
+  },
+  "prefLabel": {
+    "no": "Trossamfunn og sekter i den kristne kirke",
+    "en": "Denominations and sects of Christian church",
+    "de": "Christliche Konfessionen und Sekten",
+    "sv": "Samfund och sekter i kristna kyrkan",
+    "fr": "Confessions et sectes de l’Église chrétienne",
+    "it": "Denominazioni e sette della chiesa cristiana"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4c9X44J73BWjxgBKmFqDrq4YF",
+  "type": "Concept",
+  "notation": "280",
+  "modified": "2023-11-27T14:20:24Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

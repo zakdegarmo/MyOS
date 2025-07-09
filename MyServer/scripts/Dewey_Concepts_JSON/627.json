@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tPjwQmcxRdR8jHvRd4fcFy3g",
+  "prefLabel": {
+    "en": "Hydraulic engineering",
+    "de": "Wasserbau",
+    "no": "Vannbyggingsteknikk",
+    "fr": "Technologie hydraulique",
+    "sv": "Vattenteknik",
+    "it": "Ingegneria idraulica"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Wasserbauten, Technik der Wasserressourcen",
+      "Fachrichtung der Ingenieurwissenschaften, die sich mit Nutzung und Regelung der natürlichen Wasservorkommen der Erde beschäftigt"
+    ],
+    "it": [
+      "Classificare qui l'ingegneria delle risorse idriche, le strutture idrauliche",
+      "Il ramo dell'ingegneria che si occupa dell'utilizzazione e del controllo delle acque naturali della Terra"
+    ],
+    "en": [
+      "The branch of engineering dealing with utilization and control of natural waters of the earth",
+      "Class here hydraulic structures, water resource engineering"
+    ],
+    "sv": [
+      "Klassificera här vattenstrukturer och vattenbyggnader, vattenresursteknik",
+      "Teknikområde som behandlar utnyttjande och kontroll av jordens naturliga vatten"
+    ],
+    "no": [
+      "Her: Hydrauliske konstruksjoner, vannressursteknikk",
+      "Teknikk som behandler utnyttelse og styring av naturlig forekommende vann på jorda"
+    ],
+    "fr": [
+      "Branche du génie qui s'occupe de l'utilisation et de la régulation des cours d'eau",
+      "Classer ici les structures hydrauliques, la technologie relative aux ressources en eau"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "627",
+  "modified": "2025-06-02T11:45:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

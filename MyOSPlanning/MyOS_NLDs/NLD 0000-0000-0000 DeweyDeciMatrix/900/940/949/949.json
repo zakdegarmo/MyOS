@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yFgHB79kBmgMDvwbB8MGQRJj",
+  "notation": "949",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Other parts of Europe",
+    "it": "Altre parti d'Europa",
+    "de": "Andere Teile Europas",
+    "no": "Andre deler av Europa",
+    "fr": "Autres parties de l’Europe",
+    "sv": "Övriga delar av Europa"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "type": "Concept",
+  "modified": "2024-07-09T12:28:19Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

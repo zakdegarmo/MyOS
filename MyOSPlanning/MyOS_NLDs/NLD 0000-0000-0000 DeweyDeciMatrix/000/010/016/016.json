@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37RHGcdqTqjdd76yCdDkqTrFY",
+  "modified": "2024-07-24T12:23:51Z",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här annoterade ämnesbibliografier med deskriptiva annotationer som inte ger väsentlig ämnesinformation; index"
+    ],
+    "it": [
+      "Classificare qui le bibliografie per soggetto con annotazioni descrittive che non forniscano informazioni autosufficienti sul soggetto stesso; gli indici"
+    ],
+    "no": [
+      "Her: Annoterte emnebibliografier med beskrivende sammendrag som ikke gir vesentlig informasjon om emnet; registre"
+    ],
+    "en": [
+      "Class here annotated subject bibliographies with descriptive annotations that do not give substantive information about the subject; indexes"
+    ],
+    "fr": [
+      "Classer ici les bibliographies annotées sur un sujet comportant des annotations descriptives qui ne donnent pas d’information substantielle sur le sujet ; les index"
+    ],
+    "de": [
+      "Hier auch: Fach- und Sachkataloge, Fach- und Sachbibliografien; annotierte Fachbibliografien mit formalen Angaben ohne substanzielle Informationen zum Fachgebiet; Register"
+    ]
+  },
+  "prefLabel": {
+    "it": "Bibliografie e cataloghi di opere su soggetti specifici",
+    "fr": "Bibliographies et catalogues d'ouvrages sur des sujets particuliers",
+    "en": "Bibliographies and catalogs of works on specific subjects",
+    "no": "Bibliografier og kataloger over verker om bestemte emner",
+    "de": "Bibliografien und Kataloge von Werken über einzelne Themen",
+    "sv": "Bibliografier och kataloger över verk om särskilda ämnen"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "016",
+  "created": "1998-10-28",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvdMgWGjDhmXKp89t3GPCtW6",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

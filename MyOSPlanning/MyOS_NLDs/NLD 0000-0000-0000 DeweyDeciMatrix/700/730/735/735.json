@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hpc9RtJbtMfh8m9yTgt4dYcV",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här modern skulptur"
+    ],
+    "it": [
+      "Classificare qui la scultura moderna"
+    ],
+    "no": [
+      "Her: Nyere tids skulptur"
+    ],
+    "de": [
+      "Hier auch: moderne Bildhauerkunst"
+    ],
+    "fr": [
+      "Classer ici la sculpture moderne"
+    ],
+    "en": [
+      "Class here modern sculpture"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Scultura dopo il 1400",
+    "fr": "Sculpture, 1400–",
+    "en": "Sculpture from 1400",
+    "sv": "Skulptur från 1400",
+    "no": "Skulptur fra 1400",
+    "de": "Bildhauerkunst ab 1400"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GQ3HjPCbxXTJVJ4HjcyBvt6V",
+  "modified": "2021-06-29T07:51:22Z",
+  "notation": "735",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

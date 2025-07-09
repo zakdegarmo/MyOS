@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47pq7k7cPmrwFWkvWq6XJBhkm",
+  "prefLabel": {
+    "fr": "Correspondance italienne",
+    "en": "Italian letters",
+    "sv": "Italienska brev",
+    "de": "Italienische Briefe",
+    "no": "Italienske brev",
+    "it": "Epistolografia italiana"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-12-09T13:43:37Z",
+  "notation": "856",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

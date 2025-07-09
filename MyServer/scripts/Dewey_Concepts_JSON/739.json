@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JjyR6kqxrdmJFmXwyhGbhQmt",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvGqTqYYvbrqj9QW8HGHKkQJ",
+  "prefLabel": {
+    "en": "Art metalwork",
+    "de": "Metallkunst",
+    "it": "Arti dei metalli",
+    "no": "Metallkunst",
+    "fr": "Arts du métal",
+    "sv": "Metallkonst"
+  },
+  "notation": "739",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-04-10T17:37:42Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

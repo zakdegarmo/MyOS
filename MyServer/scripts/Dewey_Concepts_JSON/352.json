@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FygWJqbjgxwMGCQyrrWyfTKf",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Allgemeines zur öffentlichen Verwaltung, das zwei oder mehr staatliche Gewalten betrifft, z.B. Finanzverwaltung der Legislative und Judikative 352.4"
+    ],
+    "sv": [
+      "Klassificera här allmänt om offentlig förvaltning tillämpad på två eller flera maktinstanser, t.ex. ekonomisk förvaltning inom den lagstiftande makten och inom den dömande makten 352.4"
+    ],
+    "en": [
+      "Class here general considerations of public administration applying to two or more branches of government, e.g., financial administration of the legislative and judicial branches 352.4"
+    ],
+    "it": [
+      "Classificare qui le considerazioni generali di amministrazione pubblica applicate a due o più poteri dello stato, p.e., amministrazione finanziaria dei poteri giudiziario e legislativo 352.4"
+    ],
+    "no": [
+      "Her: Generelle forhold ved offentlig administrasjon som gjelder to eller flere statsmakter (utøvende, dømmende, lovgivende), f.eks. finansadministrasjon av lovgivende og dømmende myndigheter 352.4"
+    ],
+    "fr": [
+      "Classer ici les considérations générales de l’administration publique relatives à plusieurs pouvoirs, ex. : administration financière des pouvoirs législatif et judiciaire, 352.4"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "General considerations of public administration",
+    "de": "Allgemeines zur öffentlichen Verwaltung",
+    "sv": "Allmänt om offentlig förvaltning",
+    "fr": "Considérations générales de l’administration publique",
+    "no": "Generelle forhold ved offentlig administrasjon",
+    "it": "Considerazioni generali di amministrazione pubblica"
+  },
+  "notation": "352",
+  "created": "1996-06-01",
+  "modified": "2024-09-27T17:19:10Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mCRMyvKtph7kTXXXVcWGTgFx",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

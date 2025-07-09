@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pfWXCDPrPjfm7t3d7v3MDyhx",
+  "prefLabel": {
+    "en": "[Unassigned]",
+    "no": "[Ubenyttet]",
+    "fr": "[Vacant]",
+    "de": "[Unbesetzt]",
+    "it": "[Non assegnato]",
+    "sv": "[Vakant]"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "377",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

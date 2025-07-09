@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qgJqMFvVc7gbmv4hGrGd9qWV",
+  "prefLabel": {
+    "fr": "Publications en série d’ordre général en d’autres langues",
+    "sv": "Allmänna seriella resurser på övriga språk",
+    "no": "Generelle periodika på andre språk",
+    "de": "Allgemeine fortlaufende Sammelwerke in anderen Sprachen",
+    "en": "General serial publications in other languages",
+    "it": "Seriali generali in altre lingue"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "type": "Concept",
+  "notation": "059",
+  "modified": "2017-12-16T20:54:34Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

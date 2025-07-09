@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CkjkpFmTCc8Bkv36Tp7YGQxk",
+  "prefLabel": {
+    "en": "General organizations in Spain, Andorra, Gibraltar, Portugal",
+    "no": "Generelle organisasjoner i Spania, Andorra, Gibraltar, Portugal",
+    "it": "Organizzazioni generali in Spagna, Andorra, Gibilterra, Portogallo",
+    "de": "Allgemeine Organisationen in Spanien, Andorra, Gibraltar, Portugal",
+    "sv": "Allmänna organisationer i Spanien, Andorra, Gibraltar, Portugal",
+    "fr": "Organisations générales en Espagne, à Andorre, à Gibraltar, au Portugal"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "066",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

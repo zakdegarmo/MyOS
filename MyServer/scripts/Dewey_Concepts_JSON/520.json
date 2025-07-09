@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rjtqtJwbWHQRDx4D7cT9KY4F",
+  "prefLabel": {
+    "it": "Astronomia e scienze connesse",
+    "no": "Astronomi og beslektede vitenskaper",
+    "fr": "Astronomie et sciences connexes",
+    "en": "Astronomy and allied sciences",
+    "sv": "Astronomi och angränsande vetenskaper",
+    "de": "Astronomie und zugeordnete Wissenschaften"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "520",
+  "modified": "2025-04-28T03:52:04Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

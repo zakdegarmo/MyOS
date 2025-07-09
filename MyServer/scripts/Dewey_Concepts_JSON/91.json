@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xyrDdqvYkypcHBGhvq7c9rDm",
+  "prefLabel": {
+    "no": "Geografi og reiser",
+    "it": "Geografia e viaggi",
+    "en": "Geography & travel",
+    "sv": "Geografi & resor",
+    "de": "Geografie & Reisen",
+    "fr": "Géographie et voyages"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3YGGCtTtXyg7Mg6vy3t8JXH3B",
+    "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+    "https://id.oclc.org/worldcat/ddc/E3rVMdbJHYhYBfKJdm9VxFv3qh",
+    "https://id.oclc.org/worldcat/ddc/E3YxcggDV6j77RfJ6jJmhMkmdw"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XJ693tPgQQM7bhtXhgWVTVbb",
+  "created": "1996-06-01",
+  "notation": "91",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

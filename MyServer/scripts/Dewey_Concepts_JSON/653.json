@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wqmHmBpwVy3dJ9kX4PbBhMM4",
+  "prefLabel": {
+    "no": "Stenografi",
+    "fr": "Écriture abrégée",
+    "sv": "Stenografi",
+    "it": "Stenografia",
+    "de": "Stenografie",
+    "en": "Shorthand"
+  },
+  "notation": "653",
+  "modified": "2024-10-04T00:45:44Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44TH3jMWWYyXdKMqhPkjhVR4F",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

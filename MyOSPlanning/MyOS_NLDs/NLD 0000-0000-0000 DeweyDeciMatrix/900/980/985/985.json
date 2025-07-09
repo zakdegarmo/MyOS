@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E373h98JtypygwwR8f7dHMKwdQ",
+  "prefLabel": {
+    "it": "Perù",
+    "sv": "Peru",
+    "no": "Peru",
+    "de": "Peru",
+    "fr": "Pérou",
+    "en": "Peru"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2023-01-17T19:01:19Z",
+  "notation": "985",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

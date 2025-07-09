@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kqqHk3G9VRjpHK6V7VfYqPd6",
+  "prefLabel": {
+    "de": "Kritizismus",
+    "fr": "Philosophie critique",
+    "en": "Critical philosophy",
+    "it": "Filosofia critica",
+    "sv": "Kritisk filosofi",
+    "no": "Kritisk filosofi"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-12-07T09:57:01Z",
+  "type": "Concept",
+  "notation": "142",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

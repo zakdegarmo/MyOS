@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vDwHWDmyfvmhFkkXmVXmXHxM",
+  "scopeNote": {
+    "fr": [
+      "Y compris les alphabets, les idéogrammes, les syllabaires ; le braille ; les abréviations, les acronymes, l’usage des majuscules, la ponctuation, l’orthographe, la translittération"
+    ],
+    "en": [
+      "Including alphabets, ideographs, syllabaries; braille; abbreviations, acronyms, capitalization, punctuation, spelling, transliteration"
+    ],
+    "it": [
+      "Include gli alfabeti, gli ideogrammi, i sillabogrammi; il braille; le abbreviazioni, gli acronimi, la grafia, la punteggiatura, la traslitterazione, l'uso delle maiuscole"
+    ],
+    "no": [
+      "Inkluderer: Alfabeter, ideografisk skrift (bildeskrift), stavelsesskrift; blindeskrift (punktskrift, braille); forkortelser, akronymer, bruk av store bokstaver, tegnsetting, rettskrivning, translitterasjon"
+    ],
+    "sv": [
+      "Omfattar alfabet, ideogram, stavelseskrift; punktskrift (braille); förkortningar, akronymer, versaler, interpunktion, stavning, translitteration, transkription"
+    ],
+    "de": [
+      "Einschließlich: Alphabete, Ideogramme, Syllabare (Silbentabellen); Blindenschrift; Abkürzungen, Akronyme, Symbole; Groß- und Kleinschreibung, Zeichensetzung, Rechtschreibung, Transliteration"
+    ]
+  },
+  "prefLabel": {
+    "de": "Schriftsysteme der Standardformen von Sprachen",
+    "no": "Standardspråkets skriftsystemer",
+    "en": "Writing systems of standard forms of languages",
+    "sv": "Skriftsystem gällande språkens standardformer",
+    "it": "Sistemi di scrittura delle forme standard delle lingue",
+    "fr": "Systèmes d’écriture des formes standard des langues"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "modified": "2024-09-27T07:47:04Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "411",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

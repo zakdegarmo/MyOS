@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49MRTy8JqTCtrRV3qXj3pXpKx",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la coscienza di sé di una persona, l'identità personale, la personalità",
+      "Solo i soggetti enunciati qui di seguito"
+    ],
+    "fr": [
+      "Indice limité aux sujets ci-dessous",
+      "Classer ici la conscience de soi comme personne, l'identité personnelle, la personnalité, la personne humaine"
+    ],
+    "sv": [
+      "Begränsad till de ämnen som nämns nedan",
+      "Klassificera här medvetandet om sig själv som person, personlig identitet, personlighet, personhood"
+    ],
+    "de": [
+      "Hier auch: Bewusstsein des eigenen Selbst als Person, persönliche Identität, Persönlichkeit, Personsein",
+      "Begrenzt auf die nachfolgend genannten Themen"
+    ],
+    "en": [
+      "Limited to topics named below",
+      "Class here consciousness of self as person, personal identity, personality, personhood"
+    ],
+    "no": [
+      "Her: Bevissthet om selvet som person, personlig identitet, personlighet, begrepet person",
+      "Begrenset til emnene som er nevnt under"
+    ]
+  },
+  "prefLabel": {
+    "no": "Selvet",
+    "sv": "Jaget",
+    "de": "Das Selbst",
+    "en": "The self",
+    "fr": "Le moi",
+    "it": "L'io"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "126",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

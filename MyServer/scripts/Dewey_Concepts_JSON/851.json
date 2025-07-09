@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wmfv8KMcktwYK3qCkhpHH6Tc",
+  "type": "Concept",
+  "modified": "2021-12-27T20:44:43Z",
+  "prefLabel": {
+    "fr": "Poésie italienne",
+    "no": "Italiensk poesi",
+    "it": "Poesia italiana",
+    "sv": "Italiensk poesi",
+    "en": "Italian poetry",
+    "de": "Italienische Versdichtung"
+  },
+  "notation": "851",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

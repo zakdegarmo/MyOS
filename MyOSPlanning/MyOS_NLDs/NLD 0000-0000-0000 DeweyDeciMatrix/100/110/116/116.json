@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ChxhT4JM99DVWPtYQjXhFBK9",
+  "scopeNote": {
+    "fr": [
+      "Y compris le devenir, les cycles, l’évolution, le mouvement, le processus"
+    ],
+    "sv": [
+      "Omfattar blivande, cykler, evolution, rörelse, process"
+    ],
+    "no": [
+      "Inkluderer: Tilblivelse, sykluser, utvikling, bevegelse, prosess"
+    ],
+    "en": [
+      "Including becoming, cycles, evolution, motion, process"
+    ],
+    "de": [
+      "Einschließlich: Werden, Zyklen, Evolution, Bewegung, Prozess"
+    ],
+    "it": [
+      "Include i cicli, il divenire, l'evoluzione, il moto, il processo"
+    ]
+  },
+  "prefLabel": {
+    "it": "Mutamento",
+    "sv": "Förändring",
+    "de": "Veränderung",
+    "fr": "Changement",
+    "no": "Forandring",
+    "en": "Change"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "type": "Concept",
+  "modified": "2024-11-02T00:44:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "116",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44yh3YtrxfKGM8fwdj4k8r7RY",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Predigttexte",
+    "it": "Testi di sermoni",
+    "sv": "Texter med predikningar",
+    "fr": "Textes de sermons (homélies)",
+    "en": "Texts of sermons",
+    "no": "Tekster til prekener"
+  },
+  "modified": "2023-06-20T12:35:15Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T4W9fr4KQg3d34fdjpDCQg3B",
+  "notation": "252",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

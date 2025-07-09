@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mwpYwmw6KXBpcRwmjcDhCmKg",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le minoranze; le culture e le istituzioni di specifici gruppi; le subculture di specifici gruppi; i gruppi di presa di coscienza; i problemi, il ruolo, lo status sociale di specifici gruppi; l'identità  di gruppo, l'identità sociale; la discriminazione; la stratificazione sociale, l'eguaglianza, l'ineguaglianza sociale, l'interazione tra uno specifico gruppo e altri gruppi"
+    ],
+    "fr": [
+      "Classer ici les minorités ; la culture et les institutions des groupes particuliers ; les sous-cultures des groupes particuliers ; les groupes de sensibilisation ; les problèmes, le rôle, le statut social des groupes particuliers ;\nla représentation d'un groupe particulier dans les médias ; l'identité collective, l'identité sociale ; la discrimination ; la stratification sociale, l’égalité, l’inégalité ; les interactions entre un groupe particulier et les autres groupes"
+    ],
+    "de": [
+      "Hier auch: Minderheiten; Kultur und Institutionen einzelner Gruppen; Subkulturen einzelner Gruppen; bewusstseinsbildende Gruppen; Darstellung einer einzelnen Gruppe in den Massenmedien; Probleme, Rolle, sozialer Status einzelner Gruppen; Gruppenidentität, soziale Identität; Diskriminierung; soziale Schichtung, Gleichheit, Ungleichheit; Interaktionen zwischen einer einzelnen Gruppe und anderen Gruppen"
+    ],
+    "no": [
+      "Her: Minoriteter; kultur og institusjoner som gjelder bestemte grupper; subkulturer som gjelder bestemte grupper; bevisstgjøringsgrupper; bestemte gruppers problemer, roller, sosial status; massemedias skildring av bestemte grupper; kollektiv identitet, sosial identitet; diskriminering; sosial lagdeling, likhet, ulikhet; interaksjon mellom en bestemt gruppe og andre grupper"
+    ],
+    "en": [
+      "Class here minorities; culture and institutions of specific groups; subcultures of specific groups; consciousness-raising groups; problems, role, social status of specific groups; portrayal of a specific group in mass media; group identity, social identity; discrimination; social stratification, equality, inequality; interactions between a specific group and other groups"
+    ],
+    "sv": [
+      "Klassificera här minoriteter; särskilda gruppers kultur och institutioner; särskilda gruppers subkulturer; medvetandegörande grupper; särskilda gruppers problem, roller, status, gruppidentitet, social identitet; diskriminering; social stratifiering, jämlikhet, ojämlikhet; interaktion mellan en särskild grupp och andra grupper"
+    ]
+  },
+  "modified": "2025-03-30T18:49:49Z",
+  "prefLabel": {
+    "fr": "Groupes de personnes",
+    "sv": "Grupper",
+    "en": "Groups of people",
+    "it": "Gruppi di persone",
+    "de": "Personengruppen",
+    "no": "Persongrupper"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+  "created": "2000-02-02",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "305",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

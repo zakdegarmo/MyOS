@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gYhYC8TGQBMjxXhjXVrr4K3j",
+  "notation": "175",
+  "prefLabel": {
+    "fr": "Morale en matière de loisir, de temps libre, de représentations publiques, de communication",
+    "it": "Etica delle attività ricreative, del tempo libero, degli spettacoli, della comunicazione",
+    "en": "Ethics of recreation, leisure, public performances, communication",
+    "de": "Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation",
+    "sv": "Etik gällande fritid, avkoppling, publika framträdanden, kommunikation",
+    "no": "Etikk vedrørende fritidsaktiviteter, fritid, offentlige opptredener, kommunikasjon"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Y compris l’éthique professionnelle des personnes travaillant dans le secteur des loisirs ; la morale en matière de danse, de jeux d'argent, de musique, de télévision ; l'esprit sportif, le fair-play"
+    ],
+    "de": [
+      "Einschließlich: Berufsethik für Personen, die in der Freizeit- und Erholungsindustrie tätig sind [früher 174 ]; Ethik von Tanz, Glücksspiel, Musik, Fernsehen; Fairness, Fairplay, sportliches Verhalten"
+    ],
+    "it": [
+      "Include l'etica professionale di chi opera nell'industria delle attività ricreative; l'etica del ballo, del gioco d'azzardo, della musica, della televisione; la sportività, la lealtà nel gioco"
+    ],
+    "no": [
+      "Inkluderer: Yrkesetikk for profesjonelle innen fritidsvirksomhet; etikk vedrørende dans, gambling, musikk, fjernsyn; fair play, sportsånd"
+    ],
+    "en": [
+      "Including occupational ethics for those involved in the recreation industry; ethics of dancing, gambling, music, television; fair play, sportsmanship"
+    ],
+    "sv": [
+      "Omfattar yrkesetik för nöjesindustrin;  etik gällande dans, spel om pengar, musik, television; rent spel, sportsmannaanda"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "modified": "2024-12-12T18:25:25Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

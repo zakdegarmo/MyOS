@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WfyTCXCgJwT4PvGqKc38jrJQ",
+  "notation": "944",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "France et Monaco",
+    "sv": "Frankrike och Monaco",
+    "no": "Frankrike og Monaco",
+    "en": "France and Monaco",
+    "it": "Francia e Principato di Monaco",
+    "de": "Frankreich und Monaco"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-26T18:29:23Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

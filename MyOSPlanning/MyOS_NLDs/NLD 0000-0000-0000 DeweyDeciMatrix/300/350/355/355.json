@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FyYKT4rm3Kxd7TQ6KycQ6XBp",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le forze e i servizi armati, le forze e i servizi terrestri"
+    ],
+    "no": [
+      "Her: Bakkestyrker, militære styrker, væpnede styrker"
+    ],
+    "en": [
+      "Class here armed forces and services, ground forces and services"
+    ],
+    "sv": [
+      "Klassificera här väpnade styrkor och tjänster, markstyrkor och marktjänster"
+    ],
+    "fr": [
+      "Classer ici les forces militaires et les services armés en général, les forces et les services terrestres"
+    ],
+    "de": [
+      "Hier auch: Streitkräfte, Landstreitkräfte"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Militärvetenskap (krigsvetenskap)",
+    "de": "Militärwissenschaft",
+    "en": "Military science",
+    "it": "Scienza militare",
+    "fr": "Science militaire",
+    "no": "Militærvitenskap"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "355",
+  "modified": "2025-06-04T11:17:55Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JxVrbXdqDFDBJ6RPKCjQTQjF",
+  "prefLabel": {
+    "fr": "Ecclésiologie",
+    "en": "Ecclesiology",
+    "de": "Ekklesiologie",
+    "sv": "Ecklesiologi",
+    "it": "Ecclesiologia",
+    "no": "Ekklesiologi"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here ecclesiastical polity",
+      "Church government, organization, nature"
+    ],
+    "sv": [
+      "Kyrkoadministration, kyrkoorganisation, kyrkans väsen",
+      "Klassificera här kyrkoförfattning"
+    ],
+    "fr": [
+      "Classer ici la gouvernance ecclésiastique",
+      "Gouvernement, organisation, nature de l’Église"
+    ],
+    "de": [
+      "Kirchenleitung, Kirchenorganisation, Wesen der Kirche",
+      "Hier auch: Kirchenverfassung"
+    ],
+    "it": [
+      "Governo, organizzazione, natura della chiesa",
+      "Classificare qui la politica ecclesiastica"
+    ],
+    "no": [
+      "Her: Kirkeforfatning",
+      "Kirkens organisasjon, ledelse, vesen"
+    ]
+  },
+  "notation": "262",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-07-04T19:51:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

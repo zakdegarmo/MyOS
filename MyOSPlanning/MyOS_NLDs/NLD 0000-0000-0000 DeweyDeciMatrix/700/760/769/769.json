@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cKxDp7TvcfcMkVTg3FjjPrhf",
+  "scopeNote": {
+    "no": [
+      "Verker framstilt ved bruk av trykkplate, blokk eller silkeramme",
+      "Her: Beskrivelse, kritisk vurdering, samlinger uansett framstillingsprosess"
+    ],
+    "sv": [
+      "Verk framställda med hjälp av klichéer, skärmar, eller tryckplåtar",
+      "Klassificera här beskrivning, kritik, samlingar oavsett teknik"
+    ],
+    "it": [
+      "Classificare qui la descrizione, lo studio critico, le raccolte, senza tener conto del procedimento",
+      "Opere prodotte con una matrice, un tessuto reticolare o una lastra"
+    ],
+    "de": [
+      "Unter Verwendung einer Druckform (Druckstock, Klischee, Raster, Druckplatte) hergestellte Druckerzeugnisse",
+      "Hier auch: Darstellung, kritische Bewertung, Sammlungen ungeachtet des Verfahrens"
+    ],
+    "fr": [
+      "Œuvres produites au moyen d’un cliché, d’une trame ou d’une planche",
+      "Classer ici l’analyse, la critique, les recueils sans tenir compte du procédé d’impression"
+    ],
+    "en": [
+      "Works produced using a printing block, screen, or plate",
+      "Class here description, critical appraisal, collections regardless of process"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Stampe",
+    "fr": "Estampes",
+    "no": "Grafiske trykk",
+    "sv": "Grafiska tryck",
+    "de": "Drucke",
+    "en": "Prints"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E33wrjJkxK6wCVGWwhQRWx9wM8",
+  "modified": "2023-01-24T08:59:21Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "769",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

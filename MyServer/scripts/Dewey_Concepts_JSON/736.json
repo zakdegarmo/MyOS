@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wqPrjv8CYbprRqvXJDtrW6c7",
+  "notation": "736",
+  "prefLabel": {
+    "en": "Carving and carvings",
+    "fr": "Sculpture en arts décoratifs et sculptures décoratives",
+    "sv": "Snideri och snidade föremål",
+    "de": "Schnitzen und Schnitzereien",
+    "it": "Intaglio e intagli",
+    "no": "Utskjæring og utskjæringer"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvGqTqYYvbrqj9QW8HGHKkQJ",
+  "modified": "2024-08-15T04:32:56Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

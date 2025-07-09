@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DVgy7QM4m9pGtFXQdPfMwK8b",
+  "prefLabel": {
+    "de": "Familienethik",
+    "fr": "Morale en matière de relations familiales",
+    "no": "Familieetikk",
+    "en": "Ethics of family relationships",
+    "sv": "Familjeetik",
+    "it": "Etica delle relazioni familiari"
+  },
+  "scopeNote": {
+    "fr": [
+      "Y compris la morale en matière de mariage, de divorce, de séparation, de relations parents-enfants, de relations entre les enfants d'une même famille",
+      "Sans tenir compte du statut juridique de la famille"
+    ],
+    "de": [
+      "Einschließlich: Ethik von Ehe, Scheidung, Trennung, Eltern-Kind-Beziehungen, Geschwisterbeziehung",
+      "Unabhängig vom Rechtsstatus der Familie"
+    ],
+    "en": [
+      "Regardless of legal status of family",
+      "Including ethics of marriage, divorce, separation, parent-child relationships, sibling relationships"
+    ],
+    "no": [
+      "Inkluderer: Etikk vedrørende ekteskap, skilsmisse, separasjon, forholdet foreldre-barn, søskenforhold",
+      "Uten hensyn til familiers rettsstilling"
+    ],
+    "it": [
+      "Senza tener conto della condizione legale della famiglia",
+      "Include l'etica del matrimonio, del divorzio, della separazione, delle relazioni tra genitori e figli, delle relazioni tra fratelli"
+    ],
+    "sv": [
+      "Omfattar äktenskapsetik, skilsmässa, separation, relationer mellan föräldrar och barn, syskonrelationer",
+      "Oavsett familjens juridiska status"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2024-02-09T08:24:13Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "notation": "173",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

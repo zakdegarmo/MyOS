@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Vj3FMPhHTmDbpMHwFX4MV38k",
+  "prefLabel": {
+    "no": "Metallarbeidsprosesser og primærmetallprodukter",
+    "sv": "Metallbearbetningsprocesser och metallhalvfabrikat",
+    "it": "Lavorazione dei metalli e prodotti metallici primari",
+    "de": "Metallverarbeitung und Rohprodukte aus Metall",
+    "fr": "Travail des métaux et produits métalliques semi-finis",
+    "en": "Metalworking processes and primary metal products"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "type": "Concept",
+  "notation": "671",
+  "modified": "2024-12-06T21:31:26Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

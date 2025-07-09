@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gCHYgrF4jgGHxDjpJ97cKMxK",
+  "notation": "643",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Bostäder och hushållsutrustning",
+    "no": "Boliger og husholdningsutstyr",
+    "en": "Housing and household equipment",
+    "de": "Wohnen und Haushaltsausstattung",
+    "fr": "Logement et équipement ménager",
+    "it": "Alloggi e loro attrezzature"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Ouvrages pour les propriétaires-occupants ou les locataires exécutant eux-mêmes les travaux"
+    ],
+    "sv": [
+      "Verk om hushållsaktiviteter som riktar sig till bostadsägare eller hyresgäster och medlemmar i deras hushåll"
+    ],
+    "en": [
+      "Works for owner-occupants or renters covering activities of members of household"
+    ],
+    "no": [
+      "Verker for selveiere eller er leietakere, og som omhandler deres aktiviteter"
+    ],
+    "de": [
+      "Werke für Eigennutzer oder Mieter über Arbeiten von Haushaltsmitgliedern"
+    ],
+    "it": [
+      "Opere per proprietari o inquilini relative ad attività svolte da membri della famiglia"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "modified": "2025-03-27T09:18:32Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bhxytxxTBBgR8TYBFxd9BGcB",
+  "prefLabel": {
+    "en": "French humor and satire",
+    "fr": "Humour et satire français",
+    "sv": "Fransk humor och satir",
+    "de": "Französischer Humor und französische Satire",
+    "it": "Satira e umorismo francese",
+    "no": "Fransk humor og satire"
+  },
+  "created": "1996-06-01",
+  "modified": "2021-08-17T10:12:54Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "notation": "847",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

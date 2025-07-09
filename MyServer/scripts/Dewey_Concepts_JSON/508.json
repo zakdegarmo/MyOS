@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3k7rwgjH4cQyXmhppRKbcJhwf",
+  "prefLabel": {
+    "fr": "Histoire naturelle",
+    "de": "Naturgeschichte",
+    "en": "Natural history",
+    "no": "Naturhistorie",
+    "it": "Storia naturale",
+    "sv": "Naturhistoria"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui la descrizione e l'indagine dei fenomeni naturali"
+    ],
+    "sv": [
+      "Klassificera här beskrivning och översikter av naturfenomen"
+    ],
+    "en": [
+      "Class here description and surveys of phenomena in nature"
+    ],
+    "fr": [
+      "Classer ici l’analyse et les relevés scientifiques des phénomènes de la nature"
+    ],
+    "no": [
+      "Her: Beskrivelser og undersøkelser av naturfenomener"
+    ],
+    "de": [
+      "Hier auch: Beschreibung und Untersuchung von Naturphänomenen"
+    ]
+  },
+  "type": "Concept",
+  "notation": "508",
+  "modified": "2022-12-01T07:13:38Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

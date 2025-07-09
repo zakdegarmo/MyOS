@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RWCDgDMgPm8RXrtK8RwmxmPR",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Humour et satire espagnols",
+    "en": "Spanish humor and satire",
+    "no": "Spansk humor og satire",
+    "it": "Satira e umorismo spagnolo",
+    "sv": "Spansk humor och satir",
+    "de": "Spanischer Humor und spanische Satire"
+  },
+  "modified": "2025-04-08T04:48:37Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "867",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vhG9tbTjcVFgx7fHfw3RHKKp",
+  "scopeNote": {
+    "de": [
+      "Heilige Schriften des Judentums und des Christentums"
+    ],
+    "no": [
+      "Kristendommens og jødedommens hellige skrifter"
+    ],
+    "sv": [
+      "Judendomens och kristendomens heliga skrifter"
+    ],
+    "fr": [
+      "Écritures saintes du judaïsme et du christianisme"
+    ],
+    "en": [
+      "Holy Scriptures of Judaism and Christianity"
+    ],
+    "it": [
+      "Scritture sacre dell'ebraismo e del cristianesimo"
+    ]
+  },
+  "prefLabel": {
+    "no": "Bibelen",
+    "it": "Bibbia",
+    "en": "Bible",
+    "sv": "Bibeln",
+    "fr": "La Bible",
+    "de": "Bibel"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "220",
+  "modified": "2023-06-02T11:22:06Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vY8Mp4b8cGGJh3JBRhfrmFYt",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

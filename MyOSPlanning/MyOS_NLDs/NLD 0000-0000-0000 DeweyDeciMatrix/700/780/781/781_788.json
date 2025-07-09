@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48gbD63Gd44m4cH48wCwrwfHq",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3KXx96BYkm4bdCf8vGJWMjdQp",
+    "https://id.oclc.org/worldcat/ddc/E3km7RXBV3JTKMcdJvGhWDvvD3",
+    "https://id.oclc.org/worldcat/ddc/E3CCB8wxMWHKGxyfPDqDvF46hw",
+    "https://id.oclc.org/worldcat/ddc/E3wc7dGK8qYKhgcwPRwWyj93vw"
+  ],
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la musica di tutte le tradizioni"
+    ],
+    "no": [
+      "Her: Musikk av alle tradisjoner og typer"
+    ],
+    "de": [
+      "Hier auch: Musik aller Traditionen"
+    ],
+    "fr": [
+      "Classer ici la musique de toutes traditions"
+    ],
+    "sv": [
+      "Klassificera här alla musiktraditioner"
+    ],
+    "en": [
+      "Class here music of all traditions"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WHJrC7hmK6J6Ytq6PRCH3f7j",
+  "prefLabel": {
+    "en": "Principles, forms, ensembles, voices, instruments",
+    "sv": "Principer, former, ensembler, röster, instrument",
+    "it": "Principî, forme, complessi, voci, strumenti",
+    "de": "Prinzipien, Formen, Ensembles, Stimmen, Instrumente",
+    "no": "Prinsipper, former, ensembler, stemmer, instrumenter",
+    "fr": "Principes, formes, ensembles, voix, instruments"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "notation": "781-788",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3v777kD3XhhQ9c4CgYWDRvjxT",
+  "modified": "2024-07-16T11:39:35Z",
+  "created": "1998-10-23",
+  "prefLabel": {
+    "no": "Bestemte teknikker; apparater, utstyr, materialer",
+    "sv": "Särskilda tekniker; apparatur, utrustning, material",
+    "en": "Specific techniques; apparatus, equipment, materials",
+    "it": "Specifiche tecniche; apparecchi, attrezzature, materiali",
+    "de": "Einzelne landwirtschaftliche Techniken; Geräte, Ausstattung, Materialien",
+    "fr": "Techniques particulières ; appareils, équipement, matériel"
+  },
+  "scopeNote": {
+    "en": [
+      "Topics common to plant and animal husbandry or limited to plant culture"
+    ],
+    "de": [
+      "Themen, die sowohl im Ackerbau als auch in der Viehwirtschaft behandelt werden oder auf Pflanzenbau begrenzt sind"
+    ],
+    "no": [
+      "Emner som er vanlige innen plantedyrking og husdyrhold, eller som er begrenset til plantedyrking"
+    ],
+    "it": [
+      "Soggetti comuni alla coltura di piante e all'allevamento di animali o limitati alla coltura di piante"
+    ],
+    "sv": [
+      "Ämnen som är vanligt förekommande inom växtodling och djurhållning eller endast inom växtodling"
+    ],
+    "fr": [
+      "Sujets communs à la culture des plantes et à l’élevage ou limités à la culture des plantes"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "631",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

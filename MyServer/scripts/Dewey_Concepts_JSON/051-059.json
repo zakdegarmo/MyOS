@@ -1,0 +1,55 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "prefLabel": {
+    "it": "Seriali generali in specifiche lingue e famiglie linguistiche",
+    "sv": "Allmänna seriella resurser på särskilda språk och språkfamiljer",
+    "no": "Generelle periodika på bestemte språk og språkgrupper",
+    "de": "Allgemeine fortlaufende Sammelwerke in einzelnen Sprachen und Sprachfamilien",
+    "en": "General serial publications in specific languages and language families",
+    "fr": "Publications en série d’ordre général dans les langues et dans les familles de langues particulières"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här särskilda seriella resurser och verk om dem",
+      "Enligt det språk på vilket de ursprungligen skrevs"
+    ],
+    "en": [
+      "Class here specific serial publications and works about them",
+      "By language in which originally written"
+    ],
+    "de": [
+      "Hier auch: einzelne fortlaufende Sammelwerke und Werke darüber",
+      "Nach der Sprache, in der sie ursprünglich verfasst wurden"
+    ],
+    "fr": [
+      "Classer ici les publications en série particulières et les ouvrages à leur sujet",
+      "Selon la langue originale"
+    ],
+    "no": [
+      "Her: Bestemte periodika og verker om disse",
+      "Inndeles etter originalspråk"
+    ],
+    "it": [
+      "Secondo la lingua originale",
+      "Classificare qui gli specifici seriali e le opere che li studiano"
+    ]
+  },
+  "notation": "051-059",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3pf4p4RkFxXbrPCvtXqw4gWFB",
+    "https://id.oclc.org/worldcat/ddc/E3jK44J3v7YhH3Btj3qtC7Hh9q",
+    "https://id.oclc.org/worldcat/ddc/E3CKK4x9pDV7WbHHYJmDyF9Rfv",
+    "https://id.oclc.org/worldcat/ddc/E3MMwQVHP8KxR6kW47R6PC8r8Y",
+    "https://id.oclc.org/worldcat/ddc/E3vDcKK33THyppxFHwHY4pcFb3",
+    "https://id.oclc.org/worldcat/ddc/E3QFmDgW7vMXHmpvp7MFyqJPyC",
+    "https://id.oclc.org/worldcat/ddc/E44fgf373HyTgH39CdjQvVjVPc",
+    "https://id.oclc.org/worldcat/ddc/E3qgJqMFvVc7gbmv4hGrGd9qWV",
+    "https://id.oclc.org/worldcat/ddc/E3PfQPmKx7kR77CQjMRf3dcq9m"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XMCKd4QBDgfjyFKfMBRkVgfq",
+  "type": "Concept",
+  "modified": "2021-03-01T15:08:05Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

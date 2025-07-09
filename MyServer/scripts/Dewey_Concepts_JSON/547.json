@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qjRqVKXQBDCVQf93XJG6DkC6",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les produits biochimiques considérés hors de leur contexte biologique"
+    ],
+    "it": [
+      "Classificare qui le sostanze biochimiche se non considerate nel loro contesto biologico"
+    ],
+    "en": [
+      "Class here biochemicals when not considered in their biological context"
+    ],
+    "de": [
+      "Hier auch: Biochemikalien, wenn sie nicht in ihrem biologischen Kontext betrachtet werden"
+    ],
+    "sv": [
+      "Klassificera här biokemikalier när de inte behandlas i sitt biologiska sammanhang"
+    ],
+    "no": [
+      "Her: Biokjemikalier når disse behandles utenfor sin biologiske sammenheng"
+    ]
+  },
+  "notation": "547",
+  "prefLabel": {
+    "it": "Chimica organica",
+    "en": "Organic chemistry",
+    "de": "Organische Chemie",
+    "no": "Organisk kjemi",
+    "sv": "Organisk kemi",
+    "fr": "Chimie organique"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-26T12:06:27Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

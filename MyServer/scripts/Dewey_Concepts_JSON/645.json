@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tbdj4HtT97W9qTCrq4xJt4rK",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Einrichtungsgegenstände für Wohnbauten, umfassende Werke über Einrichtungsgegenstände und Innendekoration",
+      "Werke für Eigennutzer oder Mieter über Arbeiten von Haushaltsmitgliedern"
+    ],
+    "en": [
+      "Class here household furnishings of residential buildings, comprehensive works on household furnishings and interior decoration",
+      "Works for owner-occupants or renters covering activities by members of household"
+    ],
+    "fr": [
+      "Ouvrages pour les propriétaires-occupants ou les locataires exécutant eux-mêmes les travaux",
+      "Classer ici l'ameublement des immeubles d'habitation, les ouvrages généraux sur l'ameublement et la décoration intérieure"
+    ],
+    "no": [
+      "Verker for selveiere eller er leietakere, og som omhandler deres aktiviteter",
+      "Her: Innredning av bolighus, oversiktsverker om hjeminnredninger og interiørinnredning av boliger"
+    ],
+    "sv": [
+      "Klassificera här inventarier i bostadshus, övergripande verk om inventarier för hemmet och inredning",
+      "Verk om hushållsaktiviteter som riktar sig till bostadsägare eller hyresgäster"
+    ],
+    "it": [
+      "Opere per proprietari e inquilini relative ad attività svolte da membri della famiglia",
+      "Classificare qui l'arredamento di edifici residenziali, le opere d'insieme su arredamento e decorazione d'interni di edifici residenziali"
+    ]
+  },
+  "prefLabel": {
+    "it": "Arredamento della casa",
+    "de": "Einrichtungsgegenstände",
+    "sv": "Inventarier för hemmet",
+    "en": "Household furnishings",
+    "fr": "Ameublement de maison",
+    "no": "Hjeminnredninger"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-06-16T11:48:32Z",
+  "notation": "645",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

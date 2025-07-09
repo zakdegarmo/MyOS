@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E364PkxfwxvCJWtd6byyXxDKpK",
+  "prefLabel": {
+    "sv": "Särskilda fotografiska processer",
+    "de": "Spezielle fotografische Prozesse",
+    "it": "Procedimenti speciali",
+    "no": "Spesielle fotografiske prosesser",
+    "fr": "Procédés photographiques particuliers",
+    "en": "Special photographic processes"
+  },
+  "modified": "2020-07-06T07:40:31Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4cbPgyCJgjGt8fDPc6JCgVxjR",
+    "https://id.oclc.org/worldcat/ddc/E44X3mwxXtkVqc98F934BPwx9v",
+    "https://id.oclc.org/worldcat/ddc/E36QKhvPTkVrW7w9HBkQYGMXVK"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "scopeNote": {
+    "en": [
+      "Techniques, procedures, apparatus, equipment, materials"
+    ],
+    "de": [
+      "Techniken, Verfahren, Geräte, Ausstattung, Materialien"
+    ],
+    "no": [
+      "Teknikker, arbeidsmetoder, apparater, utstyr, materialer"
+    ],
+    "sv": [
+      "Tekniker, procedurer, apparatur, utrustning, material"
+    ],
+    "it": [
+      "Tecniche, procedure, apparecchi, attrezzature, materiali"
+    ],
+    "fr": [
+      "Techniques, procédés, appareils, équipement, matériel"
+    ]
+  },
+  "notation": "772-774",
+  "type": "Concept",
+  "created": "2010-02-04",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

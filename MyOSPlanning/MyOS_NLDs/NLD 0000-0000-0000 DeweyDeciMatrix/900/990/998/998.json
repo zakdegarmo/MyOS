@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PgyFMqhP9YqDjKQcFJkHrWDd",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Isole artiche e Antartide",
+    "de": "Inseln des Arktischen Ozeans und Antarktis",
+    "sv": "Öar i Arktis och Antarktis",
+    "en": "Arctic islands and Antarctica",
+    "no": "Arktiske øyer og Antarktis",
+    "fr": "Îles de l’océan Arctique et Antarctique"
+  },
+  "modified": "2017-02-01T12:23:13Z",
+  "notation": "998",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

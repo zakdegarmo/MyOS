@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36BXMvdbKYR9KBxD8XB7rwTMF",
+  "prefLabel": {
+    "en": "Southeastern United States (South Atlantic states)",
+    "no": "Det sørøstlige USA (delstater i South Atlantic-regionen)",
+    "de": "Südöstliche Staaten der USA (Südatlantische Staaten)",
+    "it": "Stati Uniti sudorientali (Stati atlantici meridionali)",
+    "sv": "Sydöstra Förenta staterna (Atlantdelstaterna)",
+    "fr": "Sud-Est des États-Unis (États du Sud-Atlantique)"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rJgV76kwd6d6PYhTpKKXrXvY",
+  "created": "1996-06-01",
+  "modified": "2025-04-14T19:37:47Z",
+  "notation": "975",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

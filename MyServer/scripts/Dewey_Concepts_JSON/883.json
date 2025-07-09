@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gCyrtJXBFDCvP9mGDJQVRhc9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Poésie et fiction épiques grecques classiques",
+    "it": "Poesia epica e narrativa greca classica",
+    "de": "Klassische griechische erzählende Versdichtung und Erzählprosa",
+    "no": "Klassisk gresk episk poesi og fiksjon",
+    "en": "Classical Greek epic poetry and fiction",
+    "sv": "Klassisk grekisk episk poesi och prosa"
+  },
+  "notation": "883",
+  "created": "1996-06-01",
+  "modified": "2021-05-28T10:24:11Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

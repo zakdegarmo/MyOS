@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kwbbjtMHdyVmQKYDDcRgC9hd",
+  "notation": "740",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le arti grafiche; le immagini digitali, l'arte bidimensionale",
+      "Include la copy art eseguita con attrezzature di fotoduplicazione, i calchi a sfregamento, l'arte con la macchina da scrivere, la progettazione tipografica; l'arte realizzata con tecniche miste e i compositi bidimensionali"
+    ],
+    "sv": [
+      "Omfattar kopieringskonst (copy art) framställd med fotokopieringsapparater, frottage (avklappningar), skrivmaskinskonst; tvådimensionell konst i blandmaterial och komposit",
+      "Klassificera här grafiska konstarter; digitala bilder, tvådimensionell konst"
+    ],
+    "no": [
+      "Her: Grafiske kunstarter, digitale bilder, todimensjonal kunst",
+      "Inkluderer: Kopikunst laget med fotokopieringsutstyr, avtrykk, skrivemaskinkunst, todimensjonal kunst med blandede medier og todimensjonal sammensatt kunst"
+    ],
+    "de": [
+      "Hier auch: digitale Bilder, zweidimensionale Kunst",
+      "Einschließlich: Copy Art hergestellt mit Fotokopiergeräten (Kopigrafien), Reiberdrucke, Schreibmaschinenkunst, typografische Designs; zweidimensionale Mixed-Media- und Multimediakunst"
+    ],
+    "en": [
+      "Including copy art made with photoduplication equipment, rubbings, typewriter art; two-dimensional mixed-media art and composites",
+      "Class here graphic arts; digital images, two-dimensional art"
+    ],
+    "fr": [
+      "Classer ici les arts graphiques ; les images numériques, l’art à deux dimensions",
+      "Y compris l'art de la machine à écrire, le copie-art produit à partir d'équipement de photoduplication, les frottis ; l’art multimédia à deux dimensions et les composites"
+    ]
+  },
+  "prefLabel": {
+    "no": "Design og lignende kunstarter",
+    "en": "Design and related arts",
+    "de": "Grafik und angewandte Kunst",
+    "it": "Design e arti connesse",
+    "fr": "Design et arts connexes",
+    "sv": "Design och relaterade konstarter"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3H4YFftgq9FK96wtTfFbdGBWT",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-05T11:49:56Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

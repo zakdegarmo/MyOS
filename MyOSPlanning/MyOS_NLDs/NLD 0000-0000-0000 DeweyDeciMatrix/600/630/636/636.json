@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36q7PHtdhyvpmvfKCwcytdpph",
+  "prefLabel": {
+    "no": "Husdyrhold",
+    "it": "Allevamento di animali",
+    "en": "Animal husbandry",
+    "fr": "Élevage",
+    "sv": "Djurhållning",
+    "de": "Viehwirtschaft"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om arter av tama däggdjur"
+    ],
+    "en": [
+      "Class here interdisciplinary works on species of domestic mammals"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur les espèces de mammifères domestiques"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari sulle specie di mammiferi domestici"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om arter av tamme pattedyr"
+    ],
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Säugetiere als Nutz- und Haustiere"
+    ]
+  },
+  "modified": "2024-07-02T06:16:16Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "636",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

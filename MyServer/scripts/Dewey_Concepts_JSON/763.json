@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DCjQxVfHc6HMF8GyXbq38YXk",
+  "prefLabel": {
+    "it": "Procedimenti litografici (Procedimenti planografici)",
+    "no": "Litografiske prosesser (plantrykk)",
+    "fr": "Procédés lithographiques (Procédés planographiques)",
+    "de": "Lithografische Druckverfahren (Flachdruckverfahren)",
+    "sv": "Litografiska tekniker (plantryckstekniker)",
+    "en": "Lithographic processes (Planographic processes)"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+  "notation": "763",
+  "type": "Concept",
+  "modified": "2023-05-22T10:08:13Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

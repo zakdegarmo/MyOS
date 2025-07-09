@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38dvmBg3FB4grDkK7rdmDGtrk",
+  "modified": "2023-08-21T09:43:26Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T4W9fr4KQg3d34fdjpDCQg3B",
+  "prefLabel": {
+    "it": "Predicazione (Omiletica)",
+    "en": "Preaching (Homiletics)",
+    "fr": "Prédication (Homilétique)",
+    "de": "Homiletik (Predigt)",
+    "sv": "Predikan (homiletik)",
+    "no": "Prekenlære (homiletikk)"
+  },
+  "notation": "251",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

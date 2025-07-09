@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hYCvbgVGC6CBqht9pjvq74H9",
+  "prefLabel": {
+    "sv": "Engelska brev",
+    "it": "Epistolografia inglese",
+    "en": "English letters",
+    "fr": "Correspondance anglaise",
+    "no": "Engelske brev",
+    "de": "Englische Briefe"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "modified": "2023-05-30T08:46:15Z",
+  "notation": "826",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

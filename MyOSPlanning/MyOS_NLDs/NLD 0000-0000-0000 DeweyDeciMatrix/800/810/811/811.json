@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VkQVq6pTRHrvx3cD9fJtGBkX",
+  "prefLabel": {
+    "sv": "Amerikansk poesi på engelska",
+    "no": "Amerikansk poesi på engelsk",
+    "en": "American poetry in English",
+    "fr": "Poésie américaine en anglais",
+    "it": "Poesia americana in inglese",
+    "de": "Amerikanische Versdichtung in Englisch"
+  },
+  "notation": "811",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "modified": "2024-03-06T09:25:05Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

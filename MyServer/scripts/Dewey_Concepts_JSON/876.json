@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47grrcKvRvXm7tyjyhXpvhGyd",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Lateinische Briefe",
+    "it": "Epistolografia latina",
+    "fr": "Correspondance latine",
+    "sv": "Latinska brev",
+    "no": "Latinske brev",
+    "en": "Latin letters"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-08T11:10:01Z",
+  "notation": "876",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

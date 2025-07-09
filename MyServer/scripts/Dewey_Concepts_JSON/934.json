@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gv9kfDPGbTcVYVcdV7XRkmC6",
+  "prefLabel": {
+    "sv": "Främre Indien före 647",
+    "de": "Südasien bis 647",
+    "en": "South Asia to 647",
+    "fr": "Asie du Sud jusqu’à 647",
+    "no": "Sør-Asia fram til 647",
+    "it": "Asia meridionale, fino al 647"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "scopeNote": {
+    "fr": [
+      "Classer ici l'Inde jusqu'à 647"
+    ],
+    "no": [
+      "Her: India fram til 647"
+    ],
+    "en": [
+      "Class here India to 647"
+    ],
+    "sv": [
+      "Klassificera här Indien före 647"
+    ],
+    "it": [
+      "Classificare qui l'India fino al 647"
+    ],
+    "de": [
+      "Hier auch: Indien bis 647"
+    ]
+  },
+  "modified": "2023-11-27T21:37:12Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "934",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

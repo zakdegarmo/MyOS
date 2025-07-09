@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QqCWqyrX7YKymQm3T8hJb9gG",
+  "prefLabel": {
+    "no": "Generelle samlinger på fransk, oksitansk, katalansk",
+    "en": "General collections in French, Occitan, Catalan",
+    "sv": "Allmänna samlingsverk på franska, occitanska, katalanska",
+    "it": "Raccolte generali in francese, occitanico, catalano",
+    "fr": "Recueils généraux en français, en occitan, en catalan",
+    "de": "Allgemeine Sammelwerke in Französisch, Okzitanisch, Katalanisch"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "084",
+  "modified": "2021-02-26T12:12:05Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

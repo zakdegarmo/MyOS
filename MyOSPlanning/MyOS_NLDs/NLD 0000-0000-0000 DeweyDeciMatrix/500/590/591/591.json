@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ypf7R7JWk7JkRCWMwV7bdRck",
+  "prefLabel": {
+    "it": "Soggetti specifici nella storia naturale degli animali",
+    "sv": "Särskilda ämnen inom djurens naturhistoria",
+    "no": "Bestemte emner innen naturhistorie for dyr",
+    "de": "Einzelne Themen in der Naturgeschichte von Tieren",
+    "en": "Specific topics in natural history of animals",
+    "fr": "Sujets particuliers de l'histoire naturelle des animaux"
+  },
+  "created": "2000-02-02",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här särskilda icke-taxonomiska slags djur"
+    ],
+    "no": [
+      "Her: Bestemte ikke-taksonomiske typer dyr"
+    ],
+    "de": [
+      "Hier auch: einzelne Gruppen nichtverwandter Tiere"
+    ],
+    "it": [
+      "Classificare qui gli specifici raggruppamenti non tassonomici di animali"
+    ],
+    "en": [
+      "Class here specific nontaxonomic kinds of animals"
+    ],
+    "fr": [
+      "Classer ici les groupes non taxinomiques particuliers d’animaux"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wgvJvJ6ddXrpQPHWbMH33btF",
+  "notation": "591",
+  "modified": "2021-06-08T06:59:00Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

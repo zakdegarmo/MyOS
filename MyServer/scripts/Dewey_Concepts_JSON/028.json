@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KRhKGXjbXMp6fY8wpGGJvMFW",
+  "prefLabel": {
+    "it": "Lettura e uso di altri media",
+    "sv": "Läsning och användning av andra informationsmedier",
+    "en": "Reading and use of other information media",
+    "de": "Lesen und Nutzung anderer Informationsmedien",
+    "fr": "Lecture et utilisation des autres médias d’information",
+    "no": "Lesing og bruk av andre informasjonsmedier"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "created": "1998-10-20",
+  "modified": "2024-11-02T00:44:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "028",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

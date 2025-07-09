@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3t6XK9Pw3QCjjvkhfxPYTfBym",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4btJr83MDvKW7YDpWFg8RXFWc",
+    "https://id.oclc.org/worldcat/ddc/E3wTT7t8yVVdx3rwpWbcw6Grkx",
+    "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t"
+  ],
+  "notation": "06",
+  "prefLabel": {
+    "fr": "Associations, organisations et musées",
+    "sv": "Föreningar, organisationer & museer",
+    "en": "Associations, organizations & museums",
+    "it": "Associazioni, organizzazioni e musei",
+    "no": "Foreninger, organisasjoner og museer",
+    "de": "Verbände, Organisationen & Museen"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "modified": "2021-02-26T12:12:05Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46wGgvDqcbjWh6647djMpK7XB",
+  "notation": "628",
+  "prefLabel": {
+    "en": "Environmental engineering and sanitary engineering",
+    "de": "Umweltingenieurwissenschaften und Sanitärtechnik",
+    "no": "Miljøteknikk og sanitærteknikk",
+    "sv": "Miljöteknik och sanitetsteknik",
+    "it": "Ingegneria ambientale e ingegneria sanitaria",
+    "fr": "Technologie de l'environnement et technique sanitaire"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "no": [
+      "Her: Miljørettet sanitærteknikk, miljøvernteknikk), grønn teknologi (miljøteknologi), kommunalteknikk, offentlig sanitærteknologi, bærekraftig teknikk"
+    ],
+    "sv": [
+      "Klassificera här miljöteknik (miljöhälsoteknik, miljöskyddsteknik), grön teknik, kommunalteknik, teknik gällande allmän sanitet, teknik för hållbar utveckling"
+    ],
+    "en": [
+      "Class here environmental health engineering, environmental protection engineering, green technology (environmental technology), municipal engineering, public sanitation technology, sustainable engineering (sustainable technology)"
+    ],
+    "fr": [
+      "Classer ici le génie urbain, l'ingénierie durable (technologie durable), la technique sanitaire publique, la technologie de l'hygiène du milieu, la technologie de la protection de l'environnement, la technologie propre (technologie de l'environnement)"
+    ],
+    "de": [
+      "Hier auch: Umwelthygienetechnik, Umweltschutztechnik, Umwelttechnik (Grüne Technologien), Kommunaltechnik, Technik öffentlicher Sanitäranlagen, nachhaltiges Engineering (nachhaltige Technologien"
+    ],
+    "it": [
+      "Classificare qui l'ingegneria della salubrità dell'ambiente, ingegneria della protezione ambientale, la tecnologia green, la ecotecnologia (tecnologia ambientale), l'urbanistica tecnica, la tecnologia dell'igiene pubblica, l'ingegneria della sostenibilità ambientale (tecnologia della sostenibilità ambientale)"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2025-05-27T12:18:13Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

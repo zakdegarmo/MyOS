@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DcJpXjmd84rqVFkJmgc6pkQG",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YJMQCXwTmHxYxyx4kqhQ9FQr",
+  "created": "1996-06-01",
+  "notation": "281",
+  "prefLabel": {
+    "de": "Alte Kirche und Ostkirchen",
+    "no": "Oldkirken og de orientalske kirker",
+    "en": "Early church and Eastern churches",
+    "it": "Chiesa primitiva e chiese d'Oriente",
+    "fr": "Église primitive et Églises orientales",
+    "sv": "Fornkyrkan och östkyrkor"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2023-06-05T09:44:33Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

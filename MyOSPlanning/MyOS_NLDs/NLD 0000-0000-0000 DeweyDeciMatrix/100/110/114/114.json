@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E393f9m8cpkCvrQmWRccWKt4WK",
+  "prefLabel": {
+    "fr": "Espace",
+    "de": "Raum",
+    "it": "Spazio",
+    "sv": "Rum",
+    "no": "Rom",
+    "en": "Space"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici la relation entre l’espace et la matière"
+    ],
+    "de": [
+      "Hier auch: Verhältnis von Raum und Materie"
+    ],
+    "it": [
+      "Classificare qui la relazione tra spazio e materia"
+    ],
+    "sv": [
+      "Klassificera här relationen mellan rum och materia"
+    ],
+    "no": [
+      "Her: Forholdet mellom rom og materie"
+    ],
+    "en": [
+      "Class here relation of space and matter"
+    ]
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "114",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

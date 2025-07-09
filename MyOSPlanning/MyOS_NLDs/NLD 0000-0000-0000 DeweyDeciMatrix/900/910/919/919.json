@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cPMCWQgdTJhKFW7ghX383vfd",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "prefLabel": {
+    "no": "Geografi og reiser i Australasia, stillehavsøyene, atlanterhavsøyene, arktiske øyer, Antarktis, himmellegemer utenfor jorda",
+    "de": "Geografie von und in Australasien, den Inseln des Pazifischen Ozeans, des Atlantischen Ozeans, des Arktischen Ozeans, der Antarktis, außerirdischen Welten",
+    "sv": "Geografi och resor i Australasien, öar i Stilla havet, öar i Atlanten, öar i Arktis, öar i Antarktis, utomjordiska världar",
+    "fr": "Géographie et voyages en Australasie, dans les îles du Pacifique, les îles de l'Atlantique, les îles de l'Arctique, l'Antarctique et les mondes extraterrestres",
+    "en": "Geography of and travel in Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica and on extraterrestrial worlds",
+    "it": "Geografia e viaggi in Australasia, nelle isole del Pacifico, nelle isole dell'Atlantico, nelle isole dell'Artico, nell'Antartico, nei mondi extraterrestri"
+  },
+  "modified": "2023-07-14T11:47:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "919",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

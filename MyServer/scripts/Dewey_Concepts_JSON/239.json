@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mWmHQycY3Fyhr9DDyG4Gym83",
+  "scopeNote": {
+    "de": [
+      "Apologetik: systematische Argumentation zur Verteidigung des göttlichen Ursprungs und der Autorität des Christentums"
+    ],
+    "en": [
+      "Apologetics: systematic argumentation in defense of the divine origin and authority of Christianity"
+    ],
+    "no": [
+      "Apologetikk: Systematisk forsvar av kristendommens guddommelige opphav og autoritet"
+    ],
+    "fr": [
+      "Apologétique : argumentation systématique pour la défense de l’origine et de l’autorité divines du christianisme"
+    ],
+    "it": [
+      "Apologetica: argomentazione sistematica in difesa dell'origine divina e dell'autorità del cristianesimo"
+    ],
+    "sv": [
+      "Apologetik: systematisk argumentation i försvar för det gudomliga ursprunget och kristendomens auktoritet"
+    ]
+  },
+  "prefLabel": {
+    "no": "Apologetikk og polemikk",
+    "sv": "Apologetik och polemik",
+    "en": "Apologetics and polemics",
+    "de": "Apologetik und Polemik",
+    "fr": "Apologétique et polémique",
+    "it": "Apologetica e polemica"
+  },
+  "created": "1996-06-01",
+  "modified": "2023-06-22T10:39:11Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36DrXFp89KdrchdbVqVdBVktP",
+  "type": "Concept",
+  "notation": "239",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

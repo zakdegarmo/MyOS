@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46byjvxXbTptBhqpykcgBqq7J",
+  "prefLabel": {
+    "de": "Philosophie Spaniens und Portugals",
+    "en": "Philosophy of Spain and Portugal",
+    "no": "Filosofi i Spania og Portugal",
+    "it": "Filosofia della Spagna e del Portogallo",
+    "fr": "Philosophie de l'Espagne et du Portugal",
+    "sv": "Spaniens och Portugals filosofi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "notation": "196",
+  "modified": "2017-12-16T21:35:49Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

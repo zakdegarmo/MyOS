@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vXGqDq3GCk3yQDyDYcKtKmcg",
+  "prefLabel": {
+    "no": "Presisjonsinstrumenter og andre presisjonsapparater",
+    "de": "Präzisionsinstrumente und andere Geräte",
+    "sv": "Precisionsinstrument och andra apparater",
+    "fr": "Fabrication des instruments de précision et d’autres dispositifs",
+    "en": "Precision instruments and other devices",
+    "it": "Strumenti di precisione e altre apparecchiature"
+  },
+  "modified": "2025-02-10T21:54:17Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "681",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

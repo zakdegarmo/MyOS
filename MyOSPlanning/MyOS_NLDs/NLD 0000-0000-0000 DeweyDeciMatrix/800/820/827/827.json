@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QVGhvQpPKkHcYMpghbv9RD4c",
+  "created": "1996-06-01",
+  "notation": "827",
+  "prefLabel": {
+    "fr": "Humour et satire anglais",
+    "sv": "Engelsk humor och satir",
+    "it": "Satira e umorismo inglese",
+    "en": "English humor and satire",
+    "no": "Engelsk humor og satire",
+    "de": "Englischer Humor und englische Satire"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-05-30T08:46:15Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

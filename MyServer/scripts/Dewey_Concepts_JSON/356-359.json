@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4dby3kbCvfjtGJPDfdB3xXJHC",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "sv": "Särskilda typer av militärstyrkor och krigföring",
+    "en": "Specific kinds of military forces and warfare",
+    "no": "Bestemte typer militære styrker og krigføring",
+    "de": "Einzelne Arten von Streitkräften und Kampfführung",
+    "fr": "Catégories particulières de forces armées et leurs opérations",
+    "it": "Specifici tipi di forza e operazione militare"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Kv3vFMCrc8wPfprxTqx7dDyf",
+    "https://id.oclc.org/worldcat/ddc/E4b6GGGjKTPPpPVDdVTFDpThhD",
+    "https://id.oclc.org/worldcat/ddc/E49HCpqfXhXM33yDQ84RFFKdhh"
+  ],
+  "notation": "356-359",
+  "scopeNote": {
+    "en": [
+      "Class here history of specific military forces not limited to any one war, services and units dedicated to specific forces, countermeasures against specific forces"
+    ],
+    "sv": [
+      "Klassificera här särskilda militärstyrkors historia som inte är begränsat till ett särskilt krig, särskilda styrkors underhåll och enheter, motåtgärder mot särskilda styrkor"
+    ],
+    "it": [
+      "Classificare qui la storia di specifiche forze militari non limitata a una singola guerra, i servizi e le unità dedicate a specifiche forze, le contromisure a specifiche forze"
+    ],
+    "fr": [
+      "Classer ici l’histoire des forces armées particulières non limitées à une seule guerre, des services et des unités propres aux forces particulières, des mesures défensives contre les forces particulières"
+    ],
+    "no": [
+      "Her: Historie om bestemte militære styrker som ikke er begrenset til én bestemt krig, tjenester og enheter forbeholdt bestemte styrker, mottiltak mot bestemte styrker"
+    ],
+    "de": [
+      "Hier auch: Geschichte einzelner nicht auf einen bestimmten Krieg begrenzter Streitkräfte, einzelnen Streitkräften zugeordnete Dienste und Einheiten, Abwehrmittel gegen einzelne Streitkräfte"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

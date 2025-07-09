@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34XV8cDCjH7qy4PVHDJjtg9RB",
+  "prefLabel": {
+    "sv": "Sydamerikas historia",
+    "en": "History of South America",
+    "fr": "Histoire de l’Amérique du Sud",
+    "no": "Sør-Amerikas historie",
+    "de": "Geschichte Südamerikas",
+    "it": "Storia del Sudamerica"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WybMkhGptvgjd8FYYqYQXQhK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Latinamerika"
+    ],
+    "de": [
+      "Hier auch: Lateinamerika"
+    ],
+    "no": [
+      "Her: Latin-Amerika"
+    ],
+    "it": [
+      "Classificare qui l'America latina"
+    ],
+    "fr": [
+      "Classer ici l’Amérique latine"
+    ],
+    "en": [
+      "Class here Latin America"
+    ]
+  },
+  "notation": "980",
+  "created": "1996-06-01",
+  "modified": "2020-12-25T08:44:28Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

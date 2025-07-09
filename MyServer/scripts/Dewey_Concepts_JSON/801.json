@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Jv9m7pBjjF6kwf37VKrcFP7d",
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Notation T1--01 from Table 1 as modified below"
+    ],
+    "fr": [
+      "Notation T1--01 , Table 1 telle que modifiée ci-dessous"
+    ],
+    "de": [
+      "Notation T1--01 aus Hilfstafel 1 entsprechend den nachfolgenden Änderungen"
+    ],
+    "no": [
+      "H1--01 fra Hjelpetabell 1 slik den er modifisert under"
+    ],
+    "sv": [
+      "Notation T1--01 från tabell 1 så som den är modifierad nedan"
+    ],
+    "it": [
+      "Notazione T1--01 dalla Tavola 1 come di seguito modificata"
+    ]
+  },
+  "prefLabel": {
+    "en": "Philosophy and theory",
+    "no": "Filosofi og teori",
+    "it": "Filosofia e teoria",
+    "de": "Philosophie und Theorie",
+    "fr": "Philosophie et théorie",
+    "sv": "Filosofi och teori"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "801",
+  "modified": "2020-04-09T19:25:59Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

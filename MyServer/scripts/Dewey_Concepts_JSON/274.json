@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WQkgkTWR8Mj48x9G7dtgd6md",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "274",
+  "prefLabel": {
+    "fr": "Christianisme en Europe    ",
+    "no": "Kristendom i Europa",
+    "en": "Christianity in Europe",
+    "de": "Christentum in Europa",
+    "sv": "Kristendom i Europa ",
+    "it": "Cristianesimo in Europa"
+  },
+  "modified": "2024-10-04T12:02:29Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

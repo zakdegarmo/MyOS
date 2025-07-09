@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49qcxXKch8HFgVPMdbpTxxvDd",
+  "modified": "2024-09-23T18:45:45Z",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Strafferett",
+    "de": "Strafrecht",
+    "sv": "Straffrätt",
+    "en": "Criminal law",
+    "fr": "Droit pénal",
+    "it": "Diritto penale"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: internationales Strafrecht"
+    ],
+    "sv": [
+      "Klassificera här internationell straffrätt"
+    ],
+    "en": [
+      "Class here international criminal law"
+    ],
+    "no": [
+      "Her: Internasjonal strafferett"
+    ],
+    "fr": [
+      "Classer ici le droit pénal international"
+    ],
+    "it": [
+      "Classificare qui il diritto internazionale penale"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "345",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

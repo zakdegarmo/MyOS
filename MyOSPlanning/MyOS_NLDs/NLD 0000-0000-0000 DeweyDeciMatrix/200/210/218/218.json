@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HJ3WYV9GWBFyqtQqtfGp9KX7",
+  "notation": "218",
+  "modified": "2023-06-02T09:55:15Z",
+  "scopeNote": {
+    "en": [
+      "Including anthropology and religion, ethnology and religion, immortality"
+    ],
+    "sv": [
+      "Omfattar antropologi och religion, etnologi och religion, odödlighet"
+    ],
+    "no": [
+      "Inkluderer: Antropologi og religion, etnologi og religion, udødelighet"
+    ],
+    "fr": [
+      "Y compris l'anthropologie et la religion, l'ethnologie et la religion, l’immortalité"
+    ],
+    "de": [
+      "Einschließlich: Anthropologie und Religion, Ethnologie und Religion, Unsterblichkeit"
+    ],
+    "it": [
+      "Include l'antropologia in relazione alla religione, l'etnologia in relazione alla religione, l'immortalità"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "prefLabel": {
+    "de": "Der Mensch",
+    "no": "Mennesket",
+    "en": "Humankind",
+    "it": "Il genere umano",
+    "sv": "Mänskligheten",
+    "fr": "Humanité (Le genre humain)"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

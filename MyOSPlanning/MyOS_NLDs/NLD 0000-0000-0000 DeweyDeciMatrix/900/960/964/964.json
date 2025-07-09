@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qH94tyjHkXTXXTVTvxYbtHyG",
+  "prefLabel": {
+    "fr": "Maroc, Ceuta, Melilla, Sahara occidental, îles Canaries",
+    "it": "Marocco, Ceuta, Melilla, Sahara occidentale, Isole Canarie",
+    "en": "Morocco, Ceuta, Melilla, Western Sahara, Canary Islands",
+    "de": "Marokko, Ceuta, Melilla, Westsahara, Kanarische Inseln",
+    "sv": "Marocko, Ceuta, Melilla, Västsahara, Kanarieöarna",
+    "no": "Marokko, Ceuta, Melilla, Vest-Sahara, Kanariøyene"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "964",
+  "modified": "2020-12-25T08:44:28Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

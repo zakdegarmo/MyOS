@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3v9RGpYBXjDTgBhfPfKKBVP7B",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Eutheria",
+      "Klassificera här däggdjur, placentadäggdjur, jämnvarma ryggradsdjur (varmblodiga ryggradsdjur)"
+    ],
+    "en": [
+      "Class here mammals, placental mammals, warm-blooded vertebrates",
+      "Class here Eutheria"
+    ],
+    "fr": [
+      "Classer ici les Euthériens",
+      "Classer ici les mammifères placentaires, les vertébrés à sang chaud"
+    ],
+    "it": [
+      "Classificare qui i mammiferi, i mammiferi placentali, i vertebrati a sangue caldo",
+      "Classificare qui gli Eutheria"
+    ],
+    "no": [
+      "Her: Eutheria",
+      "Her: Pattedyr, placentale pattedyr, varmblodige virveldyr"
+    ],
+    "de": [
+      "Hier auch: Höhere Säugetiere, Eutheria, Placentalia (Plazentatiere)"
+    ]
+  },
+  "created": "1998-10-27",
+  "prefLabel": {
+    "de": "Mammalia (Säugetiere)",
+    "it": "Mammalia",
+    "no": "Mammalia",
+    "en": "Mammalia",
+    "sv": "Mammalia",
+    "fr": "Mammifères"
+  },
+  "modified": "2022-11-29T15:32:24Z",
+  "notation": "599",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

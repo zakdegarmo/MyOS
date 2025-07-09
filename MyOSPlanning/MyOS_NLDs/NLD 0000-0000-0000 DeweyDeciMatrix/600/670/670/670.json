@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36yPTRMqXCBtk4DddCXFJvbfb",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les produits manufacturés",
+      "Y compris la planification et la conception des produits manufacturés"
+    ],
+    "it": [
+      "Include la pianificazione e la progettazione di manufatti",
+      "Classificare qui i manufatti"
+    ],
+    "en": [
+      "Class here manufactured products",
+      "Including planning and design for manufactured products"
+    ],
+    "no": [
+      "Inkluderer: Planlegging og design av industriprodukter",
+      "Her: Industriprodukter"
+    ],
+    "sv": [
+      "Omfattar planering och formgivning av industriprodukter",
+      "Klassificera här industriprodukter"
+    ],
+    "de": [
+      "Einschließlich: Planung und Gestaltung von Industrieprodukten",
+      "Hier auch: Industrieprodukte"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Industriell produksjon",
+    "it": "Manifattura",
+    "de": "Industrielle Fertigung",
+    "fr": "Fabrication industrielle",
+    "sv": "Tillverkning",
+    "en": "Manufacturing"
+  },
+  "modified": "2025-05-27T12:18:13Z",
+  "notation": "670",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QW7XC9gKJvf47FbFGBJ8XWGh",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

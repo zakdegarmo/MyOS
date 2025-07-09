@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Commercio, comunicazioni, trasporto",
+    "de": "Handel, Kommunikation & Verkehr",
+    "en": "Commerce, communications & transportation",
+    "no": "Handel, kommunikasjonsmidler og samferdsel",
+    "sv": "Handel, kommunikationer & transport",
+    "fr": "Commerce, communications et transports"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "modified": "2021-01-19T07:51:53Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3rmKDDvpD64mwFb6xx7Qq6jxD",
+    "https://id.oclc.org/worldcat/ddc/E3XQhpjxMvX6RvvFcbb7vTmqK8",
+    "https://id.oclc.org/worldcat/ddc/E3GkqBbRx64xmDkvG9DDRbjcc9",
+    "https://id.oclc.org/worldcat/ddc/E3B86Dkq6fGxc7mgQWYV938hVV",
+    "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV"
+  ],
+  "notation": "38",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

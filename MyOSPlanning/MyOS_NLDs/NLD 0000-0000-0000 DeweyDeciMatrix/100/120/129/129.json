@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HM9M3F6KMqYF4pxBhDfQXjWJ",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2018-01-22T22:46:51Z",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Y compris l’immortalité, l’incarnation, la réincarnation, la transmigration"
+    ],
+    "no": [
+      "Inkluderer: Udødelighet, inkarnasjon, reinkarnasjon, sjelevandring"
+    ],
+    "it": [
+      "Include l'immortalità, l'incarnazione, la reincarnazione, la trasmigrazione"
+    ],
+    "en": [
+      "Including immortality, incarnation, reincarnation, transmigration"
+    ],
+    "de": [
+      "Einschließlich: Unsterblichkeit, Inkarnation, Reinkarnation, Seelenwanderung"
+    ],
+    "sv": [
+      "Omfattar odödlighet, inkarnation, reinkarnation, transmigration"
+    ]
+  },
+  "prefLabel": {
+    "it": "Origine e destino delle anime individuali",
+    "no": "Individuelle sjelers opprinnelse og bestemmelse",
+    "en": "Origin and destiny of individual souls",
+    "fr": "Origine et destinée de l’âme humaine",
+    "sv": "Enskilda själars ursprung och öde",
+    "de": "Ursprung und Schicksal individueller Seelen"
+  },
+  "notation": "129",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jqfm7BRYBD983d9qRCJ6fDKF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Civilization and events",
+      "Class here interdisciplinary works on geography and history of ancient world, of specific continents, countries, localities"
+    ],
+    "de": [
+      "Zivilisation und Ereignisse",
+      "Hier auch: fächerübergreifende Werke über Geografie und Geschichte des Altertums, über einzelne Kontinente, Länder, Ortschaften"
+    ],
+    "sv": [
+      "Civilisationer och händelser",
+      "Klassificera här tvärvetenskapliga verk om geografi och historia om den forntida världen, om särskilda världsdelar, länder, orter"
+    ],
+    "it": [
+      "Civiltà e avvenimenti",
+      "Classificare qui le opere interdisciplinari su geografia e storia del mondo antico, di specifici continenti, paesi, località"
+    ],
+    "fr": [
+      "Civilisation et événements",
+      "Classer ici les ouvrages interdisciplinaires sur la géographie et l’histoire du monde antique, des continents, pays, localités particuliers"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om geografi og historie knyttet til oldtidens stater og landområder, om bestemte verdensdelers, staters, lokalområders geografi og historie",
+      "Kultur og historiske begivenheter"
+    ]
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E39wJ7kM4jrHhpd6Yy7fPC4fyw",
+    "https://id.oclc.org/worldcat/ddc/E3rhFhVJtCxThPKQYGvgBFXD34"
+  ],
+  "prefLabel": {
+    "no": "Bestemte verdensdelers, staters, lokalområders historie; historie om himmellegemer utenfor jorda",
+    "en": "History of specific continents, countries, localities; extraterrestrial worlds",
+    "de": "Geschichte einzelner Kontinente, Länder, Ortschaften; außerirdischer Welten",
+    "fr": "Histoire des continents, pays, localités particuliers ; mondes extraterrestres",
+    "it": "Storia di specifici continenti, paesi, località; dei mondi extraterrestri",
+    "sv": "Historia gällande särskilda världsdelar, länder, orter; utomjordiska världar"
+  },
+  "created": "2000-02-02",
+  "notation": "930-990",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XJ693tPgQQM7bhtXhgWVTVbb",
+  "modified": "2025-03-14T05:15:08Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

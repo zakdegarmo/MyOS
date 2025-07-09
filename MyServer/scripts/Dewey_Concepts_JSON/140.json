@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37xXjVWcPR4XBqRBBghYxvgD7",
+  "prefLabel": {
+    "no": "Bestemte filosofiske skoler og retninger",
+    "de": "Einzelne philosophische Schulen und Standpunkte",
+    "en": "Specific philosophical schools and viewpoints",
+    "sv": "Särskilda filosofiska skolor och perspektiv",
+    "fr": "Écoles et points de vue philosophiques particuliers",
+    "it": "Specifiche scuole e posizioni filosofiche"
+  },
+  "notation": "140",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-02T00:44:37Z",
+  "scopeNote": {
+    "fr": [
+      "Y compris le concept de l’idéologie, d’une vision du monde, d’un système de croyances"
+    ],
+    "en": [
+      "Including the concept of ideology, of a world view, of a system of beliefs"
+    ],
+    "de": [
+      "Einschließlich: Begriff der Ideologie, einer Weltanschauung, eines Systems von Überzeugungen"
+    ],
+    "it": [
+      "Include il concetto d'ideologia, di visione del mondo, di sistema di convinzioni"
+    ],
+    "no": [
+      "Inkluderer: Begrepene ideologi, verdensanskuelse, trossystem"
+    ],
+    "sv": [
+      "Omfattar ideologibegreppet, världsåskådning, trossystem"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

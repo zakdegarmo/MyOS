@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3djCjJgHGTdtFDMCyTPqxPxJ3",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Gammelengelsk (angelsaksisk)"
+    ],
+    "en": [
+      "Including Old English (Anglo-Saxon)"
+    ],
+    "it": [
+      "Include l'antico inglese (anglosassone)"
+    ],
+    "de": [
+      "Einschließlich: Altenglisch (Angelsächsisch)"
+    ],
+    "fr": [
+      "Y compris le vieil anglais (anglo-saxon)"
+    ],
+    "sv": [
+      "Omfattar fornengelska (anglosaxiska)"
+    ]
+  },
+  "prefLabel": {
+    "it": "Raccolte generali in altre lingue",
+    "fr": "Recueils généraux en d’autres langues",
+    "no": "Generelle samlinger på andre språk",
+    "sv": "Allmänna samlingsverk på övriga språk",
+    "en": "General collections in other languages",
+    "de": "Allgemeine Sammelwerke in anderen Sprachen"
+  },
+  "created": "1996-06-01",
+  "notation": "089",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2017-12-16T20:54:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

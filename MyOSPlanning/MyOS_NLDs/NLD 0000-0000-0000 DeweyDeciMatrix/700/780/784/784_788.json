@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CCB8wxMWHKGxyfPDqDvF46hw",
+  "modified": "2022-02-16T13:40:11Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4bFBQx9rD8JyY7PqK4wWThyXH",
+    "https://id.oclc.org/worldcat/ddc/E3B8RtXCRdp4y3KRkWQwHrfMH3",
+    "https://id.oclc.org/worldcat/ddc/E34MhvcdHWcJJH8pqMGc7YxK4r"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Instrument och deras musik",
+    "en": "Instruments and their music",
+    "no": "Instrumenter og instrumentalmusikk",
+    "de": "Instrumente und ihre Musik",
+    "it": "Strumenti e loro musica",
+    "fr": "Instruments et leur musique"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48gbD63Gd44m4cH48wCwrwfHq",
+  "created": "1996-06-01",
+  "notation": "784-788",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

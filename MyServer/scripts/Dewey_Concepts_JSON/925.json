@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xh7x49Hkfh9c8TmbtJ743VBX",
+  "prefLabel": {
+    "de": "Naturwissenschaftler",
+    "it": "Scienziati",
+    "no": "Forskere",
+    "en": "Scientists",
+    "fr": "Scientifiques",
+    "sv": "Vetenskapsmän"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "notation": "925",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "modified": "2022-08-29T10:01:08Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

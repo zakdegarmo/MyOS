@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qp4DDtXyRry7xbM4tYyRv6RX",
+  "prefLabel": {
+    "fr": "Personnes dont l’activité est liée à la littérature, à l’histoire, à la biographie, à la généalogie",
+    "no": "Personer knyttet til litteratur, historie, biografi, genealogi",
+    "it": "Persone operanti nel campo della letteratura, della storia, della biografia, della genealogia",
+    "sv": "Personer inom litteratur, historia, biografi, genealogi",
+    "en": "People in literature, history, biography, genealogy",
+    "de": "Personen aus den Bereichen Literatur, Geschichte, Biografie, Genealogie"
+  },
+  "modified": "2022-09-06T14:14:59Z",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Historikere, litteraturkritikere"
+    ],
+    "sv": [
+      "Omfattar historiker, författare och krittiker inom skönlitteratur"
+    ],
+    "it": [
+      "Include gli storici, i critici letterari"
+    ],
+    "en": [
+      "Including historians, critics of belles-lettres"
+    ],
+    "de": [
+      "Einschließlich: Historiker, Schriftsteller und Literaturkritiker aus dem Bereich Belletristik"
+    ],
+    "fr": [
+      "Y compris les historiens et les critiques littéraires"
+    ]
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "type": "Concept",
+  "notation": "928",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

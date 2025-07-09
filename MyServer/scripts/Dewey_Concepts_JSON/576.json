@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48kbHchtxdWBHyJtRggkywRkV",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Génétique et évolution",
+    "no": "Genetikk og evolusjon",
+    "sv": "Genetik och evolution",
+    "en": "Genetics and evolution",
+    "it": "Genetica ed evoluzione",
+    "de": "Genetik und Evolution"
+  },
+  "notation": "576",
+  "modified": "2024-03-28T07:15:03Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fRwXbTxTRG9TRXrrTxmcrgk3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

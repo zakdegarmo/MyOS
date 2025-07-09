@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jqqCRyx6pX4RGD44cjXDFmKQ",
+  "prefLabel": {
+    "fr": "Génie militaire et naval",
+    "it": "Ingegneria militare e navale",
+    "sv": "Militär teknik och fartygsteknik",
+    "de": "Militär- und Schiffstechnik",
+    "no": "Militærteknikk og skipsteknikk",
+    "en": "Military and nautical engineering"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-09-27T17:19:10Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "623",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

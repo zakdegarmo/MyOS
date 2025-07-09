@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WWBdjDVydj9W6xwWPpt4XFyv",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Historische und geografische Varianten, moderne nichtgeografische Varianten des Französischen",
+    "it": "Varianti storiche e geografiche, varianti non geografiche moderne",
+    "en": "Historical and geographic variations, modern nongeographic variations of French",
+    "fr": "Variantes et variations historiques et régionales, variantes et variations modernes non régionales du français",
+    "sv": "Historiska och geografiska varianter, moderna icke-geografiska varianter av franska",
+    "no": "Historiske og geografiske variasjoner, moderne, ikke-geografiske variasjoner av fransk"
+  },
+  "modified": "2021-05-07T10:48:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "447",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

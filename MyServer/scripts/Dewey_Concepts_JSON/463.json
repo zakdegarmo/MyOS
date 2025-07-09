@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YjdFFM3ypvjmT6fX34X6rqJy",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Spanische Wörterbücher",
+    "en": "Dictionaries of standard Spanish",
+    "sv": "Lexikon och ordböcker för standardspanska",
+    "no": "Ordbøker på standard spansk",
+    "fr": "Dictionnaires de l'espagnol standard",
+    "it": "Dizionari dello spagnolo standard"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QwXX8k3gdqqkMywM8hjwjfCr",
+  "type": "Concept",
+  "modified": "2021-02-09T16:17:56Z",
+  "notation": "463",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

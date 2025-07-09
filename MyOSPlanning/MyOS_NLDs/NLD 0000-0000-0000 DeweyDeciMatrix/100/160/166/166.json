@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FcwbpKrR7wMJx8VdKXpVXcyY",
+  "prefLabel": {
+    "de": "Syllogismen",
+    "sv": "Syllogismer",
+    "it": "Sillogismi",
+    "en": "Syllogisms",
+    "fr": "Syllogismes",
+    "no": "Syllogismer"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-15T06:48:06Z",
+  "notation": "166",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

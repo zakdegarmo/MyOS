@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fkCGPxtXFkrqkW93G68fC8xT",
+  "prefLabel": {
+    "fr": "Problèmes et services sociaux particuliers",
+    "de": "Einzelne soziale Probleme und Sozialdienste",
+    "no": "Bestemte sosiale problemer og tjenester",
+    "it": "Specifici problemi e servizi sociali",
+    "sv": "Särskilda sociala problem och tjänster",
+    "en": "Specific social problems and services"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Q7tMBY8j6y6DCRb9mJTckD6X",
+    "https://id.oclc.org/worldcat/ddc/E469MJx3JmF3hxvjdhfV3rhCkw"
+  ],
+  "modified": "2024-04-15T05:08:46Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "362-363",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

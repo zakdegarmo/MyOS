@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XJ693tPgQQM7bhtXhgWVTVbb",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3jqfm7BRYBD983d9qRCJ6fDKF",
+    "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+    "https://id.oclc.org/worldcat/ddc/E3xyrDdqvYkypcHBGhvq7c9rDm",
+    "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw"
+  ],
+  "prefLabel": {
+    "no": "Historie og geografi",
+    "sv": "Historia & geografi",
+    "en": "History & geography",
+    "fr": "Histoire et géographie",
+    "de": "Geschichte & Geografie",
+    "it": "Storia e geografia"
+  },
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-13T15:27:30Z",
+  "notation": "9",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

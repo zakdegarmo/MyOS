@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dkHPkqwTFFPpBVxHJ849wvDj",
+  "scopeNote": {
+    "sv": [
+      "Religionsutövning som huvudsakligen är offentlig eller kollektiv till sin karaktär"
+    ],
+    "no": [
+      "Praksis som i hovedsak er av offentlig eller kollektiv karakter"
+    ],
+    "en": [
+      "Practices predominantly public or collective in character"
+    ],
+    "fr": [
+      "Pratiques principalement publiques ou à caractère collectif"
+    ],
+    "it": [
+      "Pratiche di natura prevalentemente pubblica o collettiva nella forma"
+    ],
+    "de": [
+      "Formen der Religionsausübung mit überwiegend öffentlichem oder gemeinschaftlichem Charakter"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "prefLabel": {
+    "en": "Public worship and other practices",
+    "fr": "Culte public et autres pratiques religieuses",
+    "sv": "Offentlig tillbedjan och annan religionsutövning",
+    "no": "Offentlig gudsdyrkelse og annen praksis",
+    "it": "Culto pubblico e altre pratiche",
+    "de": "Gottesdienst und andere Formen der öffentlichen Religionsausübung"
+  },
+  "type": "Concept",
+  "modified": "2023-11-27T14:20:24Z",
+  "created": "1998-10-23",
+  "notation": "203",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

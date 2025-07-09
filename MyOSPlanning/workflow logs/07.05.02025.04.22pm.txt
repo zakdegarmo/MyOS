@@ -1,0 +1,150 @@
+C:\Users\zakde\Desktop\Swerver>[frontend] npm run dev:frontend exited with code 1
+npm run dev
+
+> swerver-orchestrator@1.0.0 dev
+> concurrently "npm:dev:*"
+
+[frontend]
+[frontend] > swerver-orchestrator@1.0.0 dev:frontend
+[frontend] > npm run dev --prefix frontend
+[frontend]
+[backend]
+[backend] > swerver-orchestrator@1.0.0 dev:backend
+[backend] > node Swerver.js
+[backend]
+[frontend]
+[frontend] > mystra-os-web-ui@0.1.0 dev
+[frontend] > next dev
+[frontend]
+[backend] [2025-07-05T20:11:46.991Z] [SYSTEM] ----------------------------------------------------
+[backend] [2025-07-05T20:11:46.992Z] [SYSTEM] Swerver Orchestrator is running on port 8080
+[backend] [2025-07-05T20:11:46.992Z] [HTTP] Serving front-end from: C:\Users\zakde\Desktop\Swerver\frontend
+[backend] [2025-07-05T20:11:46.993Z] [API] System index available at: http://localhost:8080/api/v1/system/index
+[backend] 7/5/2025 16:11:46 24148 [INFO] Node Media Server v2.7.4
+[backend] [2025-07-05T20:11:47.008Z] [RTMP] Server listening on: rtmp://localhost:1935
+[backend] [2025-07-05T20:11:47.008Z] [SYSTEM] ----------------------------------------------------
+[backend] 7/5/2025 16:11:47 24148 [INFO] Node Media Rtmp Server started on port: 1935
+[frontend]  ⚠ Warning: Found multiple lockfiles. Selecting C:\Users\zakde\package-lock.json.
+[frontend]    Consider removing the lockfiles at:
+[frontend]    * C:\Users\zakde\Desktop\Swerver\frontend\package-lock.json
+[frontend]    * C:\Users\zakde\Desktop\Swerver\package-lock.json
+[frontend]
+[frontend]    ▲ Next.js 15.4.0-canary.113
+[frontend]    - Local:        http://localhost:3000
+[frontend]    - Network:      http://192.168.1.109:3000
+[frontend]
+[frontend]  ✓ Starting...
+[frontend]
+[frontend]    We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[frontend]    The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+[frontend]
+[frontend]      - target was set to ES2017 (For top-level `await`. Note: Next.js only polyfills for the esmodules target.)
+[frontend]
+[frontend]  ✓ Ready in 1893ms
+[frontend]  ○ Compiling /prime_nexus ...
+[frontend]  ⨯ ./app/globals.css.webpack[javascript/auto]!=!../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/globals.css
+[frontend] Error: Cannot find module '@tailwindcss/postcss'
+[frontend] Require stack:
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\blocks\css\plugins.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\blocks\css\index.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\index.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack-config.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\router-server.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\start-server.js
+[frontend]     at Array.map (<anonymous>)
+[frontend] Import trace for requested module:
+[frontend] ./app/globals.css.webpack[javascript/auto]!=!../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/globals.css
+[frontend] ./app/globals.css
+[frontend]  ⨯ ./app/globals.css.webpack[javascript/auto]!=!../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/globals.css
+[frontend] Error: Cannot find module '@tailwindcss/postcss'
+[frontend] Require stack:
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\blocks\css\plugins.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\blocks\css\index.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack\config\index.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\build\webpack-config.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\router-server.js
+[frontend] - C:\Users\zakde\Desktop\Swerver\node_modules\next\dist\server\lib\start-server.js
+[frontend]     at Array.map (<anonymous>)
+[frontend] Import trace for requested module:
+[frontend] ./app/globals.css.webpack[javascript/auto]!=!../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/globals.css
+[frontend] ./app/globals.css
+[frontend]  GET /prime_nexus 500 in 7723ms
+[backend] [2025-07-05T20:16:33.719Z] [NMS] New connection attempt received. ID: 5P65DUYH
+[backend] 7/5/2025 16:16:33 24148 [INFO] [rtmp connect] id=5P65DUYH ip=::1 app=live args={"app":"live","type":"nonprivate","flashVer":"FMLE/3.0 (compatible; FMSc/1.0)","swfUrl":"rtmp://localhost:1935/live","tcUrl":"rtmp://localhost:1935/live"}
+[backend] 7/5/2025 16:16:33 24148 [INFO] [rtmp publish] New stream. id=5P65DUYH streamPath=/live/zak streamId=1
+[backend] [2025-07-05T20:16:33.722Z] [NMS] Stream '/live/zak' published. OBS is connected.
+[backend] 7/5/2025 16:16:34 24148 [INFO] [rtmp publish] Handle audio. id=5P65DUYH streamPath=/live/zak sound_format=10 sound_type=2 sound_size=1 sound_rate=3 codec_name=AAC 48000 2ch
+[backend] 7/5/2025 16:16:34 24148 [INFO] [rtmp publish] Handle video. id=5P65DUYH streamPath=/live/zak frame_type=1 codec_id=7 codec_name=H264 1364x720
+[frontend]  GET /prime_nexus 500 in 26ms
+Terminate batch job (Y/N)? [frontend] Terminate batch job (Y/N)?
+[backend] Terminate batch job (Y/N)?
+[frontend]
+[backend] npm run dev:backend exited with code 1
+[frontend] npm run dev:frontend exited with code 1
+
+^C
+C:\Users\zakde\Desktop\Swerver>npm install -D tailwindcss postcss autoprefixer --prefix frontend
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated @humanwhocodes/config-array@0.13.0: Use @eslint/config-array instead
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.1.7: Glob versions prior to v9 are no longer supported
+npm warn deprecated @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+npm warn deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+
+added 411 packages, and audited 412 packages in 10s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\zakde\Desktop\Swerver>npm run dev
+
+> swerver-orchestrator@1.0.0 dev
+> concurrently "npm:dev:*"
+
+[backend]
+[backend] > swerver-orchestrator@1.0.0 dev:backend
+[backend] > node Swerver.js
+[backend]
+[frontend]
+[frontend] > swerver-orchestrator@1.0.0 dev:frontend
+[frontend] > npm run dev --prefix frontend
+[frontend]
+[frontend]
+[frontend] > mystra-os-web-ui@0.1.0 dev
+[frontend] > next dev
+[frontend]
+[backend] [2025-07-05T20:21:16.134Z] [SYSTEM] ----------------------------------------------------
+[backend] [2025-07-05T20:21:16.135Z] [SYSTEM] Swerver Orchestrator is running on port 8080
+[backend] [2025-07-05T20:21:16.136Z] [HTTP] Serving front-end from: C:\Users\zakde\Desktop\Swerver\frontend
+[backend] [2025-07-05T20:21:16.136Z] [API] System index available at: http://localhost:8080/api/v1/system/index
+[backend] 7/5/2025 16:21:16 10700 [INFO] Node Media Server v2.7.4
+[backend] [2025-07-05T20:21:16.151Z] [RTMP] Server listening on: rtmp://localhost:1935
+[backend] [2025-07-05T20:21:16.152Z] [SYSTEM] ----------------------------------------------------
+[backend] 7/5/2025 16:21:16 10700 [INFO] Node Media Rtmp Server started on port: 1935
+[frontend]   ▲ Next.js 14.2.30
+[frontend]   - Local:        http://localhost:3000
+[frontend]
+[frontend]  ✓ Starting...
+[backend] [2025-07-05T20:21:17.361Z] [NMS] New connection attempt received. ID: IP6KMYVY
+[backend] 7/5/2025 16:21:17 10700 [INFO] [rtmp connect] id=IP6KMYVY ip=::1 app=live args={"app":"live","type":"nonprivate","flashVer":"FMLE/3.0 (compatible; FMSc/1.0)","swfUrl":"rtmp://localhost:1935/live","tcUrl":"rtmp://localhost:1935/live"}
+[backend] 7/5/2025 16:21:17 10700 [INFO] [rtmp publish] New stream. id=IP6KMYVY streamPath=/live/zak streamId=1
+[backend] [2025-07-05T20:21:17.364Z] [NMS] Stream '/live/zak' published. OBS is connected.
+[frontend]  ✓ Ready in 1504ms
+[backend] 7/5/2025 16:21:18 10700 [INFO] [rtmp publish] Handle audio. id=IP6KMYVY streamPath=/live/zak sound_format=10 sound_type=2 sound_size=1 sound_rate=3 codec_name=AAC 48000 2ch
+[backend] 7/5/2025 16:21:18 10700 [INFO] [rtmp publish] Handle video. id=IP6KMYVY streamPath=/live/zak frame_type=1 codec_id=7 codec_name=H264 1364x720
+[frontend]  ○ Compiling /_not-found ...
+[frontend]  ✓ Compiled /_not-found in 2.8s (452 modules)
+[frontend]  ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[frontend]  GET /_next/static/webpack/5094108ab17b3138.webpack.hot-update.json 404 in 2914ms
+[frontend]  ○ Compiling /prime_nexus ...
+[frontend]  ✓ Compiled /prime_nexus in 1581ms (471 modules)
+[frontend]  GET /prime_nexus 200 in 1595ms
+[frontend]  ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[frontend]  GET /prime_nexus 200 in 190ms
+[frontend]  GET /_next/static/webpack/5094108ab17b3138.webpack.hot-update.json 404 in 121ms

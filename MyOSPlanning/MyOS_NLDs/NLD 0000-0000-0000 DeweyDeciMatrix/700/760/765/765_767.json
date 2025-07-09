@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MGYtxfcwfKB4CYwxBhfGTBh3",
+  "prefLabel": {
+    "it": "Procedimenti a intaglio",
+    "sv": "Djuptryckstekniker",
+    "fr": "Procédés d’impression en creux",
+    "de": "Tiefdruckverfahren",
+    "en": "Intaglio processes",
+    "no": "Dyptrykkprosesser (intaglio)"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3RV8w9JphKrDqPGmHDg77FycC",
+    "https://id.oclc.org/worldcat/ddc/E3rhPKy3YFxPdbvq7P8hTtFP36",
+    "https://id.oclc.org/worldcat/ddc/E39FB4XCFhCTydWj3MmwVw834Q"
+  ],
+  "modified": "2020-03-25T19:40:02Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "765-767",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

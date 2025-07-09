@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dCwyq7HJQdTC79XDWYHQtQRB",
+  "prefLabel": {
+    "no": "Komponister og musikktradisjoner",
+    "fr": "Compositeurs et traditions musicales",
+    "it": "Compositori e tradizioni musicali",
+    "en": "Composers and traditions of music",
+    "de": "Komponisten und Musiktraditionen",
+    "sv": "Kompositörer och musiktraditioner"
+  },
+  "modified": "2024-02-01T06:37:00Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WHJrC7hmK6J6Ytq6PRCH3f7j",
+  "notation": "789",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

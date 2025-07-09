@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fXPB8JTFMPdtkpVVhdDcxdQB",
+  "prefLabel": {
+    "no": "Elektrisitet og elektronikk",
+    "sv": "Elektricitet och elektronik",
+    "it": "Elettricità ed elettronica",
+    "de": "Elektrizität und Elektronik",
+    "en": "Electricity and electronics",
+    "fr": "Électricité et électronique"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'elettromagnetismo"
+    ],
+    "fr": [
+      "Classer ici l’électromagnétisme"
+    ],
+    "sv": [
+      "Klassificera här elektromagnetism"
+    ],
+    "no": [
+      "Her: Elektromagnetisme"
+    ],
+    "en": [
+      "Class here electromagnetism"
+    ],
+    "de": [
+      "Hier auch: Elektromagnetismus"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "537",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "modified": "2024-02-05T07:28:43Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

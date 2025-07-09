@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rJgV76kwd6d6PYhTpKKXrXvY",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "974-975",
+  "prefLabel": {
+    "it": "Stati Uniti nordorientali e sudorientali",
+    "fr": "Nord-Est et Sud-Est des États-Unis",
+    "sv": "Nordöstra och sydöstra Förenta staterna",
+    "no": "Det nordøstlige og det sørøstlige USA",
+    "de": "Nordöstliche und südöstliche Staaten der USA",
+    "en": "Northeastern and southeastern United States"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Ybq8V8FWJWDDK3hbhmypvkgg",
+    "https://id.oclc.org/worldcat/ddc/E36BXMvdbKYR9KBxD8XB7rwTMF"
+  ],
+  "type": "Concept",
+  "modified": "2024-05-10T18:00:27Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MtByG8TFP6HhpBBcy4qTfckm",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les anecdotes, les citations, les conférences, les entrevues, les essais, les graffitis, les résumés"
+    ],
+    "de": [
+      "Hier auch: Ansprachen, Vorträge, Essays, Interviews, Graffiti, Zitate"
+    ],
+    "en": [
+      "Class here abstracts, addresses, lectures, essays, interviews, graffiti, quotations"
+    ],
+    "no": [
+      "Her: Sammendrag, foredrag, forelesninger, essayer, intervjuer, graffiti, sitater"
+    ],
+    "sv": [
+      "Klassificera här referat, anföranden, föreläsningar, essäer, intervjuer, graffiti, citat"
+    ],
+    "it": [
+      "Classificare qui le citazioni, le conferenze, i discorsi, i graffiti, le interviste, i riassunti analitici (abstract), i saggi"
+    ]
+  },
+  "modified": "2024-11-02T00:44:37Z",
+  "created": "1998-10-20",
+  "prefLabel": {
+    "fr": "Recueils généraux",
+    "no": "Generelle samlinger",
+    "de": "Allgemeine Sammelwerke",
+    "sv": "Allmänna samlingsverk",
+    "en": "General collections",
+    "it": "Raccolte generali"
+  },
+  "type": "Concept",
+  "notation": "080",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3x8vCCPTmRYHcgDDKHqfKDcfp",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

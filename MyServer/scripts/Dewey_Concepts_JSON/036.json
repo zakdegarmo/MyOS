@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Rw7k4k4fCPHQYTp3GGGrCc8f",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "prefLabel": {
+    "it": "Opere enciclopediche generali in spagnolo, portoghese, gallego",
+    "de": "Allgemeinenzyklopädien in Spanisch, Portugiesisch, Galicisch",
+    "no": "Generelle leksikalske verker på spansk, portugisisk, galisisk",
+    "en": "General encyclopedic works in Spanish, Portuguese, Galician",
+    "sv": "Allmänna uppslagsverk på spanska, portugisiska, galiciska",
+    "fr": "Encyclopédies générales en espagnol, en portugais, en galicien"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-03-01T15:08:05Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "036",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

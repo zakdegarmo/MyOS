@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PJdgCWB7rqGgYtBqRXg43XFh",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Weltwirtschaft",
+    "it": "Economia internazionale",
+    "sv": "Internationell ekonomi",
+    "no": "Internasjonal økonomi",
+    "fr": "Économie internationale",
+    "en": "International economics"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här internationell ekonomisk planering; övergripande verk om internationella ekonomiska relationer, om internationellt ekonomiskt samarbete"
+    ],
+    "fr": [
+      "Classer ici la planification économique internationale ; les ouvrages généraux sur les relations économiques internationales, sur la coopération économique internationale"
+    ],
+    "no": [
+      "Her: Internasjonal økonomisk planlegging; oversiktsverker om internasjonale økonomiske relasjoner, om internasjonalt økonomisk samarbeid"
+    ],
+    "it": [
+      "Classificare qui la pianificazione economica internazionale; le opere d'insieme sulle relazioni economiche internazionali, sulla cooperazione economica internazionale"
+    ],
+    "en": [
+      "Class here international economic planning; comprehensive works on international economic relations, on international economic cooperation"
+    ],
+    "de": [
+      "Hier auch: internationale Wirtschaftsplanung; umfassende Werke über internationale Wirtschaftsbeziehungen, über internationale wirtschaftliche Zusammenarbeit"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "337",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

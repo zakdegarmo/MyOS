@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cTY7J364q98jQp84JyQrPT9t",
+  "prefLabel": {
+    "de": "Ausbildung, Forschung, verwandte Themen",
+    "sv": "Utbildning, forskning, liknande ämnen",
+    "no": "Utdanning og opplæring, forskning, lignende emner",
+    "it": "Educazione, ricerca, soggetti collegati",
+    "en": "Education, research, related topics",
+    "fr": "Étude et enseignement, recherche, sujets connexes"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2019-02-13T12:47:03Z",
+  "type": "Concept",
+  "notation": "507",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

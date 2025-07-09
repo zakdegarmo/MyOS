@@ -1,0 +1,45 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la trasformazione in specifiche forme d'energia"
+    ],
+    "fr": [
+      "Classer ici la transformation en des formes d’énergie particulières"
+    ],
+    "no": [
+      "Her: Omdanning til bestemte energiformer"
+    ],
+    "de": [
+      "Hier auch: Umwandlung in einzelne Energieformen"
+    ],
+    "sv": [
+      "Klassificera här omvandling till särskilda former av energi"
+    ],
+    "en": [
+      "Class here transformation into specific forms of energy"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3fXPB8JTFMPdtkpVVhdDcxdQB",
+    "https://id.oclc.org/worldcat/ddc/E3pw49pmP9yJhYDyWcrxPmwPqB",
+    "https://id.oclc.org/worldcat/ddc/E3JtWqfyg46kKVQWxW8rqfqTvX",
+    "https://id.oclc.org/worldcat/ddc/E48qrp9xPcTJb3twpDrqXhmJjb",
+    "https://id.oclc.org/worldcat/ddc/E3RD7DtPhY3bJVbBmKdrpjG49f"
+  ],
+  "prefLabel": {
+    "sv": "Särskilda former av energi",
+    "de": "Einzelne Energieformen",
+    "it": "Specifiche forme d'energia",
+    "en": "Specific forms of energy",
+    "no": "Bestemte energiformer",
+    "fr": "Formes d’énergie particulières"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2019-09-23T19:13:34Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "534-538",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

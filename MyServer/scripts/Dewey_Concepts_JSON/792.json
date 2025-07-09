@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B4rFFF9hbjrmCFpTrcQHQwtx",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Theaterschauspiel, Theater"
+    ],
+    "it": [
+      "Classificare qui la rappresentazione drammatica, il teatro"
+    ],
+    "en": [
+      "Class here dramatic presentation, theater"
+    ],
+    "no": [
+      "Her: Dramatisk framføring, teater"
+    ],
+    "sv": [
+      "Klassificera här dramatisk framställning, teater"
+    ],
+    "fr": [
+      "Classer ici les représentations dramatiques, le théâtre"
+    ]
+  },
+  "prefLabel": {
+    "it": "Rappresentazioni sceniche",
+    "de": "Bühnenkunst",
+    "fr": "Représentations sur scène",
+    "en": "Stage presentations",
+    "sv": "Scenframträdanden",
+    "no": "Sceneopptredener"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "type": "Concept",
+  "notation": "792",
+  "modified": "2025-01-20T14:13:18Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

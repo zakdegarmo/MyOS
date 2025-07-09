@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jwjjT6Bgq4H8jQgtByC4pFJQ",
+  "prefLabel": {
+    "en": "Celestial mechanics",
+    "de": "Himmelsmechanik",
+    "sv": "Celest mekanik",
+    "fr": "Mécanique céleste",
+    "it": "Meccanica celeste",
+    "no": "Celest mekanikk"
+  },
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Gleichgewicht, Drei-, Vielkörperproblem",
+      "Hier auch: Bewegung"
+    ],
+    "en": [
+      "Class here motion",
+      "Including equilibrium, problems of three and n bodies"
+    ],
+    "sv": [
+      "Omfattar ekvilibrium, trekropparsproblemet och N-kropparsproblemet",
+      "Klassificera här rörelse"
+    ],
+    "it": [
+      "Include l'equilibrio, i problemi dei tre e degli n corpi",
+      "Classificare qui il moto"
+    ],
+    "no": [
+      "Inkluderer: Ekvilibrium, trelegemeproblemet, n-legemeproblemet",
+      "Her: Bevegelse"
+    ],
+    "fr": [
+      "Classer ici le mouvement",
+      "Y compris l’équilibre, les problèmes à trois et à « n » corps"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2022-04-21T10:21:15Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+  "notation": "521",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

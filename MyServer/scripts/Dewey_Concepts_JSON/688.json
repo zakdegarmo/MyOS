@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3G6JgmgX9pxgrjByTHt9qY89G",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Andere Endprodukte und Verpackungstechnik",
+    "fr": "Autres produits manufacturés et technologie du conditionnement (emballage)",
+    "en": "Other final products, and packaging technology",
+    "sv": "Övriga färdiga produkter och förpackningsteknik",
+    "it": "Altri prodotti finiti e tecnologia della confezione e dell'imballaggio",
+    "no": "Andre sluttprodukter og emballeringsteknologi"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-08-21T20:01:01Z",
+  "notation": "688",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

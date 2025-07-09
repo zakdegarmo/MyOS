@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RfYbVy3yhHbxVCC4CwgbBGf7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Standard French usage (Prescriptive linguistics)",
+    "fr": "Usage du français standard (Linguistique normative)   ",
+    "de": "Gebrauch der französischen Standardsprache (Präskriptive Linguistik)",
+    "sv": "Standardfranskt språkbruk (normativ lingvistik)",
+    "no": "Normert fransk språkbruk (normativ lingvistikk)",
+    "it": "Uso francese standard (Linguistica prescrittiva)"
+  },
+  "notation": "448",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-02-09T17:41:14Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

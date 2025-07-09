@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HY4KjHW6PFp8jcqV98mgrYrB",
+  "prefLabel": {
+    "en": "Inland waterway and ferry transportation",
+    "de": "Binnenschifffahrt und Fährverkehr",
+    "it": "Trasporto per vie d'acqua interne e su traghetti",
+    "no": "Transport på vannveier i innlandet og fergetransport",
+    "fr": "Transports par voies navigables intérieures et par ferry-boats",
+    "sv": "Sjöfart på inre vattenvägar och färjetransport"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "modified": "2022-02-08T09:57:49Z",
+  "notation": "386",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TJfm66GKcYV3c3fD4rx4PckT",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här utveckling, beskrivning, kritik, verk"
+    ],
+    "en": [
+      "Class here development, description, critical appraisal, works"
+    ],
+    "it": [
+      "Classificare qui la storia, la descrizione, lo studio critico, le opere"
+    ],
+    "fr": [
+      "Classer ici l’histoire, l’analyse, les critiques, les œuvres"
+    ],
+    "no": [
+      "Her: Utvikling, beskrivelse, kritisk vurdering, verker"
+    ],
+    "de": [
+      "Hier auch: Entwicklung, Darstellung, kritische Bewertung, Werke"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Histoire, étude géographique, biographie",
+    "it": "Storia, geografia, biografia",
+    "en": "History, geographic treatment, biography",
+    "de": "Geschichte, geografische Behandlung, Biografien",
+    "no": "Historie, geografisk behandling, biografier",
+    "sv": "Historia, geografisk aspekt, biografi"
+  },
+  "notation": "759",
+  "type": "Concept",
+  "modified": "2021-06-28T12:00:49Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36dJKkj94QmgDVpR4QY6RQRFG",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xjY8TTF9WFyDfGFXvXywyCdQ",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Systèmes d’écriture, phonologie, phonétique du grec classique",
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til klassisk gresk",
+    "it": "Sistemi di scrittura, fonologia, fonetica del greco classico",
+    "de": "Schriftsysteme, Phonologie, Phonetik des klassischen Griechisch",
+    "en": "Writing systems, phonology, phonetics of classical Greek",
+    "sv": "Klassiska grekiska skriftsystem, fonologi, fonetik"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2021-01-22T08:47:07Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "notation": "481",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

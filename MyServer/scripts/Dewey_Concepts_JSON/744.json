@@ -1,0 +1,35 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rHXQmJ4jJKTdgyGbg6jcvb9r",
+  "created": "1996-06-01",
+  "modified": "2024-08-13T05:21:39Z",
+  "prefLabel": {
+    "en": "Communication design, visual design, graphic design",
+    "fr": "Design de communication, design visuel, design graphique",
+    "de": "[Unbesetzt]",
+    "sv": "Kommunikationsdesign, visuell design, grafisk design",
+    "it": "Design della comunicazione, design visuale, grafica",
+    "no": "Kommunikasjonsdesign, visuell design, grafisk design"
+  },
+  "notation": "744",
+  "type": "Concept",
+  "scopeNote": {
+    "no": [
+      "Her: Visuell kommunikasjon, kildebøker innen design; design og utsmykning; tverrfaglige verker om design"
+    ],
+    "en": [
+      "Class here visual communication, design source books; pure and applied design and decoration; interdisciplinary works on design"
+    ],
+    "it": [
+      "Classificare qui la comunicazione visuale, i repertori di immagini per il design; il design puro e applicato e la decorazione ; le opere interdisciplinari sul design"
+    ],
+    "fr": [
+      "Classer ici la communication visuelle, les livres fondamentaux du design ; le design et la décoration purs et appliqués ; les ouvrages interdisciplinaires sur le design"
+    ],
+    "sv": [
+      "Klassificera här visuell kommunikation, mönsterböcker i design; renodlad och tillämpad formgivning och utsmyckning; tvärvetenskapliga verk om design (formgivning)"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

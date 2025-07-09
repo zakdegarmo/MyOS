@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mCT8yPk9hpHVXGMxtbtkYBQy",
+  "prefLabel": {
+    "no": "Engelske essayer",
+    "de": "Englische Essays",
+    "sv": "Engelska essäer",
+    "fr": "Essais anglais",
+    "en": "English essays",
+    "it": "Saggistica inglese"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-04-04T18:59:50Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "notation": "824",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

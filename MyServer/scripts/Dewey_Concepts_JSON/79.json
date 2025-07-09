@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3w4dtb4Td4RCmFt6Dq7mG9xX3",
+    "https://id.oclc.org/worldcat/ddc/E46p7cyMYfKgDxJY49c3cpY6VK",
+    "https://id.oclc.org/worldcat/ddc/E3B4rFFF9hbjrmCFpTrcQHQwtx",
+    "https://id.oclc.org/worldcat/ddc/E49fT6PFFBxkxGWdkFDpg7dbyh",
+    "https://id.oclc.org/worldcat/ddc/E44T3rmgm4t38B6qytvjTQWkrq",
+    "https://id.oclc.org/worldcat/ddc/E3VmQF6Jfh8TmFRRdmfg4CryqT",
+    "https://id.oclc.org/worldcat/ddc/E3XJDrJWq3fHYxH8GGRBQHqtxq",
+    "https://id.oclc.org/worldcat/ddc/E3fmctxjhXwTffdHTKYWB74Vxv",
+    "https://id.oclc.org/worldcat/ddc/E3dpyJYfvvGj3C3hQ3RRGR3fB7",
+    "https://id.oclc.org/worldcat/ddc/E47BQr8jCfWhJB4Q3C6GrPyfH8"
+  ],
+  "prefLabel": {
+    "en": "Sports, games & entertainment",
+    "de": "Sport, Spiele & Unterhaltung",
+    "it": "Sport, giochi e intrattenimenti",
+    "no": "Sport, spill og underholdning",
+    "fr": "Sports, jeux et divertissement",
+    "sv": "Idrott, spel & underhållning"
+  },
+  "type": "Concept",
+  "modified": "2018-09-19T15:05:42Z",
+  "notation": "79",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jVXD7f9YJFpxkXfyhXTQjQXV",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

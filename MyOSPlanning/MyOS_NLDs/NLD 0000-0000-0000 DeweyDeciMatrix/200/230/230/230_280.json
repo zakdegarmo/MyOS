@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Hdq4y9PrPK8tJrjXgkWcXRCt",
+  "modified": "2023-11-21T06:26:03Z",
+  "prefLabel": {
+    "no": "Kristendom",
+    "it": "Cristianesimo",
+    "en": "Christianity",
+    "sv": "Kristendom",
+    "de": "Christentum",
+    "fr": "Christianisme"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+    "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+    "https://id.oclc.org/worldcat/ddc/E3V3MTtT4xT46jFhm6vfQQkBpt",
+    "https://id.oclc.org/worldcat/ddc/E4c9X44J73BWjxgBKmFqDrq4YF",
+    "https://id.oclc.org/worldcat/ddc/E38RKbjpcKMwfJfHWq3B7Wqwh7",
+    "https://id.oclc.org/worldcat/ddc/E3K4hpMp9H9pyTxD9Tdq7XRcWx"
+  ],
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4bx3XpBC8c6mqRMJg6tvqj6Rf",
+  "notation": "230-280",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

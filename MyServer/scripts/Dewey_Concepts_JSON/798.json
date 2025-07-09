@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46p7cyMYfKgDxJY49c3cpY6VK",
+  "created": "1996-06-01",
+  "notation": "798",
+  "prefLabel": {
+    "sv": "Hästsport och djurkapplöpning",
+    "de": "Pferdesport und Tierrennen",
+    "no": "Hestesport og kappløp med dyr",
+    "fr": "Sports équestres et courses d'animaux",
+    "en": "Equestrian sports and animal racing",
+    "it": "Sport equestri e corse di animali"
+  },
+  "modified": "2024-09-03T06:30:16Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

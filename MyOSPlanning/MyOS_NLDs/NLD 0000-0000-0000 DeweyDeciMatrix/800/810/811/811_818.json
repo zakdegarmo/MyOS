@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3WQXVKt899jmxJjBD6HpRyqJh",
+    "https://id.oclc.org/worldcat/ddc/E3y4JH6cDBqPRKQ974f3FGQ4CM",
+    "https://id.oclc.org/worldcat/ddc/E3D6qjK4GCCvv8Y98PYTBY7THc",
+    "https://id.oclc.org/worldcat/ddc/E3P4CjRVvJxhvjBpjwYfKkWkH8",
+    "https://id.oclc.org/worldcat/ddc/E3bbtqFYDt4WgDykxtHQB9b7kc",
+    "https://id.oclc.org/worldcat/ddc/E3RQTwTxC4QbbMy6gbkV3CKHcW",
+    "https://id.oclc.org/worldcat/ddc/E3VkQVq6pTRHrvx3cD9fJtGBkX",
+    "https://id.oclc.org/worldcat/ddc/E3H6gJQVyqCwRtpBXPKMPCHHDT"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature américaine en anglais",
+    "en": "Subdivisions for specific forms of American literature in English",
+    "no": "Tilføyelser for bestemte former av amerikansk litteratur på engelsk",
+    "de": "Unterklassen für einzelne Gattungen amerikanischer Literatur in Englisch",
+    "sv": "Indelningar för särskilda former av amerikansk litteratur på engelska",
+    "it": "Suddivisioni della letteratura americana in lingua inglese in base a specifiche forme"
+  },
+  "type": "Concept",
+  "notation": "811-818",
+  "modified": "2023-04-13T12:29:23Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jjwKWQrjy9DxTCCW7j8Gck3b",
+  "created": "2010-02-04",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

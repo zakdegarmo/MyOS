@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47dWb9XY7mBFmmTqJD7Vmyfgx",
+  "prefLabel": {
+    "it": "Cura pastorale delle famiglie, di specifici gruppi di persone",
+    "sv": "Själavård för familjer, för särskilda grupper",
+    "en": "Pastoral care of families, of specific groups of people",
+    "no": "Pastoral omsorg for familier, for bestemte persongrupper",
+    "de": "Familienseelsorge und Kategorialseelsorge",
+    "fr": "Activités pastorales auprès des familles, des groupes particuliers de personnes"
+  },
+  "scopeNote": {
+    "no": [
+      "Utført av geistlighet eller legfolk",
+      "Her: Pastoralrådgivning og rådgivning for bestemte persongrupper"
+    ],
+    "en": [
+      "Performed by clergy or laity",
+      "Class here pastoral counseling of specific groups of people"
+    ],
+    "sv": [
+      "Klassificera här pastoral rådgivning för särskilda grupper",
+      "Utförd av prästerskap eller lekmän"
+    ],
+    "fr": [
+      "Classer ici les conseils pastoraux aux groupes particuliers de personnes",
+      "Activités exercées par le clergé ou par les laïcs"
+    ],
+    "de": [
+      "Ausgeführt durch Geistliche oder Laien",
+      "Hier auch: Seelsorgeberatung für einzelne Personengruppen"
+    ],
+    "it": [
+      "Prestata dal clero o dai laici",
+      "Classificare qui l'assistenza pastorale di specifici gruppi di persone"
+    ]
+  },
+  "modified": "2024-01-29T09:59:07Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "259",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38RKbjpcKMwfJfHWq3B7Wqwh7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

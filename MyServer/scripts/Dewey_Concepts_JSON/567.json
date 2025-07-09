@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BTV3RfGfG3hwGHpGjPJFJHCg",
+  "scopeNote": {
+    "en": [
+      "Class here Pisces (fishes); Actinopterygii, Osteichthyes, Teleostei",
+      "Including Leptolepis"
+    ],
+    "it": [
+      "Classificare qui i Pisces (Pesci), gli Actinopterygii, gli Osteichthyes, i Teleostei",
+      "Include i Leptolepis"
+    ],
+    "no": [
+      "Inkluderer: Leptolepis",
+      "Her: Pisces (fisk); Actinopterygii (strålefinnede fisk), Osteichthyes (benfisk), Teleostei (ekte benfisk)"
+    ],
+    "fr": [
+      "Y compris les Leptolepis",
+      "Classer ici les Pisces (poissons) ; les Actinoptérygiens, les Ostéichthyens, les Téléostéens"
+    ],
+    "de": [
+      "Einschließlich: Leptolepis",
+      "Hier auch: Fossile Pisces (Fische); Actinopterygii (Strahlenflosser), Osteichthyes, Teleostei (Knochenfische)"
+    ],
+    "sv": [
+      "Klassificera här Pisces (fiskar); Actinopterygii (strålfeniga fiskar), Osteichthyes (benfiskar), Teleostei (egentliga benfiskar)",
+      "Omfattar Leptolepis"
+    ]
+  },
+  "prefLabel": {
+    "de": "Fossile wechselwarme Wirbeltiere",
+    "sv": "Fossila växelvarma ryggradsdjur",
+    "it": "Vertebrati a sangue freddo fossili",
+    "fr": "Vertébrés fossiles à sang froid    ",
+    "en": "Fossil cold-blooded vertebrates",
+    "no": "Fossile vekselvarme virveldyr"
+  },
+  "type": "Concept",
+  "modified": "2019-11-05T11:13:51Z",
+  "created": "1998-10-26",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "notation": "567",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

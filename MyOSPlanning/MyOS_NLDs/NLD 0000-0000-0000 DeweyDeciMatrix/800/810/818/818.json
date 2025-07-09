@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3P4CjRVvJxhvjBpjwYfKkWkH8",
+  "prefLabel": {
+    "sv": "Diverse amerikanska texter på engelska",
+    "it": "Miscellanea americana in inglese",
+    "de": "Amerikanische vermischte Schriften in Englisch",
+    "en": "American miscellaneous writings in English",
+    "no": "Amerikanske diverse skrifter på engelsk",
+    "fr": "Écrits divers américains"
+  },
+  "modified": "2023-05-29T11:32:30Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "notation": "818",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

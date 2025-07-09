@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qrvThMwVd363xYXfkbX3DmpX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Chiese anglicane",
+    "fr": "Églises anglicanes",
+    "en": "Anglican churches",
+    "sv": "Anglikanska kyrkor",
+    "de": "Anglikanische Kirchen",
+    "no": "Anglikanske kirker"
+  },
+  "notation": "283",
+  "created": "1996-06-01",
+  "modified": "2023-06-05T07:26:16Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

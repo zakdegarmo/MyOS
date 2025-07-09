@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kwQcMkqQrjfkjJxgMmTfYcPC",
+  "modified": "2017-12-16T20:54:34Z",
+  "prefLabel": {
+    "fr": "Organisations générales en Amérique du Nord",
+    "de": "Allgemeine Organisationen in Nordamerika",
+    "no": "Generelle organisasjoner i Nord-Amerika",
+    "sv": "Allmänna organisationer i Nordamerika",
+    "it": "Organizzazioni generali in Nordamerica",
+    "en": "General organizations in North America"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "061",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

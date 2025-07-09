@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fgjVWdXrYjr7PKTPHyrmrH3C",
+  "prefLabel": {
+    "no": "Japan",
+    "de": "Japan",
+    "it": "Giappone",
+    "fr": "Japon",
+    "en": "Japan",
+    "sv": "Japan"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2022-02-21T08:49:01Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "created": "1996-06-01",
+  "notation": "952",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vyFPRDfdq4wB3KR7YTc86cP3",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E39FDVyK7wB6mJ8cVQCvcrD7cd",
+    "https://id.oclc.org/worldcat/ddc/E3WxCgGR3kmYHH3FcTVVhxpV7b",
+    "https://id.oclc.org/worldcat/ddc/E3QwXX8k3gdqqkMywM8hjwjfCr"
+  ],
+  "prefLabel": {
+    "no": "Spansk, portugisisk, galisisk",
+    "fr": "Espagnol, portugais, galicien",
+    "de": "Spanisch, Portugiesisch, Galicisch",
+    "sv": "Spanska, portugisiska, galiciska",
+    "en": "Spanish, Portuguese, Galician",
+    "it": "Spagnolo, portoghese, gallego"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "46",
+  "modified": "2021-04-19T12:38:05Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

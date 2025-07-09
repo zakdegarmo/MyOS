@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HDmY6MrVHTCcPCchFDmPfjVr",
+  "prefLabel": {
+    "en": "Conscious mental processes and intelligence",
+    "fr": "Processus mentaux conscients et intelligence",
+    "no": "Bevisste mentale prosesser og intelligens",
+    "de": "Kognitive Prozesse und Intelligenz",
+    "it": "Processi mentali consci e intelligenza",
+    "sv": "Medvetna mentala processer och intelligens"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här medvetna mentala processer och intelligens hos vuxna i allmänhet; kognition, kognitiv psykologi, kognitionsvetenskap, intellektuella processer, övergripande verk om känslor och kognition"
+    ],
+    "it": [
+      "Classificare qui i processi mentali consci e l'intelligenza degli adulti in generale;  la conoscenza, la psicologia cognitiva, la scienza cognitiva, i processi intellettuali, le opere d'insieme sulle emozioni e la conoscenza"
+    ],
+    "de": [
+      "Hier auch: kognitive Prozesse und Intelligenz von Erwachsenen im Allgemeinen [früher 155.6 ], Kognition, Kognitionswissenschaft, intellektuelle Prozesse, umfassende Werke über Emotionen und Kognition"
+    ],
+    "no": [
+      "Her: Bevisste mentale prosesser og intelligens hos voksne generelt, kognisjon, kognitiv psykologi, kognitiv vitenskap, intellektuelle prosesser, oversiktsverker om emosjoner og kognisjon"
+    ],
+    "fr": [
+      "Classer ici les processus mentaux conscients et l'intelligence des adultes en général, la cognition, la psychologie cognitive, les sciences cognitives, les processus intellectuels, les ouvrages généraux sur les émotions et la cognition"
+    ],
+    "en": [
+      "Class here conscious mental processes and intelligence of adults in general; cognition, cognitive psychology, cognitive science, intellectual processes, comprehensive works on emotions and cognition"
+    ]
+  },
+  "notation": "153",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "modified": "2025-05-20T13:17:59Z",
+  "type": "Concept",
+  "created": "1998-10-29",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

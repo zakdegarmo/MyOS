@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HK6v7R6FQdcDfFMfMbD4wMDk",
+  "prefLabel": {
+    "en": "Italian fiction",
+    "sv": "Italienska romaner och noveller",
+    "fr": "Fiction italienne",
+    "no": "Italiensk fiksjon",
+    "de": "Italienische Erzählprosa",
+    "it": "Narrativa italiana"
+  },
+  "notation": "853",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "modified": "2021-12-27T20:44:43Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

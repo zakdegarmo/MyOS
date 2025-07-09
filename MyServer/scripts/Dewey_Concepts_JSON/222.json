@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hvPRVP49PKv4YrVxmF7JfXjY",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Gamla Testamentets historiska böcker",
+    "no": "Det gamle testamentes historiske bøker",
+    "en": "Historical books of Old Testament",
+    "fr": "Livres historiques de l’Ancien Testament",
+    "it": "Libri storici dell'Antico Testamento",
+    "de": "Geschichtsbücher des Alten Testaments"
+  },
+  "notation": "222",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-02T11:22:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tkjDg7V7XxCJjFvBjPg8d4Xg",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

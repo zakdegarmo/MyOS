@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mPTKPR33GCyhCwffJpcC4Mwf",
+  "scopeNote": {
+    "en": [
+      "Original materials and their guides listed here are comprehensive in nature, covering the whole of the law of a specific jurisdiction or a major portion thereof"
+    ],
+    "it": [
+      "I materiali originali e le guide relative qui elencati hanno una natura d'insieme, riguardando l'intero diritto di una giurisdizione o una sua grande parte"
+    ],
+    "no": [
+      "Originaltekster og veiledninger til lover, forskrifter, domssamlinger som klassifiseres her, skal omfatte hele eller mesteparten av lovgivningen i en bestemt jurisdiksjon"
+    ],
+    "de": [
+      "Primärliteratur und die zu ihr gehörende und hier aufgeführte weiterführende Literatur sind an sich bereits umfassend, da sie das gesamte Recht oder einen größeren Teil des Rechts einer bestimmten Gebietskörperschaft abdecken"
+    ],
+    "sv": [
+      "Det källmaterial och deras handledningar som förtecknas här är övergripande till sin natur, och täcker hela eller merparten av juridiken inom en särskild jurisdiktion"
+    ],
+    "fr": [
+      "Les documents originaux (sources) et leurs guides mentionnés ici sont des ouvrages généraux qui couvrent entièrement ou presque entièrement le droit d’une autorité administrative particulière ou d'une importante partie de celle-ci"
+    ]
+  },
+  "modified": "2025-01-16T03:18:00Z",
+  "notation": "348",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Lover, forskrifter, rettssaker",
+    "de": "Gesetze, Verordnungen, Rechtsfälle",
+    "en": "Laws, regulations, cases",
+    "sv": "Lagar, föreskrifter, rättsfall",
+    "it": "Leggi, regolamenti, giurisprudenza",
+    "fr": "Lois, règlements, jurisprudence"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3djf9T4JWY8hd6fhQ6Dkkjqry",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

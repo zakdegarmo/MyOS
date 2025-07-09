@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36hmmYhfKpK8q4wBwrH4tfG8V",
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über die Fertigung von Textilien und Kleidung",
+      "Produktion von Fasern, Stoffen, Seilerware"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om industriell tillverkning av textilier och kläder",
+      "Tillverkning av fibrer, tyger, tågvirke"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la fabrication des textiles et des vêtements",
+      "Production de fibres, de tissus, de cordes et cordages"
+    ],
+    "no": [
+      "Her: Oversiktsverker om industriell produksjon av tekstiler og klær",
+      "Produksjon av fibre, stoffer, tauverk"
+    ],
+    "it": [
+      "Produzione di fibre, stoffe, cordami",
+      "Classificare qui le opere d'insieme su fabbricazione di tessili e di abbigliamento"
+    ],
+    "en": [
+      "Class here comprehensive works on manufacture of textiles and clothing",
+      "Production of fibers, fabrics, cordage"
+    ]
+  },
+  "notation": "677",
+  "prefLabel": {
+    "fr": "Textiles",
+    "en": "Textiles",
+    "it": "Tessili",
+    "de": "Textilien",
+    "sv": "Textilier",
+    "no": "Tekstiler"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-05T08:53:29Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

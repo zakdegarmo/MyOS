@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bkCMX6XyxRrccPMcqq8f7kQT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Teleologie",
+    "en": "Teleology",
+    "it": "Teleologia",
+    "sv": "Teleologi",
+    "no": "Teleologi",
+    "fr": "Téléologie"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Causa finalis"
+    ],
+    "it": [
+      "Classificare qui la causa finale"
+    ],
+    "no": [
+      "Her: Final årsak"
+    ],
+    "fr": [
+      "Classer ici la cause finale"
+    ],
+    "en": [
+      "Class here final cause"
+    ],
+    "sv": [
+      "Klassificera här slutgiltig orsak"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2024-02-01T08:53:53Z",
+  "notation": "124",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

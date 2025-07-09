@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kYwJP7KxCcGfrrT6yJYV46yR",
+  "scopeNote": {
+    "no": [
+      "Forsvar for Guds rettferdighet og godhet til tross for at han tillater ondskap og lidelse i verden, det ondes problem",
+      "Her: Det gode og det onde"
+    ],
+    "it": [
+      "Affermazione della giustizia e della bontà di Dio nel permettere il male e la sofferenza",
+      "Classificare qui il bene e il male"
+    ],
+    "en": [
+      "Class here good and evil",
+      "Vindication of God's justice and goodness in permitting existence of evil and suffering"
+    ],
+    "fr": [
+      "Classer ici le bien et le mal",
+      "Justification de la justice et de la bonté de Dieu en dépit de l’existence du mal et de la souffrance"
+    ],
+    "de": [
+      "Hier auch: Gut und Böse",
+      "Rechtfertigung der Gerechtigkeit und Güte Gottes angesichts der Existenz von Bösem und Leid"
+    ],
+    "sv": [
+      "Försvar för Guds rättvisa och godhet i relation till ondskan och lidandets existens",
+      "Klassificera här gott och ont"
+    ]
+  },
+  "modified": "2023-06-02T09:55:15Z",
+  "prefLabel": {
+    "it": "Teodicea",
+    "sv": "Teodicé",
+    "de": "Theodizee",
+    "en": "Theodicy",
+    "no": "Teodicé",
+    "fr": "Théodicée"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "214",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

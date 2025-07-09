@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hrPJck6k9vXfrBk4ymrxvPyk",
+  "prefLabel": {
+    "fr": "Écologie",
+    "de": "Ökologie",
+    "en": "Ecology",
+    "it": "Ecologia",
+    "sv": "Ekologi",
+    "no": "Økologi"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Including ecotones",
+      "Class here biomes, ecosystems, terrestrial ecology"
+    ],
+    "sv": [
+      "Klassificera här biomer, ekosystem, landekologi",
+      "Omfattar ekotoner"
+    ],
+    "fr": [
+      "Y compris les écotones (zones de transition)",
+      "Classer ici les biomes, l’écologie terrestre, les écosystèmes"
+    ],
+    "it": [
+      "Include gli ecotoni",
+      "Classificare qui i biomi, gli ecosistemi, l'ecologia terrestre"
+    ],
+    "no": [
+      "Her: Biomer, økosystemer, terrestrisk økologi (økologi på landjorda)",
+      "Inkluderer: Økotoner"
+    ],
+    "de": [
+      "Einschließlich: Ökotone",
+      "Hier auch: Biome, Ökosysteme, Landökologie"
+    ]
+  },
+  "notation": "577",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "modified": "2025-04-15T04:24:00Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fRwXbTxTRG9TRXrrTxmcrgk3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DBm7VJKkFMJyh9xWYQH7xQ99",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Figure umane",
+    "no": "Menneskeskikkelser",
+    "fr": "Figures humaines",
+    "de": "Menschliche Figuren",
+    "sv": "Mänskliga gestalter",
+    "en": "Human figures"
+  },
+  "modified": "2023-08-10T06:21:18Z",
+  "type": "Concept",
+  "notation": "757",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Porträts"
+    ],
+    "en": [
+      "Class here portraits"
+    ],
+    "sv": [
+      "Klassificera här porträtt"
+    ],
+    "it": [
+      "Classificare qui i ritratti"
+    ],
+    "fr": [
+      "Classer ici les portraits"
+    ],
+    "no": [
+      "Her: Portretter"
+    ]
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

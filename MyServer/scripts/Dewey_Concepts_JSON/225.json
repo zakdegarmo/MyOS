@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FVFYd9kyX4rJpMqg7dcwycHc",
+  "prefLabel": {
+    "en": "New Testament",
+    "sv": "Nya Testamentet",
+    "no": "Det nye testamente",
+    "de": "Neues Testament",
+    "fr": "Nouveau Testament",
+    "it": "Nuovo Testamento"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "modified": "2023-06-02T11:13:20Z",
+  "notation": "225",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

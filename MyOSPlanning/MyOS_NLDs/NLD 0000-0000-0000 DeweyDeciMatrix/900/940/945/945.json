@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KQK838VRJ77CqtTVWM6XmV6V",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Italien, San Marino, Vatikanstaten, Malta",
+    "de": "Italien, San Marino, Vatikanstadt, Malta",
+    "en": "Italy, San Marino, Vatican City, Malta",
+    "fr": "Italie, Saint-Marin, Cité du Vatican, Malte",
+    "it": "Italia, San Marino, Città del Vaticano, Malta",
+    "no": "Italia, San Marino, Vatikanstaten, Malta"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-02-13T06:03:27Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "notation": "945",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

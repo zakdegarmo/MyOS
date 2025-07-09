@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FkmDwFjwv9W6YBm3RbBgT834",
+  "modified": "2021-02-19T10:21:57Z",
+  "prefLabel": {
+    "de": "Etymologie des Englischen",
+    "sv": "Etymologi gällande standardengelska",
+    "fr": "Étymologie de l'anglais standard",
+    "it": "Etimologia dell'inglese standard",
+    "no": "Standard engelsk etymologi",
+    "en": "Etymology of standard English"
+  },
+  "created": "1996-06-01",
+  "notation": "422",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

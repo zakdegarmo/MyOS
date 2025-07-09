@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dvBtrYbcdVtPYB3FCRxCBcjw",
+  "prefLabel": {
+    "de": "Verschiedenes zur Philosophie",
+    "fr": "Ouvrages divers sur la philosophie",
+    "no": "Diverse innen filosofi",
+    "it": "Miscellanea di filosofia",
+    "en": "Miscellany of philosophy",
+    "sv": "Diverse inom filosofi"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "modified": "2019-06-25T13:18:42Z",
+  "type": "Concept",
+  "notation": "102",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

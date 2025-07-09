@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BWqXyJgrPjvpbGCVFvmK3GcJ",
+  "prefLabel": {
+    "fr": "Mécanique des fluides    ",
+    "sv": "Fluidmekanik",
+    "de": "Fluidmechanik",
+    "no": "Fluidmekanikk",
+    "en": "Fluid mechanics",
+    "it": "Meccanica dei fluidi "
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här hydraulik (hydromekanik), flytande kroppars mekanik"
+    ],
+    "en": [
+      "Class here hydraulics (hydromechanics), liquid mechanics"
+    ],
+    "it": [
+      "Classificare qui l'idraulica (idromeccanica), la meccanica dei liquidi"
+    ],
+    "no": [
+      "Her: Hydraulikk (hydromekanikk), væskemekanikk"
+    ],
+    "de": [
+      "Hier auch: Hydraulik (Hydromechanik), Mechanik der Flüssigkeiten"
+    ],
+    "fr": [
+      "Classer ici l’hydraulique (hydromécanique), la mécanique des liquides"
+    ]
+  },
+  "modified": "2024-01-29T16:25:04Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "532",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

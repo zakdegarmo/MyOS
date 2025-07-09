@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E393Vm9GB8JWJbKrPXyV4BhX3V",
+  "prefLabel": {
+    "no": "Andre italiske språks litteraturer",
+    "sv": "Litteraturer på övriga italiska språk",
+    "de": "Literaturen anderer italischer Sprachen",
+    "fr": "Littératures des autres langues italiques",
+    "en": "Literatures of other Italic languages",
+    "it": "Altre letterature italiche"
+  },
+  "created": "1996-06-01",
+  "notation": "879",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3D4VXXW8jgkBwVYwG8cVWyR66",
+  "type": "Concept",
+  "modified": "2019-06-10T08:16:38Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

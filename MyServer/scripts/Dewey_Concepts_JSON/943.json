@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DCwPCXDyJGmxG6m8cfdRP9bF",
+  "modified": "2024-07-25T12:09:51Z",
+  "notation": "943",
+  "prefLabel": {
+    "fr": "Allemagne et pays avoisinants de l'Europe centrale",
+    "en": "Germany and neighboring central European countries",
+    "de": "Deutschland und benachbarte mitteleuropäische Länder",
+    "it": "Germania e paesi vicini dell'Europa centrale",
+    "sv": "Tyskland och närliggande centraleuropeiska länder",
+    "no": "Tyskland og mellomeuropeiske naboland"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Centraleuropa"
+    ],
+    "no": [
+      "Her: Mellom-Europa"
+    ],
+    "en": [
+      "Class here central Europe"
+    ],
+    "it": [
+      "Classificare qui l'Europa centrale"
+    ],
+    "fr": [
+      "Classer ici l'Europe centrale"
+    ],
+    "de": [
+      "Hier auch: Mitteleuropa"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

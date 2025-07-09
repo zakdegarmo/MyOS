@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Gd9HhBCvWFJG4y4JR8rhrXvP",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Coutumes relatives à la levée des corps et au deuil",
+      "Classer ici la planification d'événements associés aux coutumes relatives à la mort"
+    ],
+    "it": [
+      "Usi e costumi relativi alla sistemazione dei morti e al lutto",
+      "Classificare qui la pianificazione di eventi associati con i costumi funerari"
+    ],
+    "sv": [
+      "Klassificera här planering för händelser som rör seder runt döden",
+      "Seder som är knutna till hanteringen av de döda och till sorg"
+    ],
+    "no": [
+      "Her: planlegging av arrangementer knyttet til skikker knyttet til døden",
+      "Skikker knyttet til håndtering av døde personer og til sorg"
+    ],
+    "en": [
+      "Class here planning for events associated with death customs",
+      "Customs relating to disposal of the dead and to mourning"
+    ],
+    "de": [
+      "Bräuche im Zusammenhang mit der Bestattung von Toten und Trauer"
+    ]
+  },
+  "modified": "2023-06-13T07:06:37Z",
+  "prefLabel": {
+    "it": "Usi e costumi funebri",
+    "no": "Skikker knyttet til døden",
+    "en": "Death customs",
+    "sv": "Seder knutna till döden",
+    "fr": "Coutumes funéraires",
+    "de": "Sterbe- und Bestattungsriten"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "393",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

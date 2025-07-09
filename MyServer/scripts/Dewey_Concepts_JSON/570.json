@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3k647fCwTWT89RfgG9XVhFKRK",
+  "prefLabel": {
+    "it": "Biologia",
+    "fr": "Biologie",
+    "sv": "Biologi",
+    "en": "Biology",
+    "de": "Biologie",
+    "no": "Biologi"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Livsvitenskap, informasjonsbehandling i naturen"
+    ],
+    "de": [
+      "Hier auch: Biowissenschaften, Informationsverarbeitung in der Natur"
+    ],
+    "it": [
+      "Classificare qui le scienze della vita, l'elaborazione dell'informazione in natura"
+    ],
+    "fr": [
+      "Classer ici les sciences de la vie, le traitement de l'information dans la nature"
+    ],
+    "en": [
+      "Class here life sciences, information processing in nature"
+    ],
+    "sv": [
+      "Klassificera här biovetenskaper"
+    ]
+  },
+  "notation": "570",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3KV8ycpCVYvD3h48hvvf494Xg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-05-20T13:17:59Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

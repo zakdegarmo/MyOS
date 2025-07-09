@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rVMdbJHYhYBfKJdm9VxFv3qh",
+  "scopeNote": {
+    "it": [
+      "Classificare qui gli atlanti storici",
+      "Evoluzioni e cambiamenti nelle divisioni politiche"
+    ],
+    "fr": [
+      "Classer ici les atlas historiques",
+      "Extension et modifications des divisions politiques"
+    ],
+    "sv": [
+      "Klassificera här historiska atlaser",
+      "Utbredning och förändringar i politiska indelningar"
+    ],
+    "no": [
+      "Her: Historiske atlas",
+      "Utvikling og endringer av politiske inndelinger"
+    ],
+    "de": [
+      "Hier auch: historische Atlanten",
+      "Wachstum und Veränderung politischer Strukturen"
+    ],
+    "en": [
+      "Class here historical atlases",
+      "Growth and changes in political divisions"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "no": "Historisk geografi",
+    "de": "Historische Geografie",
+    "en": "Historical geography",
+    "it": "Geografia storica",
+    "fr": "Géographie historique",
+    "sv": "Historisk geografi"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyrDdqvYkypcHBGhvq7c9rDm",
+  "notation": "911",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

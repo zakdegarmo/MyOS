@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pPx4yx8Y3jWCPgXXq6ptjF6Y",
+  "prefLabel": {
+    "no": "Litteraturer på nordamerikanske urbefolkningers språk",
+    "en": "Literatures of North American native languages",
+    "de": "Literaturen nordamerikanischer Indianersprachen",
+    "sv": "Litteraturer på nordamerikanska ursprungliga språk",
+    "fr": "Littératures des langues autochtones de l’Amérique du Nord",
+    "it": "Letterature indigene nordamericane"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on literatures of North and South American native languages"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su letterature indigene nordamericane e letterature indigene sudamericane"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om litteraturer på nordamerikanska och sydamerikanska ursprungliga språk"
+    ],
+    "no": [
+      "Her: Oversiktsverker om litteratur på nord- og søramerikanske urbefolkningers språk"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Literaturen nord- und südamerikanischer Indianersprachen"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les littératures des langues autochtones de l’Amérique du Nord et de l’Amérique du Sud"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "897",
+  "modified": "2025-02-10T21:54:17Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

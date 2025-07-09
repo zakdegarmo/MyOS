@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Mw68Fw6TFk3mcqPr8mGQHJMw",
+  "created": "1998-10-27",
+  "prefLabel": {
+    "sv": "Chordata (ryggsträngsdjur)",
+    "de": "Chordata (Chordatiere)",
+    "it": "Chordata",
+    "en": "Chordata",
+    "no": "Chordata",
+    "fr": "Cordés"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här amnioter, landlevande vertebrates (ryggradsdjur), vertebrater",
+      "Klassificera här Vertebrata (Craniata, ryggradsdjur, vertebrater, kraniedjur, kraniater), Tetrapoda (tetrapoder, fyrfotadjur)"
+    ],
+    "no": [
+      "Her: Craniata, Tetrapoda, Vertebrata",
+      "Her: Amnioter, firbente virveldyr, landvirveldyr, virveldyr"
+    ],
+    "de": [
+      "Hier auch: Vertebrata (Craniota, Wirbeltiere), Tetrapoda (Vierfüßer), Amniota"
+    ],
+    "it": [
+      "Classificare qui i Tetrapoda, i Vertebrata (Craniata)",
+      "Classificare qui gli amnioti, i vertebrati, i vertebrati terrestri"
+    ],
+    "fr": [
+      "Classer ici les amniotes, les vertébrés terrestres",
+      "Classer ici les Tétrapodes, les Vertébrés (Crâniés)"
+    ],
+    "en": [
+      "Class here Tetrapoda, Vertebrata (Craniata)",
+      "Class here amniotes, land vertebrates, vertebrates"
+    ]
+  },
+  "modified": "2022-01-21T11:10:45Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "596",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

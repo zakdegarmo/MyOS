@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3W3mj9G3BHpJ6XBgRBDXRPPkp",
+  "prefLabel": {
+    "fr": "Ontologie",
+    "it": "Ontologia",
+    "en": "Ontology",
+    "sv": "Ontologi",
+    "no": "Ontologi",
+    "de": "Ontologie"
+  },
+  "created": "2000-02-02",
+  "notation": "111",
+  "modified": "2024-11-16T03:01:23Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

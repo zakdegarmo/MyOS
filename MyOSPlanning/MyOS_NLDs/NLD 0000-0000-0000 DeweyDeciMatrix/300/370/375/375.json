@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E344Wrpqwc6g6Ct6JyrVQQrdvq",
+  "prefLabel": {
+    "it": "Curricoli",
+    "de": "Curricula",
+    "fr": "Programmes d’enseignement",
+    "sv": "Läroplaner",
+    "no": "Læreplaner, studieplaner",
+    "en": "Curricula"
+  },
+  "notation": "375",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-08-05T12:42:08Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

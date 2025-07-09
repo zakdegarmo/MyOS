@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3D6YGRGhKMQxwDhjK3Jx6vvr3",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Generelle samlinger på nordiske språk",
+    "sv": "Allmänna samlingsverk på nordiska språk",
+    "en": "General collections in Scandinavian languages",
+    "it": "Raccolte generali in lingue scandinave",
+    "de": "Allgemeine Sammelwerke in skandinavischen Sprachen",
+    "fr": "Recueils généraux en langues scandinaves"
+  },
+  "notation": "088",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-12-07T11:49:19Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

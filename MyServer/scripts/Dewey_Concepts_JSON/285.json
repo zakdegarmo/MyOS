@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gWMBQ4g7yXpJKPj9hpxJ9txH",
+  "modified": "2023-06-05T06:48:49Z",
+  "prefLabel": {
+    "sv": "Presbyterianska kyrkor, reformerta kyrkor med centrum i Amerika, kongregationalistkyrkor, puritanism",
+    "en": "Presbyterian churches, Reformed churches centered in America, Congregational churches, Puritanism",
+    "fr": "Églises presbytériennes, Églises réformées en Amérique, Églises congrégationalistes, puritanisme",
+    "it": "Chiese presbiteriane, chiese riformate con centro in America, chiese congregazionaliste, puritanesimo",
+    "no": "Presbyterianske kirker, reformerte kirker med sentrum i Amerika, kongregasjonalistiske kirker, puritanisme",
+    "de": "Presbyterianische Kirchen, reformierte Kirchen mit Sitz in Amerika, kongregationalistische Kirchen, Puritanismus"
+  },
+  "notation": "285",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

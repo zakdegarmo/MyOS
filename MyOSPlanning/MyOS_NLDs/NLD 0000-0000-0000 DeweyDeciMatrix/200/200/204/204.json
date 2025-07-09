@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49p88jqmPkrTBHX6xMRMyhJFR",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Pratiques essentiellement privées ou à caractère individuel",
+      "Classer ici la spiritualité"
+    ],
+    "sv": [
+      "Utövande som huvudsakligen är privata eller individuella till sin karaktär",
+      "Klassificera här andlighet"
+    ],
+    "no": [
+      "Religiøs praksis som i hovedsak gjelder enkeltpersoner",
+      "Her: Spiritualitet"
+    ],
+    "de": [
+      "Hier auch: Spiritualität",
+      "Formen der Religionsausübung mit überwiegend privatem oder individuellem Charakter"
+    ],
+    "en": [
+      "Practices predominantly private or individual in character",
+      "Class here spirituality"
+    ],
+    "it": [
+      "Classificare qui la spiritualità",
+      "Pratiche di natura prevalentemente privata o individuale nella forma"
+    ]
+  },
+  "prefLabel": {
+    "de": "Religiöse Erfahrung, religiöses Leben, religiöse Praxis",
+    "no": "Religiøs erfaring, religiøs livsførsel, religiøs praksis",
+    "fr": "Expérience, vie, pratique religieuses",
+    "it": "Esperienza, vita, pratica religiosa",
+    "sv": "Religiös upplevelse, religiöst liv, religionsutövning",
+    "en": "Religious experience, life, practice"
+  },
+  "modified": "2023-06-02T10:04:58Z",
+  "notation": "204",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

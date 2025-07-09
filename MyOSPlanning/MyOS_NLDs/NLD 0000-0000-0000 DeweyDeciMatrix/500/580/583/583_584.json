@@ -1,0 +1,21 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QwMcCgcKy7hcPWJJkyx6YfdF",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+  "modified": "2021-01-19T07:51:53Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46pgwykXCqvCfqkxXWDMyKbH6",
+    "https://id.oclc.org/worldcat/ddc/E3ygwBv74GvCW6Bxdvk4yFCYkh"
+  ],
+  "prefLabel": {
+    "no": "Angiospermer",
+    "en": "Angiosperms",
+    "it": "Angiosperme",
+    "fr": "Angiospermes",
+    "sv": "Angiospermer"
+  },
+  "notation": "583-584",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "2013-12-06",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

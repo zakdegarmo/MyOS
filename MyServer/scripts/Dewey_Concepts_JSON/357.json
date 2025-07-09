@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wygG73fG77qJyJWmY6rTMTyc",
+  "prefLabel": {
+    "it": "Forze e operazioni montate",
+    "fr": "Cavalerie et ses opérations",
+    "sv": "Kavalleristyrkor och kavallerikrigföring",
+    "en": "Mounted forces and warfare",
+    "de": "Kavalleriestreitkräfte und Kampfführung",
+    "no": "Kavaleristyrker og deres krigføring"
+  },
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49HCpqfXhXM33yDQ84RFFKdhh",
+  "notation": "357",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

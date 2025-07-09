@@ -1,0 +1,3 @@
+[submodule "ext_libs/MemOS"]
+	path = ext_libs/MemOS
+	url = https://github.com/zakdegarmo/MemOS.git

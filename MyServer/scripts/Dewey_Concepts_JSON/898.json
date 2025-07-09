@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YBR6hxPChhCrvH6RcKBTcmKG",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "prefLabel": {
+    "no": "Litteraturer på søramerikanske urbefolkningers språk",
+    "it": "Letterature indigene sudamericane",
+    "de": "Literaturen südamerikanischer Indianersprachen",
+    "en": "Literatures of South American native languages",
+    "sv": "Litteraturer på sydamerikanska ursprungliga språk",
+    "fr": "Littératures des langues autochtones de l’Amérique du Sud"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-03-14T14:03:29Z",
+  "notation": "898",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3KV68FqwPMFVktccxvQvGfqCd",
+    "https://id.oclc.org/worldcat/ddc/E3wfcpp3Dm6wWHKJrbfWBCrkJy",
+    "https://id.oclc.org/worldcat/ddc/E3DXV4Hy8GH6cdKBhKRYg4Bq9f",
+    "https://id.oclc.org/worldcat/ddc/E3PFMMTv4HHQ7tFP9JyfymTvxh",
+    "https://id.oclc.org/worldcat/ddc/E3Jm4JjFt4vhVjCwXk38fWXVrg",
+    "https://id.oclc.org/worldcat/ddc/E4cdgCvV486xHmDmXckkMdttvb",
+    "https://id.oclc.org/worldcat/ddc/E3KRhKGXjbXMp6fY8wpGGJvMFW",
+    "https://id.oclc.org/worldcat/ddc/E33jbJwjVydH6Wpw3H4YHDpyg9",
+    "https://id.oclc.org/worldcat/ddc/E3JbtxjHFg7vqCQGdhQFB3K7TQ"
+  ],
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Biblioteks- och informationsvetenskap",
+    "fr": "Bibliothéconomie et sciences de l'information",
+    "no": "Bibliotek- og informasjonsvitenskap",
+    "it": "Biblioteconomia e scienza dell'informazione",
+    "de": "Bibliotheks- & Informationswissenschaften",
+    "en": "Library & information sciences"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "02",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

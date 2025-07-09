@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XgJkcbjCrYjbpYQxQd6QjMwC",
+  "modified": "2025-02-10T21:54:17Z",
+  "notation": "895",
+  "prefLabel": {
+    "it": "Letterature dell'Asia orientale e sudorientale",
+    "sv": "Östasiatiska och sydöstasiatiska litteraturer",
+    "de": "Literaturen Ost- und Südostasiens",
+    "en": "Literatures of East and Southeast Asia",
+    "no": "Litteraturer på øst- og sørøstasiatiske språk",
+    "fr": "Littératures de l'Asie de l'Est et du Sud-Est   "
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här sinotibetanska litteraturer"
+    ],
+    "de": [
+      "Hier auch: sinotibetische Literaturen"
+    ],
+    "fr": [
+      "Classer ici les littératures sino-tibétaines"
+    ],
+    "en": [
+      "Class here Sino-Tibetan literatures"
+    ],
+    "no": [
+      "Her: Sino-tibetanske språks litteraturer"
+    ],
+    "it": [
+      "Classificare qui le letterature sinotibetane"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

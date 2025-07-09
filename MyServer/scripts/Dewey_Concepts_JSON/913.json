@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WhvpCPxkKjtvqydwQTxqjWPC",
+  "prefLabel": {
+    "en": "Geography of and travel in ancient world",
+    "no": "Geografi og reiser i oldtidens stater og landområder",
+    "fr": "Géographie et voyages dans le monde antique",
+    "de": "Geografie der und Reisen in der Alten Welt",
+    "sv": "Geografi och resor gällande den forntida världen",
+    "it": "Geografia e viaggi relativi al mondo antico"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "notation": "913",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

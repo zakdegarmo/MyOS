@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49xQFWtkH43tQYw66xwxJPdR8",
+  "prefLabel": {
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til klassisk latin",
+    "sv": "Klassiska latinska skriftsystem, fonologi, fonetik",
+    "en": "Writing systems, phonology, phonetics of classical Latin",
+    "it": "Sistemi di scrittura, fonologia, fonetica del latino classico",
+    "de": "Schriftsysteme, Phonologie, Phonetik des klassischen Latein",
+    "fr": "Systèmes d’écriture, phonologie, phonétique du latin classique"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "type": "Concept",
+  "modified": "2021-01-22T09:14:17Z",
+  "notation": "471",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

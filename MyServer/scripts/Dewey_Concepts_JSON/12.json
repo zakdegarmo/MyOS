@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "prefLabel": {
+    "en": "Epistemology",
+    "de": "Epistemologie",
+    "sv": "Kunskapsteori",
+    "no": "Epistemologi (erkjennelsesteori)",
+    "fr": "Épistémologie",
+    "it": "Gnoseologia"
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3PBxbytdqmxF336Py37ygQ7fq",
+    "https://id.oclc.org/worldcat/ddc/E3FTdWFdhMPFMjWWM9DVgBbWqh",
+    "https://id.oclc.org/worldcat/ddc/E3KFwkh7bDwwqXYKftfQjCTWV9",
+    "https://id.oclc.org/worldcat/ddc/E4bkCMX6XyxRrccPMcqq8f7kQT",
+    "https://id.oclc.org/worldcat/ddc/E3HM9M3F6KMqYF4pxBhDfQXjWJ",
+    "https://id.oclc.org/worldcat/ddc/E3T7Tc9yhgfHFWY78HyrDyhyfJ",
+    "https://id.oclc.org/worldcat/ddc/E49MRTy8JqTCtrRV3qXj3pXpKx",
+    "https://id.oclc.org/worldcat/ddc/E3vfkQmwMR6VYqywQF3F7hPQFk",
+    "https://id.oclc.org/worldcat/ddc/E3VT7Vv9q9qY6rCVBbVfGWY394",
+    "https://id.oclc.org/worldcat/ddc/E3qHYQcmjM4XkVwW7gxVr7Mr7F"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "12",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

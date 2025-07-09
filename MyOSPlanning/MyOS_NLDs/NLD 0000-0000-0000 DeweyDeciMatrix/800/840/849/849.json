@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fQcFYT7gqv8jpPJBkxM9Pjkp",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Occitanska, katalanska, frankoprovensalska litteraturer",
+    "de": "Okzitanische, katalanische, frankoprovenzalische Literaturen",
+    "no": "Oksitansk, katalansk, frankoprovençalsk litteratur",
+    "it": "Letteratura occitanica, letteratura catalana, letteratura franco-provenzale",
+    "fr": "Littératures occitane, catalane, franco-provençale",
+    "en": "Occitan, Catalan, Franco-Provençal literatures"
+  },
+  "type": "Concept",
+  "notation": "849",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38Hrr8yHtJ7mcVvRHVWqY8WpK",
+  "modified": "2021-12-27T20:44:43Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

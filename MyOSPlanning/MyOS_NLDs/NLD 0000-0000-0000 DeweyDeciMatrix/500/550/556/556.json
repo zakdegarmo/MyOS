@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43mHVwkRXfWT4g6Y44CB4V6Tm",
+  "prefLabel": {
+    "en": "Earth sciences of Africa",
+    "fr": "Sciences de la Terre de l'Afrique",
+    "sv": "Geovetenskaper gällande Afrika",
+    "de": "Geowissenschaften Afrikas",
+    "it": "Scienze della Terra dell'Africa",
+    "no": "Geovitenskap vedrørende Afrika"
+  },
+  "modified": "2019-11-05T14:37:53Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "notation": "556",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hDkYYRbdjfg9bWRpjdxDVxtX",
+  "modified": "2025-02-20T23:23:05Z",
+  "prefLabel": {
+    "sv": "Kommunikationer   ",
+    "de": "Kommunikation (Nachrichtenübermittlung)",
+    "no": "Kommunikasjonsmidler",
+    "fr": "Communications",
+    "it": "Comunicazioni",
+    "en": "Communications"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le opere interdisciplinari sulle telecomunicazioni",
+      "Include le registrazioni, i segnali ottici"
+    ],
+    "no": [
+      "Inkluderer: Opptak, optisk signalering",
+      "Her: Tverrfaglige verker om telekommunikasjon"
+    ],
+    "fr": [
+      "Y compris les enregistrements, la signalisation visuelle",
+      "Classer ici les ouvrages interdisciplinaires sur les télécommunications"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om telekommunikation",
+      "Omfattar upptagningar, visuella signaler"
+    ],
+    "de": [
+      "Einschließlich: Aufzeichnungen, optische Kommunikation",
+      "Hier auch: fächerübergreifende Werke über Telekommunikation"
+    ],
+    "en": [
+      "Class here interdisciplinary works on telecommunication",
+      "Including recordings, visual signaling"
+    ]
+  },
+  "notation": "384",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

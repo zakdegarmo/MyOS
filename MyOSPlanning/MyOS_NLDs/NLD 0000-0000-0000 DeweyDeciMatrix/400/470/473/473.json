@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3H9PhBQtTBKM7FYFPVhTGdjRX",
+  "prefLabel": {
+    "no": "Ordbøker på klassisk latin",
+    "en": "Dictionaries of classical Latin",
+    "de": "Wörterbücher des klassischen Latein",
+    "sv": "Klassiska latinska lexikon och ordböcker",
+    "fr": "Dictionnaires du latin classique",
+    "it": "Dizionari del latino classico"
+  },
+  "type": "Concept",
+  "notation": "473",
+  "modified": "2021-01-22T09:14:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

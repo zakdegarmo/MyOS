@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FhcY6g793vTTWYcQtYbQ8Bf3",
+  "prefLabel": {
+    "de": "Andere hellenische Sprachen",
+    "en": "Other Hellenic languages",
+    "no": "Andre hellenske språk",
+    "sv": "Övriga grekiska språk",
+    "fr": "Autres langues helléniques",
+    "it": "Altre lingue elleniche"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K8rMpQCFTkBtB9Rr9k3bQGmp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-22T08:47:07Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "489",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

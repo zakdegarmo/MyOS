@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PThV6hF7tWtwvwdQ9JtwQwCM",
+  "prefLabel": {
+    "no": "Kriminologi",
+    "en": "Criminology",
+    "de": "Kriminologie",
+    "fr": "Criminologie",
+    "it": "Criminologia",
+    "sv": "Kriminologi"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on criminology and criminal law, on criminal justice that includes criminology, police services, and criminal law",
+      "Crime and its alleviation"
+    ],
+    "no": [
+      "Kriminalitet og dens bekjempelse",
+      "Her: Oversiktsverker om kriminologi og strafferett, om strafferettspleie som inkluderer kriminologi, polititjenester og strafferett"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Kriminologie und Strafrecht, über Strafjustiz, die Kriminologie, Polizeidienste und Strafrecht einschließen",
+      "Straftaten und ihre Bekämpfung"
+    ],
+    "fr": [
+      "Criminalité et moyens d’y remédier",
+      "Classer ici les ouvrages généraux sur la criminologie et le droit pénal, sur la justice pénale comprenant la criminologie, les services de police et le droit pénal"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla criminologia e il diritto penale, sulla giustizia penale che includa la criminologia, sui servizi di polizia e il diritto penale",
+      "Criminalità e suo contenimento"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om kriminologi och straffrätt, om straffrättskipning som omfattar kriminologi, polisarbete och straffrätt",
+      "Brott och brottsbekämpning"
+    ]
+  },
+  "modified": "2024-08-21T20:01:01Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "notation": "364",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

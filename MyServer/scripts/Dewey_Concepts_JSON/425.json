@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hPqgQbydMrX7XGfYBr6Wjd9k",
+  "prefLabel": {
+    "de": "Grammatik des Englischen",
+    "it": "Grammatica dell'inglese standard",
+    "en": "Grammar of standard English",
+    "sv": "Grammatik gällande standardengelska",
+    "fr": "Grammaire de l’anglais standard",
+    "no": "Standard engelsk grammatikk"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "425",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "created": "1996-06-01",
+  "modified": "2021-02-19T10:21:57Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fkcqyfvdmRgbjgMT88GhW9Vk",
+  "prefLabel": {
+    "en": "Polynesia and other Pacific Ocean islands",
+    "sv": "Polynesien och övriga öar i Stilla havet",
+    "fr": "Polynésie et autres îles de l'océan Pacifique",
+    "de": "Polynesien und andere Inselgruppen und Inseln des Pazifischen Ozeans",
+    "it": "Polinesia e altre isole del Pacifico",
+    "no": "Polynesia og andre stillehavsøyer"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "996",
+  "modified": "2019-02-27T12:55:59Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

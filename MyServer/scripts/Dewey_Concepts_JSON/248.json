@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dKVW8KFmVdTwBFkJdtXg8hdD",
+  "prefLabel": {
+    "it": "Esperienza, pratica, vita cristiana",
+    "de": "Christliche Erfahrung, christliche Praxis, christliches Leben",
+    "no": "Kristen erfaring, kristen livsførsel, kristen praksis",
+    "fr": "Expérience, pratique, vie chrétiennes",
+    "sv": "Kristen upplevelse, kristen religionsutövning, kristet liv",
+    "en": "Christian experience, practice, life"
+  },
+  "notation": "248",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Class here spirituality"
+    ],
+    "de": [
+      "Hier auch: Spiritualität"
+    ],
+    "fr": [
+      "Classer ici la spiritualité"
+    ],
+    "it": [
+      "Classificare qui la spiritualità"
+    ],
+    "no": [
+      "Her: Spiritualitet"
+    ],
+    "sv": [
+      "Klassificera här andlighet"
+    ]
+  },
+  "modified": "2023-06-21T10:59:28Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

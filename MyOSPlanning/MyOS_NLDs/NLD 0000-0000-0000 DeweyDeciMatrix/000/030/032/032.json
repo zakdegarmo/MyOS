@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MkH9MVptw86FRxhRX6DRcb6M",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Encyclopédies générales en anglais",
+    "de": "Allgemeinenzyklopädien in Englisch",
+    "it": "Opere enciclopediche generali in inglese",
+    "no": "Generelle leksikalske verker på engelsk",
+    "sv": "Allmänna uppslagsverk på engelska",
+    "en": "General encyclopedic works in English"
+  },
+  "modified": "2024-11-20T06:37:21Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "type": "Concept",
+  "notation": "032",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

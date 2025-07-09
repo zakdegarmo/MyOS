@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E448Bc6pBrkDT8mTbv9jvmHFwv",
+  "prefLabel": {
+    "de": "Analytische Chemie",
+    "it": "Chimica analitica",
+    "no": "Analytisk kjemi",
+    "en": "Analytical chemistry",
+    "fr": "Chimie analytique",
+    "sv": "Analytisk kemi"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Des produits chimiques inorganiques ou organiques en général",
+      "Classer ici la chimie analytique des métaux en général"
+    ],
+    "de": [
+      "Chemie anorganischer und organischer Stoffe im Allgemeinen",
+      "Hier auch: analytische Chemie von Metallen im Allgemeinen"
+    ],
+    "no": [
+      "Her: Analytisk kjemi vedrørende metaller generelt",
+      "Knyttet til uorganisk eller organisk kjemi generelt"
+    ],
+    "en": [
+      "Of inorganic or organic chemicals in general",
+      "Class here analytical chemistry of metals in general"
+    ],
+    "it": [
+      "Classificare qui la chimica analitica dei metalli in generale",
+      "Di sostanze chimiche inorganiche o organiche in generale"
+    ],
+    "sv": [
+      "Klassificera här analytisk kemi gällande metaller i allmänhet",
+      "Gällande oorganisk kemi och organisk kemi i allmänhet"
+    ]
+  },
+  "notation": "543",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

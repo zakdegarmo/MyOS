@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4dfHGhx3CP9J6H88DhYHkwpGh",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "de": "Journalismus und Zeitungen in Nordamerika",
+    "fr": "Journalisme et journaux en Amérique du Nord",
+    "no": "Journalistikk og aviser i Nord-Amerika",
+    "it": "Giornalismo e giornali in Nordamerica",
+    "en": "Journalism and newspapers in North America",
+    "sv": "Journalistik och dagstidningar i Nordamerika"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "created": "1998-10-28",
+  "type": "Concept",
+  "notation": "071",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

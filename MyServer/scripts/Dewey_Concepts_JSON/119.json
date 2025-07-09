@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tXHD8cDcBhfchjbjrwR7KKjP",
+  "prefLabel": {
+    "de": "Zahl und Quantität",
+    "sv": "Tal och mängd",
+    "no": "Tall og kvantitet (mengde)",
+    "en": "Number and quantity",
+    "fr": "Nombre et quantité",
+    "it": "Numero e quantità"
+  },
+  "modified": "2017-12-16T21:35:49Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "notation": "119",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

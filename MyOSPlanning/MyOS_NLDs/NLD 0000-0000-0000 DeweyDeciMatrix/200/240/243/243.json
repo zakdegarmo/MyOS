@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VGkGMKyY9JYDhYdQ46fdKxP8",
+  "scopeNote": {
+    "de": [
+      "Werke mit der Absicht, Leser zu bekehren, Reue zu fördern"
+    ],
+    "no": [
+      "Verker laget for å omvende leserne, framkalle anger"
+    ],
+    "fr": [
+      "Ouvrages écrits pour convertir les lecteurs, pour les inciter au repentir"
+    ],
+    "sv": [
+      "Arbeten gjorda för att omvända läsaren, främja ånger"
+    ],
+    "en": [
+      "Works designed to convert readers, promote repentance"
+    ],
+    "it": [
+      "Opere concepite per convertire il lettore, per esortarlo a pentirsi"
+    ]
+  },
+  "prefLabel": {
+    "no": "Evangelisk litteratur for enkeltpersoner og familier",
+    "fr": "Textes d’évangélisation destinés aux individus et aux familles",
+    "en": "Evangelistic writings for individuals and families",
+    "de": "Evangelistisches Schrifttum für Einzelpersonen und Familien",
+    "sv": "Väckelseskrifter för enskilda och familjer",
+    "it": "Scritti di evangelizzazione per i singoli e le famiglie"
+  },
+  "type": "Concept",
+  "notation": "243",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "modified": "2023-08-21T13:12:25Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

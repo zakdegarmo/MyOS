@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KJm6HRrRdbrfMbFP38f86ghV",
+  "created": "1998-10-27",
+  "prefLabel": {
+    "sv": "Mollusca (blötdjur) och Molluscoidea",
+    "no": "Mollusca og Molluscoidea",
+    "en": "Mollusca and Molluscoidea",
+    "de": "Mollusca (Weichtiere) und Tentaculata (Kranzfühler)",
+    "it": "Mollusca e Molluscoidea",
+    "fr": "Mollusques et Molluscoïdes"
+  },
+  "notation": "594",
+  "scopeNote": {
+    "no": [
+      "Her: Malakologi, oversiktsverker om skalldyr"
+    ],
+    "de": [
+      "Hier auch: Malakologie (Weichtierkunde), umfassende Werke über Schalentiere"
+    ],
+    "fr": [
+      "Classer ici la malacologie, les ouvrages généraux sur les coquillages"
+    ],
+    "en": [
+      "Class here malacology, comprehensive works on shellfish"
+    ],
+    "sv": [
+      "Klassificera här malakologi, övergripande verk om skaldjur"
+    ],
+    "it": [
+      "Classificare qui la malacologia, le opere d'insieme su molluschi e crostacei"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-08-26T05:55:12Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

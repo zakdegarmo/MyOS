@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y7D77kMXyFR7mKBdMRKk4MVR",
+  "type": "Concept",
+  "scopeNote": {
+    "no": [
+      "Her: Den utøvende statsmakt, tiltak som administreres av den utøvende statsmakt, all offentlig forvaltning utenom væpnede styrker"
+    ],
+    "de": [
+      "Hier auch: Exekutive des Staats, von der Exekutive verwaltete Programme, Staatsdienst im Sinne aller Einheiten der öffentlichen Verwaltung abgesehen von den Streitkräften"
+    ],
+    "sv": [
+      "Klassificera här den verkställande makten, åtgärdsprogram som administreras av den verkställande makten, all offentlig förvaltning utom försvarsmakten"
+    ],
+    "it": [
+      "Classificare qui il potere esecutivo, i programmi amministrati dal potere esecutivo, la funzione pubblica nel senso di tutte le unità dell'amministrazione pubblica, esclusi i servizi armati"
+    ],
+    "en": [
+      "Class here executive branch of government, programs administered by executive branch, civil service in the sense of all units of public administration outside armed services"
+    ],
+    "fr": [
+      "Classer ici le pouvoir exécutif, les programmes administrés par le pouvoir exécutif, la fonction publique regroupant tous les échelons de l’administration publique à l’exception des services armés"
+    ]
+  },
+  "prefLabel": {
+    "it": "Amministrazione pubblica",
+    "no": "Offentlig administrasjon",
+    "en": "Public administration",
+    "de": "Öffentliche Verwaltung",
+    "sv": "Offentlig förvaltning",
+    "fr": "Administration publique"
+  },
+  "created": "1998-10-28",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "351",
+  "modified": "2024-12-16T20:03:50Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

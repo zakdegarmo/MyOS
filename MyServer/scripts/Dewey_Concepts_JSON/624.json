@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39YQ4tr6yGRTKc4HKC69Ydfmf",
+  "prefLabel": {
+    "de": "Ingenieurbau",
+    "no": "Bygge- og anleggsteknikk",
+    "sv": "Bygg- och anläggningsteknik",
+    "en": "Civil engineering",
+    "it": "Ingegneria civile",
+    "fr": "Génie civil"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "no": [
+      "Her: Byggteknikk",
+      "Inkluderer: Teknikk som gjelder landskapsarkitektur"
+    ],
+    "en": [
+      "Class here construction engineering",
+      "Including engineering of landscape architecture"
+    ],
+    "sv": [
+      "Klassificera här konstruktionsteknik (byggnadsteknik)",
+      "Omfattar teknik gällande landskapsarkitektur"
+    ],
+    "de": [
+      "Hier auch: Bautechnik",
+      "Einschließlich: Landschaftsgestaltungstechnik"
+    ],
+    "it": [
+      "Classificare qui la tecnica delle costruzioni civili",
+      "Include l'ingegneria dell'architettura del paesaggio"
+    ],
+    "fr": [
+      "Y compris les techniques de l’architecture du paysage",
+      "Classer ici le génie du bâtiment"
+    ]
+  },
+  "type": "Concept",
+  "modified": "2024-09-25T11:55:38Z",
+  "notation": "624",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

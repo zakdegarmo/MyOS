@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YJMQCXwTmHxYxyx4kqhQ9FQr",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3DcJpXjmd84rqVFkJmgc6pkQG",
+    "https://id.oclc.org/worldcat/ddc/E3prHbwrXpPm9qqv7bYM6w6dKK",
+    "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf"
+  ],
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Einzelne Konfessionen oder Sekten",
+    "en": "Specific denomination or sect",
+    "it": "Specifiche denominazioni o sette",
+    "no": "Et bestemt trossamfunn eller sekt",
+    "sv": "Särskilt samfund eller sekt",
+    "fr": "Confessions ou sectes particulières"
+  },
+  "notation": "281-289",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4c9X44J73BWjxgBKmFqDrq4YF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-20T06:37:21Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

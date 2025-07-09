@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3g6g9cBvjdKCRfrGWw6jtDrh7",
+  "scopeNote": {
+    "sv": [
+      "Förteckningar över verk som finns i en särskild samling eller grupp av samlingar, eller erbjuds till försäljning av andra särskilda organisationer än förlag eller på auktion, och inte begränsas till särskilda ämnen, till enskilda personer, till anonyma och pseudonyma verk, eller till särskilda utgivningsorter",
+      "Klassificera här kataloger ordnade på författare, huvuduppslag, år, eller katalognummer, ordbokskataloger; systematiska, alfabetiska kataloger; allmänna kataloger över seriella resurser och deras index, samkataloger, kataloger som saknar annan placering"
+    ],
+    "de": [
+      "Verzeichnisse von Werken, die als eigenständige Sammlung oder Bestand aufgestellt sind, von einzelnen Organisationen – außer Verlagen – zum Verkauf oder zur Versteigerung angeboten werden, und die sich nicht auf einzelne Themen, Einzelpersonen, anonyme und pseudonyme Werke oder auf einzelne Erscheinungsorte beschränken",
+      "Hier auch: Kataloge sortiert nach Autor, Haupteintragung, Datum oder Akzessionsnummer, Kreuzkataloge; systematische Kataloge, alphabetische Kataloge; allgemeine Kataloge von fortlaufenden Sammelwerken und deren Register, Verbundkataloge, Gesamtkataloge, sofern an anderer Stelle nicht vorgesehen"
+    ],
+    "it": [
+      "Liste di opere appartenenti a una specifica collezione o gruppo di collezioni, o  offerte in vendita da parte di specifiche organizzazioni diverse da editori o case di aste, e non limitate a specifici soggetti, individui, a opere anonime o pseudonime o a specifici luoghi di pubblicazione",
+      "Classificare qui i cataloghi ordinati per autore, intestazione principale, data o numero di registrazione; i cataloghi alfabetici, i cataloghi classificati, i cataloghi dizionario; i cataloghi generali di pubblicazioni seriali e dei loro indici, i cataloghi collettivi, i cataloghi non enunciati altrove"
+    ],
+    "en": [
+      "Class here catalogs arranged by author, main entry, date, or register number; alphabetic catalogs, classified catalogs, dictionary catalogs; general catalogs of serial publications and their indexes, union catalogs, catalogs not provided for elsewhere",
+      "Lists of works held in a specific collection or group of collections, or offered for sale by specific organizations other than publishers or at auction, and not restricted to specific subjects, to individuals, to anonymous and pseudonymous works, or to specific places of publication"
+    ],
+    "fr": [
+      "Listes d’ouvrages conservés dans une collection ou dans un groupe de collections particulières, ou dans un groupe de collections ou d’ouvrages offerts à la vente par des organisations particulières autres que les éditeurs, ou offerts aux ventes aux enchères et qui ne se limitent pas à des sujets particuliers, à une seule personne, aux ouvrages anonymes et publiés sous un pseudonyme ou à des lieux d’édition particuliers",
+      "Classer ici les catalogues par auteurs, vedettes principales, dates ou numéros d’entrée  ; les catalogues alphabétiques, les catalogues-dictionnaires, les catalogues systématiques  ; les catalogues généraux de publications en série et leurs index, les catalogues collectifs, les catalogues ne figurant pas ailleurs"
+    ],
+    "no": [
+      "Lister over verker fra en bestemt samling eller fra grupper av samlinger, eller som selges av spesielle firmaer (ikke forlag) eller på auksjon, og som ikke er begrenset til bestemte emner, enkeltpersoner, anonyme og pseudonyme verker, eller utgiversteder",
+      "Her: Kataloger ordnet etter forfatter, hovedordningsord, dato, eller løpenummer; systematiske kataloger, alfabetiske kataloger, ordbokskataloger; generelle kataloger over periodika og deres registre, samkataloger, kataloger som ikke har annen plassering"
+    ]
+  },
+  "notation": "017",
+  "modified": "2024-11-12T12:04:16Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvdMgWGjDhmXKp89t3GPCtW6",
+  "prefLabel": {
+    "it": "Bibliografie generali e cataloghi di opere appartenenti a specifiche collezioni o offerte in vendita",
+    "de": "Allgemeinbibliografien und allgemeine Kataloge von Werken aus einzelnen Sammlungen oder von zum Verkauf angebotenen Werken",
+    "sv": "Allmänna bibliografier och kataloger över verk som finns i särskilda samlingar eller erbjuds till försäljning",
+    "en": "General bibliographies and catalogs of works held in specific collections or offered for sale",
+    "fr": "Bibliographies et catalogues généraux d'ouvrages conservés dans les collections particulières ou offerts à la vente",
+    "no": "Generelle bibliografier og kataloger over verker fra en eller flere bestemte samlinger eller over verker som er til salgs"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

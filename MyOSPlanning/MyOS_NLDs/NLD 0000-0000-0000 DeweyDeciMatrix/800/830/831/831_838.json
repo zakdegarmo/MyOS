@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Class here specific forms of literature in Alsatian, Franconian, Luxembourgish, Pennsylvania Dutch (Pennsylvania German), Swabian, Swiss-German dialects"
+    ],
+    "fr": [
+      "Classer ici les genres littéraires particuliers de la littérature dans les dialectes alsacien, francique, néerlandais de Pennsylvanie (allemand de Pennsylvanie), souabe, suisse-allemand ; les genres littéraires particuliers de la littérature en luxembourgeois"
+    ],
+    "sv": [
+      "Klassificera här litteratur på elsassiska, frankiska, pennsylvaniatyska, schwabiska, schweizertyska dialekter"
+    ],
+    "de": [
+      "Hier auch: Literatur in elsässischen, fränkischen, pennsylvaniadeutschen, schwäbischen, schweizerdeutschen Dialekten"
+    ],
+    "no": [
+      "Her: Bestemte former av litteratur på elsassisk, frankisk, luxembourgsk, pennsylvaniatysk, schwabisk, sveitsertysk"
+    ],
+    "it": [
+      "Classificare qui la letteratura in dialetto alsaziano, francone, lussemburghese, tedesco di Pennsylvania (Pennsylvania Dutch), svevo, svizzero tedesco (Schwyzerdütsch) in base a specifiche forme"
+    ]
+  },
+  "notation": "831-838",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3GfbygTWxD9pD8VHDkp48Tk9H",
+    "https://id.oclc.org/worldcat/ddc/E3TtHW3g4kbJkTdGBmmcxfCKgG",
+    "https://id.oclc.org/worldcat/ddc/E494GXhtP6VqYqqjfTywvhTDyv",
+    "https://id.oclc.org/worldcat/ddc/E38tym3TttCMypKhWtwYQ3wbgC",
+    "https://id.oclc.org/worldcat/ddc/E3vh4ywMHQ6djCt8KbxBYghXKm",
+    "https://id.oclc.org/worldcat/ddc/E4cGHDGqRF73GqWmHCfPMqFFJj",
+    "https://id.oclc.org/worldcat/ddc/E3PyXXhRpQfqFVrcWpTDTdcKcR",
+    "https://id.oclc.org/worldcat/ddc/E3xXvbGj8Mb6gPDVhDgdb7vwYM"
+  ],
+  "modified": "2024-03-13T13:04:43Z",
+  "prefLabel": {
+    "en": "Subdivisions for specific forms of German literature",
+    "no": "Tilføyelser for bestemte former av tysk litteratur",
+    "de": "Unterklassen für einzelne Gattungen der deutschen Literatur",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature allemande",
+    "sv": "Indelningar för särskilda former av tysk litteratur",
+    "it": "Suddivisioni della letteratura tedesca in base a specifiche forme"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VPVRyYy7TpBhRPXrFW6mp6HX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2010-02-04",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

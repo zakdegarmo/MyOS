@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dFvDWxvW8p6khkkWP3GkCxPV",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg",
+  "scopeNote": {
+    "en": [
+      "Class here botany; Embryophyta, vascular plants (tracheophytes), Spermatophyta (seed plants); natural history of plants; descriptive biology of plants; taxonomic biology of plants; comprehensive works on biology of plants; interdisciplinary works on plants"
+    ],
+    "sv": [
+      "Klassificera här botanik; Embryophyta (embryofyter), kärlväxter (trakeofyter), Spermatophyta (fanerogamer); växternas naturhistoria; deskriptiv växtbiologi; växternas taxonomiska biologi; övergripande verk om växternas biologi; tvärvetenskapliga verk om växter"
+    ],
+    "fr": [
+      "Classer ici la botanique ; les Embryophytes, les plantes vasculaires (Trachéophytes), les Spermatophytes (plantes à graines) ; l’histoire naturelle des plantes ; la biologie descriptive des plantes ; la biologie taxinomique des plantes ; les ouvrages généraux sur la biologie des plantes ; les ouvrages interdisciplinaires sur les plantes"
+    ],
+    "de": [
+      "Hier auch: Botanik; Embryophyten, Gefäßpflanzen (Tracheophyta), Spermatophyta (Samenpflanzen), Angiospermae (Bedecktsamer); Naturgeschichte von Pflanzen; deskriptive Biologie von Pflanzen; taxonomische Biologie von Pflanzen; umfassende Werke über Biologie von Pflanzen; fächerübergreifende Werke über Pflanzen"
+    ],
+    "no": [
+      "Her: Botanikk; Embryophyta, vaskulære planter (karplanter), Spermatophyta (frøplanter); naturhistorie for planter; deskriptiv biologi for planter; taksonomisk biologi for planter; oversiktsverker om biologi for planter; tverrfaglige verker om planter"
+    ],
+    "it": [
+      "Classificare qui la botanica; gli Embryophyta, le piante vascolari (tracheophytes), gli Spermatophyta (piante a seme); la storia naturale delle piante; la biologia descrittiva delle piante; la biologia tassonomica delle piante; le opere d'insieme sulla biologia delle piante; le opere interdisciplinari sulle piante"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Plantes",
+    "sv": "Växter",
+    "it": "Piante",
+    "de": "Pflanzen",
+    "no": "Planter",
+    "en": "Plants"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "580",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

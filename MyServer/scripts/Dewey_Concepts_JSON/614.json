@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y9wpMtQ39kfCkF3T8fPVRYBJ",
+  "prefLabel": {
+    "sv": "Rättsmedicin; skadeincidens, sårincidens, sjukdomsincidens; preventiv allmänmedicin",
+    "fr": "Médecine légale ; incidence des lésions, des blessures, de la maladie ; médecine préventive publique",
+    "it": "Medicina legale; incidenza delle lesioni, ferite, malattie; medicina preventiva pubblica",
+    "en": "Forensic medicine; incidence of injuries, wounds, disease; public preventive medicine",
+    "de": "Rechtsmedizin; Inzidenz von Verletzungen, Wunden, Krankheiten; öffentliche Präventivmedizin",
+    "no": "Rettsmedisin; skadeforekomster, sårforekomster, sykdomsforekomster; offentlig forebyggende medisin"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "614",
+  "modified": "2024-07-09T12:17:19Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

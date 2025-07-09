@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BWRdyQq7JTrXWJtxkxtKxd4y",
+  "prefLabel": {
+    "it": "Arredamento e lavori in casa",
+    "no": "Innredninger og hobbyverksteder",
+    "sv": "Inventarier och hobbyverkstäder",
+    "de": "Wohnungseinrichtung und Heimwerkstätten",
+    "fr": "Ameublement et ateliers familiaux",
+    "en": "Furnishings and home workshops"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Hjeminnredninger"
+    ],
+    "sv": [
+      "Klassificera här inventarier för hemmet"
+    ],
+    "de": [
+      "Hier auch: Einrichtungsgegenstände"
+    ],
+    "en": [
+      "Class here home furnishings"
+    ],
+    "it": [
+      "Classificare qui gli accessori per la casa"
+    ],
+    "fr": [
+      "Classer ici le mobilier"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "684",
+  "modified": "2024-10-28T14:16:53Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

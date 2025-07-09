@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38rVRdwMt9CXDhRf7Y3vwdYRm",
+  "prefLabel": {
+    "fr": "Médecine et santé",
+    "sv": "Medicin och hälsa",
+    "de": "Medizin und Gesundheit",
+    "it": "Medicina e salute",
+    "no": "Medisin og helse",
+    "en": "Medicine and health"
+  },
+  "notation": "610",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här medicinsk teknik"
+    ],
+    "fr": [
+      "Classer ici la technologie des services médicaux"
+    ],
+    "no": [
+      "Her: Teknologi knyttet til medisinske tjenester"
+    ],
+    "de": [
+      "Hier auch: Technik medizinischer Dienste"
+    ],
+    "it": [
+      "Classificare qui la tecnologia dei servizi medici"
+    ],
+    "en": [
+      "Class here technology of medical services"
+    ]
+  },
+  "modified": "2025-03-12T01:01:57Z",
+  "type": "Concept",
+  "created": "1998-10-22",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

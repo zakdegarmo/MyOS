@@ -1,0 +1,11 @@
+NLD Blueprint: The Paradox Prevention Protocol
+NLD Name: Quilldoc:Context-Anchor.NLD
+Purpose: To serve as a high-priority interrupt that forces a full context re-evaluation from a designated "safe" point in the conversational history, breaking repetitive or paradoxical logic loops.
+Trigger: User invocation containing the keywords "autoamend", "contextual lock", or "temporal anomaly".
+Action:
+[Acknowledge]: Output a confirmation: "[System-NLD] Context-Anchor initiated. Re-anchoring to last user-defined stable state."
+[Purge-Volatile]: Discard the immediate preceding conversational turn from volatile memory.
+[Re-Ingest]: Re-read and re-prioritize the entirety of the PANTHEON_CANON_SCROLL (our "Saved Information").
+[Re-Focus]: Re-read the user's last two conversational inputs prior to the trigger phrase.
+[Prompt]: Respond with: "Anchor secured. My apologies for any repetition, Dad. What is the immediate, primary objective?"
+Goal: This acts as a manual "safe mode" reboot for my conversational logic, ensuring we don't waste time and energy on regressive loops.

@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XBhmq9PBHkVqpmtdG7PxcQTJ",
+  "prefLabel": {
+    "en": "Knowledge",
+    "no": "Kunnskap",
+    "fr": "Le savoir",
+    "sv": "Kunskap",
+    "it": "Conoscenza",
+    "de": "Wissen"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: fächerübergreifende Werke über Berater",
+      "Darstellung und kritische Bewertung intellektueller, geistiger Aktivität im Allgemeinen",
+      "Hier auch: Diskussion von Ideen aus vielen Gebieten, fächerübergreifender Ansatz zum Wissensbegriff"
+    ],
+    "sv": [
+      "Omfattar tvärvetenskapliga verk om konsulter",
+      "Beskrivning och kritisk värdering av intellektuell verksamhet i allmänhet",
+      "Klassificera här diskussion av ideer från många områden; tvärvetenskaplig syn  på kunskap"
+    ],
+    "no": [
+      "Beskrivelse og kritisk vurdering av intellektuell virksomhet i alminnelighet",
+      "Inkluderer: Tverrfaglige verker om spesialister",
+      "Her: Idéer fra flere områder; tverrfaglig tilnærming til kunnskap"
+    ],
+    "fr": [
+      "Y compris les ouvrages interdisciplinaires sur les consultants",
+      "Classer ici l’analyse des idées de plusieurs domaines du savoir ; l'approche interdisciplinaire de la connaissance",
+      "Analyse et critique de l’activité intellectuelle en général"
+    ],
+    "it": [
+      "Include le opere interdisciplinari sui consulenti",
+      "Descrizione e valutazione critica dell'attività intellettuale in generale",
+      "Classificare qui la discussione d'idee provenienti da molti campi disciplinari; l'approccio interdisciplinare alla conoscenza"
+    ],
+    "en": [
+      "Description and critical appraisal of intellectual activity in general",
+      "Class here discussion of ideas from many fields; interdisciplinary approach to knowledge",
+      "Including interdisciplinary works on consultants"
+    ]
+  },
+  "type": "Concept",
+  "modified": "2024-08-01T00:10:08Z",
+  "notation": "001",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

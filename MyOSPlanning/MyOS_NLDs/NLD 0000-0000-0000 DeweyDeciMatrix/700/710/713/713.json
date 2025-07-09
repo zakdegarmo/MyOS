@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rjBqgWVJjGbBT8M49cHm4Ttg",
+  "prefLabel": {
+    "sv": "Landskapsarkitektur för trafikleder",
+    "fr": "Architecture du paysage des voies de circulation",
+    "de": "Landschaftsgestaltung von Verkehrswegen",
+    "en": "Landscape architecture of trafficways",
+    "no": "Landskapsarkitektur for trafikkårer",
+    "it": "Architettura del paesaggio delle vie di comunicazione"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "notation": "713",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "prefLabel": {
+    "de": "Unterklassen für einzelne Gattungen der klassischen griechischen Literatur",
+    "no": "Tilføyelser for bestemte former av klassisk gresk litteratur",
+    "en": "Subdivisions for specific forms of classical Greek literature",
+    "it": "Suddivisioni della letteratura greca classica in base a specifiche forme",
+    "sv": "Indelningar för särskilda former av klassisk grekisk litteratur",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature grecque classique"
+  },
+  "created": "2010-02-04",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3GxWjwKKWpGQTDbXmh4kjFQHM",
+    "https://id.oclc.org/worldcat/ddc/E3RVFTggBxgPQpjkdxcb3MpfmB",
+    "https://id.oclc.org/worldcat/ddc/E34WtF34QgFYPFqyjcBy8H6bDY",
+    "https://id.oclc.org/worldcat/ddc/E3vvHvBB63Q3yvvYcPwtM4vbMx",
+    "https://id.oclc.org/worldcat/ddc/E3XKGj9VdX7bTRHPDydR9yBTkg",
+    "https://id.oclc.org/worldcat/ddc/E3gCyrtJXBFDCvP9mGDJQVRhc9",
+    "https://id.oclc.org/worldcat/ddc/E3R6WPPphFwTDMWXR43p8KBQ3d",
+    "https://id.oclc.org/worldcat/ddc/E3VGBmcx9BkPvXtDRfxhB8rtrm"
+  ],
+  "notation": "881-888",
+  "modified": "2022-03-08T11:10:01Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VpFb64j7Tvh9vmkF7xwFdc7M",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hMY94hF9vV6HmbPtDPkFkj9P",
+  "scopeNote": {
+    "no": [
+      "Her: Petrografi, litologi, bergarter"
+    ],
+    "sv": [
+      "Klassificera här petrografi, litologi, bergarter"
+    ],
+    "de": [
+      "Hier auch: Petrografie, Lithologie, Gesteine"
+    ],
+    "en": [
+      "Class here petrography, lithology, rocks"
+    ],
+    "fr": [
+      "Classer ici la pétrographie, la lithologie, les roches"
+    ],
+    "it": [
+      "Classificare qui la petrografia, la litologia, le rocce"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Petrologi",
+    "fr": "Pétrologie",
+    "en": "Petrology",
+    "de": "Petrologie",
+    "it": "Petrologia",
+    "no": "Petrologi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "552",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3r99rdYFvYFFYT9bTWXXfFdVT",
+  "scopeNote": {
+    "en": [
+      "Class here early Christian philosophy"
+    ],
+    "sv": [
+      "Klassificera här tidig kristen filosofi"
+    ],
+    "de": [
+      "Hier auch: frühe christliche Philosophie"
+    ],
+    "it": [
+      "Classificare qui la filosofia cristiana dei primi secoli"
+    ],
+    "no": [
+      "Her: Tidlig kristen filosofi"
+    ],
+    "fr": [
+      "Classer ici la philosophie chrétienne primitive"
+    ]
+  },
+  "prefLabel": {
+    "en": "Medieval western philosophy",
+    "fr": "Philosophie occidentale médiévale",
+    "de": "Mittelalterliche westliche Philosophie",
+    "sv": "Medeltida västerländsk filosofi",
+    "it": "Filosofia occidentale medievale",
+    "no": "Vestens filosofi i middelalderen"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DwDYB4hFbt6QHBh4k7btyqjT",
+  "notation": "189",
+  "modified": "2024-11-12T03:20:35Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

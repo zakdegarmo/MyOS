@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37QW4RCDTMDMrpbtyRk9mxdjV",
+  "notation": "223",
+  "scopeNote": {
+    "it": [
+      "Classificare qui i libri poetici, i Ketuvim (Agiografi, Scritti), la letteratura sapienziale"
+    ],
+    "de": [
+      "Hier auch: Ketubim (Hagiographen, Schriften), Weisheitsliteratur"
+    ],
+    "no": [
+      "Her: Ketubim (Hagiografer, Skriftene), visdomsbøker"
+    ],
+    "sv": [
+      "Klassificera här Ketuvim (Hagiografa, Skrifterna), vishetslitteratur"
+    ],
+    "en": [
+      "Class here Ketuvim (Hagiographa, Writings), wisdom literature"
+    ],
+    "fr": [
+      "Classer ici les Ketouvim (Hagiographes, Écrits), la littérature sapientiale"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Livres poétiques de l’Ancien Testament",
+    "no": "Det gamle testamentes poetiske bøker",
+    "en": "Poetic books of Old Testament",
+    "sv": "Gamla Testamentets poetiska böcker",
+    "it": "Libri sapienziali dell'Antico Testamento",
+    "de": "Poetische Bücher des Alten Testaments"
+  },
+  "modified": "2025-06-11T05:19:25Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tkjDg7V7XxCJjFvBjPg8d4Xg",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

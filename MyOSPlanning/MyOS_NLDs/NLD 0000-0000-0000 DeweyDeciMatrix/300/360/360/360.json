@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44XQHfHWPbFMr4pbXGc36gMyb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Sosiale problemer og tjenester; foreninger",
+    "fr": "Problèmes et services sociaux ; associations",
+    "it": "Problemi e servizi sociali; associazioni",
+    "sv": "Sociala problem och tjänster; föreningar",
+    "de": "Soziale Probleme und Sozialdienste; Verbände",
+    "en": "Social problems and services; associations"
+  },
+  "type": "Concept",
+  "notation": "360",
+  "modified": "2024-07-09T12:14:26Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

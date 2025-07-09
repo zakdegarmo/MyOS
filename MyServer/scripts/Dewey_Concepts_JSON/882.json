@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GxWjwKKWpGQTDbXmh4kjFQHM",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-05-28T10:24:11Z",
+  "prefLabel": {
+    "fr": "Poésie dramatique et œuvres dramatiques grecques classiques",
+    "en": "Classical Greek dramatic poetry and drama",
+    "it": "Poesia drammatica e letteratura drammatica greca classica",
+    "no": "Klassisk gresk dramatisk poesi og drama",
+    "sv": "Klassisk grekisk dramatisk poesi och dramatik",
+    "de": "Klassische griechische dramatische Versdichtung und Dramen"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "type": "Concept",
+  "notation": "882",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

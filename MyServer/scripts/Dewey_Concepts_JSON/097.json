@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Hgx8MchqGwHTDDKpxpQt94dF",
+  "prefLabel": {
+    "en": "Books notable for ownership or origin",
+    "sv": "Böcker med anmärkningsvärt ägarskap eller ursprung",
+    "no": "Bøker som er kjent på grunn av sine eiere eller sin opprinnelse",
+    "fr": "Livres remarquables par la provenance ou l'origine",
+    "it": "Libri notevoli per i loro possessori o per l'origine",
+    "de": "Bücher aus besonderem Besitz oder besonderer Herkunft"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "type": "Concept",
+  "modified": "2019-01-08T22:28:34Z",
+  "notation": "097",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3y4JH6cDBqPRKQ974f3FGQ4CM",
+  "created": "1996-06-01",
+  "notation": "817",
+  "prefLabel": {
+    "fr": "Humour et satire américains en anglais",
+    "it": "Satira e umorismo americano in inglese",
+    "de": "Amerikanischer Humor und amerikanische Satire in Englisch",
+    "sv": "Amerikansk humor och satir på engelska",
+    "en": "American humor and satire in English",
+    "no": "Amerikansk humor og satire på engelsk"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

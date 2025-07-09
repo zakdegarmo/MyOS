@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cfxhWtdRhjXYttrjJGDYXR3V",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "prefLabel": {
+    "fr": "Production laitière et produits connexes",
+    "sv": "Förädling av mjölk och liknande produkter",
+    "it": "Tecnologia dei latticini e dei prodotti connessi",
+    "de": "Milchverarbeitung und verwandte Produkte",
+    "en": "Processing dairy and related products",
+    "no": "Framstilling av meieriprodukter og lignende"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "637",
+  "modified": "2024-05-22T01:15:21Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

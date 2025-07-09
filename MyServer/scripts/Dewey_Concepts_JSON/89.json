@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3VYD43mHyxy4gBCtqXW4Q9XjW",
+    "https://id.oclc.org/worldcat/ddc/E3tW4XpBRKmfkDH4PD8d7HfY9J",
+    "https://id.oclc.org/worldcat/ddc/E3H4g8Qy4rxtdtWFKyMcRxb3rp",
+    "https://id.oclc.org/worldcat/ddc/E44KhdGJ86chhHmTYyHxFQT7Vq",
+    "https://id.oclc.org/worldcat/ddc/E3pPx4yx8Y3jWCPgXXq6ptjF6Y",
+    "https://id.oclc.org/worldcat/ddc/E3YBR6hxPChhCrvH6RcKBTcmKG",
+    "https://id.oclc.org/worldcat/ddc/E3gwfj98hHC4x3VH6pyB4Y8V9r",
+    "https://id.oclc.org/worldcat/ddc/E3Mc7QvyQpr7m49WrvWTtFg97R",
+    "https://id.oclc.org/worldcat/ddc/E3XgJkcbjCrYjbpYQxQd6QjMwC",
+    "https://id.oclc.org/worldcat/ddc/E48YGhGKT6YBJGVK8kKRWFwfrr"
+  ],
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Altre letterature",
+    "en": "Other literatures",
+    "no": "Andre litteraturer",
+    "sv": "Övriga litteraturer",
+    "fr": "Autres littératures",
+    "de": "Andere Literaturen"
+  },
+  "notation": "89",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

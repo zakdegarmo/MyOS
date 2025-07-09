@@ -1,0 +1,55 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "scopeNote": {
+    "fr": [
+      "Selon la langue originale",
+      "Classer ici les publications en série particulières et les ouvrages à leur sujet"
+    ],
+    "sv": [
+      "Enligt det språk på vilket de ursprungligen skrevs",
+      "Klassificera här särskilda seriella resurser och verk om dem"
+    ],
+    "it": [
+      "Classificare qui gli specifici seriali e le opere che li studiano",
+      "Secondo la lingua originale"
+    ],
+    "no": [
+      "Inndeles etter originalspråk",
+      "Her: Bestemte periodika og verker om disse"
+    ],
+    "de": [
+      "Nach der Sprache, in der sie ursprünglich verfasst wurden",
+      "Hier auch: einzelne fortlaufende Sammelwerke und Werke darüber"
+    ],
+    "en": [
+      "Class here specific serial publications and works about them",
+      "By language in which originally written"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3pf4p4RkFxXbrPCvtXqw4gWFB",
+    "https://id.oclc.org/worldcat/ddc/E3jK44J3v7YhH3Btj3qtC7Hh9q",
+    "https://id.oclc.org/worldcat/ddc/E3CKK4x9pDV7WbHHYJmDyF9Rfv",
+    "https://id.oclc.org/worldcat/ddc/E3MMwQVHP8KxR6kW47R6PC8r8Y",
+    "https://id.oclc.org/worldcat/ddc/E3vDcKK33THyppxFHwHY4pcFb3",
+    "https://id.oclc.org/worldcat/ddc/E3QFmDgW7vMXHmpvp7MFyqJPyC",
+    "https://id.oclc.org/worldcat/ddc/E44fgf373HyTgH39CdjQvVjVPc",
+    "https://id.oclc.org/worldcat/ddc/E3qgJqMFvVc7gbmv4hGrGd9qWV",
+    "https://id.oclc.org/worldcat/ddc/E3PfQPmKx7kR77CQjMRf3dcq9m"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Allmänna seriella resurser på särskilda språk och språkfamiljer",
+    "de": "Allgemeine fortlaufende Sammelwerke in einzelnen Sprachen und Sprachfamilien",
+    "it": "Seriali generali in specifiche lingue e famiglie linguistiche",
+    "fr": "Publications en série d’ordre général dans les langues et dans les familles de langues particulières",
+    "en": "General serial publications in specific languages and language families",
+    "no": "Generelle periodika på bestemte språk og språkgrupper"
+  },
+  "modified": "2021-03-01T15:08:05Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XMCKd4QBDgfjyFKfMBRkVgfq",
+  "type": "Concept",
+  "notation": "051-059",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

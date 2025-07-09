@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4ckh6DwjRXrhKKft9P9RHjyR9",
+  "prefLabel": {
+    "it": "Stati e processi subconsci e alterati",
+    "fr": "Processus subconscients et états modifiés de la conscience",
+    "sv": "Undermedvetna och förändrade medvetandetillstånd och processer",
+    "de": "Unterbewusste und bewusstseinsveränderte Zustände und Prozesse",
+    "en": "Subconscious and altered states and processes",
+    "no": "Underbevisste og endrede tilstander og prosesser"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "154",
+  "modified": "2022-09-02T06:50:34Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

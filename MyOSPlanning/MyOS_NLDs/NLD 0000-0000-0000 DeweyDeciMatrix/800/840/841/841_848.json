@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "prefLabel": {
+    "de": "Unterklassen für einzelne Gattungen der französischen Literatur",
+    "it": "Suddivisioni della letteratura francese in base a specifiche forme",
+    "sv": "Indelningar för särskilda former av fransk litteratur",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature française",
+    "no": "Tilføyelser for bestemte former av fransk litteratur",
+    "en": "Subdivisions for specific forms of French literature"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E39tvjWrRFCKCMWfbVPtFwwG3x",
+    "https://id.oclc.org/worldcat/ddc/E3xfW4gXpYRCYBXr3Hj9ykqYdk",
+    "https://id.oclc.org/worldcat/ddc/E3mQd6G8YKP7RTd4Kx4QMmm4Hy",
+    "https://id.oclc.org/worldcat/ddc/E49Tqwrmq3GvK8XKp7YPD84xTK",
+    "https://id.oclc.org/worldcat/ddc/E3qftkYJ9mg96R8TpqhVBwhgTx",
+    "https://id.oclc.org/worldcat/ddc/E3bhxytxxTBBgR8TYBFxd9BGcB",
+    "https://id.oclc.org/worldcat/ddc/E38kTMfw83tqFcBFPvDWKhpWYW",
+    "https://id.oclc.org/worldcat/ddc/E3r4fH8bg3bwmfJKQX6BtFTcgQ"
+  ],
+  "modified": "2024-11-20T06:37:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38Hrr8yHtJ7mcVvRHVWqY8WpK",
+  "type": "Concept",
+  "created": "2010-02-04",
+  "notation": "841-848",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

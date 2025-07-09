@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48m7BJXdrm3XY4Xv86d88WGt3",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Storbritannien"
+    ],
+    "en": [
+      "Class here Great Britain, United Kingdom; Celtic regions, 487 to present"
+    ],
+    "de": [
+      "Hier auch: Großbritannien, Vereinigtes Königreich; keltische Gebiete, 487 bis zur Gegenwart"
+    ],
+    "fr": [
+      "Classer ici la Grande-Bretagne, le Royaume-Uni ; les régions celtiques, 487 jusqu'à maintenant"
+    ],
+    "no": [
+      "Her: Storbritannia, Det forente kongerike Storbritannia og Nord-Irland (United Kingdom)"
+    ],
+    "it": [
+      "Classificare qui la Gran Bretagna, il Regno Unito; regioni celtiche dal 487 a oggi"
+    ]
+  },
+  "notation": "941",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "De britiske øyer",
+    "fr": "Îles Britanniques",
+    "en": "British Isles",
+    "de": "Britische Inseln",
+    "sv": "Brittiska öarna",
+    "it": "Isole Britanniche"
+  },
+  "modified": "2023-08-24T18:01:12Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

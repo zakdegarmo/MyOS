@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48YGhGKT6YBJGVK8kKRWFwfrr",
+  "prefLabel": {
+    "it": "Letterature delle lingue non austronesiane dell'Oceania, letterature austronesiane, letterature di lingue varie",
+    "no": "Litteraturer på ikke-austronesiske språk i Oseania, på austronesiske språk, på diverse språk",
+    "sv": "Litteraturer på icke-austronesiska språk från Oceanien, på austronesiska språk, på diverse språk",
+    "en": "Literatures of non-Austronesian languages of Oceania, of Austronesian languages, of miscellaneous languages",
+    "fr": "Littératures des langues non austronésiennes de l’Océanie, des langues austronésiennes, de diverses autres langues",
+    "de": "Literaturen nichtaustronesischer ozeanischer Sprachen, austronesischer Sprachen, verschiedener anderer Sprachen"
+  },
+  "modified": "2024-07-02T09:01:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1998-11-12",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "notation": "899",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

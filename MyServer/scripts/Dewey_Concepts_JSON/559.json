@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rTVY6kbkfMprVYfFHQj63VwB",
+  "prefLabel": {
+    "de": "Geowissenschaften Australasiens, der Inseln des Pazifischen Ozeans, des Atlantischen Ozeans, des Arktischen Ozeans, der Antarktis, außerirdischer Welten",
+    "en": "Earth sciences of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds",
+    "sv": "Geovetenskaper gällande Australiska regionen, öar i Stilla havet, öar i Atlanten, öar i Arktis, Antarktis, utomjordiska världar ",
+    "it": "Scienze della Terra dell'Australasia, delle isole del Pacifico, delle isole dell'Atlantico, delle isole dell'Artico, dell'Antartico",
+    "no": "Geovitenskap vedrørende Australasia, stillehavsøyene, atlanterhavsøyene, de arktiske øyene, Antarktis, himmellegemer utenfor jorda",
+    "fr": "Sciences de la Terre de l'Australasie, des îles du Pacifique, des îles de l'Atlantique, des îles de l'Arctique, de l'Antarctique, des mondes extraterrestres"
+  },
+  "modified": "2019-11-05T14:37:53Z",
+  "notation": "559",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

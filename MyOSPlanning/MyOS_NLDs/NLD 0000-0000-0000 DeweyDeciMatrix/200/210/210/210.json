@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43BHBrGkQDQ6Xbw7HbRTJmhTY",
+  "prefLabel": {
+    "sv": "Religionsfilosofi och religionsteori",
+    "de": "Religionsphilosophie und Religionstheorie",
+    "en": "Philosophy and theory of religion",
+    "fr": "Philosophie et théorie de la religion",
+    "no": "Filosofi og teori innen religion",
+    "it": "Filosofia e teoria della religione"
+  },
+  "notation": "210",
+  "scopeNote": {
+    "no": [
+      "Her: Naturlig teologi, filosofisk teologi; verker om religionsformer som bygger på iakttagelse og fortolkninger av funn i naturen, på spekulasjon, og på fornuft, men ikke på åpenbaringer eller autoritative hellige skrifter, for å undersøke religiøs tro"
+    ],
+    "it": [
+      "Classificare qui la teologia naturale, la teologia filosofica; le opere che, per esaminare le credenze religiose, si servono dell'osservazione e dell'interpretazione delle prove in natura, della speculazione, del ragionamento, ma non della rivelazione o del ricorso all'autorità di scritture sacre"
+    ],
+    "fr": [
+      "Classer ici la théologie naturelle, la théologie philosophique ; les ouvrages qui utilisent l’observation et l’interprétation de la preuve dans la nature, la spéculation, le raisonnement, mais non la révélation ou les textes sacrés pour examiner les croyances religieuses"
+    ],
+    "sv": [
+      "Klassificera här naturlig teologi, filosofisk teologi; verk som använder observation och tolkning av bevis i naturen, spekulation och resonemang, men inte uppenbarelser eller hänvisningar till auktoritativa skrifter, för att undersöka religiösa övertygelser"
+    ],
+    "en": [
+      "Class here natural theology, philosophical theology; works that use observation and interpretation of evidence in nature, speculation, and reasoning, but not revelation or appeal to authoritative scriptures, to examine religious beliefs"
+    ],
+    "de": [
+      "Hier auch: natürliche Theologie, philosophische Theologie; Werke, die auf Beobachtung und Interpretation von Zeichen in der Natur, Spekulation und Schlussfolgerung zurückgreifen, um religiöse Überzeugungen zu untersuchen, aber nicht auf Offenbarung oder die Berufung auf autoritative Schriften"
+    ]
+  },
+  "modified": "2023-06-02T09:55:15Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

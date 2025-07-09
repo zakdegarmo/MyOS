@@ -1,0 +1,42 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VhH73DvyhGqcKxHM7RqGkjmJ",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über einzelne Sprachen und deren Literatur"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om särskilda språk och litteratur på särskilda språk"
+    ],
+    "no": [
+      "Her: Oversiktsverker om bestemte språk og deres litteratur"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les langues particulières et leurs littératures"
+    ],
+    "en": [
+      "Class here comprehensive works on specific languages and their literatures"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su specifiche lingue e loro letterature"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+    "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wxJ3BTJ68HcKRpy4MpH63b9J",
+  "prefLabel": {
+    "no": "Bestemte språk",
+    "de": "Einzelne Sprachen",
+    "fr": "Langues particulières",
+    "sv": "Särskilda språk",
+    "it": "Specifiche lingue",
+    "en": "Specific languages"
+  },
+  "notation": "420-490",
+  "modified": "2021-02-26T13:00:03Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

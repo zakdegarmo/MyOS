@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B469PrWXXj3P6BqH96MpqWjd",
+  "prefLabel": {
+    "de": "Heer und Kampfführung",
+    "fr": "Fantassins et leurs opérations",
+    "en": "Foot forces and warfare",
+    "sv": "Styrkor till fots och krigföring till fots",
+    "no": "Fotstyrker og deres krigføring",
+    "it": "Forze e operazioni a piedi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E49HCpqfXhXM33yDQ84RFFKdhh",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "356",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

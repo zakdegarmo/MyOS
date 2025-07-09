@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3H4g8Qy4rxtdtWFKyMcRxb3rp",
+  "prefLabel": {
+    "fr": "Littératures afro-asiatiques  ",
+    "en": "Afro-Asiatic literatures",
+    "it": "Letterature afroasiatiche",
+    "sv": "Afroasiatiska litteraturer",
+    "de": "Afroasiatische Literaturen",
+    "no": "Afroasiatiske språks litteraturer"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "892",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här semitiska litteraturer"
+    ],
+    "de": [
+      "Hier auch: semitische Literaturen"
+    ],
+    "it": [
+      "Classificare qui le letterature semitiche"
+    ],
+    "en": [
+      "Class here Semitic literatures"
+    ],
+    "fr": [
+      "Classer ici les littératures sémitiques"
+    ],
+    "no": [
+      "Her: Semittiske språks litteraturer"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "modified": "2025-02-10T21:54:17Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

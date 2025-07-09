@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E397CyKhg4cCdGYhD83yYkjvMy",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Inredningsdesign",
+    "fr": "Décoration intérieure",
+    "en": "Interior decoration",
+    "no": "Interiørinnredning",
+    "de": "Innendekoration",
+    "it": "Decorazione d'interni"
+  },
+  "scopeNote": {
+    "no": [
+      "Design og utsmykking av interiører",
+      "Her: Boliginnredning"
+    ],
+    "sv": [
+      "Klassificera här inredningsdesign för bostadshus",
+      "Formgivning och utsmyckning av inredning"
+    ],
+    "de": [
+      "Design und dekorative Behandlung von Inneneinrichtungen",
+      "Hier auch: Innendekoration von Wohnbauten"
+    ],
+    "it": [
+      "Classificare qui la decorazione d'interni di edifici residenziali",
+      "Progettazione e trattamento decorativo dell'arredamento interno"
+    ],
+    "en": [
+      "Class here interior decoration of residential buildings",
+      "Design and decorative treatment of interior furnishings"
+    ],
+    "fr": [
+      "Classer ici la décoration intérieure des immeubles d'habitation",
+      "Agencement et décoration de l’ameublement d'intérieur"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "created": "1996-06-01",
+  "notation": "747",
+  "type": "Concept",
+  "modified": "2025-05-12T11:52:46Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

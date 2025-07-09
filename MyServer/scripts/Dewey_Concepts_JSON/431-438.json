@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "prefLabel": {
+    "de": "Unterklassen von Deutsch",
+    "no": "Inndeling av tysk",
+    "it": "Suddivisioni del tedesco",
+    "sv": "Indelningar av tyska",
+    "fr": "Subdivisions pour l'allemand",
+    "en": "Subdivisions of German"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3WMbxtYfdYkdHkTTGRGMjt7cr",
+    "https://id.oclc.org/worldcat/ddc/E3hfY6tgJYXDgBJMvpTFCJRPwR",
+    "https://id.oclc.org/worldcat/ddc/E3m9tHpBGkrMVCg3BWdvJbqkBF",
+    "https://id.oclc.org/worldcat/ddc/E3xdYmy4qV69MFqKxWFKYPqXgY",
+    "https://id.oclc.org/worldcat/ddc/E3v973hMDHtqdHqccfTdH3kmqV",
+    "https://id.oclc.org/worldcat/ddc/E3CbbpT78vMJgPwwpDyMvXJYBH",
+    "https://id.oclc.org/worldcat/ddc/E48WR7HQFyDkcjJGcqbmdDh4Kw",
+    "https://id.oclc.org/worldcat/ddc/E3G98kW4WCwjDdR6jWBWDb3rmY"
+  ],
+  "created": "2010-02-04",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43xFhR6XvvDg3Q9b4JMYtBxT9",
+  "notation": "431-438",
+  "modified": "2021-05-07T10:48:34Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

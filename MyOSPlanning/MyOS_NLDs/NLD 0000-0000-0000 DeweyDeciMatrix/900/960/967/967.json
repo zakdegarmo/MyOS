@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jcdk4BB86rxvGJfQ7QWYr3Xm",
+  "prefLabel": {
+    "de": "Zentralafrika und vorgelagerte Inseln",
+    "it": "Africa centrale e isole al largo",
+    "fr": "Afrique centrale et îles au large",
+    "no": "Sentral-Afrika og øyene utenfor kysten",
+    "sv": "Centrala Afrika och öar utanför kusten",
+    "en": "Central Africa and offshore islands"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'Africa subsahariana (Africa a sud del Sahara)"
+    ],
+    "sv": [
+      "Klassificera här Subsahariska Afrika (Afrika söder om Sahara)"
+    ],
+    "de": [
+      "Hier auch: Subsaharisches Afrika (Afrika südlich der Sahara)"
+    ],
+    "fr": [
+      "Classer ici l’Afrique subsaharienne (Afrique au sud du Sahara)"
+    ],
+    "no": [
+      "Her: Subsaharisk Afrika (Afrika sør for Sahara)"
+    ],
+    "en": [
+      "Class here Sub-Saharan Africa (Africa south of the Sahara)"
+    ]
+  },
+  "modified": "2024-02-22T19:52:28Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "notation": "967",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

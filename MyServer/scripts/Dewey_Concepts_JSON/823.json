@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34V3CpMdHTpbTFCvWj3cQgRp6",
+  "prefLabel": {
+    "it": "Narrativa inglese",
+    "de": "Englische Erzählprosa",
+    "no": "Engelsk fiksjon",
+    "sv": "Engelska romaner och noveller",
+    "fr": "Fiction anglaise",
+    "en": "English fiction"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-05-30T06:58:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "notation": "823",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

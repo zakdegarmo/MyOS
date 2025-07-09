@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WXtPrtjqR7fBkF6rfy69mPqf",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "scopeNote": {
+    "no": [
+      "Her: Valg"
+    ],
+    "sv": [
+      "Klassificera här val"
+    ],
+    "en": [
+      "Class here elections"
+    ],
+    "fr": [
+      "Classer ici les élections"
+    ],
+    "it": [
+      "Classificare qui le elezioni"
+    ],
+    "de": [
+      "Hier auch: Wahlen"
+    ]
+  },
+  "prefLabel": {
+    "no": "Politiske prosesser",
+    "en": "The political process",
+    "sv": "Den politiska processen",
+    "fr": "Le processus politique",
+    "de": "Der politische Prozess",
+    "it": "La vita politica"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-12-12T02:32:59Z",
+  "notation": "324",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

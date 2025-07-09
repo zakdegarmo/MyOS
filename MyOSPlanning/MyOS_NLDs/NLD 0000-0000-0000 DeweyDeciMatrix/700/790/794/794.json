@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fmctxjhXwTffdHTKYWB74Vxv",
+  "modified": "2023-03-23T10:59:40Z",
+  "prefLabel": {
+    "de": "Unterhaltungsspiele für drinnen",
+    "en": "Indoor games of skill",
+    "no": "Ferdighetsspill innendørs",
+    "fr": "Jeux d'habileté d'intérieur",
+    "sv": "Spel och lekar som kräver skicklighet och utövas inomhus",
+    "it": "Giochi d'abilità al chiuso"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Brettspiele"
+    ],
+    "fr": [
+      "Classer ici les jeux de table"
+    ],
+    "it": [
+      "Classificare qui i giochi da tavolo"
+    ],
+    "sv": [
+      "Klassificera här brädspel (olika former av spel på bräde)"
+    ],
+    "en": [
+      "Class here board games"
+    ],
+    "no": [
+      "Her: Brettspill"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "794",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

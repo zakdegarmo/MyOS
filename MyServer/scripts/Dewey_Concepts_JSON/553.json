@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cM7wgYRWffH79bByqx43cvBt",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Lagerstättenkunde",
+    "it": "Geologia economica",
+    "fr": "Géologie économique",
+    "no": "Økonomisk geologi",
+    "en": "Economic geology",
+    "sv": "Ekonomisk geologi"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur les matériaux géologiques non métalliques",
+      "Étude quantitative de la présence et de la répartition des matériaux géologiques économiquement utiles"
+    ],
+    "sv": [
+      "Kvantitativ förekomst och spridning av ekonomiskt nyttiga geologiska material",
+      "Klassificera här tvärvetenskapliga verk om icke-metalliska geologiska material"
+    ],
+    "it": [
+      "Presenza quantitativa e distribuzione di materiali geologici d'interesse economico",
+      "Classificare qui le opere interdisciplinari sui materiali geologici non metallici"
+    ],
+    "de": [
+      "Quantitatives Vorkommen und quantitative Verteilung geologischer Stoffe mit ökonomischem Nutzen",
+      "Hier auch: fächerübergreifende Werke über nichtmetallische geologische Stoffe"
+    ],
+    "en": [
+      "Quantitative occurrence and distribution of geologic materials of economic utility",
+      "Class here interdisciplinary works on nonmetallic geologic materials"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om ikke-metalliske geologiske materialer",
+      "Kvantitativ forekomst og utbredelse av økonomisk nyttige geologiske materialer"
+    ]
+  },
+  "modified": "2019-11-05T14:37:53Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "553",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

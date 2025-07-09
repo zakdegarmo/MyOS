@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rhFhVJtCxThPKQYGvgBFXD34",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+    "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+    "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+    "https://id.oclc.org/worldcat/ddc/E3WybMkhGptvgjd8FYYqYQXQhK",
+    "https://id.oclc.org/worldcat/ddc/E3YMRBtQf7PfxbM7dkmTy7wf7J",
+    "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK"
+  ],
+  "modified": "2025-05-12T12:15:52Z",
+  "prefLabel": {
+    "fr": "Histoire des continents, pays, localités particuliers du monde moderne ; mondes extraterrestres",
+    "sv": "Historia gällande särskilda världsdelar, länder, orter i den moderna världen; utomjordiska världar",
+    "it": "Storia di specifici continenti, paesi, località del mondo moderno; dei mondi extraterrestri",
+    "en": "History of specific continents, countries, localities in modern world; extraterrestrial worlds",
+    "de": "Geschichte einzelner Kontinente, Länder, Ortschaften der Neuzeit; Geschichte außerirdischer Welten",
+    "no": "Bestemte verdensdelers, staters, lokalområders historie i middelalderen og nyere tid; historie om himmellegemer utenfor jorda"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les études des aires géographiques ; les ouvrages généraux sur l’histoire ancienne et moderne des continents, pays, localités particuliers"
+    ],
+    "en": [
+      "Class here area studies; comprehensive works on ancient and modern history of specific continents, countries, localities"
+    ],
+    "sv": [
+      "Klassificera här områdesstudier; övergripande verk om forntida och modern historia om särskilda världsdelar, länder, orter"
+    ],
+    "it": [
+      "Classificare qui gli studi areali; le opere d'insieme su storia antica e moderna di specifici continenti, paesi, località"
+    ],
+    "de": [
+      "Hier auch: regionalgeografische Studien; umfassende Werke über Alte und Neue Geschichte einzelner Kontinente, Länder, Ortschaften"
+    ],
+    "no": [
+      "Her: Områdestudier; oversiktsverker om bestemte verdensdelers, staters, lokalområders historie i oldtiden, middelalderen og nyere tid"
+    ]
+  },
+  "notation": "940-990",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jqfm7BRYBD983d9qRCJ6fDKF",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

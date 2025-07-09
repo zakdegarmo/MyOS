@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49DQGtwQYxqW4pVdHGGKxWPJy",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Diverse fossile virvelløse dyr i sjøen og i strandbeltet",
+    "sv": "Diverse fossila vattendjur och fossila strandlevande ryggradslösa djur",
+    "it": "Invertebrati fossili marini e costieri vari",
+    "en": "Miscellaneous fossil marine and seashore invertebrates",
+    "fr": "Divers invertébrés fossiles marins et du littoral",
+    "de": "Verschiedene fossile Wirbellose des Meeres und der Meeresküste"
+  },
+  "modified": "2019-11-05T11:13:51Z",
+  "notation": "563",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

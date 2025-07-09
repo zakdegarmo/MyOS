@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HjxTcHPftVVjGyBMdjcWkkw7",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om bokstavering med handalfabet, användning av bokstavering med handalfabet som del av teckenspråk"
+    ],
+    "no": [
+      "Her: Oversiktsverker om fingerstaving, bruk av fingerstaving som del av tegnspråk; oversiktsverker om kommunikasjonsmetoder for døvblinde personer"
+    ],
+    "en": [
+      "Class here comprehensive works on fingerspelling, use of fingerspelling as part of sign languages; comprehensive works on methods of communication of deafblind people"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Fingeralphabet, den Gebrauch des Fingeralphabets als Teil von Gebärdensprachen; umfassende Werke über Kommunikationsformen von Taubblinden"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sull'alfabeto manuale, l'uso dell'alfabeto manuale come parte delle lingue dei segni; le opere d'insieme sui metodi di comunicazione dei sordociechi"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur l'épellation digitale, l'usage de l'épellation digitale considérée comme partie des langages par signes ; les ouvrages généraux sur les modes de communication des personnes sourdes-aveugles"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+  "prefLabel": {
+    "it": "Lingue dei segni",
+    "fr": "Langages par signes",
+    "sv": "Teckenspråk",
+    "no": "Tegnspråk",
+    "en": "Sign languages",
+    "de": "Gebärdensprachen"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "419",
+  "modified": "2024-10-31T12:30:46Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

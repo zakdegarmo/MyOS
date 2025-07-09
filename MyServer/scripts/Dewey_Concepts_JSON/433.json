@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3m9tHpBGkrMVCg3BWdvJbqkBF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Lexikon och ordböcker för standardtyska",
+    "no": "Ordbøker på standard tysk",
+    "de": "Deutsche Wörterbücher",
+    "fr": "Dictionnaires de l'allemand standard",
+    "it": "Dizionari del tedesco standard",
+    "en": "Dictionaries of standard German"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "433",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "modified": "2021-02-18T12:26:24Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

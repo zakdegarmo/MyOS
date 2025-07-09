@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rPhHpx7mDk4Jqpd8Dj6yxb39",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Nettoyage, teinture, peinture et revêtement, technologies connexes",
+    "en": "Cleaning, color, coating, related technologies",
+    "it": "Pulitura, colore, rivestitura, tecnologie connesse",
+    "de": "Reinigungs-, Färbe-, Beschichtungstechniken, verwandte Technologien",
+    "no": "Rengjøring, farging, overflatebelegging og lignende teknologier",
+    "sv": "Rengöringstekniker, färgtekniker, ytbeläggningstekniker, liknande tekniker"
+  },
+  "modified": "2024-08-09T07:42:15Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "notation": "667",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

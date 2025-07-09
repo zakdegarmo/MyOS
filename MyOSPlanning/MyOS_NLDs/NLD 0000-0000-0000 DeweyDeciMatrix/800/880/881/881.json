@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3R6WPPphFwTDMWXR43p8KBQ3d",
+  "prefLabel": {
+    "fr": "Poésie grecque classique",
+    "it": "Poesia greca classica",
+    "sv": "Klassisk grekisk poesi",
+    "en": "Classical Greek poetry",
+    "de": "Klassische griechische Versdichtung",
+    "no": "Klassisk gresk poesi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "notation": "881",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-05-28T10:24:11Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

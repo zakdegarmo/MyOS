@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46xQPtWK6TF8kmdgHc7rXjMwd",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Epikureisme",
+    "sv": "Epikurism",
+    "it": "Filosofia epicurea",
+    "de": "Epikureische Philosophie",
+    "en": "Epicurean philosophy",
+    "fr": "Épicurisme"
+  },
+  "modified": "2019-01-14T22:41:04Z",
+  "notation": "187",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

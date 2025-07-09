@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3w8jGMYDPr4WbRXGmcYTP4RxW",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Organisationer som bildats för social samvaro eller för ömsesidig hjälp"
+    ],
+    "de": [
+      "Organisationen, die mit dem Ziel der Förderung gemeinsamer Interessen oder zur Leistung gegenseitiger Hilfe gegründet wurden"
+    ],
+    "no": [
+      "Organisasjoner for brorskap eller gjensidig bistand"
+    ],
+    "it": [
+      "Organizzazioni costituite per la fraternizzazione o la mutua assistenza"
+    ],
+    "en": [
+      "Organizations formed for fraternizing or for mutual assistance"
+    ],
+    "fr": [
+      "Organisations fondées pour fraterniser ou pour s’aider mutuellement"
+    ]
+  },
+  "notation": "369",
+  "created": "2000-02-02",
+  "prefLabel": {
+    "en": "Associations",
+    "no": "Foreninger",
+    "it": "Associazioni",
+    "de": "Verbände",
+    "sv": "Föreningar",
+    "fr": "Associations"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-04-17T19:40:23Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

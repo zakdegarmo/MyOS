@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QBvFm7R64rYM6wwgDvk48Y7X",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Dictionnaires, encyclopédies, concordances de l’histoire",
+    "sv": "Lexikon, uppslagsverk, konkordanser inom historia",
+    "en": "Dictionaries, encyclopedias, concordances of history",
+    "it": "Dizionari, enciclopedie, concordanze di storia",
+    "de": "Geschichtliche Wörterbücher, Enzyklopädien, Konkordanzen",
+    "no": "Ordbøker, leksika, konkordanser innen historie"
+  },
+  "notation": "903",
+  "modified": "2017-02-01T12:23:13Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

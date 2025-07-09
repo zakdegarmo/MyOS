@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vvHvBB63Q3yvvYcPwtM4vbMx",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "modified": "2021-05-28T10:24:11Z",
+  "prefLabel": {
+    "sv": "Klassisk grekisk lyrik",
+    "it": "Poesia lirica greca classica",
+    "en": "Classical Greek lyric poetry",
+    "no": "Klassisk gresk lyrisk poesi",
+    "de": "Klassische griechische lyrische Versdichtung",
+    "fr": "Poésie lyrique grecque classique"
+  },
+  "notation": "884",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

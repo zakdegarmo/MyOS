@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vh4ywMHQ6djCt8KbxBYghXKm",
+  "modified": "2024-04-03T10:42:45Z",
+  "prefLabel": {
+    "sv": "Tyska essäer",
+    "en": "German essays",
+    "it": "Saggistica tedesca",
+    "no": "Tyske essayer",
+    "de": "Deutsche Essays",
+    "fr": "Essais allemands"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "notation": "834",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kVBMqF7tPTHMH4jVj3HbvBCy",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Classer ici la christologie"
+    ],
+    "de": [
+      "Hier auch: Christologie"
+    ],
+    "it": [
+      "Classificare qui la Cristologia"
+    ],
+    "en": [
+      "Class here Christology"
+    ],
+    "no": [
+      "Her: Kristologi"
+    ],
+    "sv": [
+      "Klassificera här kristologi"
+    ]
+  },
+  "prefLabel": {
+    "de": "Jesus Christus und seine Familie",
+    "it": "Gesù Cristo e la sua famiglia",
+    "no": "Jesus Kristus og hans familie",
+    "sv": "Jesus och hans familj    ",
+    "en": "Jesus Christ and his family",
+    "fr": "Jésus-Christ et sa famille    "
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "modified": "2023-06-22T13:54:01Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "232",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

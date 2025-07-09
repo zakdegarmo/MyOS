@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wBRCWgypHYyRXF9QXqmGF6MY",
+  "broader": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "notation": "714",
+  "prefLabel": {
+    "fr": "Pièces d'eau dans l’architecture du paysage",
+    "sv": "Vatten i landskapsarkitektur",
+    "de": "Wasser als Gestaltungselement",
+    "en": "Water features in landscape architecture",
+    "no": "Vannelementer i landskapsarkitektur",
+    "it": "Acque nell'architettura del paesaggio"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here natural and artificial pools",
+      "Including cascades, fountains"
+    ],
+    "it": [
+      "Classificare qui gli specchi d'acqua naturali e artificiali",
+      "Include le cascate, le fontane"
+    ],
+    "no": [
+      "Inkluderer: Kaskader, fontener",
+      "Her: Naturlige og kunstige dammer"
+    ],
+    "sv": [
+      "Klassificera här naturliga vattensamlingar och anlagda dammar",
+      "Omfattar vattenfall, fontäner"
+    ],
+    "fr": [
+      "Y compris les cascades, les fontaines",
+      "Classer ici les étangs naturels et artificiels"
+    ],
+    "de": [
+      "Einschließlich: Kaskaden, Brunnen, Springbrunnen",
+      "Hier auch: natürliche und künstlich angelegte Teiche"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-01-20T14:01:56Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

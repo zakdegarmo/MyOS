@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GQ3HjPCbxXTJVJ4HjcyBvt6V",
+  "modified": "2020-03-20T19:41:58Z",
+  "prefLabel": {
+    "sv": "Skolor och stilar inom skulptur",
+    "no": "Retninger og stilarter innen skulptur",
+    "fr": "Écoles et styles de sculpture",
+    "en": "Schools and styles of sculpture",
+    "it": "Scuole e stili di scultura",
+    "de": "Schulen und Stile in der Bildhauerkunst"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3ptkVvFYmdvtbwfqwMg8F4KvY",
+    "https://id.oclc.org/worldcat/ddc/E3VgwTDjBpxvXHtQqYg7D66G8W",
+    "https://id.oclc.org/worldcat/ddc/E3hpc9RtJbtMfh8m9yTgt4dYcV",
+    "https://id.oclc.org/worldcat/ddc/E3Kr7ymkyMFcgptxPMTjh9pkGR"
+  ],
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E374qb8Wk9B7yrvJttgwB7tbtt",
+  "notation": "732-735",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

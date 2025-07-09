@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3p3h4R4bxq7WTpjy3RRycvrWG",
+  "notation": "033",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-11-20T06:37:21Z",
+  "prefLabel": {
+    "no": "Generelle leksikalske verker på tysk og andre germanske språk",
+    "fr": "Encyclopédies générales dans les autres langues germaniques",
+    "de": "Allgemeinenzyklopädien in anderen germanischen Sprachen",
+    "en": "General encyclopedic works in other Germanic languages",
+    "it": "Opere enciclopediche generali in altre lingue germaniche",
+    "sv": "Allmänna uppslagsverk på övriga germanska språk"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages généraux sur les encyclopédies générales en langues germaniques"
+    ],
+    "en": [
+      "Class here comprehensive works on Germanic-language encyclopedias"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Enzyklopädien in germanischen Sprachen"
+    ],
+    "no": [
+      "Her: Oversiktsverker om generelle leksika på germanske språk"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om uppslagsverk på germanska språk"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulle opere enciclopediche generali in lingue germaniche"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

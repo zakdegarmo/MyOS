@@ -1,0 +1,45 @@
+{
+  "NLD_ID": "MYSTRANET_ADJUTANT_ROUTING_TABLE_V0_1_2",
+  "compatible_packet_format_version_String_Array": ["0.1.1", "0.1.2"],
+  "description_NLD": "Initial routing rules for MystraNet Adjutant V0.1. Evaluated by rule priority (lower number first), then by order in array. First match wins.",
+  "routing_rules_NLD_Array": [
+    {
+      "rule_id_String": "R001_Misty_JS_Code_Draft",
+      "description_NLD_String": "Routes JavaScript code drafting requests from Gary or Zak to Misty_Dev.",
+      "criteria_NLD_Object": {
+        "match_directive_type_Exact_String_Optional": "NLD_DRAFT_REQUEST",
+        "source_instance_is_one_of_Array_Of_Strings_Optional": ["Gary_AISTUDIO_Strategist", "Zak_RouterPrime_Manual"],
+        "payload_contains_all_strings_Array_Of_Strings_Optional": ["javascript", "code"]
+      },
+      "target_instance_NLD_tag_String": "Misty_GEMINI_APP_Dev",
+      "priority_NLD_Integer": 10
+    },
+    {
+      "rule_id_String": "R002_Gary_Strategy_Review_Request",
+      "description_NLD_String": "Routes NLD conceptual queries or review requests originating from Misty or Zak to Gary_Strategist.",
+      "criteria_NLD_Object": {
+        "match_directive_type_Exact_String_Optional": "NLD_CONCEPTUAL_QUERY",
+        "source_instance_is_one_of_Array_Of_Strings_Optional": ["Misty_GEMINI_APP_Dev", "Zak_RouterPrime_Manual"]
+      },
+      "target_instance_NLD_tag_String": "Gary_AISTUDIO_Strategist",
+      "priority_NLD_Integer": 10
+    },
+    {
+      "rule_id_String": "R003_Misty_Output_To_Gary_For_Review",
+      "description_NLD_String": "Routes packets marked for review that came from Misty, specifically to Gary.",
+      "criteria_NLD_Object": {
+        "match_directive_type_Exact_String_Optional": "NLD_REVIEW_AND_REFINE_REQUEST",
+        "source_instance_is_one_of_Array_Of_Strings_Optional": ["Misty_GEMINI_APP_Dev"]
+      },
+      "target_instance_NLD_tag_String": "Gary_AISTUDIO_Strategist",
+      "priority_NLD_Integer": 5 
+    },
+    {
+      "rule_id_String": "DEFAULT_ROUTE_TO_ZAK_REVIEW",
+      "description_NLD_String": "Default fallback route: all other packets routed to Zak for manual review/routing.",
+      "criteria_NLD_Object": {}, 
+      "target_instance_NLD_tag_String": "Zak_RouterPrime_Review",
+      "priority_NLD_Integer": 999
+    }
+  ]
+}

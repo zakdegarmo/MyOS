@@ -1,0 +1,35 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gMVQttpMJtdJjcwPJqGvYJ37",
+  "created": "1996-06-01",
+  "modified": "2024-11-02T00:44:37Z",
+  "prefLabel": {
+    "no": "Dokumentarmedier, undervisningsmedier, nyhetsmedier; journalistikk; publisering",
+    "it": "Media documentari, didattici, di notizie; giornalismo; editoria",
+    "fr": "Médias documentaires, médias éducatifs, médias d’information ; journalisme ; édition",
+    "en": "Documentary media, educational media, news media; journalism; publishing",
+    "sv": "Dokumentära medier, undervisningsmedier, nyhetsmedier; journalistik; publicering",
+    "de": "Dokumentarische Medien, publizistische Medien, Unterrichtsmedien; Journalismus; Verlagswesen"
+  },
+  "notation": "070",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här dagstidningar oavsett format (tryck eller elktronisk)"
+    ],
+    "it": [
+      "Classificare qui i giornali senza tener conto della forma (a stampa o elettronica)"
+    ],
+    "en": [
+      "Class here newspapers regardless of format (print or electronic)"
+    ],
+    "fr": [
+      "Classer ici les journaux sans tenir compte du type de support (imprimé ou électronique)"
+    ],
+    "no": [
+      "Her: Aviser uavhengig av format (trykt eller elektronisk)"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yM8RgdPk6DCkvHd6CQGy8bbh",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

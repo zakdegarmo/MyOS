@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vgmgRMWffYB3kftYW4MtRXkb",
+  "prefLabel": {
+    "sv": "Växters och djurs naturhistoria",
+    "it": "Storia naturale di piante e animali",
+    "en": "Natural history of plants and animals",
+    "no": "Naturhistorie for planter og dyr",
+    "fr": "Histoire naturelle des plantes et des animaux",
+    "de": "Naturgeschichte von Pflanzen und Tieren"
+  },
+  "notation": "580-590",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3wgvJvJ6ddXrpQPHWbMH33btF",
+    "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg"
+  ],
+  "created": "1996-06-01",
+  "modified": "2023-06-15T10:33:18Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3h3hGDmJCHF6cwWQb7FkMMpdy",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "scopeNote": {
+    "no": [
+      "Apokryfer: Verker som er anerkjent som deuterokanoniske skrifter av enkelte kirkesamfunn",
+      "Pseudepigrafer, intertestamentale skrifter: Verker fra tiden mellom testamentene, knyttet til Bibelen, men ikke anerkjent som kanoniske"
+    ],
+    "fr": [
+      "Livres apocryphes : livres acceptés comme deutérocanoniques dans certaines Bibles",
+      "Livres pseudépigraphes, intertestamentaires : livres de la période intertestamentaire qui ne sont pas acceptés dans le canon de la Bible"
+    ],
+    "it": [
+      "Pseudepigrafi, opere intertestamentarie: opere dei tempi intertestamentari connesse con la Bibbia ma non accettate nei canoni",
+      "Apocrifi: opere accettate come deuterocanoniche in alcune Bibbie"
+    ],
+    "sv": [
+      "Pseudepigrafer, intertestamentliga verk: verk från intertestamentlig tid som förknippas med Bibeln men som ej anses vara kanoniska",
+      "Apokryfer: verk accepterade som deuterokanoniska i vissa Biblar"
+    ],
+    "en": [
+      "Apocrypha: works accepted as deuterocanonical in some Bibles",
+      "Pseudepigrapha, intertestamental works: works from intertestamental times connected with the Bible but not accepted as canonical"
+    ],
+    "de": [
+      "Apokryphen: in einigen Bibeln als deuterokanonisch akzeptierte Werke",
+      "Pseudepigraphen, zwischentestamentliche Werke: Werke aus der zwischentestamentlichen Zeit, die mit der Bibel in Zusammenhang stehen, aber nicht als kanonisch akzeptiert werden"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Livres apocryphes, pseudépigraphes, intertestamentaires",
+    "sv": "Apokryfer, pseudepigrafer, intertestamentliga verk",
+    "no": "Apokryfer, pseudepigrafer, intertestamentale skrifter",
+    "de": "Apokryphen, Pseudepigraphen, zwischentestamentliche Werke",
+    "it": "Opere apocrife, pseudepigrafi, opere intertestamentarie",
+    "en": "Apocrypha, pseudepigrapha, intertestamental works"
+  },
+  "modified": "2023-06-02T11:07:19Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "229",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

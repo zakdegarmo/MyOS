@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47x6GdQdm6KrcgyBxCDc3GgTK",
+  "notation": "327",
+  "modified": "2025-06-09T13:13:28Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Relations internationales",
+    "it": "Relazioni internazionali",
+    "sv": "Internationella relationer",
+    "no": "Internasjonale relasjoner",
+    "de": "Internationale Beziehungen",
+    "en": "International relations"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

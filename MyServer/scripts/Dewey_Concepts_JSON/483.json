@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DTJtqHJwTBwDxRDwjY4CkDTx",
+  "prefLabel": {
+    "de": "Wörterbücher des klassischen Griechisch",
+    "sv": "Klassiska grekiska lexikon och ordböcker",
+    "fr": "Dictionnaires du grec classique",
+    "en": "Dictionaries of classical Greek",
+    "it": "Dizionari del greco classico",
+    "no": "Ordbøker på klassisk gresk"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "483",
+  "modified": "2021-01-22T08:47:07Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

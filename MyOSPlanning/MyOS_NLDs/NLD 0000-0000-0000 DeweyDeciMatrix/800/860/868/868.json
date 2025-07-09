@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47WQGkmWPPMkRRTDTGfdXJ67M",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Diverse spanska texter",
+    "fr": "Écrits divers espagnols",
+    "de": "Spanische vermischte Schriften",
+    "no": "Spanske diverse skrifter",
+    "en": "Spanish miscellaneous writings",
+    "it": "Miscellanea spagnola"
+  },
+  "notation": "868",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "modified": "2025-06-23T08:57:28Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

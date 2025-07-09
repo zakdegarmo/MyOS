@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "modified": "2020-11-10T14:46:43Z",
+  "prefLabel": {
+    "fr": "Biographie et généalogie",
+    "de": "Biografie & Genealogie",
+    "no": "Biografier og genealogi",
+    "sv": "Biografi & genealogi",
+    "en": "Biography & genealogy",
+    "it": "Biografia e genealogia"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E36bTDRYVyhJTB8VdGKB4Rjgc4",
+    "https://id.oclc.org/worldcat/ddc/E38F4F6xbBYGJtPX6TDWmfd79k",
+    "https://id.oclc.org/worldcat/ddc/E3qp4DDtXyRry7xbM4tYyRv6RX",
+    "https://id.oclc.org/worldcat/ddc/E4b3QkW73cCJTMgrgwFKGYKbdY",
+    "https://id.oclc.org/worldcat/ddc/E46dBfVRmCMjVM7Jhdd4FVgfVf",
+    "https://id.oclc.org/worldcat/ddc/E3RKMVdHKKk7RDqgBPwmq9FBxR",
+    "https://id.oclc.org/worldcat/ddc/E39JmrPqDXh6w6MF3CgqJXhfBV",
+    "https://id.oclc.org/worldcat/ddc/E3cYH9rjyMYTwT4tyFM74rCKY7",
+    "https://id.oclc.org/worldcat/ddc/E3xh7x49Hkfh9c8TmbtJ743VBX",
+    "https://id.oclc.org/worldcat/ddc/E3cQCWwWMT98gCttX3yfPyKk7x"
+  ],
+  "notation": "92",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XJ693tPgQQM7bhtXhgWVTVbb",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gkvr3mhGxKrW4pJGVjHKrkrr",
+  "prefLabel": {
+    "fr": "Littératures américaines en anglais qu’il n’est pas localement nécessaire de mettre en évidence",
+    "no": "Engelskspråklig litteratur fra andre amerikanske stater, som ikke er vektlagt lokalt",
+    "it": "Letterature americane in inglese cui non occorre dare risalto",
+    "sv": "Amerikansk litteratur på engelska som inte kräver lokal betoning",
+    "de": "Amerikanische Literaturen in Englisch, die nicht im Bestand hervorgehoben werden sollen",
+    "en": "American literatures in English not requiring local emphasis"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here English-language literatures of specific American countries other than the country requiring local emphasis, e.g., libraries emphasizing United States literature may class here Canadian literature, and libraries emphasizing Canadian literature may class here United States literature"
+    ],
+    "fr": [
+      "Classer ici les littératures de langue anglaise des pays d’Amérique particuliers autres que le pays qu'il est localement nécessaire de mettre en évidence, ex. : les bibliothèques qui mettent en évidence la littérature des États-Unis peuvent classer ici la littérature canadienne, et les bibliothèques qui mettent en évidence la littérature canadienne peuvent classer ici la littérature des États-Unis"
+    ],
+    "no": [
+      "Her: Engelskspråklig litteratur fra bestemte amerikanske stater unntatt staten som er vektlagt lokalt, f.eks. biblioteker som legger hovedvekt på USAs litteratur kan klassifisere Canadas litteratur her, og biblioteker som legger hovedvekt på Canadas litteratur kan klassifisere USAs litteratur her"
+    ],
+    "it": [
+      "Classificare qui la letteratura in inglese di specifici paesi d'America cui non occorre dare risalto, p.e., le biblioteche che danno risalto alla letteratura degli Stati Uniti possono classificare qui la letteratura canadese, e le biblioteche che danno risalto alla letteratura canadese possono classificare qui la letteratura degli Stati Uniti"
+    ],
+    "sv": [
+      "Klassificera här engelskspråkig litteratur från särskilda amerikanska länder som inte kräver lokal betoning, bibliotek som betonar litteratur från Förenta staterna kan t.ex. klassificera kanadensisk litteratur här, och bibliotek som betonar kanadensisk litteratur kan klassifcera litteratur från Förenta staterna här"
+    ],
+    "de": [
+      "Hier auch: englischsprachige Literaturen einzelner Länder des amerikanischen Kontinents mit Ausnahme des Landes, das im Bestand hervorgehoben werden soll, z.B. können Bibliotheken mit Schwerpunkt auf US-amerikanischer Literatur hier kanadische Literatur klassifizieren, und Bibliotheken mit Schwerpunkt auf kanadischer Literatur können hier US-amerikanische Literatur klassifizieren"
+    ]
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jjwKWQrjy9DxTCCW7j8Gck3b",
+  "notation": "819",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

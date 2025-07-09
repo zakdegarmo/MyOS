@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JbtxjHFg7vqCQGdhQFB3K7TQ",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Rolle som lagringssentre"
+    ],
+    "sv": [
+      "Omfattar depåverksamhet"
+    ],
+    "en": [
+      "Including role as storage centers"
+    ],
+    "fr": [
+      "Y compris leur rôle comme centres de conservation"
+    ],
+    "de": [
+      "Einschließlich: Archivfunktion von Bibliotheken"
+    ],
+    "it": [
+      "Include la funzione di centri di conservazione della conoscenza"
+    ]
+  },
+  "prefLabel": {
+    "no": "Biblioteker og arkiver - forbindelser og samarbeid",
+    "fr": "Relations externes des bibliothèques et des archives",
+    "de": "Beziehungen von Bibliotheken und Archiven",
+    "en": "Relationships of libraries and archives",
+    "sv": "Bibliotekens och arkivens relationer",
+    "it": "Relazioni delle biblioteche e degli archivi"
+  },
+  "modified": "2021-02-26T13:00:03Z",
+  "notation": "021",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

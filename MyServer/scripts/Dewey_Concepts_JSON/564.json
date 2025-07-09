@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wMR3tQKFMq8WRQK3j6F4w6Ty",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "prefLabel": {
+    "fr": "Mollusques et Molluscoïdes fossiles",
+    "en": "Fossil Mollusca and Molluscoidea",
+    "no": "Fossile Mollusca (bløtdyr) og Molluscoidea",
+    "sv": "Fossil Mollusca (blötdjur) och Molluscoidea",
+    "de": "Fossile Mollusca (Weichtiere) und Tentaculata (Kranzfühler)",
+    "it": "Mollusca e Molluscoidea fossili"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-01-29T16:33:10Z",
+  "notation": "564",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

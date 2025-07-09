@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Computer science, information & general works",
+    "sv": "Datavetenskap, information & allmänna verk",
+    "it": "Informatica, informazione e opere generali",
+    "no": "Informatikk, informasjon og generelle verker",
+    "fr": "Informatique, information et ouvrages généraux",
+    "de": "Informatik, Information & Wissen, allgemeine Werke"
+  },
+  "modified": "2022-03-01T12:16:28Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3t6XK9Pw3QCjjvkhfxPYTfBym",
+    "https://id.oclc.org/worldcat/ddc/E3DQYC89PVXfMDGVqPCJhHcX8f",
+    "https://id.oclc.org/worldcat/ddc/E3x8vCCPTmRYHcgDDKHqfKDcfp",
+    "https://id.oclc.org/worldcat/ddc/E3GCD8WK4KcFRyfRFpb94w6yct",
+    "https://id.oclc.org/worldcat/ddc/E3XMCKd4QBDgfjyFKfMBRkVgfq",
+    "https://id.oclc.org/worldcat/ddc/E3KpMY9kYqgqmMgRBwCCXMhkf7",
+    "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+    "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+    "https://id.oclc.org/worldcat/ddc/E3yM8RgdPk6DCkvHd6CQGy8bbh",
+    "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw"
+  ],
+  "created": "1996-06-01",
+  "type": "Concept",
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "0",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

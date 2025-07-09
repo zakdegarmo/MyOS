@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E469FdWvGWBXrptW6G7KKYtg6c",
+  "scopeNote": {
+    "de": [
+      "Hier auch: synoptische Evangelien"
+    ],
+    "no": [
+      "Her: De synoptiske evangelier"
+    ],
+    "en": [
+      "Class here synoptic Gospels"
+    ],
+    "it": [
+      "Classificare qui i Vangeli sinottici"
+    ],
+    "fr": [
+      "Classer ici les Évangiles synoptiques"
+    ],
+    "sv": [
+      "Klassificera här de synoptiska Evangelierna"
+    ]
+  },
+  "prefLabel": {
+    "de": "Evangelien und Apostelgeschichte",
+    "no": "Evangeliene og Apostlenes gjerninger",
+    "fr": "Évangiles et Actes des Apôtres",
+    "en": "Gospels and Acts",
+    "it": "Vangeli e Atti degli Apostoli",
+    "sv": "Evangelierna och Apostlagärningarna"
+  },
+  "modified": "2023-06-02T11:09:22Z",
+  "notation": "226",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

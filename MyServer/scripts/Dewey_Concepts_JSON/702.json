@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MThPbGrKyB6vYPwQqXFc6yKQ",
+  "prefLabel": {
+    "fr": "Ouvrages divers sur les beaux-arts et les arts décoratifs",
+    "no": "Diverse innen kunst og kunsthåndverk",
+    "sv": "Diverse inom konst och konsthantverk",
+    "en": "Miscellany of fine and decorative arts",
+    "de": "Verschiedenes zu bildender und angewandter Kunst",
+    "it": "Miscellanea di belle arti e arti decorative"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "notation": "702",
+  "modified": "2022-01-25T15:07:38Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

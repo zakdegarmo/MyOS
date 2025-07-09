@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fWdWfM7PdyX7D3H7YMPwTpd6",
+  "prefLabel": {
+    "de": "Altes Testament (Tenach)",
+    "no": "Det gamle testamente (Tanak)",
+    "en": "Old Testament (Tanakh)",
+    "sv": "Gamla Testamentet (Tanak)",
+    "it": "Antico Testamento (Tanakh)",
+    "fr": "Ancien Testament (Tanakh)"
+  },
+  "scopeNote": {
+    "de": [
+      "Heilige Schriften des Judentums, Altes Testament des Christentums"
+    ],
+    "fr": [
+      "Écritures saintes du judaïsme, Ancien Testament du christianisme"
+    ],
+    "it": [
+      "Scritture sacre dell'ebraismo, Antico Testamento del cristianesimo"
+    ],
+    "en": [
+      "Holy Scriptures of Judaism, Old Testament of Christianity"
+    ],
+    "no": [
+      "Jødedommens hebraiske bibel, kristendommens gamle testamente"
+    ],
+    "sv": [
+      "Judendomens heliga skrifter, kristendomens Gamla Testamente"
+    ]
+  },
+  "modified": "2023-06-02T11:22:06Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "notation": "221",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

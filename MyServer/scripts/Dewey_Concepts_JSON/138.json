@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mQBGGFkckhPjHyFVPg3kwVR6",
+  "notation": "138",
+  "prefLabel": {
+    "it": "Fisiognomica",
+    "fr": "Physiognomonie",
+    "no": "Fysiognomikk",
+    "sv": "Fysionomik",
+    "de": "Physiognomie",
+    "en": "Physiognomy"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on determination of character or divination from analysis of physical features"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la détermination du caractère ou la divination d’après les caractéristiques physiques"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su determinazione del carattere o divinazione mediante l'analisi dei tratti fisici"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om bedömning av karaktär eller spådom genom analys av fysiska drag"
+    ],
+    "no": [
+      "Her: Oversiktsverker om bedømmelse av en persons karakter eller divinasjon (spådommer) på grunnlag av personens fysiske trekk"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Bestimmung des Charakters oder Divination durch Analyse physischer Merkmale"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "modified": "2024-11-02T00:44:37Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3krtcgpdHDXCchDtxKY4J973M",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "prefLabel": {
+    "en": "Classical Latin usage (Prescriptive linguistics)",
+    "sv": "Klassiskt latinskt språkbruk (normativ lingvistik)",
+    "fr": "Usage du latin classique (Linguistique normative) ",
+    "no": "Normert klassisk latin (normativ lingvistikk)",
+    "it": "Uso latino classico (Linguistica prescrittiva)",
+    "de": "Gebrauch des klassischen Latein (Präskriptive Linguistik)"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Gebrauch des klassischen Latein in Mittelalter und Neuzeit"
+    ],
+    "sv": [
+      "Klassificera här klassiserande latinskt språkbruk under medeltiden eller i modern tid"
+    ],
+    "no": [
+      "Her: Normert klassisk latin i middelalderen og nyere tid"
+    ],
+    "fr": [
+      "Classer ici l’usage du latin classique lors de sa renaissance à l’époque médiévale ou à l’époque moderne"
+    ],
+    "en": [
+      "Class here classical-revival Latin usage during medieval or modern times"
+    ],
+    "it": [
+      "Classificare qui il rinnovato uso del latino classico in età medievale o moderna"
+    ]
+  },
+  "notation": "478",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-22T09:14:17Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

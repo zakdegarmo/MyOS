@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "prefLabel": {
+    "de": "Geowissenschaften nach einzelnen Kontinenten, Ländern, Ortschaften der Neuzeit; außerirdischen Welten",
+    "sv": "Geovetenskaper gällande särskilda världsdelar, länder, orter i den moderna världen; utomjordiska världar",
+    "no": "Geovitenskap inndelt etter bestemte verdensdeler, stater, lokalområder i nyere tid; himmellegemer utenfor jorda",
+    "fr": "Sciences de la Terre par continents, pays, localités particuliers du monde moderne ; mondes extraterrestres",
+    "en": "Earth sciences by specific continents, countries, localities in modern world; extraterrestrial worlds",
+    "it": "Scienze della Terra relative a specifici continenti, paesi, località del mondo moderno; ai mondi extraterrestri"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E49gbF7PbprXdm9HJHJ4c4Dhgt",
+    "https://id.oclc.org/worldcat/ddc/E43mHVwkRXfWT4g6Y44CB4V6Tm",
+    "https://id.oclc.org/worldcat/ddc/E3rTVY6kbkfMprVYfFHQj63VwB",
+    "https://id.oclc.org/worldcat/ddc/E47WCVqhbf4fcgTrhG9YWhDPQr",
+    "https://id.oclc.org/worldcat/ddc/E4d8yBkvmvxjyMGbpgqcJ67JGr",
+    "https://id.oclc.org/worldcat/ddc/E3dmtbxX6j9BJ66gDDMBdRQMh8"
+  ],
+  "scopeNote": {
+    "sv": [
+      "Klassificera här geologi, geologiska undersökningar, lagerföljder"
+    ],
+    "en": [
+      "Class here geology, geological surveys, stratifications"
+    ],
+    "it": [
+      "Classificare qui la geologia, i rilevamenti geologici, le stratificazioni"
+    ],
+    "no": [
+      "Her: Geologi, geologiske undersøkelser, stratigrafi"
+    ],
+    "fr": [
+      "Classer ici la géologie, les études géologiques, les stratifications"
+    ],
+    "de": [
+      "Hier auch: Geologie, geologische Untersuchungen, Schichtbildungen"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "created": "1998-10-27",
+  "modified": "2024-05-28T12:31:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "554-559",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

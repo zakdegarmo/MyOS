@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GRPdb4kptcXqbdbFJvcRqc8K",
+  "scopeNote": {
+    "en": [
+      "Class here household sanitation"
+    ],
+    "sv": [
+      "Klassificera här hushållshygien"
+    ],
+    "no": [
+      "Her: Sanitære forhold i hjemmet"
+    ],
+    "fr": [
+      "Classer ici l’hygiène de l’habitation"
+    ],
+    "it": [
+      "Classificare qui l'igiene domestica"
+    ],
+    "de": [
+      "Hier auch: Haushaltshygiene"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "notation": "648",
+  "prefLabel": {
+    "fr": "Entretien ménager",
+    "sv": "Hemmets vård",
+    "it": "Tenuta della casa",
+    "en": "Housekeeping",
+    "de": "Haushaltsführung",
+    "no": "Husstell"
+  },
+  "modified": "2024-07-11T10:28:46Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

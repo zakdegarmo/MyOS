@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gTB6Tw7rPB7tkjBDKDPMXxwj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-05-09T13:09:53Z",
+  "prefLabel": {
+    "sv": "Primärutbildning",
+    "fr": "Enseignement primaire (Enseignement élémentaire)",
+    "en": "Primary education (Elementary education)",
+    "de": "Primarbildung",
+    "no": "Førskoleopplæring og barneskoleopplæring",
+    "it": "Educazione primaria (Educazione elementare)"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wPXw9dKcvQf9F8qp7QkBXKPt",
+  "scopeNote": {
+    "no": [
+      "Her: Barneskoler; oversiktsverker om grunnskoler (barneskoler og ungdomsskoler behandlet sammen)"
+    ],
+    "en": [
+      "Class here elementary schools, primary schools; lower sections of all-age schools"
+    ],
+    "sv": [
+      "Klassificera här årskurs 0-6, primärskolor; lägre nivåer i åldersintegrerade skolor"
+    ],
+    "fr": [
+      "Classer ici les écoles primaires, les « primary schools » ; les premiers niveaux des écoles pour tous les âges"
+    ],
+    "it": [
+      "Classificare qui le scuole elementari, le scuole primarie; i livelli più bassi delle scuole per qualsiasi età"
+    ],
+    "de": [
+      "Hier auch: Primarschulen, Grundschulen (Deutschland), Grade Schools (USA), Grammar Schools (USA), Junior Schools (Großbritannien), Primary Schools (Großbritannien); untere Klassen jahrgangsübergreifender Schulen"
+    ]
+  },
+  "notation": "372",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

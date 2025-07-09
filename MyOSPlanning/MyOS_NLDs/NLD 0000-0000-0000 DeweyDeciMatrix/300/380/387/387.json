@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bmw7Hm3FFk8Rbf8H8FCmFGbg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on water transportation"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Schifffahrt"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sul trasporto per via d'acqua"
+    ],
+    "no": [
+      "Her: Oversiktsverker om transport til vanns"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om vattentransport (sjöfart i vid bemärkelse)"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les transports par eau"
+    ]
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "notation": "387",
+  "prefLabel": {
+    "en": "Water, air, space transportation",
+    "no": "Transport til vanns, luftfart og romfart",
+    "sv": "Transport vid vattenvägar, luftfart, rymdfart",
+    "it": "Trasporto per via d'acqua, aerei, spaziali",
+    "de": "Schifffahrt, Luft-, Weltraumverkehr",
+    "fr": "Transports maritimes, aériens, spatiaux"
+  },
+  "modified": "2025-01-09T15:11:48Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

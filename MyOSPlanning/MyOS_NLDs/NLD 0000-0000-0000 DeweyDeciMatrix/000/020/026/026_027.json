@@ -1,0 +1,42 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Jm4JjFt4vhVjCwXk38fWXVrg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "en": [
+      "Class here specific libraries and archives and their collections; systems and networks for specific kinds of institutions; comprehensive works on cultural heritage institutions and their collections, on operations in specific kinds of institutions"
+    ],
+    "de": [
+      "Hier auch: Fachbibliotheken, Archive, Informationszentren und deren Bestände; Systeme und Netzwerke für einzelne Arten von Einrichtungen; umfassende Werke über Tätigkeiten in einzelnen Arten von Einrichtungen"
+    ],
+    "it": [
+      "Classificare qui le specifiche biblioteche e archivi e le loro raccolte; i sistemi e le reti per specifici tipi d'istituto; le opere d'insieme sugli istituti culturali e le loro raccolte, sulle attività in specifici tipi d'istituto"
+    ],
+    "fr": [
+      "Classer ici les bibliothèques et les archives particulières et leurs collections ; les systèmes et les réseaux des catégories particulières d’établissements ; les ouvrages généraux sur les établissements du patrimoine culturel et leurs collections, sur les opérations dans les catégories particulières d’établissements"
+    ],
+    "no": [
+      "Her: Bestemte biblioteker og arkiver, og deres samlinger; systemer og nettverk for bestemte typer institusjoner; oversiktsverker om kulturarv-institusjoner og deres samlinger, oversiktsverker om operasjoner i bestemte typer institusjoner"
+    ],
+    "sv": [
+      "Klassificera här särskilda bibliotek, arkiv, informationscentrum och deras samlingar; system och nätverk för särskilda slags institutioner; allmänna verk om verksamheten vid särskilda slags institutioner"
+    ]
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "026-027",
+  "prefLabel": {
+    "no": "Bestemte typer institusjoner",
+    "de": "Einzelne Arten von Einrichtungen",
+    "en": "Specific kinds of institutions",
+    "sv": "Särskilda slags institutioner",
+    "it": "Specifici tipi d'istituto",
+    "fr": "Catégories particulières d’établissements"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E38vYK9DDpWykJmCHyhxJcp7cw",
+    "https://id.oclc.org/worldcat/ddc/E3GDMDphTr7MhF6KVHGxG7xtVq"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wfGTRtg4QVWgDKFT89MYwWkb",
+  "notation": "863",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2022-03-03T10:55:15Z",
+  "prefLabel": {
+    "it": "Narrativa spagnola",
+    "de": "Spanische Erzählprosa",
+    "sv": "Spanska romaner och noveller",
+    "en": "Spanish fiction",
+    "fr": "Fiction espagnole",
+    "no": "Spansk fiksjon"
+  },
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

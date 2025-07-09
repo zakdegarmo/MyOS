@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E484PkvYYxtK8VGgcRmTYyTjY8",
+  "scopeNote": {
+    "en": [
+      "Including problems of security and confidentiality"
+    ],
+    "de": [
+      "Einschließlich: Probleme bezüglich Sicherheit und Vertraulichkeit"
+    ],
+    "sv": [
+      "Omfattar problem med säkerhet och sekretess"
+    ],
+    "fr": [
+      "Y compris les problèmes relatifs à la sécurité et à la confidentialité dans les bureaux"
+    ],
+    "no": [
+      "Inkluderer: Problemer knyttet til sikkerhet og konfidensialitet"
+    ],
+    "it": [
+      "Include i problemi della sicurezza e del segreto d'ufficio"
+    ]
+  },
+  "prefLabel": {
+    "it": "Servizi d'ufficio",
+    "en": "Office services",
+    "no": "Kontorfunksjoner",
+    "fr": "Services de bureau",
+    "de": "Büroarbeit",
+    "sv": "Kontorstjänster"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E44TH3jMWWYyXdKMqhPkjhVR4F",
+  "notation": "651",
+  "modified": "2025-06-17T19:13:40Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

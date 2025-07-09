@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33YWJwvRB3CHHJT4GpwYfBMdX",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Rumänska, rätoromanska, sardiska, korsikanska",
+    "en": "Romanian, Rhaetian, Sardinian, Corsican",
+    "fr": "Roumain, rhétique, sarde, corse",
+    "no": "Rumensk, retoromansk, sardinsk, korsikansk",
+    "de": "Rumänisch, Rätoromanisch, Sardisch, Korsisch",
+    "it": "Romeno, retico, sardo, corso"
+  },
+  "notation": "459",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46wTjwgGKW9YfcXGDydJvfbcR",
+  "modified": "2021-05-05T07:19:18Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K86ftyp3wM9QfPw7GYVgGHVQ",
+  "modified": "2025-02-03T19:58:09Z",
+  "prefLabel": {
+    "no": "Generell statistikk for Afrika",
+    "en": "General statistics of Africa",
+    "de": "Allgemeine Statistiken zu Afrika",
+    "fr": "Statistiques générales de l'Afrique",
+    "sv": "Allmän statistik för Afrika",
+    "it": "Statistiche generali dell'Africa"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "316",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

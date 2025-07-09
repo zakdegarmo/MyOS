@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vQfg9dxW4bxyKp9Yv3MxmxBH",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la sartoria da donna, l'abbigliamento casual (abbigliamento sportivo)"
+    ],
+    "en": [
+      "Class here dressmaking, casual wear (sportswear)"
+    ],
+    "fr": [
+      "Classer ici la confection de robes, les vêtements décontractés (vêtements de sport)"
+    ],
+    "sv": [
+      "Klassificera här klädsömnad, fritidskläder"
+    ],
+    "no": [
+      "Her: Kjolesøm, hverdagsklær (fritidsklær)"
+    ],
+    "de": [
+      "Hier auch: Ausübung des Schneiderhandwerks zur kommerziellen Anfertigung von Kleidung; Freizeitkleidung (Sportlich-legere Kleidung)"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Vêtements et accessoires",
+    "de": "Kleidung und Accessoires",
+    "en": "Clothing and accessories",
+    "no": "Klær og tilbehør",
+    "sv": "Kläder och accessoarer",
+    "it": "Abbigliamento e accessori"
+  },
+  "notation": "687",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "modified": "2024-07-11T10:28:46Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

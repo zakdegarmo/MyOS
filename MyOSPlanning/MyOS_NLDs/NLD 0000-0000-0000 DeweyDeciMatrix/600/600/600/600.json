@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yR7KYFCfRjmHb3my7wjkvb7w",
+  "notation": "600",
+  "created": "2000-02-02",
+  "prefLabel": {
+    "sv": "Teknik (tillämpade vetenskaper)",
+    "fr": "Technologie (Sciences appliquées)",
+    "en": "Technology (Applied sciences)",
+    "it": "Tecnologia (Scienze applicate)",
+    "de": "Technik und Technologie",
+    "no": "Teknologi (anvendt vitenskap)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E38kxrp6qgBrM4ccVMXvfxxgd8",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här uppfinningar"
+    ],
+    "fr": [
+      "Classer ici les inventions"
+    ],
+    "no": [
+      "Her: Oppfinnelser"
+    ],
+    "it": [
+      "Classificare qui le invenzioni"
+    ],
+    "en": [
+      "Class here inventions"
+    ],
+    "de": [
+      "Hier auch: Erfindungen"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-05-28T01:16:10Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

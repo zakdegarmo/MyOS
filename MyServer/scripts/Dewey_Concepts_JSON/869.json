@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48WdcBBqYKrwDP6GdDt8pDttx",
+  "notation": "869",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Literatures of Portuguese and Galician languages",
+    "no": "Portugisisk og galisisk litteratur",
+    "sv": "Portugisisk litteratur och galicisk litteratur",
+    "fr": "Littératures des langues portugaise et galicienne",
+    "de": "Literaturen in portugiesischer und galicischer Sprache",
+    "it": "Letteratura portoghese e letteratura gallega"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E44Q8p4J8FRFBBBFMHGCqYDPF6",
+  "modified": "2022-03-03T10:55:15Z",
+  "type": "Concept",
+  "created": "1998-11-12",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rpgmXpCqvY7Kb4tBkpgRxb9Y",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Palestina, fino al 70",
+    "fr": "Palestine jusqu’à 70",
+    "en": "Palestine to 70",
+    "sv": "Palestina före 70",
+    "de": "Palästina bis 70",
+    "no": "Palestina fram til 70"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-11-09T12:08:00Z",
+  "notation": "933",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

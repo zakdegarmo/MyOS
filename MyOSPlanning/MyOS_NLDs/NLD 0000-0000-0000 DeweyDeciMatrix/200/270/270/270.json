@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43XM98pFwttvp7R3K8Dc6V6mw",
+  "prefLabel": {
+    "no": "Historie, geografisk behandling, biografier knyttet til kristendom",
+    "de": "Geschichte, geografische Behandlung, Biografien des Christentums",
+    "sv": "Historia, geografisk aspekt, biografi inom kristendom",
+    "fr": "Histoire, étude géographique, biographie concernant le christianisme",
+    "en": "History, geographic treatment, biography of Christianity",
+    "it": "Storia, geografia, biografia del cristianesimo"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här kyrkohistoria, samlade skrifter av apostoliska fäder och kyrkofäder (patristik)"
+    ],
+    "en": [
+      "Class here Church history, collected writings of apostolic and church fathers (patristics)"
+    ],
+    "it": [
+      "Classificare qui la storia della chiesa, le raccolte di scritti dei padri apostolici e dei padri della chiesa (patristica)"
+    ],
+    "de": [
+      "Hier auch: Kirchengeschichte, gesammelte Schriften der Apostolischen Väter und der Kirchenväter (Patristik)"
+    ],
+    "no": [
+      "Her: Kirkehistorie, samlede verker av de apostoliske fedre og kirkefedre, patristikk (patrologi)"
+    ],
+    "fr": [
+      "Classer ici l'histoire de l'Église, les œuvres complètes des Pères apostoliques et des Pères de l’Église (patristique)"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "270",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3V3MTtT4xT46jFhm6vfQQkBpt",
+  "type": "Concept",
+  "modified": "2023-06-06T12:25:35Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

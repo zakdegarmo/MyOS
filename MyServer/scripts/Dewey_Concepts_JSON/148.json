@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36dxwddj9QFy6Q93RTCkcP8Gr",
+  "prefLabel": {
+    "en": "Dogmatism, eclecticism, liberalism, syncretism, traditionalism",
+    "fr": "Dogmatisme, éclectisme, libéralisme, syncrétisme, traditionalisme",
+    "sv": "Dogmatism, eklekticism, liberalism, synkretism, traditionalism",
+    "de": "Dogmatismus, Eklektizismus, Liberalismus, Synkretismus, Traditionalismus",
+    "no": "Dogmatisme, eklektisisme, liberalisme, synkretisme, tradisjonalisme",
+    "it": "Dogmatismo, eclettismo, liberalismo, sincretismo, tradizionalismo"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "148",
+  "modified": "2024-11-02T00:44:37Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

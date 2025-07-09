@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gwfj98hHC4x3VH6pyB4Y8V9r",
+  "prefLabel": {
+    "de": "Nichtsemitische afroasiatische Literaturen",
+    "en": "Non-Semitic Afro-Asiatic literatures",
+    "sv": "Icke-semitiska afroasiatiska litteraturer",
+    "fr": "Littératures afro-asiatiques non sémitiques",
+    "no": "Ikke-semittiske afro-asiatiske språks litteraturer",
+    "it": "Letterature afroasiatiche non semitiche"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "type": "Concept",
+  "notation": "893",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-04-11T10:44:15Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

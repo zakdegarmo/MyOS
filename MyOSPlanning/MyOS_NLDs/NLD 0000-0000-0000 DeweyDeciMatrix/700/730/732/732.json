@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ptkVvFYmdvtbwfqwMg8F4KvY",
+  "prefLabel": {
+    "en": "Sculpture from earliest times to ca. 500, sculpture of nonliterate peoples",
+    "de": "Bildhauerkunst von den Anfängen bis ca. 500, Bildhauerkunst nichtliteraler Völker",
+    "it": "Scultura dalle origini al 500 ca., scultura dei popoli senza scrittura",
+    "fr": "Sculpture jusque vers 500, sculpture des peuples sans écriture",
+    "sv": "Skulptural konst före 500, skulptur från skriftlösa kulturer",
+    "no": "Oldtidens skulptur fram til ca. år 500, skulptur i kulturer uten skriftspråk"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-06-29T07:51:22Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GQ3HjPCbxXTJVJ4HjcyBvt6V",
+  "notation": "732",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

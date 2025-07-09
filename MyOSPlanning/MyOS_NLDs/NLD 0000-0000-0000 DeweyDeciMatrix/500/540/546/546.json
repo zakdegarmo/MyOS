@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43FQ4PJy3rRtxxB6X8XHHwCQC",
+  "prefLabel": {
+    "de": "Anorganische Chemie",
+    "fr": "Chimie inorganique",
+    "it": "Chimica inorganica",
+    "no": "Uorganisk kjemi",
+    "en": "Inorganic chemistry",
+    "sv": "Oorganisk kemi"
+  },
+  "type": "Concept",
+  "notation": "546",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här allmänna ämnen inom kemi tillämpade på särskilda grundämnen, föreningar, blandningar, grupperingar; övergripande verk om oorganisk kemi och organisk kemi gällande särskilda grundämnen, föreningar, blandningar, grupperingar"
+    ],
+    "no": [
+      "Her: Generelle emner innen kjemi som gjelder bestemte grunnstoffer, forbindelser, blandinger, stoffgrupper; oversiktsverker om uorganisk og organisk kjemi for bestemte grunnstoffer, forbindelser, blandinger, stoffgrupper"
+    ],
+    "it": [
+      "Classificare qui i soggetti generali di chimica applicata a specifici elementi, composti, miscugli, raggruppamenti; le opere d'insieme su chimica inorganica e organica di specifici elementi, composti, miscugli, raggruppamenti"
+    ],
+    "de": [
+      "Hier auch: allgemeine chemische Themen in Anwendung auf einzelne Elemente, Verbindungen, Gemische, Gruppierungen; umfassende Werke über anorganische und organische Chemie einzelner Elemente, Verbindungen, Gemische, Gruppierungen"
+    ],
+    "en": [
+      "Class here general topics of chemistry applied to specific elements, compounds, mixtures, groupings; comprehensive works on inorganic and organic chemistry of specific elements, compounds, mixtures, groupings"
+    ],
+    "fr": [
+      "Classer ici les sujets généraux de la chimie appliqués aux éléments, composés, mélanges, groupements particuliers ; les ouvrages généraux sur la chimie inorganique et organique des éléments, composés, mélanges, groupements particuliers"
+    ]
+  },
+  "modified": "2021-11-25T12:16:02Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

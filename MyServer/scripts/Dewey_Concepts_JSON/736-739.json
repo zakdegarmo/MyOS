@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cvGqTqYYvbrqj9QW8HGHKkQJ",
+  "modified": "2024-11-05T11:23:20Z",
+  "prefLabel": {
+    "fr": "Arts tridimensionnels connexes",
+    "it": "Altre arti tridimensionali",
+    "no": "Lignende tredimensjonale kunstarter",
+    "sv": "Övriga plastiska konstformer",
+    "de": "Andere plastische Künste",
+    "en": "Related three-dimensional arts"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MwqmFCbPrRHjdTVvyVjHwgrx",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3wqPrjv8CYbprRqvXJDtrW6c7",
+    "https://id.oclc.org/worldcat/ddc/E4bDf9TVV6f8Fr3pgTFx33dv77",
+    "https://id.oclc.org/worldcat/ddc/E3JjyR6kqxrdmJFmXwyhGbhQmt",
+    "https://id.oclc.org/worldcat/ddc/E3qK4mtYxkgjjhT3JCh6JDyhQj"
+  ],
+  "scopeNote": {
+    "fr": [
+      "Procédés et produits"
+    ],
+    "sv": [
+      "Arbetsmetoder och produkter"
+    ],
+    "it": [
+      "Procedimenti e prodotti"
+    ],
+    "en": [
+      "Processes and products"
+    ],
+    "no": [
+      "Arbeidsprosesser og produkter"
+    ],
+    "de": [
+      "Verfahren und Produkte"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "736-739",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

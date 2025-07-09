@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PyXXhRpQfqFVrcWpTDTdcKcR",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-05-30T09:22:57Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "prefLabel": {
+    "no": "Tysk drama",
+    "en": "German drama",
+    "sv": "Tysk dramatik",
+    "fr": "Œuvres dramatiques allemandes",
+    "it": "Letteratura drammatica tedesca",
+    "de": "Deutsche Dramen"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "832",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

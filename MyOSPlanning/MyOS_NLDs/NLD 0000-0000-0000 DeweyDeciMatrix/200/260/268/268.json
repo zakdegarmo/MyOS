@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rRhqJQKcF3Dr9c9Kc8rPjkj8",
+  "prefLabel": {
+    "no": "Religionsundervisning",
+    "it": "Educazione religiosa",
+    "de": "Religiöse Erziehung",
+    "sv": "Religiös undervisning",
+    "fr": "Enseignement religieux",
+    "en": "Religious education"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Katechetik (die Wissenschaft oder Kunst, die der Organisation der Grundsätze der religiösen Erziehung gewidmet ist), Curricula, umfassende Werke über christliche religiöse Erziehung"
+    ],
+    "sv": [
+      "Klassificera här kateketik (vetenskapen eller konsten ägnad att organisera principerna för religiös undervisning), läroplaner, övergripande verk om kristen religiös undervisning"
+    ],
+    "en": [
+      "Class here catechetics (the science or art devoted to organizing the principles of religious teaching), curricula, comprehensive works on Christian religious education"
+    ],
+    "fr": [
+      "Classer ici la catéchèse (science ou art d’organiser les principes de l’enseignement religieux), les programmes d’enseignement, les ouvrages généraux sur l'enseignement religieux chrétien"
+    ],
+    "no": [
+      "Her: Kateketikk (vitenskapen om prinsippene for religionsundervisning), læreplaner, studieplaner, oversiktsverker om kristen religionsundervisning"
+    ],
+    "it": [
+      "Classificare qui la catechetica (scienza o tecnica che elabora i principî dell'insegnamento religioso), i curricoli, le opere d'insieme sull'educazione religiosa cristiana"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "268",
+  "modified": "2024-04-04T12:55:20Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

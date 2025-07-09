@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yH97XwKDWF3YTVP7MxDkBfkH",
+  "prefLabel": {
+    "en": "Education, research, related topics of history",
+    "fr": "Étude et enseignement, recherche, sujets connexes de l’histoire",
+    "de": "Ausbildung, Forschung, verwandte Themen der Geschichtswissenschaft",
+    "it": "Educazione, ricerca, soggetti connessi in storia",
+    "no": "Utdanning og opplæring, forskning, lignende emner innen historie",
+    "sv": "Utbildning, forskning, liknande ämnen inom historia"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "907",
+  "modified": "2018-02-05T17:11:51Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

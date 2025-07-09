@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38fvJGxjfJJVdxJcfGxbrDbgB",
+  "notation": "771",
+  "scopeNote": {
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Beschreibung, Anwendung, Herstellung von Geräten, Ausstattung, Materialien",
+      "Einschließlich: Techniken der Lochkamera-Fotografie, der Fotografie ohne Kamera; umfassende Werke über Grundtechniken und Grundverfahren, über unterstützende Techniken und Verfahren"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om beskrivelse, bruk, produksjon av apparater, utstyr, materialer",
+      "Inkluderer: Teknikker for fotografi med hullkamera, for fotografi uten kamera; oversiktsverker om basisteknikker og hjelpeteknikker, om basismetoder og hjelpemetoder"
+    ],
+    "en": [
+      "Including techniques of pinhole photography, of photography without camera; comprehensive works on basic and auxiliary techniques and procedures",
+      "Class here interdisciplinary works on description, use, manufacture of apparatus, equipment, materials"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om beskrivning, användning, tillverkning av apparatur, utrustning, material",
+      "Omfattar tekniker för fotografering med hålkamera, fotografering utan kamera; övergripande verk om grundläggande tekniker, hjälptekniker och procedurer"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari su descrizione, uso, fabbricazione di apparecchi, attrezzature, materiali",
+      "Include le tecniche della fotografia stenoscopica, della fotografia senza macchina fotografica; le opere d'insieme su tecniche e procedure fondamentali e ausiliarie"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur la description, l’utilisation, la fabrication des appareils, de l’équipement, du matériel",
+      "Y compris les techniques de photographie au trou d'épingle, de photographie sans appareil photographique ; les ouvrages généraux sur les techniques et les procédés de base et sur les techniques et les procédés auxiliaires"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Techniques, procédés, appareils, équipement, matériel",
+    "sv": "Tekniker, procedurer, apparatur, utrustning, material",
+    "de": "Techniken, Verfahren, Geräte, Ausstattung, Materialien",
+    "it": "Tecniche, procedure, apparecchi, attrezzature, materiali",
+    "en": "Techniques, procedures, apparatus, equipment, materials",
+    "no": "Teknikker, arbeidsmetoder, apparater, utstyr, materialer"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-06-07T10:08:10Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

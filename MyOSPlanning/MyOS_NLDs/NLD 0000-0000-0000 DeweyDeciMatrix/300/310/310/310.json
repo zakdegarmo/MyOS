@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YFmvGMxXgfPQyRjyXx9yPtFF",
+  "prefLabel": {
+    "no": "Generelle statistikksamlinger",
+    "fr": "Recueils de statistiques générales",
+    "sv": "Samlingar av allmän statistik",
+    "it": "Raccolte di statistiche generali",
+    "de": "Sammlungen allgemeiner Statistiken",
+    "en": "Collections of general statistics"
+  },
+  "notation": "310",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-12-06T03:21:25Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VCYqcy3CJcvhBjh8V4WwFTJf",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JtWqfyg46kKVQWxW8rqfqTvX",
+  "prefLabel": {
+    "it": "Suono e oscillazioni connesse",
+    "sv": "Ljud och liknande svängningar",
+    "de": "Schall und verwandte Schwingungen",
+    "no": "Lyd og lignende vibrasjoner",
+    "en": "Sound and related vibrations",
+    "fr": "Son et vibrations connexes"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "534",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

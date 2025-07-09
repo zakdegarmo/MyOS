@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GmCmjThVqpXxdt3rymxkyJ6M",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Symboles de foi, confessions de foi, alliances, catéchismes",
+    "en": "Creeds, confessions of faith, covenants, catechisms",
+    "no": "Trosbekjennelser, trosformler, pakter, katekismer",
+    "de": "Glaubensbekenntnisse, Glaubensformeln, gemeinsame Erklärungen, Katechismen",
+    "it": "Credi, confessioni di fede, patti, catechismi",
+    "sv": "Trosläror, trosbekännelser, förbund, katekeser"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "238",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36DrXFp89KdrchdbVqVdBVktP",
+  "modified": "2023-06-22T10:52:13Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

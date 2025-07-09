@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E436H4rjqpwGccBR9XMfBF8yy4",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "076",
+  "prefLabel": {
+    "it": "Giornalismo e giornali in Spagna, Andorra, Gibilterra, Portogallo",
+    "no": "Journalistikk og aviser i Spania, Andorra, Gibraltar, Portugal",
+    "sv": "Journalistik och dagstidningar i Spanien, Andorra, Gibraltar, Portugal",
+    "en": "Journalism and newspapers in Spain, Andorra, Gibraltar, Portugal",
+    "fr": "Journalisme et journaux en Espagne, à Andorre, à Gibraltar, au Portugal",
+    "de": "Journalismus und Zeitungen in Spanien, Andorra, Gibraltar, Portugal"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

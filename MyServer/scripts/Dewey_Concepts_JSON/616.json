@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JgrcHwDwT3D4ty3F7FPPcp7d",
+  "prefLabel": {
+    "en": "Diseases",
+    "it": "Malattie",
+    "fr": "Maladies",
+    "de": "Krankheiten",
+    "sv": "Sjukdomar",
+    "no": "Sykdommer"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-04-11T06:57:30Z",
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: klinische Medizin, evidenzbasierte Medizin, innere Medizin"
+    ],
+    "no": [
+      "Her: Klinisk medisin, kunnskapsbasert medisin, indremedisin"
+    ],
+    "sv": [
+      "Klassificera här klinisk medicin, evidensbaserad medicin, invärtesmedicin"
+    ],
+    "en": [
+      "Class here clinical medicine, evidence-based medicine, internal medicine"
+    ],
+    "fr": [
+      "Classer ici la médecine clinique, la médecine factuelle, la médecine interne"
+    ],
+    "it": [
+      "Classificare qui la clinica medica, la medicina basata sull'evidenza, la medicina interna"
+    ]
+  },
+  "notation": "616",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

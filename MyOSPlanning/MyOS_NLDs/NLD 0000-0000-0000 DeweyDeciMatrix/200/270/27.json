@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3V3MTtT4xT46jFhm6vfQQkBpt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Kristendomshistoria",
+    "no": "Kristendommens historie",
+    "fr": "Histoire du christianisme",
+    "en": "History of Christianity",
+    "it": "Storia del cristianesimo",
+    "de": "Geschichte des Christentums"
+  },
+  "notation": "27",
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Kw4jwwHk9jbR9fH3GQC6J4Wy",
+    "https://id.oclc.org/worldcat/ddc/E43XM98pFwttvp7R3K8Dc6V6mw",
+    "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX"
+  ],
+  "modified": "2024-09-04T19:30:28Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hdq4y9PrPK8tJrjXgkWcXRCt",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FkrgpT6Gk4JPxXbRGpKMB9Bj",
+  "prefLabel": {
+    "fr": "Journalisme et journaux en Italie, à Saint-Marin (San Marino), dans la Cité du Vatican, à Malte",
+    "no": "Journalistikk og aviser i Italia, San Marino, Vatikanstaten, Malta",
+    "sv": "Journalistik och dagstidningar i Italien, San Marino, Vatikanstaten, Malta",
+    "en": "Journalism and newspapers in Italy, San Marino, Vatican City, Malta",
+    "de": "Journalismus und Zeitungen in Italien, San Marino, Vatikanstadt, Malta",
+    "it": "Giornalismo e giornali in Italia, San Marino, Città del Vaticano, Malta"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "075",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

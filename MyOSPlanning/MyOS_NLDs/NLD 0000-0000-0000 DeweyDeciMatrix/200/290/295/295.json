@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cfMdcGddXBvcvHtfdhYVbpHJ",
+  "notation": "295",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2023-11-21T06:26:41Z",
+  "prefLabel": {
+    "en": "Zoroastrianism (Mazdaism, Parseeism)",
+    "it": "Zoroastrismo (Mazdaismo, Parsismo)",
+    "no": "Zarathustras lære (zoroastrisme, mazdaisme, parsisme)",
+    "de": "Zoroastrismus (Parsismus, Mazdaismus)",
+    "fr": "Zoroastrisme (Mazdéisme, parsisme)",
+    "sv": "Zoroastrism (mazdaism, parsism)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

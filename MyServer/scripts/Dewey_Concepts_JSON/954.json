@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36tVF6kX8gGmhBP7rdMGTpg7w",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Sydasien"
+    ],
+    "fr": [
+      "Classer ici l'Asie du Sud"
+    ],
+    "en": [
+      "Class here south Asia"
+    ],
+    "it": [
+      "Classificare qui l'Asia meridionale"
+    ],
+    "de": [
+      "Hier auch: Südasien"
+    ],
+    "no": [
+      "Her: Sør-Asia"
+    ]
+  },
+  "prefLabel": {
+    "en": "India and neighboring south Asian countries",
+    "no": "India og sørasiatiske naboland",
+    "sv": "Indien och närliggande länder i Sydasien",
+    "fr": "Inde et pays sud-asiatiques avoisinants",
+    "de": "Indien und benachbarte südasiatische Länder",
+    "it": "India e paesi vicini dell'Asia meridionale"
+  },
+  "type": "Concept",
+  "modified": "2024-07-09T12:29:03Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "created": "1996-06-01",
+  "notation": "954",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

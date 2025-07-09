@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QBJ3MgfwpyTBFgQkBpDdf8Jj",
+  "prefLabel": {
+    "it": "Frenologia",
+    "no": "Frenologi",
+    "sv": "Frenologi",
+    "en": "Phrenology",
+    "de": "Phrenologie",
+    "fr": "Phrénologie"
+  },
+  "scopeNote": {
+    "it": [
+      "Determinazione delle capacità mentali mediante l'analisi della conformazione del cranio"
+    ],
+    "de": [
+      "Bestimmung geistiger Fähigkeiten anhand der Schädelform"
+    ],
+    "sv": [
+      "Bedömning av begåvning med ledning av skallens form"
+    ],
+    "en": [
+      "Determination of mental capacities from skull structures"
+    ],
+    "no": [
+      "Bedømmelse av en persons sjelsevner på grunnlag av kraniets form"
+    ],
+    "fr": [
+      "Détermination des aptitudes mentales d’après la structure du crâne"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-02T00:44:37Z",
+  "created": "1996-06-01",
+  "notation": "139",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

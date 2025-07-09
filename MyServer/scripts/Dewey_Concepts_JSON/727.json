@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kgq3fwytqMChtYXcJkkGV9bp",
+  "prefLabel": {
+    "it": "Edifici per l'educazione e la ricerca",
+    "no": "Bygninger for utdannings- og forskningsformål",
+    "de": "Gebäude für Lehr- und Forschungszwecke",
+    "en": "Buildings for educational and research purposes",
+    "sv": "Byggnader för utbildning och forskning",
+    "fr": "Établissements d'enseignement et de recherche"
+  },
+  "created": "1996-06-01",
+  "modified": "2022-03-11T06:04:53Z",
+  "notation": "727",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här skolbyggnader"
+    ],
+    "fr": [
+      "Classer ici les écoles"
+    ],
+    "de": [
+      "Hier auch: Schulgebäude"
+    ],
+    "it": [
+      "Classificare qui gli edifici scolastici"
+    ],
+    "no": [
+      "Her: Skolebygninger"
+    ],
+    "en": [
+      "Class here school buildings"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

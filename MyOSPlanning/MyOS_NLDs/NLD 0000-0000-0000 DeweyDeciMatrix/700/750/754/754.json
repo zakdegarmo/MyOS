@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hTDRhVDcJqvB7fJMpG47xTbf",
+  "modified": "2021-06-28T11:26:37Z",
+  "prefLabel": {
+    "sv": "Genremålningar",
+    "en": "Genre paintings",
+    "no": "Sjangermalerier",
+    "de": "Genremalerei",
+    "fr": "Peintures de genre",
+    "it": "Pittura di genere"
+  },
+  "notation": "754",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

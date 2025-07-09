@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mCRMyvKtph7kTXXXVcWGTgFx",
+  "notation": "352-354",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E33qv8KdHTBWGGyWqGCtRpq7th",
+    "https://id.oclc.org/worldcat/ddc/E3FygWJqbjgxwMGCQyrrWyfTKf",
+    "https://id.oclc.org/worldcat/ddc/E3wFYqT6Y46PxKpTXVCbbKwfFm"
+  ],
+  "prefLabel": {
+    "en": "Specific topics of public administration",
+    "fr": "Sujets particuliers de l’administration publique",
+    "no": "Bestemte emner innen offentlig administrasjon",
+    "de": "Einzelne Themen der öffentlichen Verwaltung",
+    "sv": "Särskilda ämnen inom offentlig förvaltning",
+    "it": "Soggetti specifici di amministrazione pubblica"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Offentlig administrasjon av bestemte departementer og offentlige organer"
+    ],
+    "de": [
+      "Hier auch: öffentliche Verwaltung einzelner Ministerien und Behörden"
+    ],
+    "it": [
+      "Classificare qui l'amministrazione di specifici dipartimenti e agenzie"
+    ],
+    "sv": [
+      "Klassificera här offentlig förvaltning av särskilda myndigheter och organ"
+    ],
+    "fr": [
+      "Classer ici l’administration publique des ministères et organismes administratifs particuliers"
+    ],
+    "en": [
+      "Class here public administration of specific departments and agencies"
+    ]
+  },
+  "modified": "2023-02-14T13:15:21Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "created": "2000-02-02",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

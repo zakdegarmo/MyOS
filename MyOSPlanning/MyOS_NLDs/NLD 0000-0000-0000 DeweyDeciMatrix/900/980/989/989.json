@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47JMXcKqtM9YCmQwHDqt9YxVw",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Paraguay und Uruguay",
+    "fr": "Paraguay et Uruguay",
+    "no": "Paraguay og Uruguay",
+    "en": "Paraguay and Uruguay",
+    "sv": "Paraguay och Uruguay",
+    "it": "Paraguay e Uruguay"
+  },
+  "modified": "2024-01-20T12:41:05Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "notation": "989",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

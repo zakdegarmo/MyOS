@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HXywGwghjxjHRDKgcrDfkxhD",
+  "created": "1996-06-01",
+  "notation": "428",
+  "prefLabel": {
+    "sv": "Standardengelskt språkbruk (normativ lingvistik)",
+    "it": "Uso inglese standard (Linguistica prescrittiva)",
+    "no": "Normert engelsk språkbruk (normativ lingvistikk)",
+    "de": "Gebrauch der englischen Standardsprache (Präskriptive Linguistik)",
+    "fr": "Usage de l’anglais standard (Linguistique normative)",
+    "en": "Standard English usage (Prescriptive linguistics)"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "no": [
+      "Her: Basic English"
+    ],
+    "de": [
+      "Hier auch: Grundlagen des Englischen"
+    ],
+    "en": [
+      "Class here Basic English"
+    ],
+    "sv": [
+      "Klassificera här elementär engelska (förenklad engelska)"
+    ],
+    "fr": [
+      "Classer ici l’anglais fondamental"
+    ],
+    "it": [
+      "Classificare qui il Basic English"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-02-19T10:21:57Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

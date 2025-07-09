@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JgHtgK4cWDB9XYmVPtGqQBrb",
+  "prefLabel": {
+    "de": "Englische Versdichtung",
+    "no": "Engelsk poesi",
+    "it": "Poesia inglese",
+    "sv": "Engelsk poesi",
+    "en": "English poetry",
+    "fr": "Poésie anglaise"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "notation": "821",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1998-10-02",
+  "modified": "2021-12-27T20:44:43Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

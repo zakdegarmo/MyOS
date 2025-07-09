@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wvKf7HXphwDy7X47CWqB6wwM",
+  "notation": "770",
+  "scopeNote": {
+    "en": [
+      "Class here conventional photography (photography using film), digital photography"
+    ],
+    "fr": [
+      "Classer ici la photographie classique (sur pellicule), la photographie numérique"
+    ],
+    "it": [
+      "Classificare qui la fotografia convenzionale (fotografia con pellicola), la fotografia digitale"
+    ],
+    "sv": [
+      "Klassificera här traditionellt fotografi (fotografering med film), digitalfotografi"
+    ],
+    "de": [
+      "Hier auch: konventionelle Fotografie (analoge Fotografie), digitale Fotografie"
+    ],
+    "no": [
+      "Her: Konvensjonell fotografi (fotografi med film), digital fotografi"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "prefLabel": {
+    "fr": "Photographie, art par ordinateur, cinématographie, vidéographie",
+    "de": "Fotografie, Computerkunst, Kinematografie, Videografie",
+    "it": "Fotografia, computer art, cinematografia, videografia",
+    "en": "Photography, computer art, cinematography, videography",
+    "sv": "Fotografi, datorkonst, filmfotografi, videofotografi",
+    "no": "Fotografi, datakunst, filmfotografi (kinematografi), videografi"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2023-05-24T12:04:37Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

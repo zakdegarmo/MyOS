@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RVFTggBxgPQpjkdxcb3MpfmB",
+  "prefLabel": {
+    "de": "Klassische griechische Briefe",
+    "it": "Epistolografia greca classica",
+    "fr": "Correspondance grecque classique",
+    "en": "Classical Greek letters",
+    "no": "Klassisk greske brev",
+    "sv": "Klassiska grekiska brev"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-08T07:08:32Z",
+  "notation": "886",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

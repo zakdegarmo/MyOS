@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36QKhvPTkVrW7w9HBkQYGMXVK",
+  "prefLabel": {
+    "sv": "Metallsaltsprocesser",
+    "en": "Metallic salt processes",
+    "de": "Entwicklungsverfahren mit Metallsalzen",
+    "it": "Procedimenti ai sali metallici",
+    "fr": "Procédés utilisant des sels métalliques",
+    "no": "Metallsaltprosesser"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "772",
+  "created": "1996-06-01",
+  "modified": "2020-07-06T07:41:02Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E364PkxfwxvCJWtd6byyXxDKpK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

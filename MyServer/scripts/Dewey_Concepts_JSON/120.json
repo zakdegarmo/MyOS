@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vfkQmwMR6VYqywQF3F7hPQFk",
+  "prefLabel": {
+    "sv": "Kunskapsteori, kausalitet, mänsklighet",
+    "it": "Gnoseologia, causalità, genere umano",
+    "de": "Epistemologie, Kausalität, Menschheit",
+    "no": "Epistemologi (erkjennelsesteori), kausalitet (årsakssammenheng), mennesket",
+    "fr": "Épistémologie, causalité, humanité (Le genre humain)",
+    "en": "Epistemology, causation, humankind"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "120",
+  "modified": "2017-12-16T21:35:49Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

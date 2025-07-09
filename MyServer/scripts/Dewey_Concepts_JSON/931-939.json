@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E39qp9wpwgHkJW677MW6tt3WqY",
+    "https://id.oclc.org/worldcat/ddc/E4d3BBXYxKw7q3YXXy8634CfcV",
+    "https://id.oclc.org/worldcat/ddc/E3RD7qYhCBvbdCYdfPJk9qBVcP",
+    "https://id.oclc.org/worldcat/ddc/E46V6Xdh3pqqcMvgMhPfKW4rJP",
+    "https://id.oclc.org/worldcat/ddc/E3rpgmXpCqvY7Kb4tBkpgRxb9Y",
+    "https://id.oclc.org/worldcat/ddc/E3gv9kfDPGbTcVYVcdV7XRkmC6",
+    "https://id.oclc.org/worldcat/ddc/E3tdmRTTHmcbhvkKQCrycvrTR3",
+    "https://id.oclc.org/worldcat/ddc/E4cYqVytP7CM9FhxdkQT7wwrTm",
+    "https://id.oclc.org/worldcat/ddc/E334Pg4Bq3bQ9FFxFTybhpRfvC"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Särskilda platser",
+    "en": "Specific places",
+    "fr": "Lieux particuliers",
+    "de": "Einzelne Orte",
+    "no": "Bestemte steder",
+    "it": "Specifici luoghi"
+  },
+  "notation": "931-939",
+  "modified": "2024-11-20T06:37:21Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E39wJ7kM4jrHhpd6Yy7fPC4fyw",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

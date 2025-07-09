@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RCpbBr4YGwJtpX8WbbQw4c9f",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Lærvarer, pelsvarer og lignende produkter",
+    "fr": "Articles de cuir, de fourrure et produits connexes",
+    "de": "Leder- und Pelzwaren und verwandte Produkte",
+    "sv": "Skinnvaror och pälsvaror och liknande produkter",
+    "it": "Articoli in pelle e in pelliccia, e prodotti affini",
+    "en": "Leather and fur goods, and related products"
+  },
+  "created": "1996-06-01",
+  "notation": "685",
+  "scopeNote": {
+    "en": [
+      "Including parchment prepared from the skin of an animal"
+    ],
+    "it": [
+      "Include la pergamena di pelle animale"
+    ],
+    "sv": [
+      "Omfattar pergament berett av djurhud"
+    ],
+    "fr": [
+      "Y compris le parchemin fabriqué à partir de peau animale"
+    ],
+    "de": [
+      "Einschließlich: Pergament"
+    ],
+    "no": [
+      "Inkluderer: Pergament laget av dyreskinn"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-09-24T00:55:27Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

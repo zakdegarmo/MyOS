@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wQwDxbCJGv4rjkWDmqtRjmqr",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "106",
+  "prefLabel": {
+    "en": "Organizations and management of philosophy",
+    "de": "Organisationen und Management der Philosophie",
+    "sv": "Organisationer och ledning av filosofi",
+    "no": "Organisasjoner og ledelse innen filosofi",
+    "fr": "Organisations et gestion de la philosophie",
+    "it": "Organizzazioni e gestione della filosofia"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "modified": "2025-02-03T19:58:09Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

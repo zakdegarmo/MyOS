@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gJvvcdD4XjWgxtJDPCvk9Wwd",
+  "prefLabel": {
+    "it": "Latino e lingue italiche affini",
+    "sv": "Latin och besläktade italiska språk",
+    "en": "Latin and related Italic languages",
+    "fr": "Latin et langues italiques connexes",
+    "de": "Latein und verwandte italische Sprachen",
+    "no": "Latin og beslektede italiske språk"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here Italic languages"
+    ],
+    "de": [
+      "Hier auch: italische Sprachen"
+    ],
+    "it": [
+      "Classificare qui le lingue italiche"
+    ],
+    "sv": [
+      "Klassificera här italiska språk"
+    ],
+    "no": [
+      "Her: Italiske språk"
+    ],
+    "fr": [
+      "Classer ici les langues italiques"
+    ]
+  },
+  "type": "Concept",
+  "notation": "470",
+  "modified": "2023-06-15T12:43:10Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hDPPXbxwJwxCFTg8DDwcHBkx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

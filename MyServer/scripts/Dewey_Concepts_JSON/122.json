@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FTdWFdhMPFMjWWM9DVgBbWqh",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här chans kontra orsak"
+    ],
+    "de": [
+      "Hier auch: Zufall versus Ursache"
+    ],
+    "en": [
+      "Class here chance versus cause"
+    ],
+    "fr": [
+      "Classer ici le hasard par opposition à la cause"
+    ],
+    "no": [
+      "Her: Tilfeldighet kontra årsak"
+    ],
+    "it": [
+      "Classificare qui il caso contrapposto alla causa"
+    ]
+  },
+  "prefLabel": {
+    "en": "Causation",
+    "no": "Kausalitet (årsakssammenheng)",
+    "sv": "Kausalitet",
+    "it": "Causalità",
+    "fr": "Causalité",
+    "de": "Kausalität"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "modified": "2023-11-10T02:34:09Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "122",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

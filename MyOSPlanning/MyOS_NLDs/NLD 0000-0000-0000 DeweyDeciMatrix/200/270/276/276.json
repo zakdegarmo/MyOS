@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E436w8YGpkmtrmYF79pxBgjBm6",
+  "notation": "276",
+  "prefLabel": {
+    "en": "Christianity in Africa",
+    "sv": "Kristendom i Afrika",
+    "it": "Cristianesimo in Africa",
+    "fr": "Christianisme en Afrique    ",
+    "no": "Kristendom i Afrika",
+    "de": "Christentum in Afrika"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "modified": "2025-02-03T19:58:09Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

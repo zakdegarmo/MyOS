@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FfrXwPHMgCtrvVRvxJK4rfBv",
+  "prefLabel": {
+    "it": "Salute e sicurezza personale",
+    "de": "Persönliche Gesundheit und Sicherheit",
+    "no": "Personlig helse og sikkerhet",
+    "en": "Personal health and safety",
+    "fr": "Santé et sécurité personnelles",
+    "sv": "Hälsa och säkerhet"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui le misure adottate dai singoli e dai loro consulenti medici per promuovere la salute e prevenire le malattie, le opere mediche d'insieme sulle misure personali e pubbliche per promuovere la salute e prevenire le malattie"
+    ],
+    "de": [
+      "Hier auch: von Einzelpersonen und deren medizinischen Beratern getroffene Maßnahmen zur Gesundheitsförderung und Krankheitsvorbeugung, umfassende medizinische Werke über individuelle und öffentliche Maßnahmen zur Gesundheitsförderung und Krankheitsvorbeugung"
+    ],
+    "en": [
+      "Class here measures to promote health and prevent disease taken by individuals and their medical advisers, comprehensive medical works on personal and public measures to promote health and prevent disease"
+    ],
+    "fr": [
+      "Classer ici les mesures de promotion de la santé et de prévention de la maladie prises par un individu et le personnel médical qui l'entoure, les ouvrages médicaux généraux sur les mesures individuelles et publiques de promotion de la santé et de prévention de la maladie"
+    ],
+    "no": [
+      "Her: Tiltak for å fremme helse og forebygge sykdom, iverksatt av enkeltpersoner og deres medisinske rådgivere, medisinske oversiktsverker om personlige og offentlige tiltak for å fremme helse og forebygge sykdom"
+    ],
+    "sv": [
+      "Klassificera här åtgärder för att främja hälsa och förebygga sjukdom vidtagna av individer och deras medicinska rådgivare, övergripande medicinska verk om individuella och samhälleliga åtgärder för att främja hälsa och förebygga sjukdom"
+    ]
+  },
+  "modified": "2024-08-21T20:01:01Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "613",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

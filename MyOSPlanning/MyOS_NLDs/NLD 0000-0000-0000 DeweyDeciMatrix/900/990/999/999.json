@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3g76dkbHKvRVgfy794XGKCvTj",
+  "prefLabel": {
+    "fr": "Mondes extraterrestres",
+    "it": "Mondi extraterrestri",
+    "en": "Extraterrestrial worlds",
+    "sv": "Utomjordiska världar",
+    "de": "Außerirdische Welten",
+    "no": "Himmellegemer utenfor jorda"
+  },
+  "notation": "999",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "en": [
+      "Class here extraterrestrial civilization, extraterrestrial intelligence, SETI (search for extraterrestrial intelligence)"
+    ],
+    "de": [
+      "Hier auch: außerirdische Zivilisation, außerirdische Intelligenz, SETI (Suche nach außerirdischer Intelligenz)"
+    ],
+    "sv": [
+      "Klassificera här utomjordiska civilisationer, utomjordisk intelligens, SETI (search for extraterrestrial intelligence)"
+    ],
+    "no": [
+      "Her: Utenomjordiske sivilisasjoner, utenomjordisk intelligens, SETI (search for extraterrestrial intelligence)"
+    ],
+    "it": [
+      "Classificare qui la civiltà di altri mondi, l'intelligenza di altri mondi, la SETI (la ricerca di vita intelligente su altri mondi)"
+    ],
+    "fr": [
+      "Classer ici la civilisation extraterrestre, l'intelligence extraterrestre, la recherche de formes de vie intelligente dans d'autres mondes (SETI)"
+    ]
+  },
+  "modified": "2025-04-28T03:52:04Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

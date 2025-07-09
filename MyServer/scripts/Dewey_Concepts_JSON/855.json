@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PVD8JBmyQXtVKRy9PV844kjk",
+  "prefLabel": {
+    "de": "Italienische Reden",
+    "no": "Italienske taler",
+    "fr": "Discours italiens",
+    "it": "Discorsi italiani",
+    "sv": "Italienska tal",
+    "en": "Italian speeches"
+  },
+  "notation": "855",
+  "modified": "2022-04-21T08:26:18Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

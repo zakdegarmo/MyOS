@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fCKDyKcfRGX7KF9yJ4hwhPjb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Economia finanziaria",
+    "de": "Finanzwirtschaft",
+    "en": "Financial economics",
+    "no": "Finansøkonomi",
+    "fr": "Économie financière",
+    "sv": "Finansiell ekonomi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wJHWBVwm8V7Gdyyw7pvF7cJB",
+  "notation": "332",
+  "modified": "2025-02-26T13:27:10Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

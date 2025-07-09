@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47XjXRmw6Ygjf4hbYVvVXpj43",
+  "created": "1996-06-01",
+  "notation": "292",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-28T08:19:49Z",
+  "prefLabel": {
+    "fr": "Religion classique (Religions grecque et romaine)",
+    "no": "Klassisk religion (gresk og romersk religion)",
+    "it": "Religione classica (Religione greca e romana)",
+    "de": "Religion der Antike (Griechische und römische Religion)",
+    "en": "Classical religion (Greek and Roman religion)",
+    "sv": "Antik religion (grekisk och romersk religion)"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

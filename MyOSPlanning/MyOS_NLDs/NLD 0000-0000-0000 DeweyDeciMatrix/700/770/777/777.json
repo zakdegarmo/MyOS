@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ThxPdDGwt3FFf86XM8jVCFc4",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här traditionellt filmfotografi (filmfotografi med film), digitalt filmfotografi och videofotografi, amatörfilmfotografi, professionellt filmfotografi och videofotografi; hemvideosystem, TV-fotografi, videokonst"
+    ],
+    "en": [
+      "Class here conventional cinematography (cinematography using film), digital cinematography and videography, amateur and professional cinematography and videography; home video systems, television photography, video art"
+    ],
+    "no": [
+      "Her: Konvensjonell filmfotografi (filmfotografi med rullefilm), digital filmfotografi og videografi, amatør- og profesjonell filmfotografi og videografi; hjemmevideosystemer, fjernsynsfotografi, videokunst"
+    ],
+    "it": [
+      "Classificare qui la cinematografia classica (cinematografia che utilizza la pellicola), la cinematografia e la videografia digitali, la cinematografia e la videografia amatoriali e professionali; i sistemi video domestici, la fotografia televisiva, la videoarte"
+    ],
+    "fr": [
+      "Classer ici la cinématographie classique (sur pellicule), la cinématographie et la vidéographie numériques, la cinématographie et la vidéographie d'amateurs et de professionnels ; les systèmes domestiques de vidéo, la photographie pour la télévision, l'art vidéo"
+    ],
+    "de": [
+      "Hier auch: konventionelle Kinematografie (analoge Kinematografie), digitale Kinematografie und digitale Videografie, Amateurkinematografie und -videografie, professionelle Kinematografie und Videografie; Heimvideosysteme, Fernsehfotografie, Videokunst"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Cinématographie et vidéographie",
+    "no": "Filmfotografi og videografi",
+    "de": "Kinematografie und Videografie",
+    "en": "Cinematography and videography",
+    "it": "Cinematografia e videografia",
+    "sv": "Filmfotografi och videofotografi"
+  },
+  "notation": "777",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "created": "1996-06-01",
+  "modified": "2022-02-11T12:44:41Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

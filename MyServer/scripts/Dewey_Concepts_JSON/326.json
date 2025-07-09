@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qHMPbYhCM9x3rfPBCvCGThF8",
+  "prefLabel": {
+    "no": "Slaveri og frigjøring",
+    "en": "Slavery and emancipation",
+    "de": "Sklaverei und Sklavenbefreiung",
+    "it": "Schiavitù ed emancipazione",
+    "sv": "Slaveri och frigörelse",
+    "fr": "Esclavage et émancipation"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-12-12T02:32:59Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "notation": "326",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

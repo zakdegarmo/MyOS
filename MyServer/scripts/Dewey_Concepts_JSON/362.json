@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E469MJx3JmF3hxvjdhfV3rhCkw",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fkCGPxtXFkrqkW93G68fC8xT",
+  "notation": "362",
+  "scopeNote": {
+    "no": [
+      "Her: Folketrygd"
+    ],
+    "en": [
+      "Class here social security"
+    ],
+    "fr": [
+      "Classer ici les mesures de protection sociale destinées à des groupes particuliers"
+    ],
+    "de": [
+      "Hier auch: soziale Sicherheit"
+    ],
+    "it": [
+      "Classificare qui la sicurezza sociale"
+    ],
+    "sv": [
+      "Klassificera här social trygghet"
+    ]
+  },
+  "prefLabel": {
+    "de": "Soziale Probleme von und Sozialdienste für Personengruppen",
+    "no": "Sosiale problemer knyttet til og tjenester overfor persongrupper",
+    "it": "Problemi sociali di e servizi a gruppi di persone",
+    "fr": "Problèmes sociaux des groupes de personnes et services à leur intention",
+    "en": "Social problems of and services to groups of people",
+    "sv": "Sociala problem och sociala tjänster till grupper"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-08-21T20:01:01Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

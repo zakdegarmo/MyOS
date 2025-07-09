@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PhpqX6qf4ww3JtdfqP7dgcbR",
+  "notation": "864",
+  "prefLabel": {
+    "sv": "Spanska essäer",
+    "fr": "Essais espagnols",
+    "en": "Spanish essays",
+    "no": "Spanske essayer",
+    "it": "Saggistica spagnola",
+    "de": "Spanische Essays"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-08T06:47:07Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

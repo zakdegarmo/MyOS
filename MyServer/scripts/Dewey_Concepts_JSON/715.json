@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GhMGWWpRJXfB4VvGqBy8Cdyv",
+  "broader": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages généraux sur le rôle des plantes dans l’architecture du paysage",
+      "Plantes cultivées pour leurs fleurs ou pour d’autres caractéristiques"
+    ],
+    "en": [
+      "Cultivated for flowers or for other attributes",
+      "Class here comprehensive works on plants in landscape architecture"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om växter i landskapsarkitektur",
+      "Odlade för sina blommors, eller andra egenskapers, skull"
+    ],
+    "de": [
+      "Angepflanzt wegen ihrer Blüten oder anderer Eigenschaften",
+      "Hier auch: umfassende Werke über Pflanzen in der Landschaftsgestaltung"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulle piante nell'architettura del paesaggio",
+      "Coltivate per i loro fiori o per altre caratteristiche"
+    ],
+    "no": [
+      "Her: Oversiktsverker om planter i landskapsarkitektur",
+      "Dyrket på grunn av sine blomster eller av andre grunner"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Vedväxter i landskapsarkitektur",
+    "de": "Gehölze als Gestaltungselemente",
+    "en": "Woody plants in landscape architecture",
+    "fr": "Plantes ligneuses dans l’architecture du paysage",
+    "it": "Piante legnose nell'architettura del paesaggio",
+    "no": "Vedplanter (treaktige planter) i landskapsarkitektur"
+  },
+  "type": "Concept",
+  "notation": "715",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-11T06:04:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

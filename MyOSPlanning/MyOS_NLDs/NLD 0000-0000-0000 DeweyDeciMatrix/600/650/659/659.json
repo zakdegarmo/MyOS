@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bWdKdQVMprK363QKRHcvQ9tm",
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la promozione pubblicitaria"
+    ],
+    "de": [
+      "Hier auch: Publicity"
+    ],
+    "no": [
+      "Her: Publisitet"
+    ],
+    "fr": [
+      "Classer ici l'Information publicitaire"
+    ],
+    "sv": [
+      "Klassificera här publicitet"
+    ],
+    "en": [
+      "Class here publicity"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Kj3G3gqBqRHtqyRP7QYYTym",
+  "prefLabel": {
+    "de": "Werbung und Öffentlichkeitsarbeit",
+    "en": "Advertising and public relations",
+    "fr": "Publicité et relations publiques",
+    "sv": "Reklam och PR",
+    "it": "Pubblicità e relazioni pubbliche",
+    "no": "Reklame og PR-virksomhet"
+  },
+  "modified": "2024-08-21T20:01:01Z",
+  "notation": "659",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

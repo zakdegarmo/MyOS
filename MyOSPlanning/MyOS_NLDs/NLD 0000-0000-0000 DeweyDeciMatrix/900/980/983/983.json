@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bfRkPyVpGqq7BGptx6GRvXkM",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Chile",
+    "no": "Chile",
+    "en": "Chile",
+    "fr": "Chili",
+    "it": "Cile",
+    "de": "Chile"
+  },
+  "notation": "983",
+  "modified": "2022-06-30T18:25:13Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

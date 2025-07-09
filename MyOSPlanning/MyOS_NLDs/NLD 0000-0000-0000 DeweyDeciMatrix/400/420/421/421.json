@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gxfxc8dTpVvYcMVbdqfQ97dm",
+  "prefLabel": {
+    "it": "Sistemi di scrittura, fonologia, fonetica dell'inglese standard",
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til standard engelsk",
+    "en": "Writing system, phonology, phonetics of standard English",
+    "de": "Schriftsysteme, Phonologie, Phonetik des Englischen",
+    "fr": "Système d’écriture, phonologie, phonétique de l’anglais standard",
+    "sv": "Skriftsystem, fonologi, fonetik gällande standardengelska"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "modified": "2021-02-19T10:21:57Z",
+  "notation": "421",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

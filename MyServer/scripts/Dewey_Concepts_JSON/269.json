@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dtr3Qb6YwVkW4DTCHKvdDv4x",
+  "prefLabel": {
+    "en": "Spiritual renewal",
+    "sv": "Andlig förnyelse",
+    "no": "Åndelig fornyelse",
+    "fr": "Renouveau spirituel",
+    "de": "Geistliche Erneuerung",
+    "it": "Rinnovamento spirituale"
+  },
+  "modified": "2023-08-03T09:31:05Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "269",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

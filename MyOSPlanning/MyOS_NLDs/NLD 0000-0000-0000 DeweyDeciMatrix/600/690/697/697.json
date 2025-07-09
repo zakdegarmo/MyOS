@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hKPFG4kcyp6r4QMT9jDmpTvJ",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Oppvarming, ventilasjon, klimaanlegg",
+    "sv": "Uppvärmningsteknik, ventilationsteknik, luftkonditioneringsteknik",
+    "it": "Ingegneria del riscaldamento, dell'aerazione, del condizionamento d'aria",
+    "de": "Heizung, Lüftung, Klimatechnik",
+    "en": "Heating, ventilating, air-conditioning engineering",
+    "fr": "Techniques du chauffage, de la ventilation, de la climatisation"
+  },
+  "modified": "2024-11-05T10:15:12Z",
+  "notation": "697",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

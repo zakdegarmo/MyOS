@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3H9YQbbHMBBdM7DQy7kDb33xv",
+  "prefLabel": {
+    "de": "Literaturen in italienischer, dalmatischer, rumänischer, rätoromanischer, sardischer, korsischer Sprache",
+    "fr": "Littératures des langues italienne, dalmate, roumaine, rhétique, sarde, corse",
+    "sv": "Italienska, dalmatiska, rumänska, rätoromanska, sardiska, korsikanska litteraturer",
+    "it": "Letteratura italiana, letteratura dalmatica, letteratura romena, letteratura retica, letteratura sarda, letteratura corsa",
+    "en": "Literatures of Italian, Dalmatian, Romanian, Rhaetian, Sardinian, Corsican languages",
+    "no": "Italiensk, dalmatisk, rumensk, retoromansk, sardinsk, korsikansk litteratur"
+  },
+  "created": "2000-02-02",
+  "notation": "850",
+  "modified": "2022-01-14T13:43:43Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fpXkCTxtHTDGjhrXb4cCGY6X",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

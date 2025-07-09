@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46cm3XJ39VPhjTpRYmddXrm98",
+  "prefLabel": {
+    "fr": "Philosophie des îles Britanniques",
+    "de": "Philosophie der Britischen Inseln",
+    "sv": "Brittiska öarnas filosofi",
+    "it": "Filosofia delle Isole Britanniche",
+    "en": "Philosophy of British Isles",
+    "no": "Filosofi i De britiske øyer"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "192",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "modified": "2024-11-13T14:41:24Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PCQwfBwvx7r3G8wCgcdQpGC6",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les niveaux d'étude supérieurs des écoles pour tous les âges"
+    ],
+    "no": [
+      "Her: Kombinerte ungdomsskoler og videregående skoler, oversiktsverker om ungdomsskoler og videregående skoler"
+    ],
+    "en": [
+      "Class here upper sections of all-age schools"
+    ],
+    "sv": [
+      "Klassificera här de övre årskurserna i åldersintegrerade skolor"
+    ],
+    "de": [
+      "Hier auch: höhere Abteilungen jahrgangsübergreifender Schulen"
+    ],
+    "it": [
+      "Classificare qui i livelli più alti delle scuole per qualsiasi età"
+    ]
+  },
+  "modified": "2023-05-10T11:25:14Z",
+  "prefLabel": {
+    "en": "Secondary education",
+    "it": "Educazione secondaria",
+    "de": "Sekundarbildung",
+    "no": "Ungdomsskoleopplæring og videregående opplæring",
+    "sv": "Sekundärutbildning",
+    "fr": "Enseignement secondaire"
+  },
+  "notation": "373",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wPXw9dKcvQf9F8qp7QkBXKPt",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

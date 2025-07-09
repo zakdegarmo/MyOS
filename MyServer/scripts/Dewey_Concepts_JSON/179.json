@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wPvxKpjRy9wjkjyGH9rkPfQQ",
+  "scopeNote": {
+    "no": [
+      "Her: Grusomhet"
+    ],
+    "en": [
+      "Class here cruelty"
+    ],
+    "it": [
+      "Classificare qui la crudeltà"
+    ],
+    "sv": [
+      "Klassificera här grymhet"
+    ],
+    "de": [
+      "Hier auch: Grausamkeit"
+    ],
+    "fr": [
+      "Classer ici la cruauté"
+    ]
+  },
+  "prefLabel": {
+    "it": "Altre norme etiche",
+    "fr": "Autres normes morales",
+    "en": "Other ethical norms",
+    "no": "Andre etiske normer",
+    "de": "Andere ethische Normen",
+    "sv": "Övriga etiska normer"
+  },
+  "created": "1996-06-01",
+  "modified": "2022-06-12T10:34:47Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "notation": "179",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

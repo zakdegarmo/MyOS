@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xGVy8QQkyrtpYCmjyCWJ4HFQ",
+  "prefLabel": {
+    "no": "Historie som gjelder bestemte persongrupper",
+    "en": "History with respect to groups of people",
+    "it": "Storia in riferimento a gruppi di persone",
+    "de": "Geschichte im Hinblick auf Personengruppen",
+    "sv": "Historia gällande grupper",
+    "fr": "Histoire en relation avec les groupes de personnes"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "notation": "908",
+  "modified": "2017-02-01T12:23:13Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

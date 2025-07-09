@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34kJbfv8pcXwpbHmt9twtH6xh",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Italienske essayer",
+    "sv": "Italienska essäer",
+    "en": "Italian essays",
+    "de": "Italienische Essays",
+    "fr": "Essais italiens",
+    "it": "Saggistica italiana"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "modified": "2020-09-21T08:15:17Z",
+  "notation": "854",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

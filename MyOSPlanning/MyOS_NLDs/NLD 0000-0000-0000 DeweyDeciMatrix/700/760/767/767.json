@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39FB4XCFhCTydWj3MmwVw834Q",
+  "prefLabel": {
+    "sv": "Etsning och torrnålsgravyr",
+    "no": "Etsing og kaldnålsradering",
+    "it": "Acquaforte e punta secca",
+    "fr": "Eau-forte et pointe sèche",
+    "en": "Etching and drypoint",
+    "de": "Radierung und Kaltnadelarbeit"
+  },
+  "notation": "767",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MGYtxfcwfKB4CYwxBhfGTBh3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-06-25T11:05:25Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

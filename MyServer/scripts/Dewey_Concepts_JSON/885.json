@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XKGj9VdX7bTRHPDydR9yBTkg",
+  "modified": "2022-03-08T07:08:32Z",
+  "prefLabel": {
+    "fr": "Discours grecs classiques",
+    "it": "Discorsi greci classici",
+    "sv": "Klassiska grekiska tal",
+    "en": "Classical Greek speeches",
+    "de": "Klassische griechische Reden",
+    "no": "Klassisk greske taler"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "885",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

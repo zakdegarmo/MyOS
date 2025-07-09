@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33vGhtfFpXYMD7CVGDKHC7xBg",
+  "prefLabel": {
+    "no": "Kraft og energi",
+    "sv": "Kraft och energi",
+    "de": "Kraft und Energie",
+    "en": "Force and energy",
+    "it": "Forza ed energia",
+    "fr": "Force et énergie"
+  },
+  "created": "1996-06-01",
+  "notation": "118",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

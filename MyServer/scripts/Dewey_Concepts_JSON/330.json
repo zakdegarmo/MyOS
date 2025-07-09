@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37JHjV9yp67MdX74mthKYkKCx",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Tverrfaglige verker om økonomiske rettigheter",
+      "Her: Oversiktsverker om økonomi og ledelse"
+    ],
+    "de": [
+      "Einschließlich: fächerübergreifende Werke über wirtschaftliche Rechte",
+      "Hier auch: umfassende Werke über Wirtschaft und Management"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om nationalekonomi och ledning (management)",
+      "Omfattar tvärvetenskapliga verk om ekonomiska rättigheter"
+    ],
+    "it": [
+      "Include le opere interdisciplinari sui diritti economici",
+      "Classificare qui le opere d'insieme su economia e gestione"
+    ],
+    "fr": [
+      "Y compris les ouvrages interdisciplinaires sur les droits économiques",
+      "Classer ici les ouvrages généraux sur l’économie et la gestion"
+    ],
+    "en": [
+      "Class here comprehensive works on economics and management",
+      "Including interdisciplinary works on economic rights"
+    ]
+  },
+  "prefLabel": {
+    "de": "Wirtschaft",
+    "fr": "Sciences économiques",
+    "no": "Samfunnsøkonomi",
+    "en": "Economics",
+    "it": "Economia",
+    "sv": "Nationalekonomi"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "type": "Concept",
+  "modified": "2025-06-25T11:17:42Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "330",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

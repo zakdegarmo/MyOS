@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3p3RrrFRFWTgRxhfgr8M8wmxX",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Fysikalisk kemi",
+    "it": "Chimica fisica",
+    "no": "Fysikalsk kjemi",
+    "de": "Physikalische Chemie",
+    "en": "Physical chemistry",
+    "fr": "Chimie physique"
+  },
+  "scopeNote": {
+    "fr": [
+      "Chimie inorganique et combinaison chimie inorganique-chimie organique"
+    ],
+    "sv": [
+      "Oorganisk och kombinerad oorganisk-organisk kemi"
+    ],
+    "de": [
+      "Anorganische Chemie und kombinierte anorganisch-organische Chemie"
+    ],
+    "no": [
+      "Uorganisk og kombinert uorganisk-organisk kjemi"
+    ],
+    "en": [
+      "Inorganic and combined inorganic-organic chemistry"
+    ],
+    "it": [
+      "Inorganica e inorganica-organica combinate"
+    ]
+  },
+  "modified": "2025-03-13T23:31:57Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "541",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

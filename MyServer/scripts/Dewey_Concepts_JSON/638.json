@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RkXd6RkJq6hyPXyFPc6m7xj7",
+  "notation": "638",
+  "prefLabel": {
+    "fr": "Élevage des insectes",
+    "sv": "Insektsodling",
+    "de": "Insektenzucht",
+    "no": "Insektavl",
+    "it": "Coltura d'insetti",
+    "en": "Insect culture"
+  },
+  "created": "1996-06-01",
+  "modified": "2025-06-14T01:22:57Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hJCvXfKtY3BrrYWxgM9hjHvg",
+  "notation": "290",
+  "scopeNote": {
+    "it": [
+      "Solo le specifiche religioni non cristiane"
+    ],
+    "no": [
+      "Begrenset til andre bestemte religioner enn kristendom"
+    ],
+    "fr": [
+      "Indice limité aux religions particulières autres que le christianisme"
+    ],
+    "en": [
+      "Limited to specific religions other than Christianity"
+    ],
+    "de": [
+      "Begrenzt auf einzelne nichtchristliche Religionen"
+    ],
+    "sv": [
+      "Begränsat till särskilda religioner andra än kristendom"
+    ]
+  },
+  "prefLabel": {
+    "it": "Altre religioni",
+    "en": "Other religions",
+    "de": "Andere Religionen",
+    "no": "Andre religioner",
+    "fr": "Autres religions",
+    "sv": "Övriga religioner"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-03-06T12:09:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

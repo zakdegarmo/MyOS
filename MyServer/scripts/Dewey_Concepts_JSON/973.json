@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YY9YpjdH8DKd6WffWpG7wTgJ",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "973",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "United States",
+    "it": "Stati Uniti",
+    "de": "USA (Vereinigte Staaten von Amerika)",
+    "fr": "États-Unis",
+    "no": "USA",
+    "sv": "Förenta staterna"
+  },
+  "modified": "2025-01-23T21:52:25Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

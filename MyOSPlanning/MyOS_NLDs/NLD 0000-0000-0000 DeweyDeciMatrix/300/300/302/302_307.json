@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "302-307",
+  "type": "Concept",
+  "modified": "2024-12-04T14:58:48Z",
+  "prefLabel": {
+    "fr": "Sujets particuliers de la sociologie et de l’anthropologie",
+    "en": "Specific topics in sociology and anthropology",
+    "sv": "Särskilda ämnen inom sociologi och antropologi",
+    "no": "Bestemte emner innen sosiologi og antropologi",
+    "it": "Soggetti specifici in sociologia e antropologia",
+    "de": "Einzelne Themen in der Soziologie und Anthropologie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fWrrTVQ7tqpKcpQ4QCyGKJJ4",
+  "created": "2000-02-02",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3XhQDdWphRvHdTpXqTyDWBCfV",
+    "https://id.oclc.org/worldcat/ddc/E3mwpYwmw6KXBpcRwmjcDhCmKg",
+    "https://id.oclc.org/worldcat/ddc/E487V9xcrWVMYJjfYv4FqvXpmt",
+    "https://id.oclc.org/worldcat/ddc/E4bPhPWb3b4Fxt3BRVPdtdGhwG",
+    "https://id.oclc.org/worldcat/ddc/E3KPYJkkBkGW8c3FxhXcCGRQTT",
+    "https://id.oclc.org/worldcat/ddc/E3D33wVCgMRCVjvPPxVQ7K7yyv"
+  ],
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

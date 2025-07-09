@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E366kd7MM6X84Y3wPvP3MwKWTG",
+  "prefLabel": {
+    "de": "Arbeitsrecht, Sozialrecht, Bildungsrecht, Kulturrecht",
+    "en": "Labor, social service, education, cultural law",
+    "it": "Diritto del lavoro, diritto in materia di servizio sociale, di educazione, di cultura",
+    "sv": "Arbetsrätt, socialrätt, skoljuridik, kulturlagstiftning",
+    "fr": "Droit du travail, des services sociaux, de l’éducation, de la culture",
+    "no": "Arbeidsrett, sosialtjenestelovgivning, utdanningsrett, kulturlover"
+  },
+  "modified": "2024-09-23T18:45:45Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "344",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

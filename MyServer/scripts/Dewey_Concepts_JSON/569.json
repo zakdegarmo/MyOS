@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3drDgxDXvD7WvJfCkXyXTwBKC",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "modified": "2024-04-24T06:59:51Z",
+  "prefLabel": {
+    "no": "Fossile Mammalia (pattedyr)",
+    "en": "Fossil Mammalia",
+    "it": "Mammalia fossili",
+    "sv": "Fossil Mammalia (däggdjur)",
+    "fr": "Mammifères fossiles",
+    "de": "Fossile Mammalia (Säugetiere)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "569",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BqdqHcB9gt6Qmmr7QF8m6ddr",
+  "prefLabel": {
+    "sv": "Eskatologi",
+    "fr": "Eschatologie",
+    "en": "Eschatology",
+    "no": "Eskatologi (læren om de siste ting og livet etter døden)",
+    "it": "Escatologia",
+    "de": "Eschatologie"
+  },
+  "scopeNote": {
+    "fr": [
+      "Y compris l’Antéchrist",
+      "Classer ici l’avènement du Royaume de Dieu"
+    ],
+    "sv": [
+      "Omfattar Antikrist",
+      "Klassificera här Guds kommande rike"
+    ],
+    "de": [
+      "Hier auch: kommendes Reich Gottes",
+      "Einschließlich: Antichrist"
+    ],
+    "it": [
+      "Classificare qui il Regno di Dio da venire",
+      "Include l'Anticristo"
+    ],
+    "en": [
+      "Including Antichrist",
+      "Class here Kingdom of God to come"
+    ],
+    "no": [
+      "Inkluderer: Antikrist",
+      "Her: Det kommende Guds rike"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "created": "1996-06-01",
+  "modified": "2023-09-12T01:15:17Z",
+  "notation": "236",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47d7cr39Hqk8CMm6jwWV4hk3f",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le conifere, le Gimnosperme",
+      "Classificare qui le Coniferales, le Pinicae"
+    ],
+    "en": [
+      "Class here Coniferales, Pinicae",
+      "Class here conifers, gymnosperms"
+    ],
+    "no": [
+      "Her: Bartrær, nåletrær, nakenfrøete planter",
+      "Her: Coniferales (bartrær), Pinicae"
+    ],
+    "de": [
+      "Hier auch: Coniferae (Nadelgehölze), Pinicae"
+    ],
+    "fr": [
+      "Classer ici les Coniférales, les Pinicées",
+      "Classer ici les conifères, les gymnospermes"
+    ],
+    "sv": [
+      "Klassificera här barrväxter, gymnospermer",
+      "Klassificera här coniferales (barrväxter), pinicae"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Gymnospermae (Nacktsamer)",
+    "sv": "Pinophyta",
+    "it": "Pinophyta",
+    "en": "Pinophyta",
+    "fr": "Pinophytes",
+    "no": "Pinophyta"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+  "modified": "2023-12-15T11:09:31Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "585",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

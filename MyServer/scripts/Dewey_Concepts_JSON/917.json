@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Xg3qp4t9QpRPYpb4ywgGPJ43",
+  "prefLabel": {
+    "en": "Geography of and travel in North America",
+    "no": "Geografi og reiser i Nord-Amerika",
+    "fr": "Géographie et voyages en Amérique du Nord",
+    "it": "Geografia e viaggi relativi al Nordamerica",
+    "sv": "Geografi och resor gällande Nordamerika",
+    "de": "Geografie Nordamerikas und Reisen in Nordamerika"
+  },
+  "notation": "917",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "modified": "2021-10-26T08:36:20Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46FFKXF3WxktVHJ93F9DdyTKf",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "it": [
+      "Classificare qui il giornalismo e i giornali nell'Europa orientale"
+    ],
+    "de": [
+      "Hier auch: Journalismus und Zeitungen in Osteuropa"
+    ],
+    "no": [
+      "Her: Journalistikk og aviser i Øst-Europa"
+    ],
+    "sv": [
+      "Klassificera här journalistik och dagstidningar i Östeuropa"
+    ],
+    "en": [
+      "Class here journalism and newspapers in eastern Europe"
+    ],
+    "fr": [
+      "Classer ici le journalisme et les journaux en Europe de l’Est"
+    ]
+  },
+  "prefLabel": {
+    "en": "Journalism and newspapers in Russia and neighboring east European countries",
+    "fr": "Journalisme et journaux en Russie et dans les pays est-européens avoisinants",
+    "it": "Giornalismo e giornali in Russia e nei paesi limitrofi  dell'Europa orientale",
+    "de": "Journalismus und Zeitungen in Russland und benachbarten osteuropäischen Ländern",
+    "no": "Journalistikk og aviser i Russland og østeuropeiske naboland",
+    "sv": "Journalistik och dagstidningar i Ryssland och angränsande östeuropeiska länder"
+  },
+  "notation": "077",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

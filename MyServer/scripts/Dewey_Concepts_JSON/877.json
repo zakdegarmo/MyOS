@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vbRVCWX7kKpR76jg8TpkKdPr",
+  "prefLabel": {
+    "no": "Latinsk humor og satire",
+    "de": "Lateinischer Humor und lateinische Satire",
+    "en": "Latin humor and satire",
+    "it": "Satira e umorismo latino",
+    "sv": "Latinsk humor och satir",
+    "fr": "Humour et satire latins"
+  },
+  "created": "1996-06-01",
+  "notation": "877",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2022-03-08T11:10:01Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

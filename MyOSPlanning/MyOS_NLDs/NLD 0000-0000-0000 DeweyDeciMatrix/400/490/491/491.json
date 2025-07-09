@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3j8YMQ4fGkQ7HGdKGmHJtVwPW",
+  "prefLabel": {
+    "no": "Østindoeuropeiske og keltiske språk",
+    "it": "Lingue indoeuropee orientali e lingue celtiche",
+    "sv": "Östindoeuropeiska språk och keltiska språk",
+    "de": "Ostindoeuropäische und keltische Sprachen",
+    "fr": "Langues indo-européennes orientales et langues celtiques",
+    "en": "East Indo-European and Celtic languages"
+  },
+  "modified": "2024-07-09T12:16:09Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "491",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KPYJkkBkGW8c3FxhXcCGRQTT",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Communautés",
+    "de": "Gemeinschaften",
+    "en": "Communities",
+    "sv": "Samhällen",
+    "it": "Comunità",
+    "no": "Lokalsamfunn"
+  },
+  "modified": "2025-01-07T15:17:06Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+  "notation": "307",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

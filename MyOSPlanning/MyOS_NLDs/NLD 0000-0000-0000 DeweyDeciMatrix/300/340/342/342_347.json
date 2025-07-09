@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "scopeNote": {
+    "no": [
+      "Her: Oversiktsverker knyttet til bestemte juridiske emner"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les sujets particuliers du droit"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su soggetti specifici del diritto"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über einzelne Themen des Rechts"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om särskilda juridiska ämnen"
+    ],
+    "en": [
+      "Class here comprehensive works on specific subjects of law"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Rättsområden",
+    "en": "Branches of law",
+    "it": "Rami del diritto",
+    "fr": "Branches du droit",
+    "no": "Rettsområder",
+    "de": "Rechtsgebiete"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E366kd7MM6X84Y3wPvP3MwKWTG",
+    "https://id.oclc.org/worldcat/ddc/E47Dtjh3gxdCRVmjTJbRgkWpTt",
+    "https://id.oclc.org/worldcat/ddc/E3GCYjQHrXJGBMYqRCkD8wWY96",
+    "https://id.oclc.org/worldcat/ddc/E3yqCMB4B6j7TfYYdXMwPJcXtF",
+    "https://id.oclc.org/worldcat/ddc/E3rKG7Vq8rKT7b7cVF9HCVbqB7",
+    "https://id.oclc.org/worldcat/ddc/E49qcxXKch8HFgVPMdbpTxxvDd"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3djf9T4JWY8hd6fhQ6Dkkjqry",
+  "created": "1996-06-01",
+  "modified": "2025-07-05T09:48:32Z",
+  "notation": "342-347",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

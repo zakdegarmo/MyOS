@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Mjv4BbGhThFgVbmG9399tqhY",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Lexikon, uppslagsverk, konkordanser inom konst och konsthantverk",
+    "fr": "Dictionnaires, encyclopédies, concordances des beaux-arts et des arts décoratifs",
+    "it": "Dizionari, enciclopedie, concordanze di belle arti e arti decorative",
+    "en": "Dictionaries, encyclopedias, concordances of fine and decorative arts",
+    "no": "Ordbøker, leksika, konkordanser innen kunst og kunsthåndverk",
+    "de": "Wörterbücher, Enzyklopädien, Konkordanzen der bildenden und angewandten Kunst"
+  },
+  "notation": "703",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "modified": "2022-01-25T15:07:38Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

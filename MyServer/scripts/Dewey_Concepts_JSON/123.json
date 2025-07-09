@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KFwkh7bDwwqXYKftfQjCTWV9",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "scopeNote": {
+    "sv": [
+      "Omfattar slump"
+    ],
+    "fr": [
+      "Y compris la contingence"
+    ],
+    "no": [
+      "Inkluderer: Kontingens"
+    ],
+    "it": [
+      "Include la contingenza"
+    ],
+    "en": [
+      "Including contingency"
+    ],
+    "de": [
+      "Einschließlich: Kontingenz"
+    ]
+  },
+  "prefLabel": {
+    "en": "Determinism and indeterminism",
+    "fr": "Déterminisme et indéterminisme",
+    "sv": "Determinism och indeterminism",
+    "no": "Determinisme og indeterminisme",
+    "de": "Determinismus und Indeterminismus",
+    "it": "Determinismo e indeterminismo"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-04-05T12:38:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "123",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

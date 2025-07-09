@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gtMCk3K9qw4YbJvfbxJQmbqT",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Historia, geografisk aspekt, biografi",
+    "en": "History, geographic treatment, biography",
+    "it": "Storia, geografia, biografia",
+    "de": "Geschichte, geografische Behandlung, Biografien",
+    "no": "Historie, geografisk behandling, biografier knyttet til kunst og kunsthåndverk",
+    "fr": "Histoire, étude géographique, biographie"
+  },
+  "scopeNote": {
+    "de": [
+      "Entwicklung, Darstellung, kritische Bewertung, Werke",
+      "Hier auch: vollendete Werke der experimentellen Kunst, der Mixed-Media- und Multimediakunst, die einem anerkannten Medium nicht leicht zugeordnet werden können"
+    ],
+    "it": [
+      "Storia, descrizione, studio critico, opere",
+      "Classificare qui le opere concluse eseguite con tecniche sperimentali e miste non facilmente collocabili tra i mezzi d'espressione riconosciuti"
+    ],
+    "en": [
+      "Class here finished works of experimental and mixed-media art that do not fit easily into a recognized medium",
+      "Development, description, critical appraisal, works"
+    ],
+    "fr": [
+      "Classer ici les œuvres d’art expérimental et multimédia achevées qui n’appartiennent pas à une technique reconnue (comme la peinture ou la sculpture)",
+      "Histoire, analyse, critique, œuvres"
+    ],
+    "sv": [
+      "Klassificera här fullbordade experimentella konstverk och konst utförd i blandteknik som inte passar in under ett erkänt medium",
+      "Utveckling, beskrivning, kritik, verk"
+    ],
+    "no": [
+      "Her: Avsluttede verker innen eksperimentell kunst og blandede medier, der verkene ikke kan plasseres innenfor tradisjonelle kunstarter",
+      "Utvikling, beskrivelse, kritisk vurdering, verker"
+    ]
+  },
+  "notation": "709",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C4q6fDpdVfBVkwqPcmgJ8Y6G",
+  "modified": "2025-03-26T12:21:43Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

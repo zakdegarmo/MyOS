@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38rcWXWBWG6GjxQx7CDpXR9pG",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om naturvetenskaper och tillämpade vetenskaper",
+      "Naturvetenskaper: vetenskaper som behandlar materia och energi, eller föremål och processer som kan iakttas i naturen"
+    ],
+    "de": [
+      "Naturwissenschaften: Wissenschaften, die sich mit Materie und Energie oder mit in der Natur beobachtbaren Gegenständen und Prozessen befassen",
+      "Hier auch: fächerübergreifende Werke über Naturwissenschaften und Ingenieurwissenschaften oder andere angewandten Naturwissenschaften"
+    ],
+    "fr": [
+      "Sciences naturelles : sciences qui traitent de la matière et de l’énergie ou d’objets et de processus observables dans la nature",
+      "Classer ici les ouvrages interdisciplinaires sur les sciences naturelles et les sciences appliquées"
+    ],
+    "en": [
+      "Natural sciences: sciences that deal with matter and energy, or with objects and processes observable in nature",
+      "Class here interdisciplinary works on natural and applied sciences"
+    ],
+    "it": [
+      "Scienze naturali: le scienze che studiano la materia e l'energia, o oggetti e processi osservabili in natura",
+      "Classificare qui le opere interdisciplinari su scienze naturali e applicate"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om naturvitenskap og anvendt vitenskap, om realfagene",
+      "Naturvitenskap: Vitenskap om materie og energi, eller om objekter og prosesser som kan observeres i naturen"
+    ]
+  },
+  "modified": "2023-09-01T13:19:46Z",
+  "prefLabel": {
+    "fr": "Sciences naturelles et mathématiques",
+    "de": "Naturwissenschaften und Mathematik",
+    "no": "Naturvitenskap og matematikk",
+    "en": "Natural sciences and mathematics",
+    "it": "Scienze naturali e matematica",
+    "sv": "Naturvetenskap och matematik"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "500",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

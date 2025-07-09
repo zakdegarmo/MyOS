@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Särskilda element inom landskapsarkitektur",
+    "de": "Einzelne Elemente in der Landschaftsgestaltung",
+    "en": "Specific elements in landscape architecture",
+    "it": "Specifici elementi nell'architettura del paesaggio",
+    "fr": "Éléments particuliers dans l’architecture du paysage",
+    "no": "Bestemte elementer innen landskapsarkitektur"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Y4D9bfYBBjB7YgBYFbHgBxWk",
+    "https://id.oclc.org/worldcat/ddc/E3wBRCWgypHYyRXF9QXqmGF6MY",
+    "https://id.oclc.org/worldcat/ddc/E3GhMGWWpRJXfB4VvGqBy8Cdyv",
+    "https://id.oclc.org/worldcat/ddc/E3xqc7Xgx8CM97qm3RCR8XP8jr"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-03-11T20:57:09Z",
+  "notation": "714-717",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

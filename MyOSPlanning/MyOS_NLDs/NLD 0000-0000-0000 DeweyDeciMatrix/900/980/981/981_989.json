@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "prefLabel": {
+    "no": "Stater og lokalområder",
+    "en": "Countries and localities",
+    "sv": "Länder och orter",
+    "it": "Paesi e località",
+    "fr": "Pays et localités",
+    "de": "Länder und Ortschaften"
+  },
+  "modified": "2024-05-08T12:04:41Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46hkgQgMh4qKDcJr4K6rrYFYV",
+    "https://id.oclc.org/worldcat/ddc/E3d3wYXXRF3qYjHRf7xPqqBcvY",
+    "https://id.oclc.org/worldcat/ddc/E4dgkDXmf3qVJCvrh4FjpfPjw4",
+    "https://id.oclc.org/worldcat/ddc/E4bfRkPyVpGqq7BGptx6GRvXkM",
+    "https://id.oclc.org/worldcat/ddc/E3mJWxG9PTrGg6Jdhyc3xrvm6w",
+    "https://id.oclc.org/worldcat/ddc/E4ck6QKc8pRJQGtyhXhPCdM38D",
+    "https://id.oclc.org/worldcat/ddc/E373h98JtypygwwR8f7dHMKwdQ",
+    "https://id.oclc.org/worldcat/ddc/E48Ww9Qh3vk9mHWY6Vcw3XdfT8",
+    "https://id.oclc.org/worldcat/ddc/E47JMXcKqtM9YCmQwHDqt9YxVw"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "981-989",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WybMkhGptvgjd8FYYqYQXQhK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

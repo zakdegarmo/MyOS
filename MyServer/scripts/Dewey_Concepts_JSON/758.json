@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bwbtVXWPChccWjHCtKbV9DXx",
+  "prefLabel": {
+    "fr": "Nature, sujets architecturaux et paysages urbains, autres sujets particuliers",
+    "sv": "Naturen, arkitektoniska motiv och stadsbilder, övriga särskilda motiv",
+    "de": "Natur, architektonische Objekte und Stadtlandschaften, einzelne andere Themen",
+    "no": "Natur, arkitektoniske motiver og bylandskap, andre bestemte motiver",
+    "en": "Nature, architectural subjects and cityscapes, other specific subjects",
+    "it": "Natura, soggetti architettonici e vedute urbane, altri soggetti specifici"
+  },
+  "notation": "758",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-08-10T06:21:18Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

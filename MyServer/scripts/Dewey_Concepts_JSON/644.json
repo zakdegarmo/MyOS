@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yvWk7Xd7qXrPTBhv9JbCf3XH",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Classificare qui il risparmio energetico domestico",
+      "Opere per proprietari e inquilini relative ad attività svolte da membri della famiglia"
+    ],
+    "sv": [
+      "Verk om hushållsaktiviteter som riktar sig till bostadsägare eller hyresgäster",
+      "Klassificera här energisparande i hemmet"
+    ],
+    "fr": [
+      "Ouvrages pour les propriétaires-occupants ou les locataires exécutant eux-mêmes les travaux",
+      "Classer ici l’économie d’énergie"
+    ],
+    "no": [
+      "Her: ENØK (energiøkonomisering) i hjemmet, VVS (varme-, ventilasjons- og sanitærteknikk) i hjemmet",
+      "Verker for selveiere eller er leietakere, og som omhandler deres aktiviteter"
+    ],
+    "de": [
+      "Werke für Eigennutzer oder Mieter über Arbeiten von Haushaltsmitgliedern",
+      "Hier auch: Energieeinsparung im Haushalt"
+    ],
+    "en": [
+      "Works for owner-occupants or renters covering activities by members of household",
+      "Class here home energy conservation"
+    ]
+  },
+  "prefLabel": {
+    "no": "Oppvarming, belysning, ventilasjon, vannforsyning i husholdninger",
+    "de": "Gebäudeversorgung für Haushalte",
+    "it": "Impianti domestici",
+    "en": "Household utilities",
+    "fr": "Installations domestiques intérieures",
+    "sv": "Hushållens värme, vatten, el"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "type": "Concept",
+  "notation": "644",
+  "modified": "2025-01-29T09:58:30Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

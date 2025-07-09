@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vDcKK33THyppxFHwHY4pcFb3",
+  "modified": "2023-06-23T12:51:40Z",
+  "prefLabel": {
+    "sv": "Allmänna seriella resurser på spanska, portugisiska, galiciska",
+    "no": "Generelle periodika på spansk, portugisisk, galisisk",
+    "de": "Allgemeine fortlaufende Sammelwerke in Spanisch, Portugiesisch, Galicisch",
+    "it": "Seriali generali in spagnolo, portoghese, gallego",
+    "en": "General serial publications in Spanish, Portuguese, Galician",
+    "fr": "Publications en série d’ordre général en espagnol, en portugais, en galicien"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "056",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

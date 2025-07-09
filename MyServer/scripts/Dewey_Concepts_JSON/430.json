@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PKcgycbvhh6fkbHpYkYcdvJD",
+  "scopeNote": {
+    "de": [
+      "Hier auch: germanische Sprachen"
+    ],
+    "it": [
+      "Classificare qui le lingue germaniche"
+    ],
+    "fr": [
+      "Classer ici les langues germaniques"
+    ],
+    "en": [
+      "Class here Germanic languages"
+    ],
+    "sv": [
+      "Klassificera här germanska språk"
+    ],
+    "no": [
+      "Her: Germanske språk"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43xFhR6XvvDg3Q9b4JMYtBxT9",
+  "notation": "430",
+  "prefLabel": {
+    "de": "Deutsch und verwandte Sprachen",
+    "no": "Tysk og beslektede språk",
+    "fr": "Allemand et langues connexes",
+    "it": "Tedesco e lingue affini",
+    "en": "German and related languages",
+    "sv": "Tyska och besläktade språk"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-02-07T20:22:38Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

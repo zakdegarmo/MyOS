@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VhKy9D9tp6t37p7ktc4Bdj9j",
+  "scopeNote": {
+    "fr": [
+      "Production de produits chimiques utilisés comme matières premières ou comme réactifs dans la fabrication d’autres produits"
+    ],
+    "sv": [
+      "Produktion av kemikalier använda som råmaterial eller reagenser vid tillverkning av andra produkter"
+    ],
+    "it": [
+      "Produzione di sostanze chimiche usate come materia prima o reattivo nella fabbricazione di altri prodotti"
+    ],
+    "de": [
+      "Produktion von Chemikalien, die als Rohstoffe oder Reagenzien zur Herstellung anderer Produkte verwendet werden"
+    ],
+    "en": [
+      "Production of chemicals used as raw materials or reagents in manufacture of other products"
+    ],
+    "no": [
+      "Produksjon av kjemikalier brukt som råstoffer eller reagenser ved industriell produksjon av andre produkter"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Tillverkning av industrikemikalier",
+    "it": "Tecnologia delle sostanze chimiche",
+    "no": "Teknologi vedrørende industrikjemikalier",
+    "fr": "Technologie des produits chimiques industriels",
+    "de": "Industriechemikalien",
+    "en": "Technology of industrial chemicals"
+  },
+  "notation": "661",
+  "modified": "2024-06-24T11:42:00Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

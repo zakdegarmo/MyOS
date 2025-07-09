@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TMWTfHXhQ9fdRMhXcccTthTW",
+  "prefLabel": {
+    "sv": "Frankrikes filosofi",
+    "en": "Philosophy of France",
+    "it": "Filosofia della Francia",
+    "de": "Philosophie Frankreichs",
+    "fr": "Philosophie de la France",
+    "no": "Filosofi i Frankrike"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2018-12-20T02:30:36Z",
+  "notation": "194",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YcTxPgvvfR4wXTWYPYxCvGp6",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Mobilier et accessoires",
+    "it": "Mobili e accessori",
+    "de": "Möbel und Möbelzubehör",
+    "sv": "Möbler och tillbehör",
+    "no": "Møbler og tilbehør",
+    "en": "Furniture and accessories"
+  },
+  "modified": "2023-01-24T08:59:21Z",
+  "type": "Concept",
+  "notation": "749",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

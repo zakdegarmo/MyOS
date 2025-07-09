@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wfcpp3Dm6wWHKJrbfWBCrkJy",
+  "type": "Concept",
+  "notation": "025",
+  "prefLabel": {
+    "it": "Attività delle biblioteche e degli archivi",
+    "no": "Operasjoner i biblioteker og arkiver",
+    "sv": "Verksamheten vid bibliotek, arkiv, informationscentrum",
+    "en": "Operations of libraries and archives",
+    "de": "Tätigkeiten und Betriebsabläufe in Bibliotheken und Archiven",
+    "fr": "Opérations bibliothéconomiques et archivistiques"
+  },
+  "modified": "2025-06-11T12:59:30Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "fr": [
+      "Classer ici la documentation (acquisition, organisation, stockage, repérage, diffusion systématique de l’information)  ; les ouvrages interdisciplinaires sur la conservation des données"
+    ],
+    "it": [
+      "Classificare qui la documentazione (sistematica raccolta, organizzazione, memorizzazione, recupero e diffusione d'informazioni registrate); le opere interdisciplinari sulla cura dei dati"
+    ],
+    "en": [
+      "Class here documentation (the systematic collection, organization, storage, retrieval, and dissemination of recorded information); interdisciplinary works on data curation"
+    ],
+    "de": [
+      "Hier auch: Dokumentation (die systematische Sammlung, Organisation, Speicherung, Wiederauffindung und Verbreitung verzeichneter Informationen); fächerübergreifende Werke über Data Curation"
+    ],
+    "no": [
+      "Her: Dokumentasjon (systematisk innsamling, organisering, lagring, gjenfinning, formidling av registrert informasjon); tverrfaglige verker om dataforvaring"
+    ],
+    "sv": [
+      "Klassificera här dokumentation (systematisk insamling, organisation, lagring, återsökning, och spridning av lagrad information); tvärvetenskapliga verk om data förvaring (data curation)"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

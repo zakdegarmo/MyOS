@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pMt4xYhvgC9y9qMbXb8HFgk4",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här tillämpad psykologi gällande vuxna i allmänhet; tillämpning av personlighetspsykologin i allmänhet; övergripande verk om att bli en bättre människa och komma överens med andra människor; tvärvetenskapliga verk om psykologiska och parapsykologiska eller ockulta tekniker för att uppnå personligt välbefinnande, lycka, framgång"
+    ],
+    "de": [
+      "Hier auch: angewandte Psychologie bezogen auf Erwachsene im Allgemeinen [früher 155.6 ], Anwendung von Persönlichkeitspsychologie im Allgemeinen; umfassende Werke darüber, wie man sich als Mensch verbessert und wie man mit anderen Menschen zurechtkommt; umfassende Werke über psychologische und parapsychologische oder okkulte Techniken zur Erreichung persönlichen Wohlbefindens, Glücks, Erfolgs"
+    ],
+    "fr": [
+      "Classer ici la psychologie appliquée des adultes en général, l’application de la psychologie individuelle en général ; les ouvrages généraux sur l’art de s’améliorer et de s’adapter aux autres ; les ouvrages interdisciplinaires limités aux techniques psychologiques et parapsychologiques ou occultes pour atteindre le bien-être, le bonheur, la réussite personnelle"
+    ],
+    "no": [
+      "Her: Anvendt psykologi som gjelder voksne generelt, anvendelse av individualpsykologi generelt; oversiktsverker om det å forbedre seg selv og det å komme overens med andre; tverrfaglige verker begrenset til psykologiske og parapsykologiske eller okkulte teknikker for å oppnå personlig velvære, lykke, suksess"
+    ],
+    "en": [
+      "Class here applied psychology of adults in general; application of individual psychology in general; comprehensive works on how to better oneself and how to get along with other people; interdisciplinary works limited to psychological and parapsychological or occult techniques for achieving personal well-being, happiness, success"
+    ],
+    "it": [
+      "Classificare qui la psicologia applicata degli adulti in generale, l'applicazione della psicologia individuale in generale; le opere d'insieme su come migliorare se stessi e come andar d'accordo con gli altri; le opere d'insieme sulle tecniche psicologiche e parapsicologiche o occultistiche per il conseguimento del benessere, della felicità, del successo personale"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "type": "Concept",
+  "modified": "2024-11-15T06:48:06Z",
+  "notation": "158",
+  "prefLabel": {
+    "de": "Angewandte Psychologie",
+    "sv": "Tillämpad psykologi",
+    "en": "Applied psychology",
+    "it": "Psicologia applicata",
+    "fr": "Psychologie appliquée",
+    "no": "Anvendt psykologi"
+  },
+  "created": "1998-10-20",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

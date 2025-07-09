@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B3ggbvdK4J9qXjCkCYdTdjKM",
+  "notation": "453",
+  "prefLabel": {
+    "de": "Italienische Wörterbücher",
+    "it": "Dizionari dell'italiano standard",
+    "en": "Dictionaries of standard Italian",
+    "sv": "Lexikon och ordböcker för standarditalienska",
+    "no": "Ordbøker på standard italiensk",
+    "fr": "Dictionnaires de l'italien standard"
+  },
+  "modified": "2021-02-09T17:13:32Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

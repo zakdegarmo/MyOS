@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pfGWC4fMC8hTwDvhvvvPFXYC",
+  "modified": "2021-12-21T13:25:47Z",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Philosophie, Parapsychologie und Okkultismus, Psychologie",
+    "sv": "Filosofi, parapsykologi och ockultism, psykologi",
+    "it": "Filosofia, parapsicologia e occultismo, psicologia",
+    "fr": "Philosophie, parapsychologie et occultisme, psychologie",
+    "en": "Philosophy, parapsychology and occultism, psychology",
+    "no": "Filosofi, parapsykologi og okkultisme, psykologi"
+  },
+  "notation": "100",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

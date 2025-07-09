@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YM8MMTVgYPgDmxF4cHh8XGcP",
+  "modified": "2025-06-02T11:53:08Z",
+  "prefLabel": {
+    "sv": "Kirurgi, medicin gällande en särskild kroppsdel, odontologi, oftalmologi, otologi, audiologi",
+    "fr": "Chirurgie, médecine par régions du corps, dentisterie, ophtalmologie, otologie, audiologie",
+    "en": "Surgery, regional medicine, dentistry, ophthalmology, otology, audiology",
+    "no": "Kirurgi, medisin inndelt etter kroppsregioner, odontologi, oftalmologi, otologi, audiologi",
+    "de": "Chirurgie, Medizin nach Körperregion, Zahnmedizin, Augenheilkunde, Ohrenheilkunde, Audiologie",
+    "it": "Chirurgia, medicina regionale, odontoiatria, oftalmologia, otologia, audiologia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "617",
+  "created": "2000-02-02",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RD7DtPhY3bJVbBmKdrpjG49f",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "prefLabel": {
+    "de": "Wärme",
+    "fr": "Chaleur",
+    "it": "Calore",
+    "en": "Heat",
+    "sv": "Värme",
+    "no": "Varme"
+  },
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "536",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

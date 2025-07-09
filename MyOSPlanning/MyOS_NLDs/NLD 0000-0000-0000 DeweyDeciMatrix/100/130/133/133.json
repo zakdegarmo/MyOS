@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vdwkXMyqHVXGQQ8mW8RhVYxt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Einzelne Themen der Parapsychologie und des Okkultismus",
+    "fr": "Sujets particuliers en parapsychologie et en occultisme",
+    "sv": "Särskilda ämnen inom parapsykologi och ockultism",
+    "en": "Specific topics in parapsychology and occultism",
+    "it": "Soggetti specifici di parapsicologia e occultismo",
+    "no": "Bestemte emner innen parapsykologi og okkultisme"
+  },
+  "type": "Concept",
+  "modified": "2025-02-10T21:54:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "notation": "133",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

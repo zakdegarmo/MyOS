@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cDDgVBm8kFftgDQg3mYqPrjH",
+  "type": "Concept",
+  "scopeNote": {
+    "no": [
+      "Her: Ledelse"
+    ],
+    "de": [
+      "Hier auch: Management"
+    ],
+    "sv": [
+      "Klassificera här ledning (management)"
+    ],
+    "fr": [
+      "Classer ici la gestion"
+    ],
+    "it": [
+      "Classificare qui la gestione"
+    ],
+    "en": [
+      "Class here management"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Leaders and organization",
+    "sv": "Ledare och organisation",
+    "it": "Capi e organizzazione",
+    "no": "Ledere og organisasjon",
+    "de": "Religiöse Führer und Organisationen",
+    "fr": "Chefs et organisation"
+  },
+  "notation": "206",
+  "modified": "2024-01-25T11:51:05Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

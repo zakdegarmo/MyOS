@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dj99DtMwfqCHYGWKvkjjWjJC",
+  "prefLabel": {
+    "sv": "Utbildning",
+    "en": "Education",
+    "fr": "Éducation",
+    "no": "Utdanning og opplæring",
+    "de": "Bildung und Erziehung",
+    "it": "Educazione"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'educazione di base, l'educazione pubblica, la pedagogia"
+    ],
+    "en": [
+      "Class here basic education, public education"
+    ],
+    "fr": [
+      "Classer ici l’éducation de base, l’enseignement public"
+    ],
+    "no": [
+      "Her: Grunnutdanning, offentlig utdanning"
+    ],
+    "de": [
+      "Hier auch: Grundbildung, öffentliches Bildungswesen"
+    ],
+    "sv": [
+      "Klassificera här grundläggande utbildning, allmän utbildning"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "modified": "2024-07-09T12:14:47Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "370",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

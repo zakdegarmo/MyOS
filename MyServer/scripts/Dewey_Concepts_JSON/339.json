@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FygWTvdH48kb4jJT9Dh8HwF8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Makroekonomi och liknande ämnen",
+    "fr": "Macroéconomie et sujets connexes",
+    "no": "Makroøkonomi og lignende emner",
+    "en": "Macroeconomics and related topics",
+    "it": "Macroeconomia e soggetti connessi",
+    "de": "Makroökonomie und verwandte Themen"
+  },
+  "notation": "339",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-02-24T02:57:41Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

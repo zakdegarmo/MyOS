@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43kry8GCqJXH8KtGBYQk3MDDQ",
+  "prefLabel": {
+    "no": "Frelsen og Guds nåde",
+    "fr": "Salut et grâce",
+    "sv": "Frälsning och nåd",
+    "en": "Salvation and grace",
+    "it": "Salvezza e grazia",
+    "de": "Erlösung und Gnade"
+  },
+  "notation": "234",
+  "scopeNote": {
+    "fr": [
+      "Y compris l’élection, les vertus innées, le mérite, le sacerdoce universel",
+      "Variante du nom pour le salut  : sotériologie"
+    ],
+    "sv": [
+      "Omfattar val, medfödda dygder, förtjänst, allmänna prästadömet",
+      "Annat namn för frälsning: soteriologi"
+    ],
+    "en": [
+      "Variant name for salvation: soteriology",
+      "Including election, innate virtues, merit, universal priesthood"
+    ],
+    "it": [
+      "Include l'elezione, le virtù innate, il merito, il sacerdozio universale",
+      "Altro nome della salvezza: soteriologia"
+    ],
+    "no": [
+      "Inkluderer: Utvelgelse, medfødte dyder, fortjeneste, Det allmene prestedømme",
+      "Annen betegnelse for frelsen: soteriologi"
+    ],
+    "de": [
+      "Synonyme Bezeichnung für Erlösung: Soteriologie",
+      "Einschließlich: Erwählung, angeborene Tugenden, Verdienst, allgemeines Priestertum"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2023-06-22T11:28:45Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Tphd8HBRd8yFfwQwh6jXpp4f",
+    "https://id.oclc.org/worldcat/ddc/E3GRPdb4kptcXqbdbFJvcRqc8K",
+    "https://id.oclc.org/worldcat/ddc/E33vFjv7rFdbk4VVjhFxhC3dq3",
+    "https://id.oclc.org/worldcat/ddc/E3yfXBpPGyqBvrtkQ8vQwbjmpC",
+    "https://id.oclc.org/worldcat/ddc/E3tbdj4HtT97W9qTCrq4xJt4rK",
+    "https://id.oclc.org/worldcat/ddc/E3yvWk7Xd7qXrPTBhv9JbCf3XH",
+    "https://id.oclc.org/worldcat/ddc/E3DcxxttF3BGwB9rKxy34Vvt9X",
+    "https://id.oclc.org/worldcat/ddc/E38P9K8b9Tx3yGcMPCVpBqkdmd",
+    "https://id.oclc.org/worldcat/ddc/E3qmJhHKyj97TxB76CbpWvppfj",
+    "https://id.oclc.org/worldcat/ddc/E3gCHYgrF4jgGHxDjpJ97cKMxK"
+  ],
+  "prefLabel": {
+    "no": "Husholdning og familieliv",
+    "de": "Hauswirtschaft & Familie",
+    "it": "Gestione della casa e della famiglia",
+    "en": "Home & family management",
+    "sv": "Hemkunskap & familjekunskap",
+    "fr": "Gestion du foyer et de la vie familiale"
+  },
+  "created": "1996-06-01",
+  "notation": "64",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

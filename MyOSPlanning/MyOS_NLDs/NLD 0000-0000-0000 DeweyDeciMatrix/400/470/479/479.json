@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rGxBTPbr6yQ66BpXJxmbXJvh",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hDPPXbxwJwxCFTg8DDwcHBkx",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Other Italic languages",
+    "fr": "Autres langues italiques",
+    "it": "Altre lingue italiche",
+    "no": "Andre italiske språk",
+    "de": "Andere italische Sprachen",
+    "sv": "Övriga italiska språk"
+  },
+  "modified": "2021-01-22T09:14:17Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "479",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

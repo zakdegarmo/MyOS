@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dXjGxrrXqmgvq6wJrjj37dtF",
+  "prefLabel": {
+    "en": "Organizations and management of fine and decorative arts",
+    "it": "Organizzazioni e gestione delle belle arti e arti decorative",
+    "sv": "Organisationer och administration inom konst och konsthantverk",
+    "de": "Organisationen und Management der bildenden und angewandten Kunst",
+    "no": "Organisasjoner og ledelse innen kunst og kunsthåndverk",
+    "fr": "Organisations et gestion des beaux-arts et des arts décoratifs"
+  },
+  "modified": "2023-05-12T06:13:52Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "notation": "706",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

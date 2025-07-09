@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "prefLabel": {
+    "de": "Kommunikation und Verkehr",
+    "no": "Kommunikasjonsmidler og samferdsel",
+    "en": "Communications and transportation",
+    "fr": "Communications et transports",
+    "sv": "Kommunikationer och transport",
+    "it": "Comunicazioni e trasporto"
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E37mWDMVjwh4gfrydvRtkJQYfg",
+    "https://id.oclc.org/worldcat/ddc/E3B3ybTTThkMykK836bKkXKG6q",
+    "https://id.oclc.org/worldcat/ddc/E3HY4KjHW6PFp8jcqV98mgrYrB",
+    "https://id.oclc.org/worldcat/ddc/E3bmw7Hm3FFk8Rbf8H8FCmFGbg",
+    "https://id.oclc.org/worldcat/ddc/E3KwFXgXvrKW3j3bT6DDBJjJq4",
+    "https://id.oclc.org/worldcat/ddc/E3hDkYYRbdjfg9bWRpjdxDVxtX"
+  ],
+  "modified": "2019-08-19T18:51:30Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "383-388",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

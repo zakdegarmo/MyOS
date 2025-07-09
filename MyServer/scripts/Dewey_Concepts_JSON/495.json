@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3387JYVg6dFxBtF4kpVqpXYtr",
+  "prefLabel": {
+    "it": "Lingue dell'Asia orientale e sudorientale",
+    "sv": "Östasiatiska språk och sydöstasiatiska språk",
+    "fr": "Langues de l’Asie de l’Est et du Sud-Est",
+    "de": "Sprachen Ost- und Südostasiens",
+    "no": "Øst- og sørøstasiatiske språk",
+    "en": "Languages of east and southeast Asia"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les langues sino-tibétaines",
+      "Y compris le karen"
+    ],
+    "en": [
+      "Class here Sino-Tibetan languages",
+      "Including Karen"
+    ],
+    "sv": [
+      "Omfattar karen",
+      "Klassificera här sinotibetanska språk"
+    ],
+    "de": [
+      "Einschließlich: Karenisch",
+      "Hier auch: sinotibetische Sprachen"
+    ],
+    "no": [
+      "Her: Sino-tibetanske språk",
+      "Inkluderer: Karen"
+    ],
+    "it": [
+      "Include il karen",
+      "Classificare qui le lingue sinotibetane"
+    ]
+  },
+  "type": "Concept",
+  "notation": "495",
+  "modified": "2023-06-15T12:43:10Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

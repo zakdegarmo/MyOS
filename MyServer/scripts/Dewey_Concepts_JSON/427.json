@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49BVYcPcmhWKgXVtdyTpXKCG7",
+  "prefLabel": {
+    "no": "Historiske og geografiske variasjoner, moderne, ikke-geografiske variasjoner av engelsk",
+    "sv": "Historiska och geografiska varianter, moderna icke-geografiska varianter av engelska",
+    "en": "Historical and geographic variations, modern nongeographic variations of English",
+    "it": "Varianti storiche e geografiche, varianti non geografiche moderne",
+    "fr": "Variantes et variations historiques et régionales, variantes et variations modernes non régionales de l'anglais",
+    "de": "Historische und geografische Varianten, moderne nichtgeografische Varianten des Englischen"
+  },
+  "created": "1996-06-01",
+  "modified": "2022-02-24T02:59:52Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "427",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cBPV43DPRrTpJdjh49kqQJW6",
+  "prefLabel": {
+    "sv": "Modern västerländsk filosofi",
+    "de": "Neuzeitliche westliche Philosophie",
+    "fr": "Philosophie occidentale moderne",
+    "it": "Filosofia occidentale moderna",
+    "no": "Vestens filosofi i nyere tid",
+    "en": "Modern western philosophy"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+    "https://id.oclc.org/worldcat/ddc/E36VvWcBFm8mc97RHwBqDh4pXQ"
+  ],
+  "notation": "19",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38dDG4gTWQ74FJYxxKXYy48mH",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

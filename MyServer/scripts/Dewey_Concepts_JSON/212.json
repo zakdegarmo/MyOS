@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4d7DkTpm9y3D8qgbJgrQTQXm4",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Wunder"
+    ],
+    "no": [
+      "Inkluderer: Undere"
+    ],
+    "fr": [
+      "Y compris les miracles"
+    ],
+    "sv": [
+      "Omfattar mirakel"
+    ],
+    "en": [
+      "Including miracles"
+    ],
+    "it": [
+      "Include i miracoli"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2023-06-02T09:55:15Z",
+  "notation": "212",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Guds eksistens, måter å erkjenne Gud på, Guds attributter",
+    "sv": "Guds existens, sätt att känna Gud, Guds attribut",
+    "fr": "Existence de Dieu, moyens de connaître Dieu, attributs de Dieu",
+    "de": "Gottesfrage, Wege der Gotteserkenntnis, Eigenschaften Gottes",
+    "en": "Existence of God, ways of knowing God, attributes of God",
+    "it": "Esistenza di Dio, modi della conoscenza di Dio, attributi di Dio"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

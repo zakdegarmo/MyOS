@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RHpTpM7GwdhGTVtvdQKbd3PJ",
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on Christian church, on practical theology",
+      "Institutions, services, observances, disciplines, work of Christianity and Christian church"
+    ],
+    "no": [
+      "Her: Oversiktsverker om den kristne kirke, oversiktsverker om praktisk teologi",
+      "Institusjoner, tjenester, praksis, kirketukt, arbeid innen kristendom og den kristne kirke"
+    ],
+    "it": [
+      "Istituzioni, servizi, osservanze, leggi, attività del cristianesimo e della chiesa cristiana",
+      "Classificare qui le opere d'insieme sulla chiesa cristiana, sulla teologia pratica"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om kristna kyrkan, om praktisk teologi",
+      "Institutioner, gudstjänster, bruk, discipliner, arbete inom kristendom och den kristna kyrkan"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über die christlichen Kirchen, über Praktische Theologie",
+      "Einrichtungen, Dienstleistungen, Prinzipien, Fachgebiete, Arbeit des Christentums und der christlichen Kirchen"
+    ],
+    "fr": [
+      "Institutions, offices, pratiques, disciplines, activités du christianisme et de l’Église chrétienne",
+      "Classer ici les ouvrages généraux sur l’Église chrétienne, sur la théologie pratique"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Teologia sociale ed ecclesiastica cristiana",
+    "sv": "Kristen socialteologi och kyrkoteologi",
+    "fr": "Théologie sociale et ecclésiastique chrétiennes",
+    "de": "Christliche Soziallehre und Ekklesiologie",
+    "en": "Christian social and ecclesiastical theology",
+    "no": "Kristen sosialteologi og ekklesiologi"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "modified": "2025-06-17T06:09:11Z",
+  "notation": "260",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

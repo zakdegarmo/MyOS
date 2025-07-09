@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KXx96BYkm4bdCf8vGJWMjdQp",
+  "prefLabel": {
+    "sv": "Vokalmusik",
+    "en": "Vocal music",
+    "it": "Musica vocale",
+    "de": "Vokalmusik",
+    "no": "Vokalmusikk",
+    "fr": "Musique vocale"
+  },
+  "notation": "782",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48gbD63Gd44m4cH48wCwrwfHq",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fpXkCTxtHTDGjhrXb4cCGY6X",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Italienische, rumänische & verwandte Literaturen",
+    "sv": "Italienska, rumänska & besläktade litteraturer",
+    "fr": "Littératures italienne, roumaine et apparentées",
+    "en": "Italian, Romanian & related literatures",
+    "it": "Letteratura italiana, letteratura romena e letterature affini",
+    "no": "Italiensk, rumensk og beslektede litteraturer"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3H9YQbbHMBBdM7DQy7kDb33xv",
+    "https://id.oclc.org/worldcat/ddc/E3YxQtK3TxFhBc6HrfbhM8mmVf",
+    "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "85",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

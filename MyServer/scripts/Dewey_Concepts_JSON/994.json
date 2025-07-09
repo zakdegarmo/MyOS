@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BtMxHDDVYg7fJmJCvGXT7tMy",
+  "prefLabel": {
+    "de": "Australien",
+    "en": "Australia",
+    "no": "Australia",
+    "sv": "Australien",
+    "it": "Australia",
+    "fr": "Australie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "994",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

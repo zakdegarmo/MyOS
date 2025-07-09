@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kdJQrdtGyj9ddFkGbpQrVd9G",
+  "scopeNote": {
+    "no": [
+      "Her: Kristendom og kultur",
+      "Kirkens og kristendommens holdning til og innflytelse på verdslige spørsmål, på andre religioner, på interreligiøse forhold"
+    ],
+    "de": [
+      "Hier auch: Christentum und Kultur",
+      "Einstellung des Christentums und der christlichen Kirchen zu weltlichen Angelegenheiten und Einfluss auf weltliche Angelegenheiten, Einstellung zu anderen Religionen, interreligiöse Beziehungen"
+    ],
+    "it": [
+      "Classificare qui le relazioni tra cristianesimo e cultura",
+      "Atteggiamenti e influenza del cristianesimo e della chiesa cristiana sulle questioni secolari, atteggiamento verso le altre religioni, relazioni con esse"
+    ],
+    "sv": [
+      "Klassificera här kristendom och kultur",
+      "Kristendom och kristna kyrkans attityd mot och influens på sekulära ämnen, attityd mot andra religioner, interreligiösa relationer"
+    ],
+    "en": [
+      "Class here Christianity and culture",
+      "Attitude of Christianity and Christian church toward and influence on secular matters, attitude toward other religions, interreligious relations"
+    ],
+    "fr": [
+      "Classer ici le christianisme et la culture",
+      "Attitude du christianisme et de l’Église chrétienne à l’égard des questions séculières et influence sur ces questions, attitude envers les autres religions, relations avec les autres religions"
+    ]
+  },
+  "prefLabel": {
+    "it": "Teologia sociale, relazioni e atteggiamenti interreligiosi",
+    "no": "Sosialteologi og interreligiøse forhold og holdninger",
+    "en": "Social theology and interreligious relations and attitudes",
+    "fr": "Théologie sociale et relations avec les autres religions et attitudes à leur égard",
+    "sv": "Socialteologi och interreligiösa relationer och attityder",
+    "de": "Soziallehre und interreligiöse Beziehungen und Einstellungen"
+  },
+  "modified": "2024-08-22T19:51:39Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "261",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

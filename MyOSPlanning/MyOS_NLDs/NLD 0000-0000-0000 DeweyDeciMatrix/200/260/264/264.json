@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PtvgFMGTgQ7fVqr7rYxpKqBv",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "modified": "2023-09-12T06:07:21Z",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Cerimonie, riti, funzioni (liturgia e rituale)"
+    ],
+    "fr": [
+      "Cérémonies, rites, offices (liturgie et rituel)"
+    ],
+    "sv": [
+      "Ceremonier, riter, gudstjänster (liturgi och ritual)"
+    ],
+    "de": [
+      "Zeremonien, Riten, Gottesdienste (Liturgie und Ritual)"
+    ],
+    "en": [
+      "Ceremonies, rites, services (liturgy and ritual)"
+    ],
+    "no": [
+      "Seremonier, riter, gudstjeneste (liturgi og ritualer)"
+    ]
+  },
+  "notation": "264",
+  "prefLabel": {
+    "de": "Öffentliche Religionsausübung",
+    "en": "Public worship",
+    "no": "Offentlig gudsdyrkelse",
+    "sv": "Offentlig tillbedjan",
+    "it": "Culto pubblico",
+    "fr": "Culte public"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

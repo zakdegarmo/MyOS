@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DwDYB4hFbt6QHBh4k7btyqjT",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3bRWBW7hrCf4Twg6G9D9vjxXX",
+    "https://id.oclc.org/worldcat/ddc/E34frx9XgQD3pfvqgX8VVpVrkW",
+    "https://id.oclc.org/worldcat/ddc/E46xQPtWK6TF8kmdgHc7rXjMwd",
+    "https://id.oclc.org/worldcat/ddc/E3FMc7f7DVrVjg9JtxhhDt3K6y",
+    "https://id.oclc.org/worldcat/ddc/E3rP9CPpYdJVdDdmTG8gwYKjQG",
+    "https://id.oclc.org/worldcat/ddc/E3b3p7DwgX8cRKyQjMvtXF8PJy",
+    "https://id.oclc.org/worldcat/ddc/E4cf7xtM6PTK8RRCGMhw78krYH"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "182-188",
+  "prefLabel": {
+    "sv": "Antik västerländsk filosofi",
+    "en": "Ancient western philosophy",
+    "fr": "Philosophie occidentale de l’Antiquité",
+    "it": "Filosofia occidentale antica",
+    "de": "Antike westliche Philosophie",
+    "no": "Vestens filosofi i oldtiden"
+  },
+  "modified": "2024-11-20T06:37:21Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

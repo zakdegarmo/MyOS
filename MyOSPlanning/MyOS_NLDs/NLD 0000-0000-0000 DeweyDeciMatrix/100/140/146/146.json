@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E474TkY3DBP7MjVcwkrY9j9f4K",
+  "scopeNote": {
+    "en": [
+      "Including dynamism, energism"
+    ],
+    "sv": [
+      "Omfattar dynamism, energeia"
+    ],
+    "no": [
+      "Inkluderer: Dynamisme, energitisme"
+    ],
+    "it": [
+      "Include il dinamismo, l'energetismo"
+    ],
+    "fr": [
+      "Y compris le dynamisme, l’énergisme"
+    ],
+    "de": [
+      "Einschließlich: Dynamismus, Energismus"
+    ]
+  },
+  "notation": "146",
+  "prefLabel": {
+    "en": "Naturalism and related systems and doctrines",
+    "fr": "Naturalisme et systèmes et doctrines connexes",
+    "it": "Naturalismo, sistemi e dottrine affini",
+    "sv": "Naturalism och besläktade system och doktriner",
+    "no": "Naturalisme og lignende systemer og doktriner",
+    "de": "Naturalismus und verwandte Systeme und Positionen"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-11-02T00:44:37Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

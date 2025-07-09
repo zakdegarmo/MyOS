@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YKrBTy9pbqhvxvCdGgbJwRTp",
+  "prefLabel": {
+    "en": "Cooperatives",
+    "it": "Cooperative",
+    "de": "Genossenschaften",
+    "sv": "Kooperativ",
+    "fr": "Coopératives",
+    "no": "Samvirker (kooperasjoner)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "notation": "334",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

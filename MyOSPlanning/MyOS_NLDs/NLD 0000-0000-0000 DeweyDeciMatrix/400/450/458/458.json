@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48BcYpgmkmPrqwFRhGg7BG4pC",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Standard Italian usage (Prescriptive linguistics)",
+    "sv": "Standarditalienskt språkbruk (normativ lingvistik)",
+    "it": "Uso italiano standard (Linguistica prescrittiva)",
+    "no": "Normert italiensk språkbruk (normativ lingvistikk)",
+    "de": "Gebrauch der italienischen Standardsprache (Präskriptive Linguistik)",
+    "fr": "Usage de l’italien standard (Linguistique normative)   "
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+  "notation": "458",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-02-09T17:13:32Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

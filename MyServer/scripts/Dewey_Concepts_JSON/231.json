@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DF8PFGgYKj8PxHJmFf9KtTJT",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-09-12T01:15:17Z",
+  "prefLabel": {
+    "no": "Gud",
+    "sv": "Gud",
+    "de": "Gott",
+    "en": "God",
+    "it": "Dio",
+    "fr": "Dieu"
+  },
+  "notation": "231",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

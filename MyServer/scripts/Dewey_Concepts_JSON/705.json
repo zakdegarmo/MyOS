@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3g6TYhHBJvdWrDWMTGrv6hvRW",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "prefLabel": {
+    "fr": "Publications en série des beaux-arts et des arts décoratifs",
+    "it": "Seriali di belle arti e arti decorative",
+    "sv": "Seriella resurser inom konst och konsthantverk",
+    "no": "Periodika innen kunst og kunsthåndverk",
+    "de": "Fortlaufende Sammelwerke der bildenden und angewandten Kunst",
+    "en": "Serial publications of fine and decorative arts"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "705",
+  "type": "Concept",
+  "modified": "2022-01-25T14:55:18Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

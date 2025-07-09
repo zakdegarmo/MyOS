@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3P6XTmdrVd4rvh8QrB8VmrvRw",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Variantes et variations historiques et régionales, variantes et variations modernes non régionales de l'espagnol",
+    "no": "Historiske og geografiske variasjoner, moderne, ikke-geografiske variasjoner av spansk",
+    "en": "Historical and geographic variations, modern nongeographic variations of Spanish",
+    "de": "Historische und geografische Varianten, moderne nichtgeografische Varianten des Spanischen",
+    "it": "Varianti storiche e geografiche, varianti non geografiche moderne dello spagnolo",
+    "sv": "Historiska och geografiska varianter, moderna icke-geografiska varianter av spanska"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QwXX8k3gdqqkMywM8hjwjfCr",
+  "notation": "467",
+  "modified": "2021-02-09T16:17:56Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

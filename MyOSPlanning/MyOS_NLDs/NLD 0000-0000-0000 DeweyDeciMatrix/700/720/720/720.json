@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TvTcmV4x4wkGJtmB8RRGbVCV",
+  "prefLabel": {
+    "de": "Architektur",
+    "fr": "Architecture",
+    "en": "Architecture",
+    "sv": "Arkitektur",
+    "it": "Architettura",
+    "no": "Arkitektur"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "720",
+  "scopeNote": {
+    "en": [
+      "Class here architectural structure; comprehensive works on architecture, area planning, and landscape architecture; on architecture and area planning; on architecture and landscape architecture; on architecture and structural engineering; interdisciplinary works on design and construction of buildings"
+    ],
+    "fr": [
+      "Classer ici la construction architecturale ; les ouvrages généraux sur l'architecture, l'aménagement du territoire et l'architecture du paysage, sur l'architecture et l'aménagement du territoire, sur l'architecture et l'architecture du paysage, sur l'architecture et la technique de la construction ; les ouvrages interdisciplinaires sur la conception et la construction des bâtiments"
+    ],
+    "sv": [
+      "Klassificera här arkitektonisk struktur; övergripande verk om arkitektur, fysisk planering och landskapsarkitektur; om arkitektur och fysisk planering; om arkitektur och landskapsarkitektur; om arkitektur och byggnadsteknik; tvärvetenskapliga verk om design och konstruktion av byggnader"
+    ],
+    "it": [
+      "Classificare qui la struttura architettonica; le opere d'insieme su architettura, urbanistica e architettura del paesaggio; sull'architettura e l'urbanistica; sull'architettura e l'architettura del paesaggio; sull'architettura e l'ingegneria strutturale; le opere interdisciplinari su progettazione e costruzioni di edifici"
+    ],
+    "no": [
+      "Her: Arkitektonisk struktur; oversiktsverker om arkitektur, arealplanlegging og landskapsarkitektur; oversiktsverker om arkitektur og arealplanlegging; oversiktsverker om arkitektur og landskapsarkitektur; oversiktsverker om arkitektur og konstruksjonsteknikk; tverrfaglige verker om design og konstruksjon av bygninger"
+    ],
+    "de": [
+      "Hier auch: architektonische Struktur; umfassende Werke über Architektur, Raumplanung und Landschaftsarchitektur, über Architektur und Raumplanung, über Architektur und Landschaftsplanung; über Architektur und Ingenieurhochbau; fächerübergreifende Werke über Entwurf und Bau von Gebäuden"
+    ]
+  },
+  "modified": "2024-11-05T11:05:49Z",
+  "created": "1998-12-22",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Cm6Twb7HCRCP3HxytDrB8jQ9",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

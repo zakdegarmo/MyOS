@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WybMkhGptvgjd8FYYqYQXQhK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "History of South America",
+    "no": "Sør-Amerikas historie",
+    "sv": "Sydamerikas historia",
+    "de": "Geschichte Südamerikas",
+    "fr": "Histoire générale de l’Amérique du Sud",
+    "it": "Storia del Sudamerica"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rhFhVJtCxThPKQYGvgBFXD34",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E34XV8cDCjH7qy4PVHDJjtg9RB",
+    "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW"
+  ],
+  "modified": "2021-09-28T09:54:29Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "98",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

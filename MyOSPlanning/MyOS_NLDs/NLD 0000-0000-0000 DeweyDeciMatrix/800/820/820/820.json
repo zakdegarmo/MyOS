@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rBCV3gkDmQrYj6QWyb7bV84b",
+  "prefLabel": {
+    "de": "Englische und altenglische (Angelsächsische) Literaturen",
+    "fr": "Littératures anglaise et vieil-anglaise (anglo-saxonne)",
+    "no": "Engelsk og gammelengelsk (angelsaksisk) litteratur",
+    "sv": "Engelska och fornengelska (anglosaxiska) litteraturer",
+    "en": "English and Old English (Anglo-Saxon) literatures",
+    "it": "Letteratura inglese e in antico inglese (Letteratura anglosassone)"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "820",
+  "modified": "2021-03-07T18:34:04Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FVVQkWGwJXDVkYBpy7rCQVQF",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

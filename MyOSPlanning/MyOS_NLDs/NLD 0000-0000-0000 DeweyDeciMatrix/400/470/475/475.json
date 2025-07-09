@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qDjvwBt668TMFVhQrVWDXhMJ",
+  "prefLabel": {
+    "no": "Klassisk latinsk grammatikk",
+    "sv": "Klassisk latinsk grammatik",
+    "fr": "Grammaire du latin classique    ",
+    "de": "Grammatik des klassischen Latein",
+    "en": "Grammar of classical Latin",
+    "it": "Grammatica del latino classico"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "475",
+  "modified": "2021-01-22T09:14:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

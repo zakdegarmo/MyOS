@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cWmVHw6RvbGfYtrrDXqbQxCc",
+  "prefLabel": {
+    "de": "Allgemeine Sammelwerke in Spanisch, Portugiesisch, Galicisch",
+    "fr": "Recueils généraux en espagnol, en portugais, en galicien",
+    "no": "Generelle samlinger på spansk, portugisisk, galisisk",
+    "it": "Raccolte generali in spagnolo, portoghese, gallego",
+    "en": "General collections in Spanish, Portuguese, Galician",
+    "sv": "Allmänna samlingsverk på spanska, portugisiska, galiciska"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "type": "Concept",
+  "modified": "2024-01-24T14:33:36Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "086",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dbFYBpvvHXb8wgdBbWkhq6Bd",
+  "prefLabel": {
+    "it": "Bibliografie e cataloghi di opere anonime e pseudonime",
+    "no": "Bibliografier og kataloger over anonyme og pseudonyme verker",
+    "sv": "Bibliografier och kataloger över anonyma och pseudonyma verk",
+    "de": "Bibliografien und Kataloge anonymer und pseudonymer Werke",
+    "en": "Bibliographies and catalogs of anonymous and pseudonymous works",
+    "fr": "Bibliographies et catalogues d’ouvrages anonymes et d'ouvrages publiés sous un pseudonyme"
+  },
+  "created": "1998-10-28",
+  "modified": "2021-02-26T12:12:05Z",
+  "notation": "014",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvdMgWGjDhmXKp89t3GPCtW6",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

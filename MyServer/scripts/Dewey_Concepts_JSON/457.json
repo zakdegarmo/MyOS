@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bRbMrG9bDvtXC4HPGXyF87YC",
+  "prefLabel": {
+    "de": "Historische und geografische Varianten, moderne nichtgeografische Varianten des Italienischen",
+    "sv": "Historiska och geografiska varianter, moderna icke-geografiska varianter av italienska",
+    "it": "Varianti storiche e geografiche, varianti non geografiche moderne dell'italiano",
+    "fr": "Variantes et variations historiques et régionales, variantes et variations modernes non régionales de l'italien",
+    "en": "Historical and geographic variations, modern nongeographic variations of Italian",
+    "no": "Historiske og geografiske variasjoner, moderne, ikke-geografiske variasjoner av italiensk"
+  },
+  "type": "Concept",
+  "notation": "457",
+  "created": "1996-06-01",
+  "modified": "2021-02-09T17:13:32Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

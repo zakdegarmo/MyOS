@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bDf9TVV6f8Fr3pgTFx33dv77",
+  "prefLabel": {
+    "fr": "Céramique",
+    "sv": "Keramisk konst",
+    "it": "Arti della ceramica",
+    "de": "Keramikkunst",
+    "no": "Keramisk kunst",
+    "en": "Ceramic arts"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Töpferhandwerk"
+    ],
+    "no": [
+      "Her: Pottemakerkunst"
+    ],
+    "it": [
+      "Classificare qui la ceramica"
+    ],
+    "sv": [
+      "Klassificera här keramik"
+    ],
+    "en": [
+      "Class here pottery"
+    ],
+    "fr": [
+      "Classer ici la poterie"
+    ]
+  },
+  "modified": "2024-11-05T11:23:20Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cvGqTqYYvbrqj9QW8HGHKkQJ",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "738",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

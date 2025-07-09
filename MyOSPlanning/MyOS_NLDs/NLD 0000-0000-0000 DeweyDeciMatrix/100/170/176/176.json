@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33jyJTfDMKQfwh7jWdbXg74yd",
+  "prefLabel": {
+    "en": "Ethics of sex and reproduction",
+    "de": "Sexual- und Reproduktionsethik",
+    "no": "Etikk vedrørende seksualitet og reproduksjon",
+    "sv": "Sexualetik och fortplantningsetik",
+    "it": "Etica sessuale e della riproduzione",
+    "fr": "Morale en matière de sexualité et de reproduction"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-27T11:10:57Z",
+  "notation": "176",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

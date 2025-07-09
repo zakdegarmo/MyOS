@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HWgwqxHPYy4CXtHytVv6WgTk",
+  "prefLabel": {
+    "de": "Soziologie und Anthropologie",
+    "it": "Sociologia e antropologia",
+    "no": "Sosiologi og antropologi",
+    "sv": "Sociologi och antropologi",
+    "en": "Sociology and anthropology",
+    "fr": "Sociologie et anthropologie"
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fWrrTVQ7tqpKcpQ4QCyGKJJ4",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le opere interdisciplinari sulla società, sugli umani"
+    ],
+    "en": [
+      "Class here interdisciplinary works on society, humans"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om samfunnet, om mennesker"
+    ],
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Gesellschaft, Menschen"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om samhälle, människor"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur la société, les humains"
+    ]
+  },
+  "notation": "301",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-01-08T20:19:54Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

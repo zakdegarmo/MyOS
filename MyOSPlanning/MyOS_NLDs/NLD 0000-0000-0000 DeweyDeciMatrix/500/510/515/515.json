@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36r6pvDWp9g6gpQBvJCW4kKV3",
+  "prefLabel": {
+    "it": "Analisi",
+    "no": "Matematisk analyse",
+    "fr": "Analyse",
+    "de": "Analysis",
+    "sv": "Analys",
+    "en": "Analysis"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här matematisk analys; övergripande verk om funktionsteori"
+    ],
+    "en": [
+      "Class here calculus; comprehensive works on the theory of functions"
+    ],
+    "de": [
+      "Hier auch: Infinitesimalrechnung; umfassende Werke über Theorie reeller Funktionen"
+    ],
+    "it": [
+      "Classificare qui il calcolo; le opere d'insieme sulla teoria delle funzioni"
+    ],
+    "no": [
+      "Her: Kalkulus; oversiktsverker om funksjonsteori"
+    ],
+    "fr": [
+      "Classer ici le calcul ; les ouvrages généraux sur la théorie des fonctions"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "created": "1996-06-01",
+  "modified": "2024-02-27T09:45:53Z",
+  "notation": "515",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4c9X44J73BWjxgBKmFqDrq4YF",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3YJMQCXwTmHxYxyx4kqhQ9FQr",
+    "https://id.oclc.org/worldcat/ddc/E46tyqpYBxxY3RtxHjhJMRcWRb"
+  ],
+  "prefLabel": {
+    "de": "Christliche Konfessionen",
+    "sv": "Kristna samfund",
+    "no": "Kristne trossamfunn",
+    "en": "Christian denominations",
+    "it": "Denominazioni cristiane",
+    "fr": "Confessions chrétiennes"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hdq4y9PrPK8tJrjXgkWcXRCt",
+  "notation": "28",
+  "modified": "2024-09-04T19:30:28Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

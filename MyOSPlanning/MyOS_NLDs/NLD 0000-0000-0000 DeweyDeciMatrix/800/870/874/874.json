@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fgRBTVWFtmrY4BmHJRQ476rt",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "prefLabel": {
+    "fr": "Poésie lyrique latine",
+    "en": "Latin lyric poetry",
+    "sv": "Latinsk lyrik",
+    "no": "Latinsk lyrisk poesi",
+    "it": "Poesia lirica latina",
+    "de": "Lateinische lyrische Versdichtung"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-08T11:10:01Z",
+  "notation": "874",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

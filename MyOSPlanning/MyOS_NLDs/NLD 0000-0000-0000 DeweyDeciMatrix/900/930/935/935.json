@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4d3BBXYxKw7q3YXXy8634CfcV",
+  "notation": "935",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Mesopotamia fram til 637 og den iranske høyslette fram til 637",
+    "en": "Mesopotamia to 637 and Iranian Plateau to 637",
+    "fr": "Mésopotamie jusqu’à 637 et plateau iranien jusqu’à 637",
+    "sv": "Mesopotamien före 637 och Iranska högplatån före 637",
+    "de": "Mesopotamien bis 637 und iranische Hochebene bis 637",
+    "it": "Mesopotamia e altopiano iranico, fino al 637"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2023-12-13T11:53:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

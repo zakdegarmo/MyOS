@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mKV9JPQTf7WTV6yjkr4rJPQx",
+  "prefLabel": {
+    "sv": "Gallerier, museer, privata samlingar med konst och konsthantverk",
+    "de": "Galerien, Museen, Privatsammlungen der bildenden und angewandten Kunst",
+    "en": "Galleries, museums, private collections of fine and decorative arts",
+    "no": "Gallerier, museer, private samlinger av kunst og kunsthåndverk",
+    "fr": "Galeries, collections privées, musées des beaux-arts et des arts décoratifs",
+    "it": "Gallerie, musei, collezioni private di belle arti e arti decorative"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "sv": [
+      "Allmänna konstsamlingar",
+      "Klassificera här årsberättelser som innehåller uppgifter om förvärv, aktiviteter, program, projekt"
+    ],
+    "no": [
+      "Her: Årlige rapporter om tilvekst, aktiviteter, programmer, prosjekter",
+      "Generelle kunstsamlinger"
+    ],
+    "de": [
+      "Allgemeine Kunstsammlungen",
+      "Hier auch: Jahresberichte über Erwerbungen, Aktivitäten, Programme, Projekte"
+    ],
+    "fr": [
+      "Classer ici les rapports annuels relatifs aux acquisitions, aux activités, aux programmes, aux projets",
+      "Collections générales d’art"
+    ],
+    "it": [
+      "Raccolte artistiche generali",
+      "Classificare qui le relazioni annuali su acquisizioni, attività, progetti, programmi"
+    ],
+    "en": [
+      "General art collections",
+      "Class here annual reports dealing with acquisitions, activities, programs, projects"
+    ]
+  },
+  "modified": "2024-11-05T11:05:49Z",
+  "type": "Concept",
+  "notation": "708",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kMkcPHb7fwKRt3qjKbCx8cRY",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "615",
+  "prefLabel": {
+    "de": "Pharmakologie und Therapeutik",
+    "en": "Pharmacology and therapeutics",
+    "fr": "Pharmacologie et thérapeutique",
+    "no": "Farmakologi og behandlingsformer",
+    "it": "Farmacologia e terapeutica",
+    "sv": "Farmakologi och terapimetoder"
+  },
+  "modified": "2021-05-19T17:06:07Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

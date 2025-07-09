@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33vY33fQwpxrfpyKG8ggGm36C",
+  "prefLabel": {
+    "it": "Giorni, tempi, luoghi di osservanza religiosa",
+    "en": "Days, times, places of religious observance",
+    "de": "Heilige Tage, Zeiten und Orte",
+    "fr": "Jours, temps, lieux destinés au culte",
+    "sv": "Dagar, tidpunkter, platser för religiöst bruk",
+    "no": "Dager, tider, steder for praktisering av religion"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2023-09-12T06:07:21Z",
+  "notation": "263",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cFy9j9GBF8JQWqQk6cB6dvQ3",
+  "prefLabel": {
+    "no": "Geometri",
+    "sv": "Geometri",
+    "it": "Geometria",
+    "de": "Geometrie",
+    "en": "Geometry",
+    "fr": "Géométrie"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la geometria combinata con la topologia"
+    ],
+    "fr": [
+      "Classer ici la géométrie en relation avec la topologie"
+    ],
+    "sv": [
+      "Klassificera här geometri kombinerat med topologi"
+    ],
+    "de": [
+      "Hier auch: Geometrie in Kombination mit Topologie"
+    ],
+    "en": [
+      "Class here geometry combined with topology"
+    ],
+    "no": [
+      "Her: Geometri kombinert med topologi"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "516",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

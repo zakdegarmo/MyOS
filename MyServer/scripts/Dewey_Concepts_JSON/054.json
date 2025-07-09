@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pf4p4RkFxXbrPCvtXqw4gWFB",
+  "notation": "054",
+  "prefLabel": {
+    "sv": "Allmänna seriella resurser på franska, occitanska, katalanska",
+    "de": "Allgemeine fortlaufende Sammelwerke in Französisch, Okzitanisch, Katalanisch",
+    "en": "General serial publications in French, Occitan, Catalan",
+    "fr": "Publications en série d’ordre général en français, en occitan, en catalan",
+    "no": "Generelle periodika på fransk, oksitansk, katalansk",
+    "it": "Seriali generali in francese, occitanico, catalano"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mfTdm6vPJCrJQYjKtRwtJY8p",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2023-06-23T12:51:40Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49fT6PFFBxkxGWdkFDpg7dbyh",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Recreational and performing arts",
+    "no": "Fritidsaktiviteter og utøvende kunst",
+    "it": "Arti ricreative e arti dell'esecuzione e dello spettacolo",
+    "sv": "Fritidssysselsättningar och scenisk konst",
+    "fr": "Loisirs et arts du spectacle",
+    "de": "Freizeitgestaltung, darstellende Künste, Sport"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "no": [
+      "Her: Offentlig fritidspolitikk; tverrfaglige verker om fritidsaktiviteter"
+    ],
+    "de": [
+      "Hier auch: Regierungspolitik zu Themen der Freizeitgestaltung und Erholung; fächerübergreifende Werke über Freizeit und Erholung"
+    ],
+    "it": [
+      "Classificare qui la politica statale sulle attività ricreative; le opere interdisciplinari sulle attività ricreative"
+    ],
+    "sv": [
+      "Klassificera här fritidspolitik; tvärvetenskapliga verk om fritid"
+    ],
+    "fr": [
+      "Classer ici la politique gouvernementale à l'égard des loisirs ; les ouvrages interdisciplinaires sur les loisirs"
+    ],
+    "en": [
+      "Class here government policy on recreation; interdisciplinary works on recreation"
+    ]
+  },
+  "notation": "790",
+  "type": "Concept",
+  "modified": "2021-09-13T12:56:38Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

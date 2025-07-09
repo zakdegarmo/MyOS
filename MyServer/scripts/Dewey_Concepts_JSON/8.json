@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PK96PcYmPw6vwM4p8KxK4r3r",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+    "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK"
+  ],
+  "prefLabel": {
+    "fr": "Littérature",
+    "sv": "Litteratur",
+    "no": "Litteratur",
+    "it": "Letteratura",
+    "de": "Literatur",
+    "en": "Literature"
+  },
+  "type": "Concept",
+  "modified": "2025-03-13T15:27:10Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "8",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

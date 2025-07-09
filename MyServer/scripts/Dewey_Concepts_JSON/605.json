@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3chdmkfgjfMppdVp7DvRqBHK7",
+  "modified": "2023-06-16T00:58:43Z",
+  "created": "2000-02-02",
+  "prefLabel": {
+    "no": "Periodika",
+    "en": "Serial publications",
+    "fr": "Publications en série",
+    "sv": "Seriella resurser",
+    "de": "Fortlaufende Sammelwerke",
+    "it": "Seriali"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E38kxrp6qgBrM4ccVMXvfxxgd8",
+  "notation": "605",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YQTPBxctjB4gDHkRR7vqPjMh",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Non enunciati altrove",
+      "Classificare qui le opere interdisciplinari sull'artigianato"
+    ],
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Handwerk",
+      "Sofern an anderer Stelle nicht vorgesehen"
+    ],
+    "en": [
+      "Not provided for elsewhere",
+      "Class here interdisciplinary works on handicrafts"
+    ],
+    "sv": [
+      "Begränsat till dem som saknar annan placering",
+      "Klassificera här tvärvetenskapliga verk om hantverk"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om håndverk (håndlagde produkter)",
+      "Som ikke har annen plassering"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur l’artisanat",
+      "Ne figurant pas ailleurs"
+    ]
+  },
+  "notation": "680",
+  "prefLabel": {
+    "de": "Industrielle Fertigung von Produkten für einzelne Verwendungszwecke",
+    "en": "Manufacture of products for specific uses",
+    "fr": "Fabrication de produits à usages particuliers",
+    "it": "Manifattura di prodotti per specifici usi",
+    "no": "Framstilling av produkter med bestemte bruksområder",
+    "sv": "Tillverkning av produkter för särskilda ändamål"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-10T08:53:17Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

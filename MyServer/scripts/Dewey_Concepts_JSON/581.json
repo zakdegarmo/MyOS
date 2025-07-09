@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vqMQ6kgH6tqTKFQrqXpytCPc",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les groupes non taxinomiques végétaux particuliers"
+    ],
+    "sv": [
+      "Klassificera här särskilda icke-taxonomiska växtgrupper"
+    ],
+    "en": [
+      "Class here specific nontaxonomic kinds of plants"
+    ],
+    "it": [
+      "Classificare qui gli specifici tipi non tassonomici di piante"
+    ],
+    "de": [
+      "Hier auch: einzelne Gruppen nichtverwandter Pflanzen"
+    ],
+    "no": [
+      "Her: Bestemte ikke-taksonomiske typer planter"
+    ]
+  },
+  "modified": "2021-05-12T04:26:49Z",
+  "notation": "581",
+  "prefLabel": {
+    "en": "Specific topics in natural history of plants",
+    "de": "Einzelne Themen in der Naturgeschichte von Pflanzen",
+    "fr": "Sujets particuliers de l'histoire naturelle des plantes",
+    "sv": "Särskilda ämnen inom växternas naturhistoria",
+    "it": "Soggetti specifici nella storia naturale delle piante",
+    "no": "Bestemte emner innen naturhistorie for planter"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

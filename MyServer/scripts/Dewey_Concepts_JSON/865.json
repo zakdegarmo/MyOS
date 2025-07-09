@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JmK8gP9FYfv8Pj896FKbX8qg",
+  "modified": "2020-01-30T10:42:52Z",
+  "prefLabel": {
+    "en": "Spanish speeches",
+    "de": "Spanische Reden",
+    "sv": "Spanska tal",
+    "it": "Discorsi spagnoli",
+    "no": "Spanske taler",
+    "fr": "Discours espagnols"
+  },
+  "notation": "865",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

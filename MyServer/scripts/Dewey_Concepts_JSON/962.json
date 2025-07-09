@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WqxMypXMjFCTYKKfgjy43BPV",
+  "modified": "2022-06-22T13:39:16Z",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Egitto, Sudan, Sud Sudan",
+    "en": "Egypt, Sudan, South Sudan",
+    "fr": "Égypte, Soudan, Soudan du Sud",
+    "no": "Egypt, Sudan, Sør-Sudan",
+    "de": "Ägypten, Sudan, Südsudan",
+    "sv": "Egypten, Sudan och Sydsudan"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "notation": "962",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

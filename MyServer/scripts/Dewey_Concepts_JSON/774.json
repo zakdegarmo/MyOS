@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cbPgyCJgjGt8fDPc6JCgVxjR",
+  "scopeNote": {
+    "no": [
+      "Her: Holografiske bilder"
+    ],
+    "de": [
+      "Hier auch: Hologramme"
+    ],
+    "en": [
+      "Class here holographic images"
+    ],
+    "it": [
+      "Classificare qui le immagini olografiche"
+    ],
+    "sv": [
+      "Klassificera här holografiska bilder"
+    ],
+    "fr": [
+      "Classer ici les hologrammes"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Holografi",
+    "en": "Holography",
+    "no": "Holografi",
+    "fr": "Holographie",
+    "de": "Holografie",
+    "it": "Olografia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E364PkxfwxvCJWtd6byyXxDKpK",
+  "type": "Concept",
+  "modified": "2020-07-06T07:50:09Z",
+  "created": "1996-06-01",
+  "notation": "774",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

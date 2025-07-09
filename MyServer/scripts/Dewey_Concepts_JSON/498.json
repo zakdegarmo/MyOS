@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48x6kkYhrPGWbdb7CmbKJTtdq",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "498",
+  "prefLabel": {
+    "sv": "Sydamerikanska ursprungliga språk",
+    "no": "Søramerikanske urbefolkningers språk",
+    "de": "Südamerikanische Indianersprachen",
+    "en": "South American native languages",
+    "it": "Lingue indigene sudamericane",
+    "fr": "Langues autochtones de l’Amérique du Sud"
+  },
+  "modified": "2023-11-28T07:01:53Z",
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

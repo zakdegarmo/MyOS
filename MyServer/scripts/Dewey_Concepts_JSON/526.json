@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kbxVf7b84PXPhkqpqtM7gfyC",
+  "notation": "526",
+  "prefLabel": {
+    "no": "Matematisk geografi",
+    "de": "Mathematische Geografie",
+    "it": "Geografia matematica",
+    "sv": "Matematisk geografi",
+    "fr": "Géographie mathématique",
+    "en": "Mathematical geography"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "scopeNote": {
+    "en": [
+      "Class here cartography (map making)"
+    ],
+    "it": [
+      "Classificare qui la cartografia (elaborazione delle carte geografiche)"
+    ],
+    "de": [
+      "Hier auch: Kartografie (Fertigung von Karten)"
+    ],
+    "no": [
+      "Her: Kartografi (kartproduksjon)"
+    ],
+    "fr": [
+      "Classer ici la cartographie (établissement de cartes)"
+    ],
+    "sv": [
+      "Klassificera här kartografi (kartritning, tillverkning av kartor)"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-09-27T17:19:10Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

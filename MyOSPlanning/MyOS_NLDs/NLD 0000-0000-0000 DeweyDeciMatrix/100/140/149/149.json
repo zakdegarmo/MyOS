@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VcQJCrggC3BwqkKBg4GqVfQ6",
+  "scopeNote": {
+    "en": [
+      "Including constructivism, objectivism, relativism"
+    ],
+    "fr": [
+      "Y compris le constructivisme, l’objectivisme, le relativisme"
+    ],
+    "it": [
+      "Include il costruttivismo, l'oggettivismo, il relativismo"
+    ],
+    "no": [
+      "Inkluderer: Konstruktivisme, objektivisme, relativisme"
+    ],
+    "de": [
+      "Einschließlich: Konstruktivismus, Objektivismus, Relativismus"
+    ],
+    "sv": [
+      "Omfattar konstruktivism, objektivism, relativism"
+    ]
+  },
+  "prefLabel": {
+    "en": "Other philosophical systems and doctrines",
+    "de": "Andere philosophische Systeme und Positionen",
+    "sv": "Övriga filosofiska system och doktriner",
+    "it": "Altri sistemi e dottrine filosofiche",
+    "fr": "Autres systèmes et doctrines philosophiques",
+    "no": "Andre filosofiske systemer og doktriner"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "notation": "149",
+  "created": "1996-06-01",
+  "modified": "2024-11-02T00:44:37Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

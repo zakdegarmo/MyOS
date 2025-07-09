@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B8RtXCRdp4y3KRkWQwHrfMH3",
+  "prefLabel": {
+    "fr": "Instruments et ensembles instrumentaux et leur musique",
+    "it": "Strumenti, complessi strumentali e loro musica",
+    "en": "Instruments and instrumental ensembles and their music",
+    "de": "Instrumente und Instrumentalensembles und ihre Musik",
+    "sv": "Instrument och instrumentalensembler och deras musik",
+    "no": "Instrumenter og instrumentalensembler og musikk for disse"
+  },
+  "type": "Concept",
+  "notation": "784",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-04-23T11:43:24Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CCB8wxMWHKGxyfPDqDvF46hw",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

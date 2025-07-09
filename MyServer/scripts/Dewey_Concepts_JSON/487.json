@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gmdC3Dkq4DprX8wRpdMFqmfy",
+  "created": "1996-06-01",
+  "modified": "2021-01-22T08:47:07Z",
+  "prefLabel": {
+    "en": "Preclassical and postclassical Greek",
+    "sv": "Förklassisk och efterklassisk grekiska",
+    "fr": "Grec préclassique et postclassique",
+    "it": "Greco preclassico e postclassico",
+    "de": "Vorklassisches Griechisch, Mittelgriechisch",
+    "no": "Preklassisk og postklassisk gresk"
+  },
+  "notation": "487",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

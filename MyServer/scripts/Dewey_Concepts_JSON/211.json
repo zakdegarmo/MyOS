@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3D4T6f4696M98rtJg8kgwmT8H",
+  "type": "Concept",
+  "scopeNote": {
+    "sv": [
+      "Omfattar antropomorfism",
+      "Klassificera här övergripande verk om Gud, om heligheten"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Gott, über das Heilige",
+      "Einschließlich: Anthropomorphismus"
+    ],
+    "en": [
+      "Class here comprehensive works on God, on The Holy",
+      "Including anthropomorphism"
+    ],
+    "no": [
+      "Inkluderer: Antropomorfisme",
+      "Her: Oversiktsverker om Gud, oversiktsverker om det hellige"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur Dieu, sur le sacré",
+      "Y compris l’anthropomorphisme"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su Dio, sul sacro",
+      "Include l'antropomorfismo"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Concepts de Dieu",
+    "no": "Gudsbegrep",
+    "en": "Concepts of God",
+    "it": "Concezioni di Dio",
+    "sv": "Gudsbegreppet",
+    "de": "Gottesvorstellungen"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "notation": "211",
+  "created": "1996-06-01",
+  "modified": "2023-06-02T09:55:15Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

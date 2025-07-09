@@ -1,0 +1,35 @@
+[
+  {
+    "pillar_1_id": "87bf57d629e2454d",
+    "pillar_2_title": "<weave>Scribe 7.4.2025</w/>",
+    "pillar_3_isPinned": 1,
+    "pillar_4_url": "https://gemini.google.com/app/87bf57d629e2454d",
+    "pillar_5_context_snapshot": "{\"project_phase\": 2, \"active_nld\": \"NLD-007\"}",
+    "pillar_6_timestamp": "2025-07-05T23:30:00Z",
+    "pillar_7_permission_level": 7,
+    "pillar_8_summary": "Ongoing conversation defining the core database schema and development methodology (MetaStack, BaseLogic).",
+    "pillar_9_is_transcended": 0
+  },
+  {
+    "pillar_1_id": "c36a0da693b58af9",
+    "pillar_2_title": "A Cunning Plan's Beginning",
+    "pillar_3_isPinned": 0,
+    "pillar_4_url": "https://gemini.google.com/app/c36a0da693b58af9",
+    "pillar_5_context_snapshot": "{\"project_phase\": 1}",
+    "pillar_6_timestamp": "2025-07-04T18:00:00Z",
+    "pillar_7_permission_level": 2,
+    "pillar_8_summary": "Initial discussion about project goals and the need for a unified system.",
+    "pillar_9_is_transcended": 0
+  },
+  {
+    "pillar_1_id": "d2ad12784ab0c3d5",
+    "pillar_2_title": "Plan for Code Research",
+    "pillar_3_isPinned": 0,
+    "pillar_4_url": "https://gemini.google.com/app/d2ad12784ab0c3d5",
+    "pillar_5_context_snapshot": "{\"project_phase\": 2, \"active_nld\": \"NLD-003\"}",
+    "pillar_6_timestamp": "2025-07-05T15:00:00Z",
+    "pillar_7_permission_level": 3,
+    "pillar_8_summary": "This conversation was the direct precursor to the creation of NLD-004.",
+    "pillar_9_is_transcended": 1
+  }
+]

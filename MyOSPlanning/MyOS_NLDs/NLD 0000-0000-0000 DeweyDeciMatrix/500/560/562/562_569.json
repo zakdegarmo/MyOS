@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3drDgxDXvD7WvJfCkXyXTwBKC",
+    "https://id.oclc.org/worldcat/ddc/E3wMR3tQKFMq8WRQK3j6F4w6Ty",
+    "https://id.oclc.org/worldcat/ddc/E4849C7Qj46VJrr9b838VVGdQ9",
+    "https://id.oclc.org/worldcat/ddc/E3BTV3RfGfG3hwGHpGjPJFJHCg",
+    "https://id.oclc.org/worldcat/ddc/E4bYWVvmxyMcyT7JcwX8JVbrjb",
+    "https://id.oclc.org/worldcat/ddc/E4b7MHPTXk93KDfHVRPRHRcThv",
+    "https://id.oclc.org/worldcat/ddc/E49DQGtwQYxqW4pVdHGGKxWPJy",
+    "https://id.oclc.org/worldcat/ddc/E3wMyT3KWgm3JB3XPJ9HCGbQjj"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TWmb8CgMwft4mMtWrdWxXfFp",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la paleozoologia tassonomica"
+    ],
+    "fr": [
+      "Classer ici la paléozoologie taxinomique"
+    ],
+    "en": [
+      "Class here taxonomic paleozoology"
+    ],
+    "sv": [
+      "Klassificera här taxonomisk paleozoologi"
+    ],
+    "de": [
+      "Hier auch: taxonomische Paläozoologie"
+    ],
+    "no": [
+      "Her: Taksonomisk paleozoologi"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Särskilda taxonomiska djurgrupper",
+    "fr": "Groupes taxinomiques d’animaux fossiles particuliers",
+    "it": "Specifici gruppi tassonomici di animali",
+    "no": "Bestemte taksonomiske dyregrupper",
+    "en": "Specific taxonomic groups of animals",
+    "de": "Einzelne taxonomische Gruppen von Tieren"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "562-569",
+  "modified": "2019-09-30T20:08:42Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fvYYxGrYgkwCWGXMbP8rxx8g",
+  "prefLabel": {
+    "fr": "Construction en bois    ",
+    "sv": "Träteknik",
+    "de": "Holzbau",
+    "no": "Bygging med tre",
+    "it": "Costruzione in legno",
+    "en": "Wood construction"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here carpentry"
+    ],
+    "fr": [
+      "Classer ici la charpenterie"
+    ],
+    "sv": [
+      "Klassificera här snickeri"
+    ],
+    "no": [
+      "Her: Snekring"
+    ],
+    "it": [
+      "Classificare qui la carpenteria"
+    ],
+    "de": [
+      "Hier auch: Zimmerhandwerk"
+    ]
+  },
+  "notation": "694",
+  "type": "Concept",
+  "modified": "2024-12-17T14:39:40Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

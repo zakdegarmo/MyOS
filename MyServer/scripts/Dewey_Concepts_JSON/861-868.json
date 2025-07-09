@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "prefLabel": {
+    "it": "Suddivisioni della letteratura spagnola in base a specifiche forme",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature espagnole",
+    "no": "Tilføyelser for bestemte former av spansk litteratur",
+    "en": "Subdivisions for specific forms of Spanish literature",
+    "sv": "Indelningar för särskilda former av spansk litteratur",
+    "de": "Unterklassen für einzelne Gattungen der spanischen Literatur"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les genres littéraires particuliers de la littérature judéo-espagnole (ladino), de la littérature papiamento"
+    ],
+    "sv": [
+      "Klassificera här särskilda former av ladinsk (spanjolsk) litteratur, papiamentulitteratur"
+    ],
+    "it": [
+      "Classificare qui le specifiche forme della letteratura giudeospagnola (ladina) e della letteratura in papiamento"
+    ],
+    "en": [
+      "Class here specific forms of Judeo-Spanish (Ladino), Papiamento literature"
+    ],
+    "no": [
+      "Her: Bestemte former av sefardisk (ladino), papiamento litteratur"
+    ],
+    "de": [
+      "Hier auch: einzelne Gattungen judenspanischer Literatur (Ladino-Literatur), der Papiamento-Literatur"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E47WQGkmWPPMkRRTDTGfdXJ67M",
+    "https://id.oclc.org/worldcat/ddc/E3RWCDgDMgPm8RXrtK8RwmxmPR",
+    "https://id.oclc.org/worldcat/ddc/E3PhpqX6qf4ww3JtdfqP7dgcbR",
+    "https://id.oclc.org/worldcat/ddc/E3JmK8gP9FYfv8Pj896FKbX8qg",
+    "https://id.oclc.org/worldcat/ddc/E3wfGTRtg4QVWgDKFT89MYwWkb",
+    "https://id.oclc.org/worldcat/ddc/E3r3Jgk3fWmMHf6qb9Qjf3KrJK",
+    "https://id.oclc.org/worldcat/ddc/E3rgW3VjDXpXkBhXGDdWf7JMtC",
+    "https://id.oclc.org/worldcat/ddc/E38Ff368JKvMP4r64xgQ7gJwV4"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E44Q8p4J8FRFBBBFMHGCqYDPF6",
+  "type": "Concept",
+  "modified": "2022-03-11T06:04:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2010-02-04",
+  "notation": "861-868",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E493ypDxHTY7QxQYqB8Vf6W9rQ",
+  "scopeNote": {
+    "en": [
+      "Including contradictions, fictions, paradoxes"
+    ],
+    "sv": [
+      "Omfattar motsägelser, fiktioner, paradoxer"
+    ],
+    "fr": [
+      "Y compris les contradictions, les fictions, les paradoxes"
+    ],
+    "no": [
+      "Inkluderer: Kontradiksjoner, fiksjoner, paradokser"
+    ],
+    "de": [
+      "Einschließlich: Widersprüche, Fiktionen, Paradoxien"
+    ],
+    "it": [
+      "Include le contraddizioni, le finzioni, i paradossi"
+    ]
+  },
+  "prefLabel": {
+    "de": "Fehlschlüsse und Fehlerquellen",
+    "no": "Feilslutninger og feilkilder",
+    "it": "Sofismi e fonti d'errore",
+    "sv": "Felslut och felkällor",
+    "en": "Fallacies and sources of error",
+    "fr": "Erreurs (Faux raisonnements) et sources d'erreurs"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "165",
+  "type": "Concept",
+  "modified": "2024-11-15T06:48:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4djfwp7jpJ4hV34gBJy4xWBqJ",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Francese e lingue romanze affini",
+    "en": "French and related Romance languages",
+    "de": "Französisch und verwandte romanische Sprachen",
+    "fr": "Français et langues romanes connexes",
+    "no": "Fransk og beslektede romanske språk",
+    "sv": "Franska och besläktade romanska språk"
+  },
+  "notation": "440",
+  "scopeNote": {
+    "en": [
+      "Class here Romance languages"
+    ],
+    "sv": [
+      "Klassificera här romanska språk"
+    ],
+    "de": [
+      "Hier auch: romanische Sprachen"
+    ],
+    "fr": [
+      "Classer ici les langues romanes"
+    ],
+    "it": [
+      "Classificare qui le lingue romanze"
+    ],
+    "no": [
+      "Her: Romanske språk"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-15T12:43:10Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VXMqmy6bhF9BHQv7v3DMytFg",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bBTK7TY3v9X87Bcc6qVcyHXp",
+  "prefLabel": {
+    "no": "Klassisk mekanikk",
+    "en": "Classical mechanics",
+    "de": "Klassische Mechanik",
+    "sv": "Klassisk mekanik",
+    "it": "Meccanica classica",
+    "fr": "Mécanique classique"
+  },
+  "scopeNote": {
+    "it": [
+      "Altri nomi per la meccanica classica: meccanica, meccanica newtoniana"
+    ],
+    "en": [
+      "Variant names: mechanics, Newtonian mechanics"
+    ],
+    "de": [
+      "Synonyme Bezeichnungen: Mechanik, Newtonsche Mechanik"
+    ],
+    "sv": [
+      "Andra namn: mekanik, Newtons mekanik"
+    ],
+    "no": [
+      "Andre betegnelser: Mekanikk, newtonsk mekanikk"
+    ],
+    "fr": [
+      "Variantes du nom : mécanique, mécanique newtonienne"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-04-26T09:13:26Z",
+  "type": "Concept",
+  "notation": "531",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

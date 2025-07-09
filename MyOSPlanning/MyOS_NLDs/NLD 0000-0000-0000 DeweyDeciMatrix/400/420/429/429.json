@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46XqBHXkyTkGF9gRhbQYdgrFq",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Old English (Anglo-Saxon)",
+    "sv": "Fornengelska (anglosaxiska)",
+    "it": "Antico inglese (Anglosassone)",
+    "de": "Altenglisch (Angelsächsisch)",
+    "no": "Gammelengelsk (angelsaksisk)",
+    "fr": "Vieil anglais (Anglo-saxon)"
+  },
+  "notation": "429",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyBrwXhqT7JpFw7rtgbVjfcK",
+  "modified": "2025-03-26T12:06:27Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

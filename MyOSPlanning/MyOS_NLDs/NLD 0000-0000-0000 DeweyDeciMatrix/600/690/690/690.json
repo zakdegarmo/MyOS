@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xtGGGv3q87jtMTfqjxjkfjVd",
+  "scopeNote": {
+    "no": [
+      "Planlegging, analyse, teknisk design, konstruksjon, riving av boliger og deres VVS (varme-, ventilasjons- og sanitærteknikk)"
+    ],
+    "de": [
+      "Planung, Analyse, technische Planung, Bau, Abbruch von Gebäuden, in denen Menschen oder Tiere wohnen oder sich aufhalten können, und ihren Versorgungseinrichtungen"
+    ],
+    "fr": [
+      "Planification, analyse, conception technique, construction, démolition des unités d’habitation et de leurs installations intérieures"
+    ],
+    "sv": [
+      "Planering, analys, teknisk utformning, konstruktion, rivning av boningshus och deras anläggningar"
+    ],
+    "it": [
+      "Programmazione, analisi, disegno tecnico, costruzione, demolizione di strutture abitabili e dei loro impianti"
+    ],
+    "en": [
+      "Planning, analysis, engineering design, construction, destruction of habitable structures and their utilities"
+    ]
+  },
+  "modified": "2024-10-28T14:28:33Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Konstruksjon av bygninger",
+    "de": "Bau von Gebäuden",
+    "en": "Construction of buildings",
+    "it": "Costruzione di edifici",
+    "fr": "Construction de bâtiments",
+    "sv": "Byggnadsteknik"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "notation": "690",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

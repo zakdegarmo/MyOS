@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hDPPXbxwJwxCFTg8DDwcHBkx",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3gJvvcdD4XjWgxtJDPCvk9Wwd",
+    "https://id.oclc.org/worldcat/ddc/E3rGxBTPbr6yQ66BpXJxmbXJvh",
+    "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT"
+  ],
+  "notation": "47",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Latin et langues italiques",
+    "de": "Latein & italische Sprachen",
+    "sv": "Latin & italiska språk",
+    "en": "Latin & Italic languages",
+    "it": "Latino e lingue italiche",
+    "no": "Latin og italiske språk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX",
+  "created": "1996-06-01",
+  "modified": "2021-04-19T12:38:05Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

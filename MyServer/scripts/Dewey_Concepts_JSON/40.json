@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E386XRt8Mw464YdhXHXPBJVkxk",
+    "https://id.oclc.org/worldcat/ddc/E4bfHYJDp8Xd4Cqcg8mbVmCdw9",
+    "https://id.oclc.org/worldcat/ddc/E3PGyQFhmgwcCBKCV3vkGKj4Ph",
+    "https://id.oclc.org/worldcat/ddc/E3tvVxQK68C99hq66yGVMpHbVv",
+    "https://id.oclc.org/worldcat/ddc/E3Y9b97rXP9FGMRGpRKjp83PMj",
+    "https://id.oclc.org/worldcat/ddc/E3gfXXDgb74CTVvc4DJwkJW3QH",
+    "https://id.oclc.org/worldcat/ddc/E3CJfvWD7Vr9Dy74jDqXc89qdg",
+    "https://id.oclc.org/worldcat/ddc/E3k6hPB8C6cgxYkc7d79VFV9vQ",
+    "https://id.oclc.org/worldcat/ddc/E3pJrvXc9mxPHhHJTTH6tpT3Bh",
+    "https://id.oclc.org/worldcat/ddc/E3BWFrKGy8vhBgtHFBhwwrXTwy"
+  ],
+  "notation": "40",
+  "prefLabel": {
+    "en": "Language",
+    "sv": "Språk",
+    "de": "Sprache",
+    "fr": "Langues",
+    "it": "Linguaggio",
+    "no": "Språk"
+  },
+  "modified": "2021-03-31T04:07:05Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wxJ3BTJ68HcKRpy4MpH63b9J",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

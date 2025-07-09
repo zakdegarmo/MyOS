@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38DptRk9PfFTXJmK4jTdR6gXW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "199",
+  "prefLabel": {
+    "sv": "Övriga geografiska områdens filosofi",
+    "de": "Philosophie in anderen geografischen Gebieten",
+    "en": "Philosophy in other geographic areas",
+    "fr": "Philosophie des autres aires géographiques",
+    "no": "Filosofi i andre geografiske områder",
+    "it": "Filosofia in altre aree geografiche"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cdbQG7RpfhbrfjR3QTxcpqHH",
+  "type": "Concept",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Freiheitsstrafe und Haft",
+      "Einrichtungen zur Besserung von Straftätern und zur Inhaftierung anderer von der Gesellschaft als unerwünscht betrachtete Gruppen"
+    ],
+    "it": [
+      "Istituti per la correzione dei delinquenti e istituti per la detenzione di altri gruppi",
+      "Classificare qui l'incarcerazione e la detenzione"
+    ],
+    "fr": [
+      "Établissements correctionnels pour les délinquants et établissements pour la détention d’autres groupes",
+      "Classer ici l’emprisonnement et la détention"
+    ],
+    "en": [
+      "Institutions for correction of offenders and institutions for detention of other groups",
+      "Class here imprisonment and detention"
+    ],
+    "sv": [
+      "Institutioner för kriminalvård och för internering av andra grupper som anses socialt ej önskvärda",
+      "Klassificera här i nternering och arrestering"
+    ],
+    "no": [
+      "Institusjoner for rehabilitering av forbrytere og institusjoner for internering av andre grupper",
+      "Her: Fengsling og varetekt"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "modified": "2025-02-20T03:17:05Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Soningsinstitusjoner og andre interneringsinstitusjoner",
+    "sv": "Kriminalvårdsanstalter och liknande inrättningar",
+    "it": "Istituti di pena e altre istituti di detenzione",
+    "en": "Penal institutions and other detention institutions",
+    "de": "Justizvollzugsanstalten und verwandte Einrichtungen",
+    "fr": "Établissements pénitentiaires et autres établissements de détention"
+  },
+  "created": "1996-06-01",
+  "notation": "365",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

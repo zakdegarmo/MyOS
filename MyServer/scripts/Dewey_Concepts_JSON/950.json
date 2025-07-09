@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46YX7TYkHkX4bWRJfhCR3rVFH",
+  "prefLabel": {
+    "en": "History of Asia",
+    "fr": "Histoire de l'Asie    ",
+    "de": "Geschichte Asiens",
+    "it": "Storia dell'Asia",
+    "sv": "Asiens historia    ",
+    "no": "Asias historie"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "950",
+  "modified": "2024-07-09T12:28:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

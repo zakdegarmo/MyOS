@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46RXxFpYJgRg3xpqFjQKRwKJ7",
+  "prefLabel": {
+    "no": "Filosofi i USA og Canada",
+    "fr": "Philosophie des États-Unis et du Canada",
+    "sv": "Förenta staternas och Kanadas filosofi",
+    "de": "Philosophie der USA und Kanadas",
+    "it": "Filosofia degli Stati Uniti e del Canada",
+    "en": "Philosophy of United States and Canada"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui la filosofia nordamericana"
+    ],
+    "sv": [
+      "Klassificera här nordamerikansk filosofi"
+    ],
+    "fr": [
+      "Classer ici la philosophie nord-américaine"
+    ],
+    "no": [
+      "Her: Filosofi i Nord-Amerika"
+    ],
+    "en": [
+      "Class here North American philosophy"
+    ],
+    "de": [
+      "Hier auch: nordamerikanische Philosophie"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "notation": "191",
+  "modified": "2024-11-02T00:44:37Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

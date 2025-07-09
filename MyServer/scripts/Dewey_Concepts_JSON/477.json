@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vXprQjdTPXB4T3vr6pmVc7Q9",
+  "prefLabel": {
+    "en": "Old, postclassical, Vulgar Latin",
+    "de": "Altlatein, Mittellatein, Neulatein, Kirchenlatein, Vulgärlatein",
+    "sv": "Arkaiskt latin, senlatin, vardagslatin",
+    "it": "Latino arcaico, postclassico, volgare",
+    "fr": "Latin archaïque, postclassique, populaire",
+    "no": "Gammellatin, postklassisk latin, vulgærlatin"
+  },
+  "modified": "2021-05-07T10:48:34Z",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Variante du nom pour le latin archaïque  : latin préclassique"
+    ],
+    "en": [
+      "Variant name for Old Latin: preclassical Latin"
+    ],
+    "no": [
+      "Annen betegnelse for gammellatin: preklassisk latin"
+    ],
+    "de": [
+      "Synonyme Bezeichnung für Altlatein: archaisches Latein"
+    ],
+    "sv": [
+      "Annat namn för arkaiskt latin: förklassiskt latin"
+    ],
+    "it": [
+      "Altro nome del latino arcaico: latino preclassico"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "477",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

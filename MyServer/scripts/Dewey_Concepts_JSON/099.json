@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tcBrFCvTVqt9rRykHmyJ6PrY",
+  "prefLabel": {
+    "sv": "Böcker i anmärkningsvärda format",
+    "it": "Libri notevoli per il formato",
+    "de": "Bücher mit besonderem Format",
+    "no": "Bøker i sjeldent format",
+    "fr": "Livres remarquables par le format",
+    "en": "Books notable for format"
+  },
+  "modified": "2024-11-02T00:44:37Z",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Bøker med uvanlige fasonger, miniatyrutgaver"
+    ],
+    "en": [
+      "Including books of unusual shapes, miniature editions"
+    ],
+    "it": [
+      "Include le edizioni microscopiche, i libri di forma insolita"
+    ],
+    "de": [
+      "Einschließlich: Bücher in ungewöhnlichen Formaten, Miniaturausgaben"
+    ],
+    "fr": [
+      "Y compris les livres de forme inhabituelle, les éditions miniatures"
+    ],
+    "sv": [
+      "Omfattar böcker i ovanliga former, miniatyrutgåvor"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "notation": "099",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

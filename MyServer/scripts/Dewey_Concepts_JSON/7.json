@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jVXD7f9YJFpxkXfyhXTQjQXV",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3H4YFftgq9FK96wtTfFbdGBWT",
+    "https://id.oclc.org/worldcat/ddc/E36dJKkj94QmgDVpR4QY6RQRFG",
+    "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+    "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+    "https://id.oclc.org/worldcat/ddc/E3Cm6Twb7HCRCP3HxytDrB8jQ9",
+    "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+    "https://id.oclc.org/worldcat/ddc/E3MwqmFCbPrRHjdTVvyVjHwgrx",
+    "https://id.oclc.org/worldcat/ddc/E33wrjJkxK6wCVGWwhQRWx9wM8",
+    "https://id.oclc.org/worldcat/ddc/E3WHJrC7hmK6J6Ytq6PRCH3f7j",
+    "https://id.oclc.org/worldcat/ddc/E3C4q6fDpdVfBVkwqPcmgJ8Y6G"
+  ],
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Arts & recreation",
+    "it": "Arti e attività ricreative",
+    "no": "Kunst og fritid",
+    "sv": "Konstarterna & fritid",
+    "de": "Künste & Unterhaltung",
+    "fr": "Arts et loisirs"
+  },
+  "type": "Concept",
+  "notation": "7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-03-03T07:41:50Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E348bVmgfp93cXTjkmTch9KWJQ",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här religiös symbolik"
+    ],
+    "fr": [
+      "Classer ici le symbolisme religieux"
+    ],
+    "de": [
+      "Hier auch: religiöse Symbolik"
+    ],
+    "no": [
+      "Her: Religiøs symbolikk"
+    ],
+    "it": [
+      "Classificare qui il simbolismo religioso"
+    ],
+    "en": [
+      "Class here religious symbolism"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Religion",
+    "sv": "Religion",
+    "en": "Religion",
+    "de": "Religion",
+    "fr": "Religion",
+    "it": "Religione"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-06-28T11:26:37Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "notation": "755",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

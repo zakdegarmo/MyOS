@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DQYC89PVXfMDGVqPCJhHcX8f",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3YgtYr3gqcQkBPwC7rqpGJDpd",
+    "https://id.oclc.org/worldcat/ddc/E4cvjT4KrcQGkhpY3yCXFxtyfq",
+    "https://id.oclc.org/worldcat/ddc/E3M8fpggf3HQpDvp3Rb7py7vW7",
+    "https://id.oclc.org/worldcat/ddc/E3QXRKW7C39hPdM4QmPFqDct4x",
+    "https://id.oclc.org/worldcat/ddc/E3qRhqTGbJBX8G4R6vHwJGGJ7G",
+    "https://id.oclc.org/worldcat/ddc/E4bgwdQFcdk4CbkGkdrvxMTJ3m",
+    "https://id.oclc.org/worldcat/ddc/E3RDfX3YTBkQvf8QTmDVyfj3Pg",
+    "https://id.oclc.org/worldcat/ddc/E3vc3Wr6mPgmpdJ3gwG3GgkCbp",
+    "https://id.oclc.org/worldcat/ddc/E3DMkmBpPP6kMxVfKrkQkhC4BV",
+    "https://id.oclc.org/worldcat/ddc/E3Krrd7Cvhw9DB6jFBxqvG8gT7"
+  ],
+  "type": "Concept",
+  "prefLabel": {
+    "de": "[Unbesetzt]",
+    "en": "[Unassigned]",
+    "sv": "[Vakant]",
+    "it": "[Non assegnato]",
+    "fr": "[Vacant]",
+    "no": "[Ubenyttet]"
+  },
+  "notation": "04",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-03-01T15:08:05Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

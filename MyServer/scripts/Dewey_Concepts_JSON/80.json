@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E33cdqTTTCxHH7FwDVMFqYqxKm",
+    "https://id.oclc.org/worldcat/ddc/E48qHFbTRmq88Bq6yKb7HfWDmJ",
+    "https://id.oclc.org/worldcat/ddc/E3rjvffpTB9HcgMwcRkcTYcQr9",
+    "https://id.oclc.org/worldcat/ddc/E38MCmkMvqDRkQtPjt6H3xkDyy",
+    "https://id.oclc.org/worldcat/ddc/E3J4dQ7XhpQ9WbKVPRv4fpwbgx",
+    "https://id.oclc.org/worldcat/ddc/E3Jv9m7pBjjF6kwf37VKrcFP7d",
+    "https://id.oclc.org/worldcat/ddc/E4cfRqRkWjVYF69K7TcjptHdR8",
+    "https://id.oclc.org/worldcat/ddc/E3mhqYr7qYjvhr6WgvkTXfdGTq",
+    "https://id.oclc.org/worldcat/ddc/E3YpKm9xB9FVpvRGqcqWfBqFQD",
+    "https://id.oclc.org/worldcat/ddc/E4cVCxG7mDVx63fQCvDPdyfwK9"
+  ],
+  "prefLabel": {
+    "fr": "Littérature, techniques d'écriture et critique",
+    "no": "Litteratur, litterær komposisjon og kritikk",
+    "de": "Literatur, Rhetorik & Literaturwissenschaft",
+    "sv": "Litteratur, retorik & analys",
+    "en": "Literature, rhetoric & criticism",
+    "it": "Letteratura, retorica e critica"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PK96PcYmPw6vwM4p8KxK4r3r",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "80",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bgD47bjM7ckvfFQTPQh3FD84",
+  "notation": "724",
+  "prefLabel": {
+    "de": "Architektur ab 1400",
+    "no": "Arkitektur fra 1400",
+    "sv": "Arkitektur från 1400",
+    "fr": "Architecture, 1400–",
+    "it": "Architettura dopo il 1400",
+    "en": "Architecture from 1400"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: moderne Architektur"
+    ],
+    "fr": [
+      "Classer ici l’architecture moderne"
+    ],
+    "no": [
+      "Her: Nyere tids arkitektur"
+    ],
+    "it": [
+      "Classificare qui l'architettura moderna"
+    ],
+    "sv": [
+      "Klassificera här modern arkitektur"
+    ],
+    "en": [
+      "Class here modern architecture"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44h36RWgQQtG4JJYVRby86BxY",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

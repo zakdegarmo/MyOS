@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48qHFbTRmq88Bq6yKb7HfWDmJ",
+  "scopeNote": {
+    "no": [
+      "Her: Samlingsbiografier, enkeltbiografier og samlingsbiografier om kritikere; historie, beskrivelse, kritikk av verker fra mer enn to litteraturer fra mer enn to språkfamilier",
+      "Historie, beskrivelse, kritisk vurdering av verker av flere enn én forfatter på mer enn to språk som ikke tilhører samme språkgruppe",
+      "Notasjon H1--09 fra Hjelpetabell 1 slik den er modifisert under"
+    ],
+    "fr": [
+      "Notation T1--09 , Table 1 telle que modifiée ci-dessous",
+      "Histoire, analyse, critique d'œuvres par plusieurs auteurs en plusieurs langues appartenant à des familles de langues différentes",
+      "Classer ici la biographie collective d'auteurs, la biographie individuelle et collective de critiques littéraires ; l'histoire, l'analyse, la critique d'œuvres de plus de deux littératures appartenant à deux ou plusieurs familles de langues"
+    ],
+    "it": [
+      "Storia, descrizione, studio critico di opere di più d'un autore in più di due lingue non appartenenti alla stessa famiglia linguistica",
+      "Notazione T1--09 dalla Tavola 1 come di seguito modificata",
+      "Classificare qui la biografia collettiva di autori, la biografia individuale e collettiva di critici; la storia, la descrizione, lo studio critico di opere in più di due letterature di due famiglie linguistiche"
+    ],
+    "de": [
+      "Hier auch: Sammelbiografien von Autoren, Einzel- und Sammelbiografien von Literaturwissenschaftlern; Geschichte, Darstellung, kritische Bewertung von Werken aus mehr als zwei Literaturen aus lediglich zwei Sprachfamilien",
+      "Notation T1--09 aus Hilfstafel 1 entsprechend den nachfolgenden Änderungen",
+      "Geschichte, Darstellung, kritische Bewertung von Werken von mehr als einem Autor in mehr als zwei Sprachen, die nicht derselben Sprachfamilie angehören"
+    ],
+    "sv": [
+      "Klassificera här samlingsbiografier över författare; samlingsbiografier och enskilda biografier över kritiker; historia, beskrivning, kritik av verk i fler än två litteraturer från två eller fler språkfamiljer",
+      "Historia, beskrivning, kritik av verk av fler än en författare på fler än två språk som inte tillhör samma språkfamilj",
+      "Notation T1--09 från tabell 1 så som den är modifierad nedan"
+    ],
+    "en": [
+      "History, description, critical appraisal of works by more than one author in more than two languages not from the same language family",
+      "Class here collected biography of authors, individual and collected biography of critics; history, description, critical appraisal of works in more than two literatures from two or more language families",
+      "Notation T1--09 from Table 1 as modified below"
+    ]
+  },
+  "prefLabel": {
+    "it": "Storia, descrizione, studio critico di più di due letterature",
+    "de": "Geschichte, Darstellung, kritische Bewertung von mehr als zwei Literaturen",
+    "sv": "Historia, beskrivning, kritik av fler än två litteraturer",
+    "fr": "Histoire, analyse, critique portant sur plusieurs littératures",
+    "no": "Historie, beskrivelse, kritisk vurdering av mer enn to litteraturer",
+    "en": "History, description, critical appraisal of more than two literatures"
+  },
+  "modified": "2022-08-24T12:59:47Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "notation": "809",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

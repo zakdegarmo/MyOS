@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YwCGPFvgG6CcVKvXycDrPHcF",
+  "prefLabel": {
+    "it": "Letteratura latina e letterature in lingue italiche affini",
+    "sv": "Latinsk litteratur och besläktade italiska litteraturer",
+    "de": "Lateinische Literatur und Literaturen verwandter italischer Sprachen",
+    "no": "Latinsk litteratur og beslektede italiske språks litteraturer",
+    "en": "Latin literature and literatures of related Italic languages",
+    "fr": "Littérature latine et littératures des langues italiques apparentées"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le letterature italiche"
+    ],
+    "en": [
+      "Class here literatures of Italic languages"
+    ],
+    "sv": [
+      "Klassificera här litteraturer på italiska språk"
+    ],
+    "fr": [
+      "Classer ici les littératures des langues italiques"
+    ],
+    "de": [
+      "Hier auch: Literaturen italischer Sprachen"
+    ],
+    "no": [
+      "Her: Italiske språks litteraturer"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3D4VXXW8jgkBwVYwG8cVWyR66",
+  "notation": "870",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-02-10T21:54:17Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

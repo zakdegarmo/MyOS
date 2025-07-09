@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3t9yxHgPPfY3y6VVGdQbyFxkk",
+  "prefLabel": {
+    "sv": "Lexikon och ordböcker för standardengelska",
+    "it": "Dizionari dell'inglese standard",
+    "no": "Ordbøker på standard engelsk",
+    "fr": "Dictionnaires de l'anglais standard",
+    "de": "Englische Wörterbücher",
+    "en": "Dictionaries of standard English"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "modified": "2024-09-27T17:19:10Z",
+  "notation": "423",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

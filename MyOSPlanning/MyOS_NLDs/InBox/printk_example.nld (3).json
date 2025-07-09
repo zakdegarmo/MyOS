@@ -1,0 +1,23 @@
+{
+  "NLD_ID": "NLD_GENERIC_TEXT_BLOCK_-2631393322239226903",
+  "Directive_Type": "NLD_PROCESS_DATA",
+  "Target_Context": "Document_Fragment",
+  "Parameters": {
+    "content_summary": "printk (fmt, ...)",
+    "original_content_hash": -2631393322239226903
+  },
+  "Micro_Actions": [
+    "ANALYZE_SEMANTICALLY_FOR_IMPLICIT_NLD"
+  ],
+  "Expected_Outcome": "printk (fmt, ...)",
+  "Source_File": "printk_example.txt",
+  "Weave_Signature": "AUTO-SCRIBE-GENERIC-printk_example.txt-20250616-084151",
+  "_debug_status": {
+    "status": "VALID",
+    "messages": [
+      "Source Warning: No C function signature found; NLDified as generic text block."
+    ]
+  },
+  "Source_Original_Path": "C:\\Users\\zakde\\Desktop\\MystraWeave_V2\\linux\\temp_linux_docs_for_nld_test\\printk_example.txt",
+  "New_NLD_Path": "C:\\Users\\zakde\\Desktop\\MystraWeave_V2\\linux\\temp_linux_docs_for_nld_test\\printk_example.nld.json"
+}

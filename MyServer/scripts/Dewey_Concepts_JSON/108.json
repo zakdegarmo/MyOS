@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DMxYqd7dq4PQJDVVTYXcpFpb",
+  "prefLabel": {
+    "de": "Personengruppen",
+    "en": "Groups of people",
+    "it": "Gruppi di persone",
+    "no": "Persongrupper",
+    "sv": "Grupper",
+    "fr": "Groupes de personnes"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2025-02-03T19:58:09Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "notation": "108",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

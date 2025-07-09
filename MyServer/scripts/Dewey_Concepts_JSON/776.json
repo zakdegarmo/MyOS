@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xwtWvY7BDWcCK8hbTTpKcwvC",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages généraux sur l'art par ordinateur (art numérique) et les applications informatiques dans les arts",
+      "Objets d'art produits par ordinateur et visualisés à l'aide de périphériques de sortie",
+      "Y compris les aspects artistiques de la réalité virtuelle"
+    ],
+    "en": [
+      "Class here comprehensive works on computer art and computer applications in the arts",
+      "Including artistic aspects of virtual reality",
+      "Art objects produced using computers for display using computer output devices"
+    ],
+    "it": [
+      "Include gli aspetti artistici della realtà virtuale",
+      "Classificare qui le opere d'insieme sulla computer art e l'impiego del computer nelle arti",
+      "Oggetti d'arte prodotti con i computer per la visualizzazione mediante dispositivi di uscita del computer"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om datorkonst och datortillämpningar inom konstarterna",
+      "Omfattar konstnärliga aspekter på virtuell verklighet",
+      "Konstföremål som framställts med datorer för att visas med datorutrustning"
+    ],
+    "no": [
+      "Inkluderer: Kunstneriske aspekter ved virtuell virkelighet",
+      "Her: Oversiktsverker om datakunst og dataapplikasjoner i kunst",
+      "Kunstobjekter produsert ved hjelp av datamaskiner og som fremvises ved bruk av utdataenheter"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Computerkunst und Computereinsatz in den Künsten",
+      "Einschließlich: künstlerische Aspekte von virtueller Realität",
+      "Kunstobjekte, die unter Anwendung von Computern zur Ansicht auf Bildschirmen erstellt werden"
+    ]
+  },
+  "prefLabel": {
+    "it": "Computer art (Arte digitale)",
+    "en": "Computer art (Digital art)",
+    "sv": "Datorkonst (digital konst)",
+    "de": "Computerkunst (Digitale Kunst)",
+    "no": "Datakunst (digital kunst)",
+    "fr": "Art par ordinateur (Art numérique)"
+  },
+  "modified": "2023-02-06T16:10:27Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "type": "Concept",
+  "notation": "776",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

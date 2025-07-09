@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FpWVXPMrgGVKwpFPrm4CBPKD",
+  "prefLabel": {
+    "no": "Amerikansk litteratur på engelsk",
+    "fr": "Littérature américaine en anglais",
+    "sv": "Amerikansk litteratur på engelska",
+    "en": "American literature in English",
+    "it": "Letteratura americana in inglese",
+    "de": "Amerikanische Literatur in Englisch"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "it": [
+      "Letteratura americana in inglese del Nordamerica, del Sudamerica, delle Hawaii e isole collegate geograficamente"
+    ],
+    "de": [
+      "Englischsprachige Literatur aus Nordamerika, Südamerika, Hawaii und geografisch zugeordneten Inseln"
+    ],
+    "no": [
+      "Engelskspråklig litteratur fra Nord-Amerika, Sør-Amerika, Hawaii og tilliggende øyer"
+    ],
+    "sv": [
+      "Engelskspråkig litteratur i Nordamerika, Sydamerika, Hawaii och geografiskt förbundna öar"
+    ],
+    "en": [
+      "English-language literature of North America, South America, Hawaii, and geographically associated islands"
+    ],
+    "fr": [
+      "Littérature de langue anglaise de l’Amérique du Nord, de l’Amérique du Sud, d’Hawaii et des îles géographiquement adjacentes"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-05-31T12:18:04Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jjwKWQrjy9DxTCCW7j8Gck3b",
+  "notation": "810",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

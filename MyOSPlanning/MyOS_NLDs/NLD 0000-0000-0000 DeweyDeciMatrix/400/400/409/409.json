@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E386XRt8Mw464YdhXHXPBJVkxk",
+  "created": "1996-06-01",
+  "modified": "2021-04-08T11:28:18Z",
+  "prefLabel": {
+    "en": "Geographic treatment and biography",
+    "it": "Geografia e biografia",
+    "de": "Geografische Behandlung und Biografien",
+    "no": "Geografisk behandling og biografier",
+    "sv": "Geografisk aspekt och biografi",
+    "fr": "Étude géographique et biographie"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "409",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

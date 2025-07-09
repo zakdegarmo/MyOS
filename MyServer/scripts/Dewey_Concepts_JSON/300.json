@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49XXXMBFvg8P6dHGvTvvtTDqc",
+  "scopeNote": {
+    "no": [
+      "Her: Atferdsstudier, samfunnsstudier"
+    ],
+    "fr": [
+      "Classer ici les sciences du comportement, les études sociales"
+    ],
+    "en": [
+      "Class here behavioral sciences, social studies"
+    ],
+    "sv": [
+      "Klassificera här beteendevetenskaper, samhällsorienterande ämnen"
+    ],
+    "it": [
+      "Classificare qui gli studi comportamentali, gli studi sociali"
+    ],
+    "de": [
+      "Hier auch: Verhaltenswissenschaften, Sozialkunde"
+    ]
+  },
+  "modified": "2024-11-18T14:10:27Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fWrrTVQ7tqpKcpQ4QCyGKJJ4",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Samhällsvetenskaper",
+    "en": "Social sciences",
+    "fr": "Sciences sociales",
+    "no": "Samfunnsvitenskap",
+    "de": "Sozialwissenschaften",
+    "it": "Scienze sociali"
+  },
+  "notation": "300",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gJHK8WvfPfGXhFXMQKgh3Phf",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Skriftsystem, fonologi, fonetik gällande standardfranska",
+    "en": "Writing systems, phonology, phonetics of standard French",
+    "de": "Schriftsysteme, Phonologie, Phonetik des Französischen",
+    "it": "Sistemi di scrittura, fonologia, fonetica del francese standard",
+    "fr": "Systèmes d’écriture, phonologie, phonétique du français standard",
+    "no": "Skriftsystemer, fonologi, fonetikk knyttet til standard fransk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "notation": "441",
+  "modified": "2021-08-27T09:23:11Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

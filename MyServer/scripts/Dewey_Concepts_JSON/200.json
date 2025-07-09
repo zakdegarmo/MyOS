@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bJYKFR3q8JKX4MTkRXRdGqgX",
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3pMv3rdwYgmBKTHmtH4PryBdM",
+  "prefLabel": {
+    "it": "Religione",
+    "sv": "Religion",
+    "de": "Religion",
+    "en": "Religion",
+    "fr": "Religion",
+    "no": "Religion"
+  },
+  "scopeNote": {
+    "no": [
+      "Tro, holdninger og praksis hos enkeltpersoner og grupper med hensyn til eksistensens og relasjonenes grunnleggende vesen innenfor rammen av åpenbaring, guddommelighet og gudsdyrkelse",
+      "Inkluderer: PR-virksomhet for religion",
+      "Her: Sammenlignende religionsvitenskap; andre religioner enn kristendom; verker som omhandler forskjellige religiøse emner når de ikke anvendes på bestemte religioner; synkretiske religiøse tekster skrevet av enkeltpersoner som uttrykker personlige synspunkter, og som ikke utgir seg for å etablere en ny religion eller for å representere en gammel religion"
+    ],
+    "it": [
+      "Credenze, atteggiamenti, pratiche personali e di gruppo riguardo alla natura ultima degli esseri e ai loro rapporti, nel contesto di una rivelazione, della divinità, di un culto",
+      "Include le relazioni pubbliche nella religione",
+      "Classificare qui la religione comparata; le religioni non cristiane; le opere relative a più religioni, a soggetti religiosi non riferiti a specifiche religioni; gli scritti religiosi sincretistici di singoli che esprimono visioni personali e non pretendono di fondare una nuova religione o di ripresentarne una antica"
+    ],
+    "en": [
+      "Beliefs, attitudes, practices of individuals and groups with respect to the ultimate nature of existences and relationships within the context of revelation, deity, worship",
+      "Including public relations for religion",
+      "Class here comparative religion; religions other than Christianity; works dealing with various religions, with religious topics not applied to specific religions; syncretistic religious writings of individuals expressing personal views and not claiming to establish a new religion or to represent an old one"
+    ],
+    "fr": [
+      "Classer ici la religion comparée ; les religions non chrétiennes ; les ouvrages qui traitent de différentes religions, de sujets religieux non appliqués aux religions particulières ; les écrits religieux syncrétistes de personnes exprimant leur point de vue personnel sans vouloir fonder une nouvelle religion ou en représenter une ancienne",
+      "Y compris les relations publiques des institutions religieuses",
+      "Croyances, attitudes, pratiques des individus et des groupes concernant la nature fondamentale des êtres et leurs relations dans le cadre d’une révélation, à l’égard d’une divinité, d’un culte"
+    ],
+    "sv": [
+      "Individers och gruppers övertygelser, attityder, religionsutövning med hänsyn till den yttersta existensens natur och relationer inom sammanhanget för uppenbarelse, gudom, tillbedjan",
+      "Klassificera här komparativ religion; andra religioner än kristendom; verk som behandlar flera religioner, religiösa ämnen när de inte tillämpas inom särskilda religioner; synkretistiskt religiösa skrifter av individer som uttrycker personliga åsikter och som inte gör anspråk på att etablera en ny religion eller att representera en existerande religion",
+      "Omfattar PR för religion"
+    ],
+    "de": [
+      "Einschließlich: religiöse Öffentlichkeitsarbeit",
+      "Überzeugungen, Einstellungen, Formen der Religionsausübung von Einzelpersonen und Gruppen im Hinblick auf die den letzten Sinn von Seinsformen und Beziehungen innerhalb des Kontexts von Offenbarung, Gottheit und Anbetung",
+      "Hier auch: vergleichende Religionswissenschaft; andere Religionen als das Christentum; Werke, die verschiedene Religionen behandeln, Werke mit religiösen Themen, die nicht in Bezug auf einzelne Religionen behandelt werden; synkretistische religiöse Schriften von Einzelpersonen, die persönliche Ansichten ausdrücken und keinen Anspruch darauf erheben, eine neue Religion begründen oder eine alte repräsentieren zu wollen"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "200",
+  "modified": "2025-01-28T05:37:14Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

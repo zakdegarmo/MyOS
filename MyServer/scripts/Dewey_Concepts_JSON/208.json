@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fgjqDxYHMH7Yq87fjgQdxCYv",
+  "prefLabel": {
+    "sv": "Källor",
+    "en": "Sources",
+    "fr": "Sources",
+    "de": "Quellen",
+    "it": "Fonti",
+    "no": "Kilder"
+  },
+  "created": "1996-06-01",
+  "notation": "208",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "modified": "2024-07-03T10:22:06Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

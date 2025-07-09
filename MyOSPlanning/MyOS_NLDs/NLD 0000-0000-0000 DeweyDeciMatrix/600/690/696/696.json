@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rqfmG8jXgHfh86hDVCGvGCRy",
+  "prefLabel": {
+    "it": "Impianti",
+    "en": "Utilities",
+    "de": "Versorgungseinrichtungen",
+    "no": "VVS (varme-, ventilasjons- og sanitærteknikk)",
+    "fr": "Installations intérieures",
+    "sv": "Värme, vatten, el"
+  },
+  "notation": "696",
+  "modified": "2025-06-18T13:14:10Z",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über Energie- und Umwelttechnik von Gebäuden"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la technologie énergétique et environnementale des bâtiments"
+    ],
+    "en": [
+      "Class here comprehensive works on energy and environmental engineering of buildings"
+    ],
+    "no": [
+      "Her: Oversiktsverker om energi- og miljøteknikk for bygninger"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla tecnologia energetica e ambientale relativa agli edifici"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om energiteknik och miljöteknik gällande byggnader"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

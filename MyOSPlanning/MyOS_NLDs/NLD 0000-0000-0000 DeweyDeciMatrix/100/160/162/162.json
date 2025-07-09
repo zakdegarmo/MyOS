@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Kj897DD3jfDJpBTbHcqywY9Q",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Deduksjon",
+    "de": "Deduktion",
+    "en": "Deduction",
+    "fr": "Déduction",
+    "sv": "Deduktion",
+    "it": "Deduzione"
+  },
+  "modified": "2019-01-12T22:01:55Z",
+  "created": "1996-06-01",
+  "notation": "162",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

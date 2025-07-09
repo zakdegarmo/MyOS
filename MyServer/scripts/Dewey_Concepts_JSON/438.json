@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hfY6tgJYXDgBJMvpTFCJRPwR",
+  "prefLabel": {
+    "no": "Normert tysk språkbruk (normativ lingvistikk)",
+    "it": "Uso tedesco standard (Linguistica prescrittiva)",
+    "fr": "Usage de l’allemand standard (Linguistique normative)",
+    "sv": "Standardtyskt språkbruk (normativ lingvistik)",
+    "de": "Gebrauch der deutschen Standardsprache (Präskriptive Linguistik)",
+    "en": "Standard German usage (Prescriptive linguistics)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "438",
+  "created": "1996-06-01",
+  "modified": "2021-02-18T12:26:24Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

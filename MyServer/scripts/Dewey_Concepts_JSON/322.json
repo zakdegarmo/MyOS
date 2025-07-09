@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38vPgQthGwyyWPkQJjYgdvk6g",
+  "modified": "2024-08-22T19:51:39Z",
+  "notation": "322",
+  "scopeNote": {
+    "fr": [
+      "Relations entre l’État et les groupes autres que les partis politiques"
+    ],
+    "de": [
+      "Beziehung des Staats zu anderen Gruppen als den gesetzmäßigen Parteien"
+    ],
+    "en": [
+      "Relation of the state to groups other than regular political parties"
+    ],
+    "no": [
+      "Statens forhold til andre grupper enn politiske partier"
+    ],
+    "sv": [
+      "Statens relation till andra grupper än politiska partier"
+    ],
+    "it": [
+      "Relazioni dello stato con gruppi diversi dai partiti politici formalmente costituiti"
+    ]
+  },
+  "prefLabel": {
+    "no": "Statens forhold til organiserte grupper og deres medlemmer",
+    "en": "Relation of the state to organized groups and their members",
+    "de": "Beziehung des Staats zu organisierten Gruppen und ihren Mitgliedern",
+    "it": "Relazioni dello stato coi gruppi organizzati e i loro membri",
+    "sv": "Statens relation till organiserade grupper och deras medlemmar",
+    "fr": "Relations entre l’État et les groupes organisés et leurs membres"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

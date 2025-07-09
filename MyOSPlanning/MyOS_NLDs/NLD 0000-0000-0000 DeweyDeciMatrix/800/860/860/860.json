@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bkcxtgtmKq8dwtH8gktxq4XF",
+  "prefLabel": {
+    "de": "Literaturen in spanischer, portugiesischer, galicischer Sprache",
+    "en": "Literatures of Spanish, Portuguese, Galician languages",
+    "it": "Letteratura spagnola, portoghese, gallega",
+    "fr": "Littératures des langues espagnole, portugaise et galicienne",
+    "no": "Spansk, portugisisk, galisisk litteratur",
+    "sv": "Spanska, portugisiska, galiciska litteraturer"
+  },
+  "type": "Concept",
+  "modified": "2025-02-10T21:54:17Z",
+  "notation": "860",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44Q8p4J8FRFBBBFMHGCqYDPF6",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

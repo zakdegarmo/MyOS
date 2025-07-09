@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39rQc6jXk3fJrVgb63DqfDPpy",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Classer ici le droit international, le droit international public"
+    ],
+    "de": [
+      "Hier auch: internationales Recht, internationales öffentliches Recht"
+    ],
+    "sv": [
+      "Klassificera här internationell rätt, internationell offentlig rätt"
+    ],
+    "it": [
+      "Classificare qui il diritto internazionale pubblico"
+    ],
+    "en": [
+      "Class here international law, public international law"
+    ],
+    "no": [
+      "Her: Internasjonal rett, internasjonal offentlig rett"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36rFpd6j6FkYh8qHHHBTmJbm4",
+  "prefLabel": {
+    "it": "Diritto delle nazioni (Diritto internazionale)",
+    "no": "Folkerett",
+    "sv": "Folkrätt",
+    "en": "Law of nations",
+    "fr": "Droit des nations",
+    "de": "Völkerrecht"
+  },
+  "notation": "341",
+  "modified": "2025-01-14T08:50:29Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

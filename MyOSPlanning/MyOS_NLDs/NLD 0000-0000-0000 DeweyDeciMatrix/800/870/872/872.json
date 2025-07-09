@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BPjPdTvxmdVHPtr8rQgyBHQV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Poesia drammatica e letteratura drammatica latina",
+    "fr": "Poésie dramatique et œuvres dramatiques latines",
+    "no": "Latinsk dramatisk poesi og drama",
+    "en": "Latin dramatic poetry and drama",
+    "de": "Lateinische dramatische Versdichtung und Dramen",
+    "sv": "Latinsk dramatisk poesi och dramatik"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "created": "1996-06-01",
+  "modified": "2021-08-17T10:12:54Z",
+  "type": "Concept",
+  "notation": "872",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

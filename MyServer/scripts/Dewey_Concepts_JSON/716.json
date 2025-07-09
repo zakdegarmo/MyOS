@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y4D9bfYBBjB7YgBYFbHgBxWk",
+  "prefLabel": {
+    "it": "Piante erbacee nell'architettura del paesaggio",
+    "sv": "Örtväxter i landskapsarkitektur",
+    "no": "Urteplanter (urteaktige planter) i landskapsarkitektur",
+    "en": "Herbaceous plants in landscape architecture",
+    "de": "Krautige Pflanzen als Gestaltungselemente",
+    "fr": "Plantes herbacées dans l’architecture du paysage"
+  },
+  "scopeNote": {
+    "it": [
+      "Coltivate per i loro fiori o per altre caratteristiche",
+      "Classificare qui le opere d'insieme sulle piante coltivate per i loro fiori nell'architettura del paesaggio",
+      "Include il tappeto vegetale"
+    ],
+    "no": [
+      "Inkluderer: Bunndekke",
+      "Her: Oversiktsverker om planter i landskapsarkitektur som dyrkes på grunn av sine blomster",
+      "Dyrket for sine blomster eller av andre grunner"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om växter odlade för sina blommors skull, i landskapsarkitektur",
+      "Omfattar markvegetation",
+      "Odlade för sina blommors, och andra egenskapers, skull"
+    ],
+    "en": [
+      "Cultivated for flowers or for other attributes",
+      "Including ground cover",
+      "Class here comprehensive works on plants cultivated for their flowers in landscape architecture"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Pflanzen, die wegen ihrer Blüten für die Landschaftsgestaltung angepflanzt werden",
+      "Einschließlich: Bodenvegetation",
+      "Angepflanzt wegen ihrer Blüten oder anderer Eigenschaften"
+    ],
+    "fr": [
+      "Plantes cultivées pour leurs fleurs ou pour d’autres caractéristiques",
+      "Y compris les plantes couvre-sol",
+      "Classer ici les ouvrages généraux sur le rôle des plantes à fleurs dans l’architecture du paysage"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "716",
+  "modified": "2023-12-13T14:19:49Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

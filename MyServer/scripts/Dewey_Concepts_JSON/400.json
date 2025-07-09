@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bfHYJDp8Xd4Cqcg8mbVmCdw9",
+  "prefLabel": {
+    "de": "Sprache",
+    "en": "Language",
+    "sv": "Språk",
+    "it": "Linguaggio",
+    "no": "Språk",
+    "fr": "Langues"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Tverrfaglige verker om filologi (språk og litteratur)"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om språk och litteratur"
+    ],
+    "en": [
+      "Class here interdisciplinary works on language and literature"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Sprache und Literatur"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari su lingua e letteratura"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur les langues et la littérature"
+    ]
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "modified": "2024-11-19T03:04:41Z",
+  "notation": "400",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cXh8TvwRxgXQdhTBcbGjypyD",
+  "prefLabel": {
+    "en": "Human physiology",
+    "fr": "Physiologie humaine",
+    "it": "Fisiologia umana",
+    "de": "Humanphysiologie",
+    "no": "Menneskets fysiologi",
+    "sv": "Människans fysiologi"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Oversiktsverker om menneskets anatomi og fysiologi"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über menschliche Anatomie und Humanphysiologie"
+    ],
+    "en": [
+      "Class here comprehensive works on human anatomy and physiology"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om människans anatomi och fysiologi"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur l’anatomie et la physiologie humaines"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su anatomia e fisiologia"
+    ]
+  },
+  "notation": "612",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "modified": "2022-12-15T13:04:11Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

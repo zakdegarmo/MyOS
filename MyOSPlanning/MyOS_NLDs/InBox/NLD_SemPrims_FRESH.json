@@ -1,0 +1,39 @@
+{
+  "NLD_ID": "NLD_SEMANTIC_PRIMITIVES_V7_0_CANONICAL_ULTRA_CLEAN",
+  "Date_Created": "2025-06-03",
+  "Author_NLD_Ref": "Zak_ArchitectPrimus & Mystra_ConceptualArtificer (via Gemini)",
+  "Version": "7.0.6_Canon_Build_For_Parsing_Purity",
+  "Purpose_NLD": "To define foundational semantic primitives with guaranteed JSON syntax and Actuality Axis structure for AXIS_MAP:10 initialization.",
+  "Core_Sub_Binary_Primitives": {
+    "Section_Title": "1. Core Sub-Binary Primitives",
+    "1.1_SELF_CONCEPT": {
+      "DEFINE_NLD_SUB_PRIMITIVE": { "PRIMITIVE_NAME": "SELF_CONCEPT" },
+      "Details": "S=0 (Undefined/Potential_Self), S=1 (Defined/Actualized_Self)"
+    },
+    "1.2_EXIST_PROPERTY": {
+      "DEFINE_NLD_SUB_PRIMITIVE": { "PRIMITIVE_NAME": "EXIST_PROPERTY" },
+      "Details": "E=0 (Not-Actualized/Potential_Existence), E=1 (Actualized/Manifest_Existence)"
+    },
+    "1.3_ACTUALITY_AXIS": {
+      "DEFINE_NLD_SUB_PRIMITIVE": { "PRIMITIVE_NAME": "ACTUALITY_AXIS" },
+      "DESCRIPTION_NLD": "Represents the spectrum of an NLD entity's or state's realization from pure potential to concrete actuality.",
+      "PRIMARY_STATES_NLD_Enum_List": [
+        {"STATE_NLD": {"NAME": "ACTUALITY_NULL", "VALUE_CONCEPT_NLD": "Non_Applicable_Or_Confirmed_Non_Existent_Beyond_Potential", "SYMBOLIC_VALUE_NLD_Optional": "A=0"}},
+        {"STATE_NLD": {"NAME": "ACTUALITY_POTENTIAL_LOW_PROBABILITY", "VALUE_CONCEPT_NLD": "Exists_Only_As_A_Remote_Possibility_Or_Speculation", "SYMBOLIC_VALUE_NLD_Optional": "A=0.25"}},
+        {"STATE_NLD": {"NAME": "ACTUALITY_POTENTIAL_PLAUSIBLE", "VALUE_CONCEPT_NLD": "Exists_As_A_Plausible_Potential_Or_Uncertain_State_Schroedingers_Limbo", "SYMBOLIC_VALUE_NLD_Optional": "A=0.5"}},
+        {"STATE_NLD": {"NAME": "ACTUALITY_POTENTIAL_HIGH_PROBABILITY", "VALUE_CONCEPT_NLD": "Exists_As_A_Strong_Potential_Likely_To_Actualize_Or_Currently_Actualizing", "SYMBOLIC_VALUE_NLD_Optional": "A=0.75"}},
+        {"STATE_NLD": {"NAME": "ACTUALITY_CONCRETE_ACTUALIZED", "VALUE_CONCEPT_NLD": "Fully_Actualized_Manifested_And_Observed_As_Concrete_With_High_Certainty", "SYMBOLIC_VALUE_NLD_Optional": "A=1"}}
+      ],
+      "NOTES_NLD": "This axis transforms S/E states into a richer spectrum. The 5 primary states (each with NAME and SYMBOLIC_VALUE) create 10 addressable entries for the ACTUALITY_AXIS_MAP."
+    }
+  },
+  "PRIMITIVE_NEXT": {
+    "Section_Title": "3. NLD Primitive: State of Process / Transition / Query (PRIMITIVE_NEXT)",
+    "DESCRIPTION_NLD": "Represents NLD-defined operations that query, define, or cause transitions between S/E/A states.",
+    "Core_Transformations_NLD_List": [
+      { "DEFINE_NLD_PROCESS_TRANSFORMATION": { "TRANSFORMATION_ID": "MODAL_CAN_THEN_PROBABILISTIC", "DESCRIPTION_NLD": "Evaluates possibility AND probability/certainty of transitioning." } },
+      { "DEFINE_NLD_PROCESS_TRANSFORMATION": { "TRANSFORMATION_ID": "MODAL_SHOULD_THEN_RISK_ADJUSTED", "DESCRIPTION_NLD": "Evaluates desirability/obligation, factoring in Promethean Caution." } }
+    ]
+  },
+  "END_OF_NLD_DOCUMENT": true
+}

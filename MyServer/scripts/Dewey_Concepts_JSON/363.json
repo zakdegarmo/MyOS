@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Q7tMBY8j6y6DCRb9mJTckD6X",
+  "prefLabel": {
+    "de": "Andere soziale Probleme und Sozialdienste",
+    "fr": "Autres problèmes et services sociaux",
+    "sv": "Övriga samhällsproblem och samhällstjänster (sociala tjänster)",
+    "it": "Altri problemi e servizi sociali",
+    "en": "Other social problems and services",
+    "no": "Andre sosiale problemer og sosiale tjenester"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: öffentliches Bauwesen"
+    ],
+    "en": [
+      "Class here public works"
+    ],
+    "fr": [
+      "Classer ici les travaux publics"
+    ],
+    "sv": [
+      "Klassificera här offentlig infrastruktur"
+    ],
+    "it": [
+      "Classificare qui i lavori pubblici"
+    ],
+    "no": [
+      "Her: Offentlige arbeider"
+    ]
+  },
+  "created": "1998-10-21",
+  "notation": "363",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fkCGPxtXFkrqkW93G68fC8xT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-02-26T13:27:10Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

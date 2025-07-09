@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wJHWBVwm8V7Gdyyw7pvF7cJB",
+  "modified": "2019-04-17T18:43:46Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Economics of labor, finance, land, energy",
+    "fr": "Économie du travail, financière, de la terre, de l’énergie",
+    "de": "Arbeitsökonomie, Finanzwirtschaft, Bodenwirtschaft, Energiewirtschaft",
+    "sv": "Arbetsmarknadsekonomi, finansiell ekonomi, mark, energi",
+    "it": "Economia del lavoro, della finanza, della terra, dell'energia",
+    "no": "Arbeidsøkonomi, finansøkonomi, forvaltning av landområder og energi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "notation": "331-333",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3fCKDyKcfRGX7KF9yJ4hwhPjb",
+    "https://id.oclc.org/worldcat/ddc/E3tvpBQ6HmjD3BqMVtMCCQQghP",
+    "https://id.oclc.org/worldcat/ddc/E3tq8mRfWXvWHQm67MXvY9vmkp"
+  ],
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bJFf99myY8mrYcCDtRhKfBxb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "201",
+  "prefLabel": {
+    "it": "Mitologia religiosa, tipi generali di religione, relazioni e atteggiamenti delle religioni, teologia sociale",
+    "sv": "Religiös mytologi, allmänna klasser för religion, interreligiösa relationer och attityder, socialteologi",
+    "fr": "Mythologie religieuse, grandes catégories de religions, relations et attitudes interreligieuses, théologie sociale",
+    "de": "Religiöse Mythologie, Einteilungen der Religion, interreligiöse Beziehungen und Einstellungen, Soziallehre",
+    "en": "Religious mythology, general classes of religion, interreligious relations and attitudes, social theology",
+    "no": "Religiøs mytologi, generelle klasser innen religion, interreligiøse forhold og holdninger, sosialteologi"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "type": "Concept",
+  "modified": "2023-06-02T10:13:35Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

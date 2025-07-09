@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TtHW3g4kbJkTdGBmmcxfCKgG",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "prefLabel": {
+    "it": "Narrativa tedesca",
+    "sv": "Tyska romaner och noveller",
+    "en": "German fiction",
+    "no": "Tysk fiksjon",
+    "de": "Deutsche Erzählprosa",
+    "fr": "Fiction allemande"
+  },
+  "modified": "2023-05-30T09:22:57Z",
+  "type": "Concept",
+  "notation": "833",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

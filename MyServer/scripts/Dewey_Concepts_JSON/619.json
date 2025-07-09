@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dRWtyg7GcyTG9JfD9tkX6Dx4",
+  "modified": "2022-08-11T08:49:10Z",
+  "prefLabel": {
+    "de": "[Unbesetzt]",
+    "fr": "[Vacant]",
+    "en": "[Unassigned]",
+    "sv": "[Vakant]",
+    "it": "[Non assegnato]",
+    "no": "[Ubenyttet]"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "created": "2000-02-02",
+  "notation": "619",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

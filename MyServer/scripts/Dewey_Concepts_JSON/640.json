@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38P9K8b9Tx3yGcMPCVpBqkdmd",
+  "type": "Concept",
+  "modified": "2025-01-27T21:27:11Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Gestion du foyer et de la vie familiale",
+    "en": "Home and family management",
+    "no": "Husholdning og familieliv",
+    "it": "Gestione della casa e della famiglia",
+    "sv": "Hemkunskap och familjekunskap",
+    "de": "Hauswirtschaft und Familie"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Haushaltsmanagement"
+    ],
+    "it": [
+      "Classificare qui l'economia domestica, la gestione della casa"
+    ],
+    "no": [
+      "Her: Hjem og privatliv, husholdningsfag"
+    ],
+    "fr": [
+      "Classer ici l'économie domestique, la gestion domestique"
+    ],
+    "sv": [
+      "Klassificera här hushållskunskap, hushållsskötsel"
+    ],
+    "en": [
+      "Class here home economics, household management"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "640",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

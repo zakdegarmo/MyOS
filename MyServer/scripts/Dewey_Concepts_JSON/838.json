@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xXvbGj8Mb6gPDVhDgdb7vwYM",
+  "notation": "838",
+  "prefLabel": {
+    "sv": "Diverse tyska texter",
+    "de": "Deutsche vermischte Schriften",
+    "en": "German miscellaneous writings",
+    "it": "Miscellanea tedesca",
+    "no": "Tyske diverse skrifter",
+    "fr": "Écrits divers allemands"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "created": "1996-06-01",
+  "modified": "2023-01-23T21:26:26Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

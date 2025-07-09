@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39tvjWrRFCKCMWfbVPtFwwG3x",
+  "modified": "2021-12-27T20:44:43Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "notation": "841",
+  "prefLabel": {
+    "no": "Fransk poesi",
+    "de": "Französische Versdichtung",
+    "fr": "Poésie française",
+    "sv": "Fransk poesi",
+    "en": "French poetry",
+    "it": "Poesia francese"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

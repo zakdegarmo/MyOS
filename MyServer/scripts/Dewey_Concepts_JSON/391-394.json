@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3BTwRyBGCyg3FmCVQgDH4dTVx",
+    "https://id.oclc.org/worldcat/ddc/E3Gd9HhBCvWFJG4y4JR8rhrXvP",
+    "https://id.oclc.org/worldcat/ddc/E3cWXqyWwdKphPhxkWFcxKY988",
+    "https://id.oclc.org/worldcat/ddc/E3ggyCQRXj4hJf6RwMRqMTtjhM"
+  ],
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Skikker",
+    "fr": "Coutumes",
+    "en": "Customs",
+    "it": "Usi e costumi",
+    "sv": "Seder",
+    "de": "Bräuche"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+  "notation": "391-394",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

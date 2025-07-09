@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "prefLabel": {
+    "no": "Generell forminndeling av kunst og kunsthåndverk",
+    "en": "Standard subdivisions of fine and decorative arts",
+    "it": "Suddivisioni standard delle belle arti e arti decorative",
+    "de": "Standardschlüssel für bildende und angewandte Kunst",
+    "fr": "Subdivisions communes pour les beaux-arts et les arts décoratifs",
+    "sv": "Standardindelningar för konst och konsthantverk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C4q6fDpdVfBVkwqPcmgJ8Y6G",
+  "scopeNote": {
+    "it": [
+      "Esclusa la storia, la geografia, la biografia"
+    ],
+    "en": [
+      "Other than history, geographic treatment, biography"
+    ],
+    "de": [
+      "Andere als Geschichte, geografische Behandlung, Biografien"
+    ],
+    "sv": [
+      "Andra än historia, geografisk aspekt, biografi"
+    ],
+    "fr": [
+      "Autres que l'histoire, l'étude géographique, la biographie"
+    ],
+    "no": [
+      "Unntatt historie, geografisk behandling, biografier"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3CGjy6VpYJdQRBQ8hMXJHRXQG",
+    "https://id.oclc.org/worldcat/ddc/E3wPwJyXJcWBkKdxYWTDHcCKjJ",
+    "https://id.oclc.org/worldcat/ddc/E3MThPbGrKyB6vYPwQqXFc6yKQ",
+    "https://id.oclc.org/worldcat/ddc/E3g6TYhHBJvdWrDWMTGrv6hvRW",
+    "https://id.oclc.org/worldcat/ddc/E3Mjv4BbGhThFgVbmG9399tqhY",
+    "https://id.oclc.org/worldcat/ddc/E44F8t464pTgKVXYW69fKqdWCf",
+    "https://id.oclc.org/worldcat/ddc/E3mKV9JPQTf7WTV6yjkr4rJPQx",
+    "https://id.oclc.org/worldcat/ddc/E3dXjGxrrXqmgvq6wJrjj37dtF"
+  ],
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "701-708",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

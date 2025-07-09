@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33yPCX4VTFFTxdD34KyQBY4gj",
+  "modified": "2025-03-13T01:14:18Z",
+  "prefLabel": {
+    "en": "Biochemistry",
+    "no": "Biokjemi",
+    "fr": "Biochimie",
+    "de": "Biochemie",
+    "it": "Biochimica",
+    "sv": "Biokemi"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här cytokemi, histokemi; övergripande verk om biokemi i icke-metalliska element och deras föreningar; övergripande verk om biokemi och biofysik; tvärvetenskapliga verk om biokemikalier, om makromolekyler"
+    ],
+    "fr": [
+      "Classer ici la cytochimie, l’histochimie ; les ouvrages généraux sur la biochimie des éléments non métalliques et leurs composés ; les ouvrages généraux sur la biochimie et la biophysique ; les ouvrages interdisciplinaires sur les biomolécules, sur les macromolécules"
+    ],
+    "no": [
+      "Her: Cytokjemi, histokjemi; oversiktsverker om biokjemi som gjelder ikke-metalliske grunnstoffer og deres forbindelser; oversiktsverker om biokjemi og biofysikk; tverrfaglige verker om biokjemikalier, tverrfaglige verker om makromolekyler"
+    ],
+    "it": [
+      "Classificare qui la citochimica, l'istochimica; le opere d'insieme sulla biochimica degli elementi non metallici e loro composti; le opere d'insieme su biochimica e biofisica; le opere interdisciplinari sulle sostanze biochimiche, sulle macromolecole"
+    ],
+    "en": [
+      "Class here cytochemistry, histochemistry; comprehensive works on biochemistry of nonmetallic elements and their compounds; comprehensive works on biochemistry and biophysics; interdisciplinary works on biochemicals, on macromolecules"
+    ],
+    "de": [
+      "Hier auch: Zytochemie, Histochemie; umfassende Werke über Biochemie nichtmetallischer Elemente und deren Verbindungen; umfassende Werke über Biochemie und Biophysik; fächerübergreifende Werke über Biochemikalien, über Makromoleküle"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gv7kffMFqVpmt8jtJpVghvjX",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "572",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

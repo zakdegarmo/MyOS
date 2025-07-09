@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gqMXJ9VrXQFCyrTppdCP6D9P",
+  "modified": "2017-12-16T20:54:34Z",
+  "scopeNote": {
+    "no": [
+      "Her: Generelle organisasjoner i England"
+    ],
+    "sv": [
+      "Klassificera här allmänna organistioner i England"
+    ],
+    "en": [
+      "Class here general organizations in England"
+    ],
+    "it": [
+      "Classificare qui le Organizzazioni generali in Inghilterra"
+    ],
+    "de": [
+      "Hier auch: allgemeine Organisationen in England"
+    ],
+    "fr": [
+      "Classer ici les organisations générales en Angleterre"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Organisations générales dans les îles Britanniques    ",
+    "en": "General organizations in British Isles",
+    "de": "Allgemeine Organisationen auf den Britischen Inseln",
+    "it": "Organizzazioni generali nelle Isole Britanniche",
+    "no": "Generelle organisasjoner på De britiske øyer",
+    "sv": "Allmänna organisationer på Brittiska öarna   "
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "062",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

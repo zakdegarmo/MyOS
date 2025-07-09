@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44KhdGJ86chhHmTYyHxFQT7Vq",
+  "prefLabel": {
+    "de": "Afrikanische Literaturen",
+    "sv": "Afrikanska litteraturer",
+    "no": "Afrikanske språks litteraturer",
+    "fr": "Littératures africaines",
+    "it": "Letterature africane",
+    "en": "African literatures"
+  },
+  "notation": "896",
+  "created": "1998-11-12",
+  "modified": "2022-03-07T13:22:14Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

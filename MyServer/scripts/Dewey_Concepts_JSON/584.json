@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ygwBv74GvCW6Bxdvk4yFCYkh",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Monocotylédones, Angiospermes basales, Chloranthales, Magnoliidées",
+    "en": "Monocots, basal angiosperms, Chloranthales, magnoliids",
+    "de": "Liliopsida (Einkeimblättrige)",
+    "sv": "Enhjärtbladiga växter, basala angiospermer, chloranthales, magnoliider",
+    "it": "Monocotiledoni, angiosperme basali, Chloranthales, Magnoliidae",
+    "no": "Monocots, basale angiospermer, Chloranthales, magnoliids"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QwMcCgcKy7hcPWJJkyx6YfdF",
+  "notation": "584",
+  "modified": "2024-09-27T17:22:55Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

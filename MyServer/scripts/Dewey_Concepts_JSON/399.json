@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dg9bw9P74KqM8xw7Mw7cPt9P",
+  "notation": "399",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Coutumes de la guerre et de la diplomatie",
+    "de": "Bräuche des Kriegs und der Diplomatie",
+    "it": "Usi e costumi della guerra e della diplomazia",
+    "en": "Customs of war and diplomacy",
+    "no": "Skikker knyttet til krig og diplomati",
+    "sv": "Seder gällande krig och diplomati"
+  },
+  "created": "1996-06-01",
+  "modified": "2023-06-09T00:50:42Z",
+  "scopeNote": {
+    "it": [
+      "Include le danze, il calumet della pace"
+    ],
+    "fr": [
+      "Y compris les danses, le calumet de la paix"
+    ],
+    "no": [
+      "Inkluderer: Krigsdanser, fredspiper"
+    ],
+    "sv": [
+      "Omfattar danser, fredspipa"
+    ],
+    "de": [
+      "Einschließlich: Tänze, Friedenspfeife"
+    ],
+    "en": [
+      "Including dances, peace pipe"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

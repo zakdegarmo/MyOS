@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3y9Bjdhmt48QTv8VYY3vyjCKx",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44TH3jMWWYyXdKMqhPkjhVR4F",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Processi della comunicazione scritta",
+    "de": "Techniken der schriftlichen Kommunikation",
+    "en": "Processes of written communication",
+    "no": "Arbeidsoperasjoner knyttet til skriftlig kommunikasjon",
+    "fr": "Techniques de la communication écrite",
+    "sv": "Skriftlig kommunikation"
+  },
+  "modified": "2023-02-06T16:10:27Z",
+  "notation": "652",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

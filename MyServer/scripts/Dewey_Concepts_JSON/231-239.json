@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36DrXFp89KdrchdbVqVdBVktP",
+  "prefLabel": {
+    "sv": "Kristen doktrinär teologi",
+    "de": "Christliche Dogmatik",
+    "no": "Kristen dogmatikk",
+    "fr": "Théologie dogmatique (doctrinale) chrétienne",
+    "en": "Christian doctrinal theology",
+    "it": "Teologia dogmatica cristiana"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici l'antagonisme et le rapprochement des points de vue entre une doctrine chrétienne particulière et une discipline profane"
+    ],
+    "sv": [
+      "Klassificera här antagonism mellan och förlikning mellan en särskild kristen doktrin och en sekulär disciplin"
+    ],
+    "no": [
+      "Her: Motsetningsforhold og overensstemmelse mellom et bestemt kristent dogme og en sekulær disiplin"
+    ],
+    "en": [
+      "Class here antagonism between and reconciliation of a specific Christian doctrine and a secular discipline"
+    ],
+    "de": [
+      "Hier auch: Gegensatz zwischen einer einzelnen christlichen Lehre und einem weltlichen Fachgebiet sowie ihre Übereinstimmung"
+    ],
+    "it": [
+      "Classificare qui l'antagonismo e la conciliazione tra una specifica dottrina cristiana e una disciplina secolare"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3GmCmjThVqpXxdt3rymxkyJ6M",
+    "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+    "https://id.oclc.org/worldcat/ddc/E3kxb7JXXcCw8fbJYBBC8XfJmd",
+    "https://id.oclc.org/worldcat/ddc/E3mWmHQycY3Fyhr9DDyG4Gym83"
+  ],
+  "modified": "2020-04-06T12:30:58Z",
+  "notation": "231-239",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4hpMp9H9pyTxD9Tdq7XRcWx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hW6bDbcJDJ3kPYDKkb6RQPJ8",
+  "prefLabel": {
+    "de": "Ausbau",
+    "no": "Annet bygningsarbeid (sluttarbeid)",
+    "sv": "Ytskikt",
+    "en": "Detail finishing",
+    "fr": "Finition",
+    "it": "Finiture"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "scopeNote": {
+    "fr": [
+      "Y compris le parement, le revêtement extérieur, les plafonds suspendus"
+    ],
+    "it": [
+      "Include i controsoffitti, gli elementi a vista, la placcatura"
+    ],
+    "de": [
+      "Einschließlich: Auskleidung, Wandverkleidung, abgehängte Decken"
+    ],
+    "en": [
+      "Including cladding, siding, suspended ceilings"
+    ],
+    "sv": [
+      "Omfattar fasadbeklädnad, ytterbeklädnad, hängande undertak"
+    ],
+    "no": [
+      "Inkluderer: Fasadekledning, hengetak"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "698",
+  "modified": "2024-09-12T09:51:58Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

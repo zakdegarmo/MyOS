@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rqjbqVFrrqdYQFtkxCHHwjrm",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Publications en série",
+    "no": "Periodika",
+    "en": "Serial publications",
+    "de": "Fortlaufende Sammelwerke",
+    "sv": "Seriella resurser",
+    "it": "Seriali"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "505",
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "modified": "2019-02-13T12:50:06Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

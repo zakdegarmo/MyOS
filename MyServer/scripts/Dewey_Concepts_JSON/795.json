@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XJDrJWq3fHYxH8GGRBQHqtxq",
+  "scopeNote": {
+    "en": [
+      "Class here gambling"
+    ],
+    "sv": [
+      "Klassificera här spel om pengar"
+    ],
+    "de": [
+      "Hier auch: Glücksspiel"
+    ],
+    "no": [
+      "Her: Gambling"
+    ],
+    "it": [
+      "Classificare qui le scommesse"
+    ],
+    "fr": [
+      "Classer ici les jeux d’argent"
+    ]
+  },
+  "prefLabel": {
+    "en": "Games of chance",
+    "it": "Giochi d'azzardo",
+    "sv": "Hasardspel",
+    "fr": "Jeux de hasard",
+    "no": "Hasardspill",
+    "de": "Glücksspiele"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "notation": "795",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-10-03T12:01:55Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

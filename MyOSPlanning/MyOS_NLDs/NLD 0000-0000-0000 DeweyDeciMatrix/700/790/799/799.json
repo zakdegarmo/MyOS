@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dpyJYfvvGj3C3hQ3RRGR3fB7",
+  "modified": "2024-09-03T06:13:33Z",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Fishing, hunting, shooting",
+    "it": "Pesca, caccia, tiro",
+    "sv": "Fiske, jakt, skytte",
+    "fr": "Pêche, chasse, tir",
+    "no": "Fiske, jakt, skyttersport",
+    "de": "Fischfang, Jagd, Schießen"
+  },
+  "notation": "799",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

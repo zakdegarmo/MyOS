@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K4hpMp9H9pyTxD9Tdq7XRcWx",
+  "prefLabel": {
+    "de": "Christentum",
+    "en": "Christianity",
+    "fr": "Christianisme",
+    "no": "Kristendom",
+    "it": "Cristianesimo",
+    "sv": "Kristendom"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E36DrXFp89KdrchdbVqVdBVktP",
+    "https://id.oclc.org/worldcat/ddc/E4cy9rbCDXtwRTx8QB47JkmBjP"
+  ],
+  "created": "1996-06-01",
+  "modified": "2024-09-04T19:30:28Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hdq4y9PrPK8tJrjXgkWcXRCt",
+  "notation": "23",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

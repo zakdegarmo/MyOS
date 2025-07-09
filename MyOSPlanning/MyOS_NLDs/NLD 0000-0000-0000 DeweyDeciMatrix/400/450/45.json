@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46wTjwgGKW9YfcXGDydJvfbcR",
+  "notation": "45",
+  "prefLabel": {
+    "it": "Italiano, romeno e lingue affini",
+    "sv": "Italienska, rumänska & besläktade språk",
+    "en": "Italian, Romanian & related languages",
+    "no": "Italiensk, rumensk og beslektede språk",
+    "de": "Italienisch, Rumänisch & verwandte Sprachen",
+    "fr": "Italien, roumain et langues connexes"
+  },
+  "type": "Concept",
+  "modified": "2021-04-19T12:38:05Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+    "https://id.oclc.org/worldcat/ddc/E3TQyRxWxVCRjjcCCp4P3FtfKT",
+    "https://id.oclc.org/worldcat/ddc/E33YWJwvRB3CHHJT4GpwYfBMdX"
+  ],
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

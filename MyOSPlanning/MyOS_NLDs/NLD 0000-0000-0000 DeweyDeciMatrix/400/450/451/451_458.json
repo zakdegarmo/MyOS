@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+  "prefLabel": {
+    "sv": "Indelningar av italienska",
+    "en": "Subdivisions of Italian",
+    "no": "Inndeling av italiensk",
+    "fr": "Subdivisions pour l'italien",
+    "de": "Unterklassen von Italienisch",
+    "it": "Suddivisioni dell'italiano"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E48BcYpgmkmPrqwFRhGg7BG4pC",
+    "https://id.oclc.org/worldcat/ddc/E3qhYWKWdW98TFDVmq8MgM37Wf",
+    "https://id.oclc.org/worldcat/ddc/E3GdMfWYbxWPbVhcMvY43r7gGq",
+    "https://id.oclc.org/worldcat/ddc/E36rQrYbFYmcT78bFJtTxdM7j4",
+    "https://id.oclc.org/worldcat/ddc/E46vR89rdRkBYwKFJYGkmGvKQf",
+    "https://id.oclc.org/worldcat/ddc/E3B3ggbvdK4J9qXjCkCYdTdjKM",
+    "https://id.oclc.org/worldcat/ddc/E4bRbMrG9bDvtXC4HPGXyF87YC",
+    "https://id.oclc.org/worldcat/ddc/E39v7wYxvym879qXtQVX3WMrFK"
+  ],
+  "notation": "451-458",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-05-07T10:48:34Z",
+  "created": "2010-02-04",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46wTjwgGKW9YfcXGDydJvfbcR",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

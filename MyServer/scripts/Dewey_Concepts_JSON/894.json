@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VYD43mHyxy4gBCtqXW4Q9XjW",
+  "notation": "894",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Litteraturer på altaiska, uraliska, paleoasiatiska (hyperboreiska), dravidiska språk; litteraturer på övriga sydasiatiska språk",
+    "de": "Literaturen altaischer, uralischer, paläosibirischer, drawidischer Sprachen; Literaturen verschiedener Sprachen Südasiens",
+    "en": "Literatures of Altaic, Uralic, Hyperborean, Dravidian languages; literatures of miscellaneous languages of south Asia",
+    "fr": "Littératures des langues altaïques, ouraliennes, hyperboréennes, dravidiennes ; littératures des diverses langues de l'Asie du Sud",
+    "no": "Altaiske, uralske, hyperboreiske, dravidiske språks litteraturer; diverse sørasiatiske språks litteraturer",
+    "it": "Letterature altaiche, letterature uraliche, letterature siberiane e artiche, letterature dravidiche; letterature di lingue varie dell'Asia Sud-orientale"
+  },
+  "created": "1996-06-01",
+  "modified": "2025-02-10T21:54:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

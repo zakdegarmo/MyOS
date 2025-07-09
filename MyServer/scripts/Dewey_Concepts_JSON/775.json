@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CrmKqcVvyWDJr7kPXcB67fWR",
+  "modified": "2022-02-11T12:44:41Z",
+  "prefLabel": {
+    "sv": "[Vakant]",
+    "no": "Ubenyttet",
+    "it": "[Non assegnato]",
+    "fr": "[Vacant]",
+    "en": "[Unassigned]",
+    "de": "Digitale Fotografie"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "notation": "775",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

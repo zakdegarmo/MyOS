@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47BQr8jCfWhJB4Q3C6GrPyfH8",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Public performances",
+    "fr": "Représentations publiques",
+    "sv": "Publika framträdanden",
+    "it": "Spettacoli pubblici",
+    "de": "Öffentliche Darbietungen",
+    "no": "Offentlige opptredener"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Darbietungen auf Jahrmärkten",
+      "Andere als sportliche und spielerische Darbietungen"
+    ],
+    "no": [
+      "Her: Folkeforlystelser på markeder",
+      "Andre enn opptredener innen sport og spill"
+    ],
+    "fr": [
+      "Classer ici les spectacles de fêtes foraines",
+      "Autres que les spectacles de sports et de jeux"
+    ],
+    "en": [
+      "Class here performances at fairs",
+      "Other than sport and game performances"
+    ],
+    "sv": [
+      "Klassificera här marknadsunderhållning",
+      "Utom framträdanden inom idrott och spel"
+    ],
+    "it": [
+      "Esclusi gli sport e i giochi",
+      "Classificare qui gli spettacoli nelle fiere"
+    ]
+  },
+  "notation": "791",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "modified": "2023-09-01T13:19:46Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

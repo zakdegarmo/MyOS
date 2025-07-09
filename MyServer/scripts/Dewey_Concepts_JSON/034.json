@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3d6yKqckYyt83pyQcr7DMWWRX",
+  "prefLabel": {
+    "en": "General encyclopedic works in French, Occitan, Catalan",
+    "no": "Generelle leksikalske verker på fransk, oksitansk, katalansk",
+    "de": "Allgemeinenzyklopädien in Französisch, Okzitanisch, Katalanisch",
+    "sv": "Allmänna uppslagsverk på franska, occitanska, katalanska",
+    "it": "Opere enciclopediche generali in francese, occitanico, catalano",
+    "fr": "Encyclopédies générales en français, en occitan, en catalan"
+  },
+  "created": "1996-06-01",
+  "modified": "2021-03-01T15:08:05Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "034",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

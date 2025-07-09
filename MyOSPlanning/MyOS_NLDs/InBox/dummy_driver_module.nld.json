@@ -1,0 +1,26 @@
+{
+  "NLD_ID": "NLD_GENERIC_TEXT_BLOCK_7582370590611378716",
+  "Directive_Type": "NLD_PROCESS_DATA",
+  "Target_Context": "Document_Fragment",
+  "Parameters": {
+    "content_summary": "#include <linux/module.h>",
+    "original_content_hash": 7582370590611378716
+  },
+  "Micro_Actions": [
+    "ANALYZE_SEMANTICALLY_FOR_IMPLICIT_NLD"
+  ],
+  "Expected_Outcome": "#include <linux/module.h>",
+  "Source_File": "dummy_driver_module.c",
+  "Weave_Signature": "AUTO-SCRIBE-GENERIC-dummy_driver_module.c-20250616-093921",
+  "_debug_warnings": [
+    "No C function signature found; NLDified as generic text block."
+  ],
+  "_debug_status": {
+    "status": "VALID",
+    "messages": [
+      "Source Warning: No C function signature found; NLDified as generic text block."
+    ]
+  },
+  "Source_Original_Path": "C:\\Users\\zakde\\Desktop\\MystraWeave_V2\\linux\\AwesomeCompiler\\cloned_compilers\\temp_linux_docs_for_nld_test\\dummy_driver_module.c",
+  "New_NLD_Path": "C:\\Users\\zakde\\Desktop\\MystraWeave_V2\\linux\\AwesomeCompiler\\cloned_compilers\\temp_linux_docs_for_nld_test\\dummy_driver_module.nld.json"
+}

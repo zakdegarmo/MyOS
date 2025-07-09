@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3X8hwfXrx4PvMM4MXc4FWdFvm",
+  "prefLabel": {
+    "no": "Historie vedrørende Australasia, stillehavsøyene, atlanterhavsøyene, arktiske øyer, Antarktis, himmellegemer utenfor jorda",
+    "de": "Geschichte Australasiens, der Inseln des Pazifischen Ozeans, des Atlantischen Ozeans, des Arktischen Ozeans, der Antarktis, außerirdischer Welten",
+    "sv": "Historia gällande Australasien, öar i Stilla havet, öar i Atlanten, öar i Arktis, Antarktis, utomjordiska världar",
+    "fr": "Histoire de l'Australasie, des îles du Pacifique, des îles de l'Atlantique, des îles de l'Arctique, de l'Antarctique, des mondes extraterrestres",
+    "it": "Storia dell'Australasia, delle isole del Pacifico, delle isole dell'Atlantico, delle isole dell'Artico, dell'Antartico, dei mondi extraterrestri",
+    "en": "History of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds"
+  },
+  "notation": "990",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2023-07-14T11:47:27Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

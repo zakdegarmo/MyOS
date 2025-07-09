@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49f4QtXWkftgR6tFKxdKyb6V8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Problèmes et services sociaux",
+    "it": "Problemi e servizi sociali",
+    "de": "Soziale Probleme und Sozialhilfe",
+    "sv": "Sociala problem och sociala tjänster",
+    "no": "Sosiale problemer og tjenester",
+    "en": "Social problems and services"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'assistenza sociale; l'opera e gli indirizzi delle agenzie dell'amministrazione pubblica che applicano la legge in materia di problemi e servizi sociali; le opere interdisciplinari su pianificazione e sviluppo socioeconomico, su programmi e servizi comprendenti vari rami delle scienze sociali, su problemi e servizi sociali"
+    ],
+    "en": [
+      "Class here social welfare; work and policy of government agencies that enforce the law in matters of social problems and services; interdisciplinary works on socioeconomic planning and development, on programs and services covering several branches of social sciences, on social problems and services"
+    ],
+    "no": [
+      "Her: Sosial velferd; arbeid og politikk i offentlige etater som håndhever lover og regler knyttet til sosiale problemer og tjenester; tverrfaglige verker om sosioøkonomisk planlegging og utvikling, om tiltak og tjenester som omfatter flere ulike deler av samfunnsvitenskapen, om sosiale problemer og tjenester"
+    ],
+    "sv": [
+      "Klassificera här social välfärd, arbete och politik för att lagar ska följas i frågor om sociala problem och tjänster, tvärvetenskapliga verk om socioekonomisk planering och utveckling, om program och tjänster som omfattar flera grenar av samhällsvetenskaperna, om sociala problem och tjänster"
+    ],
+    "fr": [
+      "Classer ici l'aide sociale ; le travail et la politique des organismes gouvernementaux chargés de l’application des lois en matière de problèmes et services sociaux ; les ouvrages interdisciplinaires sur la planification et le développement socio-économiques, sur les programmes et les services englobant plusieurs domaines des sciences sociales, sur les problèmes et services sociaux"
+    ],
+    "de": [
+      "Hier auch: Sozialhilfe; Arbeit und Politik von Regierungsbehörden zur Durchsetzung des Rechts in Bezug auf soziale Probleme und Sozialdienste; fächerübergreifende Werke über sozioökonomische Planung und Entwicklung, über Programme und Dienste, die mehrere Zweige der Sozialwissenschaften umfassen, über soziale Probleme und Sozialdienste"
+    ]
+  },
+  "modified": "2025-06-11T10:46:25Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "notation": "361",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

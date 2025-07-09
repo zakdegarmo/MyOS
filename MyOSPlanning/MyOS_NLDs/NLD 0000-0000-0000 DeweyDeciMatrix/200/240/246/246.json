@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Vm87MrdJ9qcWXQrkgf9KgWRP",
+  "prefLabel": {
+    "en": "Use of art in Christianity",
+    "it": "Uso dell'arte nel cristianesimo",
+    "fr": "Art dans le christianisme",
+    "sv": "Bruk av konst i kristendom",
+    "de": "Kunst im Christentum",
+    "no": "Bruk av kunst i kristendom"
+  },
+  "modified": "2023-06-21T11:10:35Z",
+  "notation": "246",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Religious meaning, significance, purpose"
+    ],
+    "sv": [
+      "Religiös mening, betydelse, avsikt"
+    ],
+    "no": [
+      "Religiøs betydning, signifikans, formål"
+    ],
+    "it": [
+      "Significato, espressione, fini religiosi"
+    ],
+    "fr": [
+      "Signification, importance et but religieux"
+    ],
+    "de": [
+      "Religiöse Bedeutung, religiöser Zweck"
+    ]
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

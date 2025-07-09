@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K7g7pVr8GHyX4jHgFj3FgCBk",
+  "prefLabel": {
+    "it": "Congregazioni e ordini religiosi nella storia della chiesa",
+    "no": "Religiøse kongregasjoner og ordener innen kirkehistorie",
+    "en": "Religious congregations and orders in church history",
+    "de": "Religiöse Kongregationen und Orden in der Kirchengeschichte",
+    "sv": "Religiösa sammanslutningar och ordnar i kyrkohistoria",
+    "fr": "Congrégations et ordres religieux dans l’histoire de l’Église"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Kw4jwwHk9jbR9fH3GQC6J4Wy",
+  "notation": "271",
+  "scopeNote": {
+    "en": [
+      "Class here history of monasticism, history of specific monasteries and convents even if not connected with a specific order"
+    ],
+    "de": [
+      "Hier auch: Geschichte des Mönchtums, Geschichte einzelner Klöster und Frauenklöster, auch wenn sie nicht zu einem einzelnen Orden gehören"
+    ],
+    "it": [
+      "Classificare qui la storia del monachesimo, la storia di specifici monasteri e conventi anche se non collegati a uno specifico ordine"
+    ],
+    "no": [
+      "Her: Historie vedrørende klostervesen, historie vedrørende bestemte klostre, selv om disse ikke er knyttet til en bestemt orden"
+    ],
+    "sv": [
+      "Klassificera här klosterväsendets historia, särskilda klosters historia även om det inte finns ett samband med en särskild orden"
+    ],
+    "fr": [
+      "Classer ici l’histoire du monachisme, l’histoire des monastères et couvents particuliers même s'ils ne sont pas rattachés à un ordre particulier"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2025-03-06T12:09:58Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

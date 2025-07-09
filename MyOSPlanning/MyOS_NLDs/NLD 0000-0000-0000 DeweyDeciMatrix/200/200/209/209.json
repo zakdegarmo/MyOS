@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tRrJXFdRHvRdpKKJGHkQmV6x",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "scopeNote": {
+    "no": [
+      "Her: Nye religiøse bevegelser"
+    ],
+    "de": [
+      "Hier auch: neue religiöse Bewegungen"
+    ],
+    "en": [
+      "Class here new religious movements"
+    ],
+    "sv": [
+      "Klassificera här nya religiösa rörelser"
+    ],
+    "fr": [
+      "Classer ici les mouvements religieux nouveaux"
+    ],
+    "it": [
+      "Classificare qui i nuovi movimenti religiosi"
+    ]
+  },
+  "prefLabel": {
+    "no": "Sekter og reformbevegelser",
+    "sv": "Sekter och reformrörelser",
+    "fr": "Sectes et mouvements de réforme",
+    "en": "Sects and reform movements",
+    "de": "Sekten und Reformbewegungen",
+    "it": "Sette e movimenti di riforma"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "209",
+  "modified": "2023-07-24T10:29:04Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

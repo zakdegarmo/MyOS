@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vYQRGFK4hYbCXDwWTX6dvvfM",
+  "modified": "2019-11-15T09:48:18Z",
+  "prefLabel": {
+    "de": "Verschiedene Wirbellose des Meeres und der Meeresküste",
+    "it": "Invertebrati vari marini e costieri",
+    "en": "Miscellaneous marine and seashore invertebrates",
+    "sv": "Diverse vattendjur och strandlevande ryggradslösa djur",
+    "no": "Diverse virvelløse dyr i sjøen og i strandbeltet",
+    "fr": "Divers invertébrés marins et du littoral"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Indice limité aux phylums figurant ci-dessous"
+    ],
+    "en": [
+      "Limited to phyla provided for below"
+    ],
+    "it": [
+      "Solo i phyla enunciati qui di seguito"
+    ],
+    "no": [
+      "Begrenset til dyregruppene som er nevnt under"
+    ],
+    "sv": [
+      "Begränsat till stammar som har placering nedan"
+    ],
+    "de": [
+      "Begrenzt auf die im Folgenden angeführten Stämme"
+    ]
+  },
+  "type": "Concept",
+  "notation": "593",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

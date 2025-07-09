@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dmtbxX6j9BJ66gDDMBdRQMh8",
+  "prefLabel": {
+    "no": "Geovitenskap vedrørende Asia",
+    "de": "Geowissenschaften Asiens",
+    "fr": "Sciences de la Terre de l'Asie",
+    "sv": "Geovetenskaper gällande Asien",
+    "en": "Earth sciences of Asia",
+    "it": "Scienze della Terra dell'Asia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "555",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "modified": "2019-11-05T14:37:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

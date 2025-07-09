@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wr6cb9BxbG4wDPXgHCPXYfYw",
+  "prefLabel": {
+    "no": "Religiøs etikk",
+    "it": "Etica religiosa",
+    "sv": "Religiös etik",
+    "fr": "Morale religieuse",
+    "en": "Religious ethics",
+    "de": "Religiöse Ethik"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Gewissen, Sünde"
+    ],
+    "sv": [
+      "Omfattar samvete, synd"
+    ],
+    "no": [
+      "Inkluderer: Samvittighet, synd"
+    ],
+    "it": [
+      "Include la coscienza, il peccato"
+    ],
+    "en": [
+      "Including conscience, sin"
+    ],
+    "fr": [
+      "Y compris la conscience, le péché"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "notation": "205",
+  "modified": "2025-03-25T10:27:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

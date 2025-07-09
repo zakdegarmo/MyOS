@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38PbbvMpK64W6vqJrcF3V7Fym",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Germanic religion",
+    "sv": "Germansk religion",
+    "no": "Germansk religion",
+    "it": "Religione germanica",
+    "de": "Germanische Religion",
+    "fr": "Religion germanique"
+  },
+  "notation": "293",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här nordisk religion, fornnordisk religion"
+    ],
+    "de": [
+      "Hier auch: skandinavische Religion, nordische Religion"
+    ],
+    "fr": [
+      "Classer ici la religion scandinave, la religion nordique"
+    ],
+    "en": [
+      "Class here Scandinavian religion, Norse religion"
+    ],
+    "no": [
+      "Her: Nordisk religion, norrøn religion"
+    ],
+    "it": [
+      "Classificare qui la religione scandinava, la religione norrena"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-28T08:18:46Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

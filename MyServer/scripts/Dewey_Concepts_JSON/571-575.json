@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PkDW3DwQhHCrpkRhQqRBt3jp",
+  "prefLabel": {
+    "it": "Processi e strutture biologiche interne",
+    "de": "Innere biologische Prozesse und Strukturen",
+    "en": "Internal biological processes and structures",
+    "sv": "Inre biologiska processer och strukturer",
+    "no": "Indre biologiske prosesser og strukturer",
+    "fr": "Biologie fonctionnelle et structurale"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here internal biological processes and structures in plants and animals"
+    ],
+    "no": [
+      "Her: Indre biologiske prosesser og strukturer hos planter og dyr"
+    ],
+    "de": [
+      "Hier auch: innere biologische Prozesse und Strukturen bei Pflanzen und Tieren"
+    ],
+    "sv": [
+      "Klassificera här inre biologiska processer och strukturer hos växter och djur"
+    ],
+    "fr": [
+      "Classer ici la biologie fonctionnelle et structurale végétale et animale"
+    ],
+    "it": [
+      "Classificare qui i processi e le strutture biologiche interne nelle piante e negli animali"
+    ]
+  },
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3McW738XdhQ4VpXdHxrbjfVkp",
+    "https://id.oclc.org/worldcat/ddc/E3G4Jv936PDyMTfx9yYYTHF6T7",
+    "https://id.oclc.org/worldcat/ddc/E3Gv7kffMFqVpmt8jtJpVghvjX",
+    "https://id.oclc.org/worldcat/ddc/E33RYj7PW4xTt6BpHR4QtmP4Bw"
+  ],
+  "modified": "2021-05-14T10:26:13Z",
+  "notation": "571-575",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3KV8ycpCVYvD3h48hvvf494Xg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

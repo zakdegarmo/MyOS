@@ -1,0 +1,49 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4djwdRqkBCxGhr8RPTkKf3DhF",
+    "https://id.oclc.org/worldcat/ddc/E48PHjFxWXH6wyJvTJV7T7Qrch",
+    "https://id.oclc.org/worldcat/ddc/E3Vj3FMPhHTmDbpMHwFX4MV38k",
+    "https://id.oclc.org/worldcat/ddc/E36hmmYhfKpK8q4wBwrH4tfG8V",
+    "https://id.oclc.org/worldcat/ddc/E3PbDwvYYHTVWpQdjTGhDmMjGW",
+    "https://id.oclc.org/worldcat/ddc/E3YR3wWMwpRmtBGt73hVHH6bCv",
+    "https://id.oclc.org/worldcat/ddc/E3QfQRq34cCBMT79wrMQgpfdfk",
+    "https://id.oclc.org/worldcat/ddc/E3xQbKtkrGCQcdkd9PcprRpGjp",
+    "https://id.oclc.org/worldcat/ddc/E3xm37b9pGRwwTTqRQghFdVTdb"
+  ],
+  "prefLabel": {
+    "en": "Manufacture of products from specific materials",
+    "no": "Industriell produksjon inndelt etter bestemte råvarer",
+    "it": "Manifattura di prodotti derivati da specifici materiali",
+    "sv": "Tillverkning av produkter i särskilda material",
+    "de": "Fertigung von Produkten aus einzelnen Werkstoffen",
+    "fr": "Fabrication de produits à partir de matériaux particuliers"
+  },
+  "notation": "671-679",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här tillverkning av halvfabrikat"
+    ],
+    "de": [
+      "Hier auch: Fertigung von Rohprodukten"
+    ],
+    "en": [
+      "Class here manufacture of primary products"
+    ],
+    "it": [
+      "Classificare qui la fabbricazione di prodotti primari"
+    ],
+    "fr": [
+      "Classer ici la fabrication de produits semi-finis"
+    ],
+    "no": [
+      "Her: Industriell produksjon av primærprodukter"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2022-03-11T06:04:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QW7XC9gKJvf47FbFGBJ8XWGh",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

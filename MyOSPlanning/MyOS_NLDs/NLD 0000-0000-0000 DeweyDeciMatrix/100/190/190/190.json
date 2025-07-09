@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36VvWcBFm8mc97RHwBqDh4pXQ",
+  "prefLabel": {
+    "de": "Neuzeitliche westliche und andere nichtöstliche Philosophie",
+    "en": "Modern western and other noneastern philosophy",
+    "it": "Filosofia occidentale moderna e altra filosofia non orientale",
+    "fr": "Philosophie occidentale moderne et autres philosophies non orientales",
+    "no": "Vestens filosofi i nyere tid og annen ikke-østlig filosofi",
+    "sv": "Modern västerländsk och övrig icke-österländsk filosofi"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om kristen filosofi, om modern filosofi, om västerländsk filosofi, om modern västerländsk filosofi, om europeisk filosofi"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la philosophie chrétienne, sur la philosophie moderne, sur la philosophie occidentale, sur la philosophie occidentale moderne, sur la philosophie européenne"
+    ],
+    "no": [
+      "Her: Oversiktsverker om kristen filosofi, om nyere tids filosofi, om vestens filosofi, om vestens filosofi i nyere tid, om europeisk filosofi"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla filosofia cristiana, sulla filosofia moderna, sulla filosofia moderna occidentale, sulla filosofia occidentale, sulla filosofia europea"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über christliche Philosophie, über neuzeitliche Philosophie, über westliche Philosophie, über neuzeitliche westliche Philosophie, über europäische Philosophie"
+    ],
+    "en": [
+      "Class here comprehensive works on Christian philosophy, on modern philosophy, on western philosophy, on modern western philosophy, on European philosophy"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "190",
+  "modified": "2024-11-15T06:48:06Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cBPV43DPRrTpJdjh49kqQJW6",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

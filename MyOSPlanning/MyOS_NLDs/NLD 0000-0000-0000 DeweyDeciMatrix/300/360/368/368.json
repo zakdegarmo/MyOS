@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KfFRh4JPWGKpMyxvcwYyc33X",
+  "created": "2000-02-02",
+  "prefLabel": {
+    "fr": "Assurance",
+    "it": "Assicurazione",
+    "no": "Forsikring",
+    "en": "Insurance",
+    "de": "Versicherungen",
+    "sv": "Försäkring"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Risiko, forsikringsbransjen"
+    ],
+    "sv": [
+      "Klassificera här risk, försäkringsbranschen"
+    ],
+    "it": [
+      "Classificare qui il rischio, il settore assicurativo"
+    ],
+    "fr": [
+      "Classer ici le risque, l’industrie de l’assurance"
+    ],
+    "de": [
+      "Hier auch: Risiko, Versicherungswirtschaft"
+    ],
+    "en": [
+      "Class here risk, insurance industry"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "368",
+  "modified": "2025-02-20T03:17:05Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

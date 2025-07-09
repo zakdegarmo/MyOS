@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "prefLabel": {
+    "sv": "Teknik",
+    "fr": "Technologie",
+    "de": "Technik",
+    "it": "Tecnologia",
+    "no": "Teknologi",
+    "en": "Technology"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+    "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+    "https://id.oclc.org/worldcat/ddc/E38kxrp6qgBrM4ccVMXvfxxgd8",
+    "https://id.oclc.org/worldcat/ddc/E43Kj3G3gqBqRHtqyRP7QYYTym",
+    "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+    "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+    "https://id.oclc.org/worldcat/ddc/E3QW7XC9gKJvf47FbFGBJ8XWGh",
+    "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+    "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+    "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT"
+  ],
+  "type": "Concept",
+  "notation": "6",
+  "modified": "2025-03-13T15:25:59Z",
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

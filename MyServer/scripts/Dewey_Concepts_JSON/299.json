@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RXYjkxJtHyq6G3b8tK39VxBX",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Wiederaufleben lange inaktiver Religionen in der Neuzeit"
+    ],
+    "it": [
+      "Include le riprese moderne di religioni scomparse da lungo tempo"
+    ],
+    "sv": [
+      "Omfattar moderna återupptaganden av religioner som varit slumrande"
+    ],
+    "no": [
+      "Inkluderer: Nyere gjenopptakelser av tidligere tiders religioner"
+    ],
+    "fr": [
+      "Y compris les renouveaux modernes de religions longtemps tombées en désuétude"
+    ],
+    "en": [
+      "Including modern revivals of long dormant religions"
+    ]
+  },
+  "notation": "299",
+  "prefLabel": {
+    "fr": "Religions ne figurant pas ailleurs",
+    "it": "Religioni non enunciate altrove",
+    "no": "Religioner som ikke har annen plassering",
+    "en": "Religions not provided for elsewhere",
+    "sv": "Religioner som saknar annan placering",
+    "de": "An anderer Stelle nicht vorgesehene Religionen"
+  },
+  "modified": "2023-06-23T11:00:13Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

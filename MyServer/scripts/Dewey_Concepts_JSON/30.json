@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fWrrTVQ7tqpKcpQ4QCyGKJJ4",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3t47HQ7MFGyVpmJJWJhvH8HHv",
+    "https://id.oclc.org/worldcat/ddc/E49XXXMBFvg8P6dHGvTvvtTDqc",
+    "https://id.oclc.org/worldcat/ddc/E3HWgwqxHPYy4CXtHytVv6WgTk",
+    "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+    "https://id.oclc.org/worldcat/ddc/E3jftRJYDmDMKKYyKVw69gkf7j"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Sciences sociales, sociologie et anthropologie",
+    "en": "Social sciences, sociology & anthropology",
+    "it": "Scienze sociali, sociologia e antropologia",
+    "no": "Samfunnsvitenskap, sosiologi og antropologi",
+    "sv": "Samhällsvetenskaper, sociologi & antropologi",
+    "de": "Sozialwissenschaften, Soziologie & Anthropologie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "notation": "30",
+  "type": "Concept",
+  "modified": "2021-03-02T07:43:12Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

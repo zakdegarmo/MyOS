@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HJhxGgP6hgP3rJVVdW9rxg8G",
+  "prefLabel": {
+    "it": "Le arti",
+    "no": "Kunst",
+    "fr": "Arts",
+    "en": "The arts",
+    "de": "Künste",
+    "sv": "Konstarterna    "
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Konseptkunst, kunst og kunsthåndverk, offentlig kunstpolitikk, billedkunst",
+      "Beskrivelse, kritisk vurdering, teknikker, arbeidsmetoder, apparater, utstyr, materialer som gjelder kunst i vid forstand (arkitektur, billedkunst, design, kunsthåndverk, utøvende kunst, fritidsaktiviteter og sport, litteratur)"
+    ],
+    "fr": [
+      "Classer ici l’art conceptuel, les beaux-arts et les arts décoratifs, la politique gouvernementale à l'égard des arts, les arts plastiques (arts visuels), les arts visuels",
+      "Analyse, critique, techniques, procédés, appareils, équipement, matériel des beaux-arts, des arts décoratifs, des arts du spectacle, des loisirs, des arts littéraires"
+    ],
+    "it": [
+      "Classificare qui l'arte concettuale, belle arti, arti decorative, politiche pubbliche per le arti, arti plastiche, arti visuali",
+      "Descrizione, studio critico, tecniche, procedure, apparecchi, attrezzature, materiali delle belle arti, delle arti decorative, delle arti dell'esecuzione e dello spettacolo, delle arti ricreative, delle arti letterarie"
+    ],
+    "en": [
+      "Class here conceptual art, fine and decorative arts, government policy on the arts, plastic arts (visual arts), visual arts",
+      "Description, critical appraisal, techniques, procedures, apparatus, equipment, materials of the fine, decorative, performing, recreational, literary arts"
+    ],
+    "de": [
+      "Hier auch: Konzeptkunst, bildende und angewandte Kunst, Kunstpolitik (Regierungspolitik zu Themen der Künste), plastische Künste (Visuelle Künste), visuelle Künste",
+      "Darstellung, kritische Bewertung, Techniken, Verfahren, Geräte, Ausstattung, Materialien der bildenden und der angewandten Kunst, der darstellenden Künste, der Freizeitgestaltung und des Sports, der literarischen Künste"
+    ],
+    "sv": [
+      "Klassificera här konceptkonst, konst och konsthantverk, politik gällande konstarterna, skulpturala konstformer när de inte är begränsade till de tredimensionella konstformerna, visuella konstformer",
+      "Beskrivning, kritik, tekniker, procedurer, apparatur, utrustning, material för konst, konsthantverk, scenisk konst, fritidsaktiviteter, litteratur"
+    ]
+  },
+  "notation": "700",
+  "modified": "2025-02-04T14:59:47Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3C4q6fDpdVfBVkwqPcmgJ8Y6G",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

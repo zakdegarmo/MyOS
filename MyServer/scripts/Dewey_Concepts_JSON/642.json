@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Tphd8HBRd8yFfwQwh6jXpp4f",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les menus, les livres de recettes avec menus, les repas particuliers"
+    ],
+    "sv": [
+      "Klassificera här menyer, menykokböcker, särskilda måltider"
+    ],
+    "no": [
+      "Her: Menyer, menu cookbooks (kokebøker med fokus på planlegging og sammensetting av måltider), bestemte måltider"
+    ],
+    "en": [
+      "Class here menus, menu cookbooks, specific meals"
+    ],
+    "it": [
+      "Classificare qui i menù, i libri di ricette, gli specifici pasti"
+    ],
+    "de": [
+      "Hier auch: Menüs, Menükochbücher, einzelne Mahlzeiten"
+    ]
+  },
+  "prefLabel": {
+    "en": "Meals and table service",
+    "no": "Måltider og servering",
+    "de": "Mahlzeiten und Tischkultur",
+    "sv": "Måltider och bordsservering",
+    "it": "Pasti e servizio di tavola",
+    "fr": "Repas et service de la table"
+  },
+  "modified": "2025-06-14T01:22:57Z",
+  "notation": "642",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xCF79J4FjmKT3JYmtDdbQxmd",
+  "prefLabel": {
+    "it": "Giornalismo e giornali in Francia e Principato di Monaco",
+    "de": "Journalismus und Zeitungen in Frankreich und Monaco",
+    "fr": "Journalisme et journaux en France et à Monaco ",
+    "no": "Journalistikk og aviser i Frankrike og Monaco",
+    "en": "Journalism and newspapers in France and Monaco",
+    "sv": "Journalistik och dagstidningar i Frankrike och Monaco"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "074",
+  "modified": "2018-02-13T17:55:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bd4XGGXWgkMyTh3f43KXwx8G",
+  "scopeNote": {
+    "fr": [
+      "Classer ici le pouvoir législatif, les corps législatifs"
+    ],
+    "it": [
+      "Classificare qui il potere legislativo, gli organi legislativi"
+    ],
+    "no": [
+      "Her: Lovgivende statsmakt, lovgivende organer"
+    ],
+    "sv": [
+      "Klassificera här den lagstiftande makten, lagstiftande organ"
+    ],
+    "en": [
+      "Class here legislative branch, legislative bodies"
+    ],
+    "de": [
+      "Hier auch: Legislative, gesetzgebende Körperschaften"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Den lagstiftande processen",
+    "fr": "Le processus législatif",
+    "de": "Der Gesetzgebungsprozess",
+    "no": "Den lovgivende prosess",
+    "en": "The legislative process",
+    "it": "Il processo legislativo"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "modified": "2024-12-12T02:32:59Z",
+  "created": "1996-06-01",
+  "notation": "328",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

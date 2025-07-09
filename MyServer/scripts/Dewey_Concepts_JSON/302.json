@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E487V9xcrWVMYJjfYv4FqvXpmt",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les principes psychologiques de la sociologie, les relations interpersonnelles, la psychologie sociale"
+    ],
+    "it": [
+      "Classificare qui i principî psicologici della sociologia, le relazioni interpersonali, la psicologia sociale"
+    ],
+    "en": [
+      "Class here psychological principles of sociology, interpersonal relations, social psychology"
+    ],
+    "sv": [
+      "Klassificera här psykologiska principer för sociologi, mellanmänskliga relationer, socialpsykologi"
+    ],
+    "no": [
+      "Her: Psykologiske prinsipper innen sosiologi, mellommenneskelige relasjoner, sosialpsykologi"
+    ],
+    "de": [
+      "Hier auch: psychologische Prinzipien der Soziologie, zwischenmenschliche Beziehungen, Sozialpsychologie"
+    ]
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+  "notation": "302",
+  "modified": "2024-09-27T17:19:10Z",
+  "prefLabel": {
+    "no": "Sosial interaksjon (sosial samhandling)",
+    "it": "Interazione sociale",
+    "en": "Social interaction",
+    "fr": "Interaction sociale",
+    "sv": "Social interaktion",
+    "de": "Soziale Interaktion"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yYbfRR8XRhgTxXYWVx94gRgf",
+  "scopeNote": {
+    "no": [
+      "Her: Misjonsselskaper, religiøse aspekter ved legemisjon"
+    ],
+    "fr": [
+      "Classer ici les sociétés missionnaires, les aspects religieux des missions médicales"
+    ],
+    "de": [
+      "Hier auch: Missionsgesellschaften, religiöse Aspekte ärztlicher Mission"
+    ],
+    "en": [
+      "Class here missionary societies, religious aspects of medical missions"
+    ],
+    "sv": [
+      "Klassificera här missionssällskap, religiösa aspekter på läkarmission"
+    ],
+    "it": [
+      "Classificare qui le società missionarie, gli aspetti religiosi delle missioni mediche"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-16T11:14:18Z",
+  "prefLabel": {
+    "en": "Missions",
+    "de": "Mission",
+    "sv": "Mission",
+    "fr": "Missions",
+    "it": "Missioni",
+    "no": "Misjon"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "created": "1996-06-01",
+  "notation": "266",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

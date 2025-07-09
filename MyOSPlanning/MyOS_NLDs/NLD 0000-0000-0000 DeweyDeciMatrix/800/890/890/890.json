@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Mc7QvyQpr7m49WrvWTtFg97R",
+  "prefLabel": {
+    "en": "Literatures of other specific languages and language families",
+    "it": "Letterature di altre specifiche lingue e famiglie linguistiche",
+    "de": "Literaturen einzelner anderer Sprachen und Sprachfamilien",
+    "sv": "Litteraturer på övriga språk",
+    "no": "Andre bestemte språks og språkgruppers litteraturer",
+    "fr": "Littératures des autres langues et familles de langues particulières"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "modified": "2021-12-21T13:49:33Z",
+  "notation": "890",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

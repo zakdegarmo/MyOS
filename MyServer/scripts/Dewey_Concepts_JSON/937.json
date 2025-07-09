@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RD7qYhCBvbdCYdfPJk9qBVcP",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Mittelmeerraum"
+    ],
+    "no": [
+      "Her: Middelhavsregionen"
+    ],
+    "fr": [
+      "Classer ici la région méditerranéenne"
+    ],
+    "en": [
+      "Class here Mediterranean region"
+    ],
+    "it": [
+      "Classificare qui la regione del Mediterraneo"
+    ],
+    "sv": [
+      "Klassificera här Medelhavsregionen"
+    ]
+  },
+  "notation": "937",
+  "prefLabel": {
+    "fr": "Péninsule italienne jusqu’à 476 et territoires adjacents jusqu’à 476",
+    "sv": "Apenninska halvön före 476 och angränsande områden före 476",
+    "no": "Den italienske halvøy fram til 476 og omkringliggende territorier fram til 476",
+    "it": "Penisola italiana, fino al 476 e territori limitrofi, fino al 476",
+    "en": "Italian Peninsula to 476 and adjacent territories to 476",
+    "de": "Italienische Halbinsel bis 476 und benachbarte Gebiete bis 476"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "modified": "2023-11-24T15:30:10Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

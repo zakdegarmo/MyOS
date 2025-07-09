@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QGtWm7RBHVmJyQgtqjCv8TXt",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4bx3XpBC8c6mqRMJg6tvqj6Rf",
+    "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+    "https://id.oclc.org/worldcat/ddc/E3pMv3rdwYgmBKTHmtH4PryBdM"
+  ],
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Religione",
+    "en": "Religion",
+    "no": "Religion",
+    "de": "Religion",
+    "sv": "Religion",
+    "fr": "Religion"
+  },
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-11-11T17:58:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "2",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

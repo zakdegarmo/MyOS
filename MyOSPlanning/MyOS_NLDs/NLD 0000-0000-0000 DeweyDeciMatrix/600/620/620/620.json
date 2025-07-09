@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ckwhcYYPdJ44yK866Ft7kDTy",
+  "prefLabel": {
+    "en": "Engineering and allied operations",
+    "sv": "Ingenjörsvetenskaper och angränsande verksamheter",
+    "fr": "Ingénierie et activités connexes",
+    "de": "Ingenieurwissenschaften und zugeordnete Bereiche",
+    "no": "Teknikk (ingeniørfag) og lignende fagområder",
+    "it": "Ingegneria e attività affini"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here manufacturing of products of various branches of engineering"
+    ],
+    "no": [
+      "Her: Industriell produksjon innen ulike områder av teknikk (ingeniørfag)"
+    ],
+    "fr": [
+      "Classer ici la fabrication de produits des diverses branches de l’ingénierie"
+    ],
+    "de": [
+      "Hier auch: industrielle Fertigung von Produkten aus verschiedenen Richtungen der Ingenieurwissenschaften"
+    ],
+    "it": [
+      "Classificare qui la fabbricazione dei prodotti dei vari rami dell'ingegneria"
+    ],
+    "sv": [
+      "Klassificera här tillverkning av produkter inom olika grenar av ingenjörsvetenskap"
+    ]
+  },
+  "notation": "620",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2025-05-28T01:16:10Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

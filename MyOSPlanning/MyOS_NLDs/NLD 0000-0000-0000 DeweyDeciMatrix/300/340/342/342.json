@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yqCMB4B6j7TfYYdXMwPJcXtF",
+  "scopeNote": {
+    "no": [
+      "Her: Oversiktsverker om offentlig rett"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über öffentliches Recht"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur le droit public"
+    ],
+    "en": [
+      "Class here comprehensive works on public law"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sul diritto pubblico"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om offentlig rätt"
+    ]
+  },
+  "prefLabel": {
+    "no": "Statsforfatningsrett og forvaltningsrett",
+    "en": "Constitutional and administrative law",
+    "fr": "Droit constitutionnel et administratif",
+    "sv": "Statsrätt och förvaltningsrätt",
+    "de": "Verfassungs- und Verwaltungsrecht",
+    "it": "Diritto costituzionale e diritto amministrativo"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "342",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "modified": "2025-01-07T03:04:44Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

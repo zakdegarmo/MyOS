@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RhcRFCTPjVTyrphpTV9gGwVV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "it": "Medio Oriente (Vicino Oriente)",
+    "sv": "Mellanöstern",
+    "en": "Middle East (Near East)",
+    "fr": "Moyen-Orient (Proche-Orient)",
+    "no": "Midtøsten",
+    "de": "Naher Osten (Mittlerer Osten)"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "956",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

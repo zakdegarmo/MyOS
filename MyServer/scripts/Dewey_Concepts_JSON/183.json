@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34frx9XgQD3pfvqgX8VVpVrkW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Filosofia sofistica, socratica e filosofie greche connesse",
+    "fr": "Sophistes, philosophie socratique et philosophies grecques connexes",
+    "sv": "Sofistiska, sokratiska, relaterade grekiska filosofier",
+    "de": "Sophistische, sokratische, verwandte griechische Philosophien",
+    "no": "Sofistisk filosofi, sokratisk filosofi, lignende gresk filosofi",
+    "en": "Sophistic, Socratic, related Greek philosophies"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "modified": "2017-12-16T21:35:49Z",
+  "type": "Concept",
+  "notation": "183",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

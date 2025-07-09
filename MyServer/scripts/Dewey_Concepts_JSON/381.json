@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rmKDDvpD64mwFb6xx7Qq6jxD",
+  "scopeNote": {
+    "no": [
+      "Her: Innenrikshandel, lagerhold, tverrfaglige verker om markedsføring"
+    ],
+    "en": [
+      "Class here internal commerce (domestic trade), warehousing, interdisciplinary works on marketing"
+    ],
+    "sv": [
+      "Klassificera här inrikeshandel, lagerhantering, tvärvetenskapliga verk om marknadsföring"
+    ],
+    "de": [
+      "Hier auch: inländischer Handel (Binnenhandel), Lagerhaltung, fächerübergreifende Werke über Marketing"
+    ],
+    "it": [
+      "Classificare qui il commercio interno, il magazzinaggio, le opere interdisciplinari sul marketing"
+    ],
+    "fr": [
+      "Classer ici le commerce intérieur, l'entreposage, les ouvrages généraux sur le marketing"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Commercio",
+    "de": "Handel",
+    "no": "Handel",
+    "fr": "Commerce",
+    "en": "Commerce (Trade)",
+    "sv": "Handel"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "381",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "modified": "2025-07-02T01:23:27Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

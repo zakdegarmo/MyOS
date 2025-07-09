@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B68M48Fb9QpxkDykygr74rJC",
+  "modified": "2023-12-22T08:52:49Z",
+  "prefLabel": {
+    "de": "Wahrscheinlichkeiten und angewandte Mathematik",
+    "no": "Sannsynlighetsregning og anvendt matematikk",
+    "it": "Probabilità e matematica applicata",
+    "sv": "Sannolikhetskalkyl och tillämpad matematik",
+    "fr": "Probabilités et mathématiques appliquées",
+    "en": "Probabilities and applied mathematics"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "519",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

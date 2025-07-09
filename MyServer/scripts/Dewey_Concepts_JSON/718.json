@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xMXHwB66QfxVMJGCk6JvTh3b",
+  "prefLabel": {
+    "fr": "Aménagement paysager des cimetières",
+    "it": "Progettazione del paesaggio dei cimiteri",
+    "sv": "Landskapsarkitektur för begravningsplatser",
+    "no": "Landskapsutforming for kirkegårder (gravlunder)",
+    "de": "Landschaftsgestaltung von Friedhöfen",
+    "en": "Landscape design of cemeteries"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "718",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

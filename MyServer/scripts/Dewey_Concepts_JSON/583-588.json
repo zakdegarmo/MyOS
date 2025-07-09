@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3qdWWTx8g3jkFtHc6dyYb63Ft",
+    "https://id.oclc.org/worldcat/ddc/E3ygwBv74GvCW6Bxdvk4yFCYkh",
+    "https://id.oclc.org/worldcat/ddc/E3QwMcCgcKy7hcPWJJkyx6YfdF",
+    "https://id.oclc.org/worldcat/ddc/E3yvtypQCYmybGxGRpvrQJGRWG",
+    "https://id.oclc.org/worldcat/ddc/E46pgwykXCqvCfqkxXWDMyKbH6",
+    "https://id.oclc.org/worldcat/ddc/E47d7cr39Hqk8CMm6jwWV4hk3f",
+    "https://id.oclc.org/worldcat/ddc/E3q6JhWTDVgXT8xYJGjXR9fKKJ"
+  ],
+  "notation": "583-588",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Groupes taxinomiques végétaux particuliers",
+    "de": "Einzelne taxonomische Pflanzengruppen",
+    "en": "Specific taxonomic groups of plants",
+    "it": "Specifici raggruppamenti tassonomici di piante",
+    "no": "Bestemte taksonomiske plantegrupper",
+    "sv": "Särskilda taxonomiska växtgrupper"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg",
+  "modified": "2021-05-12T04:22:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48WR7HQFyDkcjJGcqbmdDh4Kw",
+  "prefLabel": {
+    "en": "Historical and geographic variations, modern nongeographic variations of German",
+    "de": "Historische und geografische Varianten, moderne nichtgeografische Varianten des Deutschen",
+    "it": "Varianti storiche e geografiche, varianti non geografiche moderne del tedesco",
+    "no": "Historiske og geografiske variasjoner, moderne, ikke-geografiske variasjoner av tysk",
+    "fr": "Variantes et variations historiques et régionales, variantes et variations modernes non régionales de l'allemand",
+    "sv": "Historiska och geografiska varianter, moderna icke-geografiska varianter av tyska"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "437",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "modified": "2024-02-07T20:22:38Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

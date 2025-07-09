@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4c8Fyw9t69gwTCtXCkJwTDyCx",
+  "prefLabel": {
+    "sv": "Geografi och resor gällande Afrika",
+    "it": "Geografia e viaggi relativi all'Africa",
+    "no": "Geografi og reiser i Afrika",
+    "fr": "Géographie et voyages en Afrique",
+    "en": "Geography of and travel in Africa",
+    "de": "Geografie Afrikas und Reisen in Afrika"
+  },
+  "notation": "916",
+  "modified": "2021-01-21T11:49:55Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Generelle organisasjoner",
+    "en": "General organizations",
+    "it": "Organizzazioni generali",
+    "sv": "Allmänna organisationer",
+    "fr": "Organisations générales",
+    "de": "Allgemeine Organisationen"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3gqMXJ9VrXQFCyrTppdCP6D9P",
+    "https://id.oclc.org/worldcat/ddc/E3jyXJCygpW73HwBh6P8rwT3Pm",
+    "https://id.oclc.org/worldcat/ddc/E3CkjkpFmTCc8Bkv36Tp7YGQxk",
+    "https://id.oclc.org/worldcat/ddc/E48K8CYtjJGJVwPwq3Kc3Yw3cK",
+    "https://id.oclc.org/worldcat/ddc/E3pXk8WMbPCgrDdWJKvxgFTfPt",
+    "https://id.oclc.org/worldcat/ddc/E3Q6wG9XhqPpY9GpRQb73kMxcC",
+    "https://id.oclc.org/worldcat/ddc/E3kwQcMkqQrjfkjJxgMmTfYcPC",
+    "https://id.oclc.org/worldcat/ddc/E4bGfWt4WMjC9VXTqBKtfX49hQ"
+  ],
+  "notation": "061-068",
+  "created": "1996-06-01",
+  "modified": "2024-11-20T06:37:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t6XK9Pw3QCjjvkhfxPYTfBym",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

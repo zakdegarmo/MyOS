@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44TH3jMWWYyXdKMqhPkjhVR4F",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E43KHM9C8c3FFhB7C6HtwTxBdG",
+    "https://id.oclc.org/worldcat/ddc/E3kvkkF44MKkhkgVr8cqKhvdTd",
+    "https://id.oclc.org/worldcat/ddc/E3y9Bjdhmt48QTv8VYY3vyjCKx",
+    "https://id.oclc.org/worldcat/ddc/E3BfPHCGFhDG9mPDbK4jttH6Rj",
+    "https://id.oclc.org/worldcat/ddc/E3wqmHmBpwVy3dJ9kX4PbBhMM4",
+    "https://id.oclc.org/worldcat/ddc/E484PkvYYxtK8VGgcRmTYyTjY8",
+    "https://id.oclc.org/worldcat/ddc/E3MYVXrpjvpKKrTTJRgFTFgbMD"
+  ],
+  "prefLabel": {
+    "no": "Administrative funksjoner",
+    "it": "Servizi ausiliari",
+    "fr": "Services auxiliaires",
+    "de": "Unterstützende Tätigkeiten",
+    "en": "Auxiliary services",
+    "sv": "Stödtjänster"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "651-657",
+  "modified": "2023-09-18T08:53:47Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Kj3G3gqBqRHtqyRP7QYYTym",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

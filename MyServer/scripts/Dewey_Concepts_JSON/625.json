@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KrMxtpRg6jkp6Vk3mhmmQffJ",
+  "prefLabel": {
+    "fr": "Technologie des chemins de fer et des routes",
+    "sv": "Järnvägsteknik och vägteknik",
+    "no": "Teknikk for jernbaner og veier",
+    "en": "Engineering of railroads and roads",
+    "it": "Ingegneria ferroviaria e stradale",
+    "de": "Eisenbahn- und Straßenbau"
+  },
+  "notation": "625",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-12-21T13:44:22Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

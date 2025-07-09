@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PQ4Vy3fcBycYMrPRdVBkwDb3",
+  "prefLabel": {
+    "de": "Explosivstoffe, Brennstoffe, verwandte Produkte",
+    "sv": "Tillverkning av sprängämnen, bränslen & liknande produkter",
+    "fr": "Technologie des explosifs, des combustibles, des produits connexes",
+    "no": "Teknologi vedrørende eksplosiver, brensel, lignende produkter",
+    "en": "Technology of explosives, fuels, related products",
+    "it": "Tecnologia degli esplosivi, dei combustibili, dei prodotti connessi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "type": "Concept",
+  "notation": "662",
+  "modified": "2019-10-28T13:49:57Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

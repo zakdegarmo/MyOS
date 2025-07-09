@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3M8fpggf3HQpDvp3Rb7py7vW7",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DQYC89PVXfMDGVqPCJhHcX8f",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "[Vacant]",
+    "en": "[Unassigned]",
+    "it": "[Non assegnato]",
+    "de": "[Unbesetzt]",
+    "sv": "[Vakant]",
+    "no": "[Ubenyttet]"
+  },
+  "notation": "045",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2025-02-03T19:58:09Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3y99MgvMfcByHwRg8r4FjyBVF",
+    "https://id.oclc.org/worldcat/ddc/E3kXcCfrwVppjPf8HQ3hfBqkwg",
+    "https://id.oclc.org/worldcat/ddc/E3KcX9fvD9p9TYVGhxcgJc43W8",
+    "https://id.oclc.org/worldcat/ddc/E3rqfmG8jXgHfh86hDVCGvGCRy",
+    "https://id.oclc.org/worldcat/ddc/E496gypkFrCy4bPJP3bY38fcQy",
+    "https://id.oclc.org/worldcat/ddc/E3xtGGGv3q87jtMTfqjxjkfjVd",
+    "https://id.oclc.org/worldcat/ddc/E3fvYYxGrYgkwCWGXMbP8rxx8g",
+    "https://id.oclc.org/worldcat/ddc/E3hKPFG4kcyp6r4QMT9jDmpTvJ",
+    "https://id.oclc.org/worldcat/ddc/E3hW6bDbcJDJ3kPYDKkb6RQPJ8",
+    "https://id.oclc.org/worldcat/ddc/E3YvMfxbpYwhFG3yvc79VkjcBK"
+  ],
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Costruzione di edifici",
+    "fr": "Construction de bâtiments",
+    "sv": "Byggnadsteknik",
+    "en": "Construction of buildings",
+    "de": "Bau von Gebäuden",
+    "no": "Byggevirksomhet"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "notation": "69",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CbbpT78vMJgPwwpDyMvXJYBH",
+  "prefLabel": {
+    "fr": "Étymologie de l'allemand standard",
+    "no": "Standard tysk etymologi",
+    "sv": "Etymologi gällande standardtyska",
+    "de": "Etymologie des Deutschen",
+    "en": "Etymology of standard German",
+    "it": "Etimologia del tedesco standard"
+  },
+  "notation": "432",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "created": "1996-06-01",
+  "modified": "2021-02-18T12:26:24Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

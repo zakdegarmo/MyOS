@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vXFTBRDKQjJqwJtjkqH86BR3",
+  "modified": "2024-11-12T12:04:16Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GCD8WK4KcFRyfRFpb94w6yct",
+  "scopeNote": {
+    "fr": [
+      "Histoire, identification, description des documents imprimés, des documents écrits, des documents audiovisuels, des ressources électroniques"
+    ],
+    "de": [
+      "Geschichte, Identifizierung, Beschreibung von gedruckten, geschriebenen, audiovisuellen, elektronischen Ressourcen"
+    ],
+    "en": [
+      "History, identification, description of printed, written, audiovisual, electronic resources"
+    ],
+    "sv": [
+      "Historia, identifikation, beskrivning av tryckta, skrivna, audiovisuella, elektroniska resurser"
+    ],
+    "it": [
+      "Storia, identificazione, descrizione di risorse a stampa, scritte, audiovisive, elettroniche"
+    ],
+    "no": [
+      "Historie, identifikasjon, beskrivelse av trykt, skriftlig, audiovisuelt, elektroniske ressurser"
+    ]
+  },
+  "prefLabel": {
+    "en": "Bibliography",
+    "de": "Bibliografie",
+    "it": "Bibliografia",
+    "sv": "Bibliografi",
+    "fr": "Bibliographie",
+    "no": "Bibliografi"
+  },
+  "notation": "010",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

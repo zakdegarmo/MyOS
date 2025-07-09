@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tqcVwrx4dBXpGJ66VbrRvtMC",
+  "prefLabel": {
+    "no": "Andre trossamfunn og sekter",
+    "sv": "Övriga samfund och sekter",
+    "fr": "Autres confessions et sectes",
+    "it": "Altre denominazioni e sette",
+    "de": "Andere Konfessionen und Sekten",
+    "en": "Other denominations and sects"
+  },
+  "created": "1996-06-01",
+  "notation": "289",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "modified": "2023-06-05T06:03:17Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

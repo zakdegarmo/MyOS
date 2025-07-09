@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44F8t464pTgKVXYW69fKqdWCf",
+  "prefLabel": {
+    "fr": "Étude et enseignement, recherche, sujets connexes des beaux-arts et des arts décoratifs",
+    "de": "Ausbildung, Forschung, verwandte Themen der bildenden und angewandten Kunst",
+    "it": "Educazione, ricerca, soggetti connessi nelle belle arti e arti decorative",
+    "no": "Utdanning og opplæring, forskning, lignende emner innen kunst og kunsthåndverk",
+    "en": "Education, research, related topics of fine and decorative arts",
+    "sv": "Utbildning, forskning, liknande ämnen inom konst och konsthantverk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "modified": "2024-01-18T07:05:39Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "707",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

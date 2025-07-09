@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3d4fdtMbRXJbwXFWcJ3X6r7rP",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Chemistry",
+    "it": "Chimica",
+    "de": "Chemie",
+    "sv": "Kemi",
+    "fr": "Chimie",
+    "no": "Kjemi"
+  },
+  "notation": "54",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3bhyTcQgqTQ3TXxCWCGVfhgDC",
+    "https://id.oclc.org/worldcat/ddc/E3QJRYVCtvCk93bTGryRKQbTjp",
+    "https://id.oclc.org/worldcat/ddc/E3cBk7rwVXqtrmbqJrdMdWrxxY",
+    "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48"
+  ],
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

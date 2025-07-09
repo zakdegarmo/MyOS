@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YFmrCKPdbMgxdgTx3XG9q7Fy",
+  "prefLabel": {
+    "fr": "Sciences et religion",
+    "sv": "Naturvetenskap och religion",
+    "de": "Naturwissenschaft und Religion",
+    "en": "Science and religion",
+    "it": "Scienza e religione",
+    "no": "Naturvitenskap og religion"
+  },
+  "scopeNote": {
+    "sv": [
+      "Omfattar teknik och religion"
+    ],
+    "no": [
+      "Inkluderer: Teknologi og religion"
+    ],
+    "de": [
+      "Einschließlich: Technik und Religion"
+    ],
+    "it": [
+      "Include la tecnologia in relazione alla religione"
+    ],
+    "en": [
+      "Including technology and religion"
+    ],
+    "fr": [
+      "Y compris la technologie et la religion"
+    ]
+  },
+  "modified": "2023-06-02T09:55:15Z",
+  "type": "Concept",
+  "notation": "215",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

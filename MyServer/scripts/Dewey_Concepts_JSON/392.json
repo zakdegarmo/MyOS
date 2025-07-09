@@ -1,0 +1,35 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ggyCQRXj4hJf6RwMRqMTtjhM",
+  "prefLabel": {
+    "de": "Bräuche im Lebenslauf und im häuslichen Leben",
+    "fr": "Coutumes relatives au cycle de vie et à la vie quotidienne",
+    "it": "Usi e costumi del ciclo della vita e della vita familiare",
+    "sv": "Seder för livscykeln och hemmet",
+    "en": "Customs of life cycle and domestic life",
+    "no": "Skikker knyttet til livssyklus og familieliv"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here interdisciplinary works on events (ceremonies, occasions, rites) associated with customs of life cycle and domestic life, planning for these events"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om händelser (ceremonier, tillfällen, riter) som förknippas med seder för livscykeln och hemliv, planering för dessa händelser"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur les événements (cérémonies, occasions, rites) associés aux coutumes relatives au cycle de vie et à la vie quotidienne, la planification de ces événements"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari sugli eventi (ceremonie, occasioni, riti) associate con i customi del ciclo della vita e delle vita domestica, la pianificazione di questi eventi"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om arrangementer (seremonier, anledninger, riter) knyttet til stadier i livssyklus og dagligliv, planlegging av disse begivenhetene"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+  "created": "1996-06-01",
+  "modified": "2025-05-06T05:26:07Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "392",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

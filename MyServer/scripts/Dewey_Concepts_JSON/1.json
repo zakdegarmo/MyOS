@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3hVQWDGkfFmQvYDhX8xXpTQVC",
+    "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+    "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+    "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+    "https://id.oclc.org/worldcat/ddc/E38dDG4gTWQ74FJYxxKXYy48mH",
+    "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+    "https://id.oclc.org/worldcat/ddc/E3kyJfFJxYB8K9dfxP9V64ptk7",
+    "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+    "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD"
+  ],
+  "prefLabel": {
+    "fr": "Philosophie et psychologie",
+    "sv": "Filosofi & psykologi",
+    "en": "Philosophy & psychology",
+    "no": "Filosofi og psykologi",
+    "de": "Philosophie & Psychologie",
+    "it": "Filosofia e psicologia"
+  },
+  "type": "Concept",
+  "modified": "2024-11-08T19:01:33Z",
+  "notation": "1",
+  "created": "2000-02-02",
+  "topConceptOf": "https://id.oclc.org/worldcat/ddc/",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

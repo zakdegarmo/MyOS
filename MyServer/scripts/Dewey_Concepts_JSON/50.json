@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3KCFgwJQFV4hcYFtbD8r9MkRT",
+    "https://id.oclc.org/worldcat/ddc/E368P3prkwQQtbpJkkXdJhdChG",
+    "https://id.oclc.org/worldcat/ddc/E3kk7D6ycdCqfr3pCCxF4PGWg3",
+    "https://id.oclc.org/worldcat/ddc/E3tBV4tPt77hJTDfc7BHY9Rvt3",
+    "https://id.oclc.org/worldcat/ddc/E3rqjbqVFrrqdYQFtkxCHHwjrm",
+    "https://id.oclc.org/worldcat/ddc/E4cTY7J364q98jQp84JyQrPT9t",
+    "https://id.oclc.org/worldcat/ddc/E3CqKBCkdfpGrwj4yJJhRhJTTT",
+    "https://id.oclc.org/worldcat/ddc/E38rcWXWBWG6GjxQx7CDpXR9pG",
+    "https://id.oclc.org/worldcat/ddc/E3k7rwgjH4cQyXmhppRKbcJhwf",
+    "https://id.oclc.org/worldcat/ddc/E3wfgkVq3c9dgVWKhwb4D7CmxW"
+  ],
+  "prefLabel": {
+    "no": "Naturvitenskap",
+    "fr": "Sciences",
+    "it": "Scienza",
+    "de": "Naturwissenschaften",
+    "en": "Science",
+    "sv": "Naturvetenskap"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "type": "Concept",
+  "notation": "50",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

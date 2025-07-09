@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37h44gqVt9bp7wdD6wCvKCKj9",
+  "notation": "830",
+  "prefLabel": {
+    "fr": "Littérature allemande et littératures des langues apparentées",
+    "no": "Tysk litteratur og beslektede språks litteraturer",
+    "sv": "Tysk litteratur och litteraturer på besläktade språk    ",
+    "de": "Deutsche Literatur und Literaturen verwandter Sprachen",
+    "en": "German literature and literatures of related languages",
+    "it": "Letteratura tedesca e letterature di altre lingue affini"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Literaturen germanischer Sprachen"
+    ],
+    "no": [
+      "Her: Litteraturer på germanske språk"
+    ],
+    "sv": [
+      "Klassificera här germanska litteraturer"
+    ],
+    "it": [
+      "Classificare qui le letterature in lingue germaniche"
+    ],
+    "en": [
+      "Class here literatures of Germanic languages"
+    ],
+    "fr": [
+      "Classer ici les littératures des langues germaniques"
+    ]
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2025-02-10T21:54:17Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VPVRyYy7TpBhRPXrFW6mp6HX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

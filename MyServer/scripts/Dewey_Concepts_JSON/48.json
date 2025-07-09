@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3K8rMpQCFTkBtB9Rr9k3bQGmp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "48",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3FhcY6g793vTTWYcQtYbQ8Bf3",
+    "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+    "https://id.oclc.org/worldcat/ddc/E33ptT7km4PwxTrpKcF6Bd7RCM"
+  ],
+  "prefLabel": {
+    "no": "Klassisk gresk og moderne greske språk",
+    "en": "Classical & modern Greek languages",
+    "it": "Lingue greche classica e moderna",
+    "de": "Klassisches Griechisch & Neugriechisch",
+    "fr": "Langues grecques classique et moderne",
+    "sv": "Klassisk grekiska & moderna grekiska språk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3v4F7X6pf6fYqgdKMK94cgMWX",
+  "modified": "2021-05-07T10:48:34Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

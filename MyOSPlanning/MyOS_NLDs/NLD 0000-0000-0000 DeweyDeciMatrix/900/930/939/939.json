@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39qp9wpwgHkJW677MW6tt3WqY",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "notation": "939",
+  "prefLabel": {
+    "fr": "Autres parties du monde antique",
+    "de": "Andere Teile der Alten Welt",
+    "no": "Andre geografiske områder i oldtiden",
+    "sv": "Övriga delar av den forntida världen",
+    "it": "Altre parti del mondo antico",
+    "en": "Other parts of ancient world"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-08-27T11:28:36Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

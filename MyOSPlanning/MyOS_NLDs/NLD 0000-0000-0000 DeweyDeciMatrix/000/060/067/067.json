@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bGfWt4WMjC9VXTqBKtfX49hQ",
+  "prefLabel": {
+    "no": "Generelle organisasjoner i Russland og østeuropeiske naboland",
+    "it": "Organizzazioni generali in Russia e nei paesi vicini dell'Europa orientale",
+    "fr": "Organisations générales en Russie et dans les pays est-européens avoisinants",
+    "de": "Allgemeine Organisationen in Russland und benachbarten osteuropäischen Ländern",
+    "sv": "Allmänna organisationer i Ryssland och angränsande östeuropeiska länder",
+    "en": "General organizations in Russia and neighboring east European countries"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "067",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "modified": "2019-04-09T03:57:17Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

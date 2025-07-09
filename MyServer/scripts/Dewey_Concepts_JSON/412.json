@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CbB6VRdkkydXhKfrhBQTrXkD",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Etimologia delle forme standard delle lingue",
+    "fr": "Étymologie des formes standard des langues",
+    "no": "Standardspråkets etymologi",
+    "sv": "Etymologi gällande språkens standardformer",
+    "de": "Etymologie der Standardformen von Sprachen",
+    "en": "Etymology of standard forms of languages"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-01-29T12:18:48Z",
+  "created": "1996-06-01",
+  "notation": "412",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

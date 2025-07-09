@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "prefLabel": {
+    "no": "Astronomi",
+    "sv": "Astronomi",
+    "en": "Astronomy",
+    "fr": "Astronomie",
+    "it": "Astronomia",
+    "de": "Astronomie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3kbxVf7b84PXPhkqpqtM7gfyC",
+    "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+    "https://id.oclc.org/worldcat/ddc/E3fRXrV78yKpDfjWmtvq4BtdhG",
+    "https://id.oclc.org/worldcat/ddc/E38mvQxXmdMGMKM8wk6Rmwyjw8",
+    "https://id.oclc.org/worldcat/ddc/E3rjtqtJwbWHQRDx4D7cT9KY4F",
+    "https://id.oclc.org/worldcat/ddc/E3QCtYQcH3cMV4cJjyqBtMCR4t"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "52",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "prefLabel": {
+    "no": "Tilføyelser for bestemte former av latinsk litteratur",
+    "sv": "Indelningar för särskilda former av latinsk litteratur",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature latine",
+    "it": "Suddivisioni della letteratura latina in base a specifiche forme",
+    "de": "Unterklassen für einzelne Gattungen der lateinischen Literatur",
+    "en": "Subdivisions for specific forms of Latin literature"
+  },
+  "notation": "871-878",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E47grrcKvRvXm7tyjyhXpvhGyd",
+    "https://id.oclc.org/worldcat/ddc/E3vFW9RrVMWw3xj8Wd4k9BfBRP",
+    "https://id.oclc.org/worldcat/ddc/E3PR6JKB6KVhrfktfkTY3xdtTq",
+    "https://id.oclc.org/worldcat/ddc/E49dYf97PBp9XjHBhVPFgDY6cC",
+    "https://id.oclc.org/worldcat/ddc/E3qkfYcd6wQkRYhDhKDBCWrv6B",
+    "https://id.oclc.org/worldcat/ddc/E3fgRBTVWFtmrY4BmHJRQ476rt",
+    "https://id.oclc.org/worldcat/ddc/E3BPjPdTvxmdVHPtr8rQgyBHQV",
+    "https://id.oclc.org/worldcat/ddc/E3vbRVCWX7kKpR76jg8TpkKdPr"
+  ],
+  "created": "2010-02-04",
+  "modified": "2024-09-16T06:50:58Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3D4VXXW8jgkBwVYwG8cVWyR66",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

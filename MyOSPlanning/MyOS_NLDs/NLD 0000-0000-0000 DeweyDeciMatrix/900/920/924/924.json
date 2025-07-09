@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cQCWwWMT98gCttX3yfPyKk7x",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "prefLabel": {
+    "sv": "Filologer och lexikografer",
+    "fr": "Philologues et lexicographes",
+    "no": "Språkforskere og leksikografer",
+    "it": "Filologi e lessicografi",
+    "de": "Philologen und Lexikografen",
+    "en": "Philologists and lexicographers"
+  },
+  "type": "Concept",
+  "created": "2000-02-02",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "924",
+  "modified": "2022-08-29T10:01:08Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

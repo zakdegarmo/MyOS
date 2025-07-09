@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E49TGPyJg7KBfQGFTvPXy3dJG7",
+    "https://id.oclc.org/worldcat/ddc/E47rTrRp6Fg7vCtHgpGxkWcPj6",
+    "https://id.oclc.org/worldcat/ddc/E3gmdC3Dkq4DprX8wRpdMFqmfy",
+    "https://id.oclc.org/worldcat/ddc/E3F9vkyHv9xmgDRHp4GFcjjgGy",
+    "https://id.oclc.org/worldcat/ddc/E3K8xhw8bYmdGBr9WXQ9DTf6mY",
+    "https://id.oclc.org/worldcat/ddc/E3DTJtqHJwTBwDxRDwjY4CkDTx",
+    "https://id.oclc.org/worldcat/ddc/E3jGKFFMYHyMjQ4pRX4c6k8Cgb",
+    "https://id.oclc.org/worldcat/ddc/E3xjY8TTF9WFyDfGFXvXywyCdQ"
+  ],
+  "prefLabel": {
+    "it": "Suddivisioni del greco classico, preclassico, postclassico",
+    "sv": "Indelningar för klassisk, förklassisk, efterklassisk grekiska",
+    "de": "Unterklassen von klassischem und vorklassischem Griechisch, Mittelgriechisch",
+    "en": "Subdivisions of classical, preclassical, postclassical Greek",
+    "no": "Inndeling av klassisk, preklassisk, postklassisk gresk",
+    "fr": "Subdivisions pour le grec classique, préclassique, postclassique"
+  },
+  "type": "Concept",
+  "created": "1998-10-27",
+  "notation": "481-488",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K8rMpQCFTkBtB9Rr9k3bQGmp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

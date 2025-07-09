@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XXV7WvKdxBq8MjwKRYyQ3bp7",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "039",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "General encyclopedic works in other languages",
+    "de": "Allgemeinenzyklopädische Werke in anderen Sprachen",
+    "it": "Opere enciclopediche generali in altre lingue",
+    "fr": "Encyclopédies générales en d’autres langues",
+    "sv": "Allmänna uppslagsverk på övriga språk",
+    "no": "Generelle leksikalske verker på andre språk"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

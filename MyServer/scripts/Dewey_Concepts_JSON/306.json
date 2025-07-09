@@ -1,0 +1,56 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XhQDdWphRvHdTpXqTyDWBCfV",
+  "scopeNote": {
+    "it": [
+      "Cultura: il complesso delle credenze, delle tradizioni popolari, dei costumi, della scienza, della tecnologia, dei valori, delle arti di una società",
+      "Classificare qui la cultura di massa (cultura di successo), l'antropologia culturale e sociale",
+      "Include i ruoli, le funzioni e i modelli entro cui i gruppi e i membri di una società vivono le loro vite",
+      "Istituzioni: modelli di comportamento nelle relazioni sociali"
+    ],
+    "sv": [
+      "Institutioner: beteendemönster i sociala relationer",
+      "Omfattar rollerna, funktionerna och mönstren inom vilka grupperna och medlemmarna av samhället lever sina liv",
+      "Klassificera här masskultur (populärkultur), kulturantropologi och socialantropologi",
+      "Kultur: summan av ett samhälles övertygelser, folkskick, seder, naturvetenskap, teknologi, värderingar, konstformer"
+    ],
+    "de": [
+      "Einschließlich: die Rollen, Funktionen und Muster, innerhalb derer die Gruppen und Mitglieder einer Gesellschaft ihr Leben führen",
+      "Hier auch: Massenkultur (Populärkultur, Volkskultur), Kultur- und Sozialanthropologie",
+      "Kultur: die Gesamtheit der Überzeugungen, Traditionen, Sitten, Werte, der Künste, des geisteswissenschaftlichen, naturwissenschaftlichen und technischen Wissens einer Gesellschaft",
+      "Institutionen: Verhaltensmuster in sozialen Beziehungen"
+    ],
+    "no": [
+      "Inkluderer: Rollene, funksjonene, mønstrene som grupper eller enkeltpersoner i et samfunn handler innenfor",
+      "Sosiale institusjoner: Atferdsmønstre i sosiale forhold",
+      "Kultur: Summen av et samfunns tro, tradisjoner, sedvaner, vitenskap, teknologi, verdier, kunst",
+      "Her: Populærkultur (massekultur), kulturantropologi, sosialantropologi; etnologi, etnografi"
+    ],
+    "en": [
+      "Culture: the aggregate of a society's beliefs, folkways, mores, science, technology, values, arts",
+      "Including the roles, functions, and patterns within which the groups and members of a society conduct their lives",
+      "Institutions: patterns of behavior in social relationships",
+      "Class here mass culture (popular culture), cultural and social anthropology"
+    ],
+    "fr": [
+      "Y compris les rôles, les fonctions et les modèles qui constituent la règle de vie des groupes et des membres d’une société",
+      "Culture : l’ensemble des croyances, des coutumes, des mœurs, des sciences, des techniques, des valeurs, des arts d’une société",
+      "Classer ici la culture de masse (culture populaire), l’anthropologie culturelle et sociale",
+      "Institutions : modèles de comportement dans les relations sociales"
+    ]
+  },
+  "modified": "2025-05-12T11:52:46Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3JhK47btwtGthxm9k7Dft86tw",
+  "prefLabel": {
+    "sv": "Kulturella och sociala institutioner",
+    "en": "Culture and institutions",
+    "fr": "Culture et institutions",
+    "de": "Kultur und Institutionen",
+    "it": "Cultura e istituzioni",
+    "no": "Kulturelle og sosiale institusjoner"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "notation": "306",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

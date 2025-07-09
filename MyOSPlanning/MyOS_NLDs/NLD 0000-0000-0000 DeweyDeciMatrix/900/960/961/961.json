@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38t9d4M8YCrt4ck3YXpbhgrVY",
+  "notation": "961",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Nordafrika"
+    ],
+    "en": [
+      "Class here North Africa"
+    ],
+    "no": [
+      "Her: Nord-Afrika"
+    ],
+    "sv": [
+      "Klassificera här Nordafrika"
+    ],
+    "it": [
+      "Classificare qui il Nordafrica"
+    ],
+    "fr": [
+      "Classer ici l’Afrique du Nord"
+    ]
+  },
+  "prefLabel": {
+    "en": "Tunisia and Libya",
+    "de": "Tunesien und Libyen",
+    "sv": "Tunisien och Libyen",
+    "fr": "Tunisie et Libye",
+    "no": "Tunisia og Libya",
+    "it": "Tunisia e Libia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "modified": "2024-04-25T18:16:48Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

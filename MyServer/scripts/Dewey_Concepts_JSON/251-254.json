@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T4W9fr4KQg3d34fdjpDCQg3B",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Local church",
+    "de": "Ortskirchen",
+    "sv": "Lokala kyrkan",
+    "fr": "Église locale",
+    "no": "Den lokale kirke",
+    "it": "Chiesa locale"
+  },
+  "notation": "251-254",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här lokala kyrkor som en del kyrklig organisation, kristna basförsamlingar"
+    ],
+    "it": [
+      "Classificare qui le chiese locali nell'organizzazione generale della chiesa, le comunità cristiane di base"
+    ],
+    "no": [
+      "Her: Den lokale kirke som del av kirkelig organisering, kristne basismenigheter"
+    ],
+    "en": [
+      "Class here local churches in church organization, basic Christian communities"
+    ],
+    "fr": [
+      "Classer ici l'Église locale dans l’ensemble de l’organisation ecclésiale, les communautés chrétiennes de base"
+    ],
+    "de": [
+      "Hier auch: Ortskirchen in der allgemeinen Kirchenorganisation, christliche Basisgemeinden"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3tV8BtgcQDtgYdTVRhQbm8Pjh",
+    "https://id.oclc.org/worldcat/ddc/E38dvmBg3FB4grDkK7rdmDGtrk",
+    "https://id.oclc.org/worldcat/ddc/E44yh3YtrxfKGM8fwdj4k8r7RY",
+    "https://id.oclc.org/worldcat/ddc/E38GbhkbWvwv7Jjdcq6GKkb4PF"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E38RKbjpcKMwfJfHWq3B7Wqwh7",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

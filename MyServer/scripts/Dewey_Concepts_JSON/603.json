@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bBdjpYGtvGyCwBRRwFm9hmmg",
+  "prefLabel": {
+    "de": "Wörterbücher, Enzyklopädien, Konkordanzen",
+    "sv": "Lexikon, uppslagsverk, konkordanser",
+    "fr": "Dictionnaires, encyclopédies, concordances",
+    "it": "Dizionari, enciclopedie, concordanze",
+    "no": "Ordbøker, leksika, konkordanser",
+    "en": "Dictionaries, encyclopedias, concordances"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E38kxrp6qgBrM4ccVMXvfxxgd8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "603",
+  "created": "2000-02-02",
+  "type": "Concept",
+  "modified": "2023-06-16T00:58:43Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

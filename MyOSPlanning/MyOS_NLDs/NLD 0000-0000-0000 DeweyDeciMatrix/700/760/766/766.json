@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rhPKy3YFxPdbvq7P8hTtFP36",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Mezzotint, akvatint, lignende prosesser",
+    "en": "Mezzotinting, aquatinting, related processes",
+    "fr": "Mezzo-tinto (Gravure à la manière noire), aquatinte, procédés connexes",
+    "sv": "Mezzotint, akvatint och liknande tekniker",
+    "de": "Mezzotinto, Aquatinta, verwandte Techniken",
+    "it": "Maniera nera (Mezzatinta), acquatinta, procedimenti affini"
+  },
+  "modified": "2021-06-25T11:05:25Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "766",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MGYtxfcwfKB4CYwxBhfGTBh3",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

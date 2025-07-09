@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yfXBpPGyqBvrtkQ8vQwbjmpC",
+  "prefLabel": {
+    "de": "Kindererziehung; häusliche Betreuung von Personen mit Behinderungen und Krankheiten",
+    "en": "Child rearing; home care of people with illnesses and disabilities by family and friends",
+    "sv": "Barnuppfostran; hemvård av personer med funktionsnedsättning och sjukdomar genom familj och vänner",
+    "no": "Oppfostring av barn; hjemmepleie av syke og funksjonshemmede utført av familie og venner",
+    "fr": "Éducation des enfants ; soins à domicile dispensés par la famille et les amis aux personnes malades ou handicapées",
+    "it": "Allevamento dei bambini; cura domestica di persone con malattie e disabilità da parte di famigliari e amici"
+  },
+  "notation": "649",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "created": "1996-06-01",
+  "modified": "2024-07-09T12:21:05Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

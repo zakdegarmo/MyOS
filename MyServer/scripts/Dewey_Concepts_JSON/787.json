@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vYWC893xXxWHyr43qCjVdVYF",
+  "prefLabel": {
+    "en": "Stringed instruments (Chordophones)",
+    "de": "Saiteninstrumente (Chordophone)",
+    "sv": "Stränginstrument (kordofoner)",
+    "fr": "Instruments à cordes (Cordophones)",
+    "no": "Strengeinstrumenter (kordofoner)",
+    "it": "Strumenti a corda (Cordofoni)"
+  },
+  "notation": "787",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les instruments à cordes et à archet, la musique pour instruments mélodiques sans précision d’un instrument particulier, les ouvrages généraux sur la famille du luth (instruments dont les cordes s’étendent de la caisse de résonance au manche)"
+    ],
+    "it": [
+      "Classificare qui gli strumenti ad arco, la musica per strumento melodico non specificato, le opere d'insieme sulla famiglia del liuto (strumenti le cui corde vanno dalla cassa di risonanza al manico)"
+    ],
+    "en": [
+      "Class here bowed string instruments, music for unspecified melody instrument, comprehensive works on the lute family (instruments whose strings run from the resonating belly to the neck)"
+    ],
+    "no": [
+      "Her: Strengeinstrumenter, musikk for uspesifisert melodiinstrument, oversiktsverker om luttfamilien (instrumenter med strenger fra resonanskassen til halsen)"
+    ],
+    "de": [
+      "Hier auch: Streichinstrumente, Musik für unspezifizierte Melodieinstrumente, umfassende Werke über die Lautenfamilie (Instrumente, deren Saiten vom nachklingenden Resonanzboden zum Hals verlaufen)"
+    ],
+    "sv": [
+      "Klassificera här stråkinstrument, musik för ospecificerade melodiinstrument, övergripande verk om lutinstrument (instrument där strängarna löper från resonanslådans kropp till halsen)"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MhvcdHWcJJH8pqMGc7YxK4r",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

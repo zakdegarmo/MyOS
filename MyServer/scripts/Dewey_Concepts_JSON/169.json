@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44KVbFBtQfhP6CVh3VDVMWKDQ",
+  "notation": "169",
+  "prefLabel": {
+    "fr": "Analogie",
+    "it": "Analogia",
+    "sv": "Analogi",
+    "en": "Analogy",
+    "de": "Analogie",
+    "no": "Analogi"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-15T06:48:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

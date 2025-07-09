@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E346vj8VQpfxkQgXHDrTKjvxr6",
+  "prefLabel": {
+    "en": "Divinatory graphology",
+    "de": "Divinatorische Graphologie",
+    "it": "Grafologia divinatoria",
+    "sv": "Grafologisk spådom",
+    "fr": "Graphologie divinatoire",
+    "no": "Spåing ved hjelp av grafologi (håndskrifttyding)"
+  },
+  "modified": "2020-10-12T11:30:27Z",
+  "notation": "137",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

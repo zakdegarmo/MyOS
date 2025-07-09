@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jhMWC9WWtQqvdmcRxGRmRCgm",
+  "prefLabel": {
+    "sv": "Sydostasien",
+    "de": "Südostasien",
+    "en": "Southeast Asia",
+    "no": "Sørøst-Asia",
+    "fr": "Asie du Sud-Est",
+    "it": "Asia sudorientale"
+  },
+  "notation": "959",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "created": "1996-06-01",
+  "modified": "2025-01-23T21:52:25Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

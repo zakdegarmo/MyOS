@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "prefLabel": {
+    "de": "Bildung & Erziehung",
+    "no": "Utdanning og opplæring",
+    "en": "Education",
+    "it": "Educazione",
+    "fr": "Éducation",
+    "sv": "Utbildning"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3dj99DtMwfqCHYGWKvkjjWjJC",
+    "https://id.oclc.org/worldcat/ddc/E38bYCrQ7pPd4WGkFb3b4wmkYr",
+    "https://id.oclc.org/worldcat/ddc/E344Wrpqwc6g6Ct6JyrVQQrdvq",
+    "https://id.oclc.org/worldcat/ddc/E399XXMqwgYgXqPypJhGkXgVdf",
+    "https://id.oclc.org/worldcat/ddc/E3wPXw9dKcvQf9F8qp7QkBXKPt",
+    "https://id.oclc.org/worldcat/ddc/E44Dt7tvjXHyCCtkkT4mDVC9GB",
+    "https://id.oclc.org/worldcat/ddc/E3Db4KxcjwdVK8CcpYFtfk3VxV",
+    "https://id.oclc.org/worldcat/ddc/E3pfWXCDPrPjfm7t3d7v3MDyhx"
+  ],
+  "notation": "37",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

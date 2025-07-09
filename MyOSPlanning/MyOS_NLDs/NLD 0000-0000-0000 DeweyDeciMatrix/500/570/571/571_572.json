@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Gv7kffMFqVpmt8jtJpVghvjX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Generelle indre prosesser felles for alle organismer",
+    "de": "Allgemeine innere, allen Organismen gemeinsame Prozesse",
+    "en": "General internal processes common to all organisms",
+    "fr": "Biologie générale",
+    "sv": "Allmänna inre processer gemensamma för alla organismer",
+    "it": "Processi interni generali comuni a tutti gli organismi"
+  },
+  "modified": "2021-05-12T10:12:39Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PkDW3DwQhHCrpkRhQqRBt3jp",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E44gf7G8HWTRyqDWDXDKg744Kk",
+    "https://id.oclc.org/worldcat/ddc/E33yPCX4VTFFTxdD34KyQBY4gj"
+  ],
+  "created": "1996-06-01",
+  "notation": "571-572",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

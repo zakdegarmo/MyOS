@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pw49pmP9yJhYDyWcrxPmwPqB",
+  "scopeNote": {
+    "fr": [
+      "Classer ici l’optique"
+    ],
+    "sv": [
+      "Klassificera här optik"
+    ],
+    "en": [
+      "Class here optics"
+    ],
+    "de": [
+      "Hier auch: Optik"
+    ],
+    "it": [
+      "Classificare qui l'ottica"
+    ],
+    "no": [
+      "Her: Optikk"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Luce e radiazione affine",
+    "en": "Light and related radiation",
+    "sv": "Ljus och liknande strålning",
+    "no": "Lys og lignende stråling",
+    "de": "Licht und verwandte Strahlung",
+    "fr": "Lumière et rayonnements connexes"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "535",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

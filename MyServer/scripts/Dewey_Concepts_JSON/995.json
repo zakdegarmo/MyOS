@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RXwXB9DJD3kFDCyFDYHh7h49",
+  "scopeNote": {
+    "no": [
+      "Her: Oseania"
+    ],
+    "fr": [
+      "Classer ici l’Océanie"
+    ],
+    "it": [
+      "Classificare qui l'Oceania"
+    ],
+    "sv": [
+      "Klassificera här Oceanien"
+    ],
+    "de": [
+      "Hier auch: Ozeanien"
+    ],
+    "en": [
+      "Class here Oceania"
+    ]
+  },
+  "prefLabel": {
+    "en": "New Guinea and neighboring countries of Melanesia",
+    "fr": "Nouvelle-Guinée et pays avoisinants de la Mélanésie",
+    "it": "Nuova Guinea e paesi vicini della Melanesia",
+    "sv": "Nya Guinea och närliggande länder i Melanesien",
+    "no": "Ny-Guinea og naboland i Melanesia",
+    "de": "Neuguinea und zu Melanesien gehörende benachbarte Länder"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "notation": "995",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

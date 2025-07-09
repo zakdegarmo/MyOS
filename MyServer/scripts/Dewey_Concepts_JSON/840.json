@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DFykFBdJ8h9TX6tWvFFRhJp7",
+  "notation": "840",
+  "modified": "2025-02-10T21:54:17Z",
+  "prefLabel": {
+    "sv": "Fransk litteratur och litteraturer på besläktade romanska språk",
+    "no": "Fransk litteratur og beslektede romanske språks litteraturer",
+    "fr": "Littérature française et littératures des langues romanes apparentées",
+    "en": "French literature and literatures of related Romance languages",
+    "de": "Französische Literatur und Literaturen verwandter romanischer Sprachen",
+    "it": "Letteratura francese e letterature di altre lingue romanze affini"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here literatures of Romance languages"
+    ],
+    "sv": [
+      "Klassificera här romanska litteraturer"
+    ],
+    "fr": [
+      "Classer ici les littératures des langues romanes"
+    ],
+    "no": [
+      "Her: Romanske språks litteraturer"
+    ],
+    "it": [
+      "Classificare qui le letterature in lingue romanze"
+    ],
+    "de": [
+      "Hier auch: Literaturen romanischer Sprachen"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38Hrr8yHtJ7mcVvRHVWqY8WpK",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

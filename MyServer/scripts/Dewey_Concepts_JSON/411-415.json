@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "prefLabel": {
+    "de": "Beschreibung und Analyse der Standardsprache",
+    "no": "Standardspråk--beskrivelse og analyse",
+    "it": "Linguaggio standard--descrizione e analisi",
+    "en": "Standard language--description and analysis",
+    "sv": "Språkens standardformer--beskrivning och analys",
+    "fr": "Langue standard—description et analyse"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+  "notation": "411-415",
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3vDwHWDmyfvmhFkkXmVXmXHxM",
+    "https://id.oclc.org/worldcat/ddc/E3CbB6VRdkkydXhKfrhBQTrXkD",
+    "https://id.oclc.org/worldcat/ddc/E3GTm4g8GqFjMv6YwXBmTmfw9H",
+    "https://id.oclc.org/worldcat/ddc/E3HRR6MfbrqwkVkBm6RDdpRKy9",
+    "https://id.oclc.org/worldcat/ddc/E3vrWDHDYVgc8RvT8C8Chb8Yph"
+  ],
+  "type": "Concept",
+  "modified": "2021-04-19T11:38:19Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

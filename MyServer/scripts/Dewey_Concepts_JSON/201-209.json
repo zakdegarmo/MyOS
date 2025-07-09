@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3tRrJXFdRHvRdpKKJGHkQmV6x",
+    "https://id.oclc.org/worldcat/ddc/E3tBxX9fqctjkchCXgtP89xjvP",
+    "https://id.oclc.org/worldcat/ddc/E49p88jqmPkrTBHX6xMRMyhJFR",
+    "https://id.oclc.org/worldcat/ddc/E3MCMjdXp9WyXKGbDtVTYPtR3f",
+    "https://id.oclc.org/worldcat/ddc/E3cDDgVBm8kFftgDQg3mYqPrjH",
+    "https://id.oclc.org/worldcat/ddc/E3wr6cb9BxbG4wDPXgHCPXYfYw",
+    "https://id.oclc.org/worldcat/ddc/E3bJFf99myY8mrYcCDtRhKfBxb",
+    "https://id.oclc.org/worldcat/ddc/E3dkHPkqwTFFPpBVxHJ849wvDj",
+    "https://id.oclc.org/worldcat/ddc/E3fgjqDxYHMH7Yq87fjgQdxCYv"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3pMv3rdwYgmBKTHmtH4PryBdM",
+  "prefLabel": {
+    "en": "Specific aspects of religion",
+    "it": "Aspetti specifici della religione",
+    "fr": "Aspects particuliers de la religion",
+    "sv": "Särskilda aspekter på religion",
+    "de": "Einzelne Aspekte der Religion",
+    "no": "Bestemte aspekter ved religion"
+  },
+  "created": "2000-02-02",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "201-209",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

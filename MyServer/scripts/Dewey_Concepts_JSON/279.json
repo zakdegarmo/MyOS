@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3x7gjQW4wy6xwRtMvBxfq4CfJ",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "notation": "279",
+  "modified": "2025-02-03T19:58:09Z",
+  "prefLabel": {
+    "fr": "Christianisme en Australasie, dans les Îles du Pacifique, les Îles de l'Atlantique, les Îles de l'Arctique, en Antarctique",
+    "sv": "Kristendom i Australasien, öar i Stilla havet, öar i Atlanten, öar i Arktis, Antarktis",
+    "no": "Kristendom i Australasia, stillehavsøyene, atlanterhavsøyene, arktiske øyer, Antarktis",
+    "en": "Christianity in Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica",
+    "it": "Cristianesimo in Australasia, nelle isole del Pacifico, nelle isole dell'Atlantico, nelle isole dell'Artico, nell'Antartico",
+    "de": "Christentum in Australasien, auf den Inseln des Pazifischen Ozeans, des Atlantischen Ozeans, des Arktischen Ozeans, in der Antarktis"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

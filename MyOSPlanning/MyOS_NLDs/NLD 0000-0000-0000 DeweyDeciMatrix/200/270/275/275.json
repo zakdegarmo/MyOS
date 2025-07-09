@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46VC9yCCT8hjcQxrKFWTmpBJB",
+  "notation": "275",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Kristendom i Asia",
+    "fr": "Christianisme en Asie   ",
+    "de": "Christentum in Asien",
+    "it": "Cristianesimo in Asia",
+    "sv": "Kristendom i Asien",
+    "en": "Christianity in Asia"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "modified": "2025-02-03T19:58:09Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

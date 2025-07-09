@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37PXc7YGhF8MWfrQmr7fwXfHg",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "780",
+  "prefLabel": {
+    "fr": "Musique",
+    "sv": "Musik",
+    "it": "Musica",
+    "de": "Musik",
+    "no": "Musikk",
+    "en": "Music"
+  },
+  "modified": "2022-08-29T13:43:13Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WHJrC7hmK6J6Ytq6PRCH3f7j",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

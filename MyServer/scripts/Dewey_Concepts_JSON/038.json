@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44ybyvBFQCRJ66gpCkRYkVvv3",
+  "prefLabel": {
+    "it": "Opere enciclopediche generali in lingue scandinave",
+    "no": "Generelle leksikalske verker på nordiske språk",
+    "de": "Allgemeinenzyklopädische Werke in skandinavischen Sprachen",
+    "fr": "Encyclopédies générales en langues scandinaves",
+    "sv": "Allmänna uppslagsverk på nordiska språk",
+    "en": "General encyclopedic works in Scandinavian languages"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "038",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

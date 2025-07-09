@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "prefLabel": {
+    "en": "General collections in specific languages and language families",
+    "fr": "Recueils généraux dans une langue ou une famille de langues particulières",
+    "de": "Allgemeine Sammelwerke in einzelnen Sprachen und Sprachfamilien",
+    "it": "Raccolte generali in specifiche lingue e famiglie linguistiche",
+    "no": "Generelle samlinger på bestemte språk og språkgrupper",
+    "sv": "Allmänna samlingsverk på särskilda språk och språkfamiljer"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3dF397jdR8DVq4m8qKcWT4fhb",
+    "https://id.oclc.org/worldcat/ddc/E3wPkTKg64BJp6r8RP4mWyHX99",
+    "https://id.oclc.org/worldcat/ddc/E3QqCWqyrX7YKymQm3T8hJb9gG",
+    "https://id.oclc.org/worldcat/ddc/E3D6YGRGhKMQxwDhjK3Jx6vvr3",
+    "https://id.oclc.org/worldcat/ddc/E3cWmVHw6RvbGfYtrrDXqbQxCc",
+    "https://id.oclc.org/worldcat/ddc/E3HwRDCvrb8pRHtrqfBwYh666T",
+    "https://id.oclc.org/worldcat/ddc/E3djCjJgHGTdtFDMCyTPqxPxJ3",
+    "https://id.oclc.org/worldcat/ddc/E3M7mmdmcdHYVCbY4wVjDfKgQh",
+    "https://id.oclc.org/worldcat/ddc/E3rh6jjyY6vt473BhtjhPJhbHd"
+  ],
+  "notation": "081-089",
+  "created": "1996-06-01",
+  "modified": "2021-02-26T12:12:05Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3x8vCCPTmRYHcgDDKHqfKDcfp",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

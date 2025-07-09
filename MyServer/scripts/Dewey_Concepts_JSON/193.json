@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gJBMDF3TwXYkVKJGgkVC8h8H",
+  "notation": "193",
+  "prefLabel": {
+    "de": "Philosophie Deutschlands und Österreichs",
+    "en": "Philosophy of Germany and Austria",
+    "it": "Filosofia di Germania e Austria",
+    "fr": "Philosophie de l'Allemagne et de l'Autriche",
+    "sv": "Tysklands och Österrikes filosofi",
+    "no": "Filosofi i Tyskland og Østerrike"
+  },
+  "modified": "2024-11-12T03:20:35Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

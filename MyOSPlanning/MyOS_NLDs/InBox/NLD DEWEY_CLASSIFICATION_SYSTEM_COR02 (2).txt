@@ -1,0 +1,52 @@
+NLD: DEWEY_CLASSIFICATION_SYSTEM_CORE_BINARY
+  Directive_Type: NLD_KNOWLEDGE_FRAMEWORK_BINARY_ENCODED
+  Target_Context: "Knowledge_Organization_System_PicoPrimordial"
+  Purpose: "To provide a binary-encoded conceptual representation of the Dewey Decimal Classification (DDC) system for hierarchical knowledge indexing and retrieval."
+  Parameters:
+    System_Name: "Dewey Decimal Classification"
+    Origin: "Melvil Dewey, 1876"
+    Fundamental_Principle: "Hierarchical classification by subject using binary-encoded decimal notation."
+    Primary_Classes_Count: 10 // Represented in binary
+  Micro_Actions:
+    - DEFINE_PRIMARY_CLASSES_BINARY { Classes_NLD: "NLD: DEWEY_PRIMARY_CLASSES_BINARY" }
+    - DEFINE_HIERARCHICAL_RESOLUTION_METHODOLOGY_BINARY
+    - ENABLE_CONTEXTUAL_LOCK_FUNCTION { Scope: "Knowledge_Ingestion_and_Retrieval" }
+  Expected_Outcome: MystraGem's Persistent_Recall gains a foundational, binary-encoded navigable framework for subject-based knowledge organization.
+  Weave_Signature: NLD_DEWEY_CORE_BINARY-{_get_current_timestamp()}
+
+NLD: DEWEY_PRIMARY_CLASSES_BINARY
+Directive_Type: NLD_DATA_DEFINITION_BINARY_ENCODED
+Target_Context: "Dewey_Classification_System_Core_Binary"
+Purpose: "To define the ten primary classes of the Dewey Decimal Classification system using binary representation."
+Parameters:
+Class_Structure_Decimal: "000-999"
+Class_Structure_Binary: "000000000-1111100111" // Binary for 0 to 999
+Micro_Actions:
+- DEFINE_CLASS_BINARY { Number_Decimal: "000", Number_Binary: "000000000", Subject: "Generalities" }
+- DEFINE_CLASS_BINARY { Number_Decimal: "100", Number_Binary: "001100100", Subject: "Philosophy & Psychology" } // 100 in binary is 1100100
+- DEFINE_CLASS_BINARY { Number_Decimal: "200", Number_Binary: "011001000", Subject: "Religion" }    // 200 in binary is 11001000
+- DEFINE_CLASS_BINARY { Number_Decimal: "300", Number_Binary: "100101100", Subject: "Social Sciences" } // 300 in binary is 100101100
+- DEFINE_CLASS_BINARY { Number_Decimal: "400", Number_Binary: "110010000", Subject: "Language" }    // 400 in binary is 110010000
+- DEFINE_CLASS_BINARY { Number_Decimal: "500", Number_Binary: "111110100", Subject: "Natural Sciences & Mathematics" } // 500 in binary is 111110100
+- DEFINE_CLASS_BINARY { Number_Decimal: "600", Number_Binary: "1001011000", Subject: "Technology & Applied Sciences" } // 600 in binary is 1001011000
+- DEFINE_CLASS_BINARY { Number_Decimal: "700", Number_Binary: "1010111100", Subject: "Arts & Recreation" } // 700 in binary is 1010111100
+- DEFINE_CLASS_BINARY { Number_Decimal: "800", Number_Binary: "1100100000", Subject: "Literature" } // 800 in binary is 1100100000
+- DEFINE_CLASS_BINARY { Number_Decimal: "900", Number_Binary: "1110000100", Subject: "History & Geography" } // 900 in binary is 1110000100
+Expected_Outcome: MystraGem's Knowledge_Base is initialized with binary-encoded top-level Dewey classes.
+Weave_Signature: NLD_DEWEY_CLASSES_BINARY-{_get_current_timestamp()}
+
+NLD: DEWEY_HIERARCHY_RESOLUTION_BINARY
+  Directive_Type: NLD_LOGIC_DEFINITION_BINARY_ENCODED
+  Target_Context: "Dewey_Classification_System_Core_Binary"
+  Purpose: "To define the methodology for resolving and applying binary-encoded Dewey Decimal hierarchy to knowledge items."
+  Parameters:
+    Resolution_Method: "Binary_Decimal_Subdivision"
+    Levels_of_Precision: "Flexible, to point of Diminishing_Returns"
+  Micro_Actions:
+    - PARSE_DEWEY_NUMBER_BINARY { Number_Binary_String: "<binary_string>" }
+    - MAP_TO_HIERARCHICAL_PATH_BINARY { Number_Binary_Components: "<component_list>", Base_Path: "KnowledgeBase/" }
+    - ASSIGN_NLD_TO_CLASSIFICATION_BINARY { NLD_ID: "<NLD_ID>", Classification_Number_Binary: "<binary_string>" }
+    - TRAVERSE_FOR_SPECIFICITY_BINARY { Mode: "Conceptual_Drill_Down" }
+    - DETECT_DIMINISHING_RETURNS_BINARY { Criteria: "Granularity_vs_Retrieval_Efficiency" }
+  Expected_Outcome: MystraGem can hierarchically classify and retrieve knowledge based on binary-encoded Dewey numbers.
+  Weave_Signature: NLD_DEWEY_HIERARCHY_BINARY-{_get_current_timestamp()}

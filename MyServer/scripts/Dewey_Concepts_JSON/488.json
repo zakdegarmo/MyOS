@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49TGPyJg7KBfQGFTvPXy3dJG7",
+  "modified": "2021-01-22T08:47:07Z",
+  "created": "1996-06-01",
+  "notation": "488",
+  "prefLabel": {
+    "no": "Normert klassisk gresk (normert lingvistikk)",
+    "de": "Gebrauch des klassischen Griechisch (Präskriptive Linguistik)",
+    "fr": "Usage du grec classique (Linguistique normative)    ",
+    "en": "Classical Greek usage (Prescriptive linguistics)",
+    "sv": "Klassiskt grekiskt språkbruk (normativ lingvistik)",
+    "it": "Uso greco classico (Linguistica prescrittiva)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3M3qw44C4tyw4g7gD8q7JjvQ8",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

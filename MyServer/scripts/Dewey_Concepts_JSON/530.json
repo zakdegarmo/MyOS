@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kpmXQjmQ8xTcVJBRBw4JMv6B",
+  "prefLabel": {
+    "no": "Fysikk",
+    "en": "Physics",
+    "de": "Physik",
+    "sv": "Fysik",
+    "fr": "Physique",
+    "it": "Fisica"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Energie, Materie, Antimaterie, klassische Physik; umfassende Werke über klassische Mechanik und Quantenmechanik"
+    ],
+    "en": [
+      "Class here energy, matter, antimatter, classical physics; comprehensive works on classical and quantum mechanics"
+    ],
+    "sv": [
+      "Klassificera här energi, materia, antimateria, klassisk fysik; övergripande verk om klassisk mekanik och kvantmekanik"
+    ],
+    "fr": [
+      "Classer ici l’énergie, la matière, l’antimatière, la physique classique ; les ouvrages généraux sur la mécanique classique et quantique"
+    ],
+    "no": [
+      "Her: Energi, materie, antimaterie, klassisk fysikk; oversiktsverker om klassisk mekanikk og kvantemekanikk"
+    ],
+    "it": [
+      "Classificare qui l'energia, la materia, l'antimateria, la fisica classica; le opere d'insieme su meccanica classica e meccanica quantistica"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2023-10-06T11:52:34Z",
+  "notation": "530",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

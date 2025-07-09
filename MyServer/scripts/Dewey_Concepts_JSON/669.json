@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y79m4MXKPcwhRW3Xd6cQGB7b",
+  "scopeNote": {
+    "no": [
+      "Her: Legeringer, ekstraktiv metallurgi, prosessmetallurgi, tverrfaglige verker om metaller"
+    ],
+    "sv": [
+      "Klassificera här legeringar, metallutvinning, processmetallurgi, tvärvetenskapliga verk om metaller"
+    ],
+    "it": [
+      "Classificare qui le leghe, la metallurgia estrattiva, il processo metallurgico, le opere interdisciplinari sui metalli"
+    ],
+    "en": [
+      "Class here alloys, extractive metallurgy, process metallurgy, interdisciplinary works on metals"
+    ],
+    "de": [
+      "Hier auch: Legierungen, erzeugende Metallurgie, metallurgische Prozesse, fächerübergreifende Werke über Metalle"
+    ],
+    "fr": [
+      "Classer ici les alliages, la métallurgie extractive, la métallurgie de transformation, les ouvrages interdisciplinaires sur les métaux"
+    ]
+  },
+  "prefLabel": {
+    "no": "Metallurgi",
+    "sv": "Metallurgi",
+    "it": "Metallurgia",
+    "fr": "Métallurgie",
+    "de": "Metallurgie",
+    "en": "Metallurgy"
+  },
+  "modified": "2025-05-13T01:18:38Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "669",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

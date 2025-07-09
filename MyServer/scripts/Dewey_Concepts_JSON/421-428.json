@@ -1,0 +1,48 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37t4GDpjJCkVmJyv8k7dCt6Cj",
+  "prefLabel": {
+    "no": "Inndeling av engelsk",
+    "de": "Unterklassen von Englisch",
+    "fr": "Subdivisions pour l'anglais",
+    "it": "Suddivisioni dell'inglese",
+    "en": "Subdivisions of English",
+    "sv": "Indelningar av engelska"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über Englisch und Altenglisch (Angelsächsisch)"
+    ],
+    "en": [
+      "Class here comprehensive works on English and Old English (Anglo-Saxon)"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sull'inglese e antico inglese (anglosassone)"
+    ],
+    "sv": [
+      "Klassificera här övergripnade verk om engelska och fornengelska (angloasxiska)"
+    ],
+    "no": [
+      "Her: Oversiktsverker om engelsk og gammelengelsk (angelsaksisk)"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur l'anglais et le vieil anglais (anglo-saxon)"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3gxfxc8dTpVvYcMVbdqfQ97dm",
+    "https://id.oclc.org/worldcat/ddc/E49BVYcPcmhWKgXVtdyTpXKCG7",
+    "https://id.oclc.org/worldcat/ddc/E3jHhWGkK3K4HCCDkXPkB6yjgd",
+    "https://id.oclc.org/worldcat/ddc/E3HXywGwghjxjHRDKgcrDfkxhD",
+    "https://id.oclc.org/worldcat/ddc/E3hPqgQbydMrX7XGfYBr6Wjd9k",
+    "https://id.oclc.org/worldcat/ddc/E3FkmDwFjwv9W6YBm3RbBgT834",
+    "https://id.oclc.org/worldcat/ddc/E3t9yxHgPPfY3y6VVGdQbyFxkk",
+    "https://id.oclc.org/worldcat/ddc/E34tWm3W7w8MQ343DCWVRmbCFy"
+  ],
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyBrwXhqT7JpFw7rtgbVjfcK",
+  "modified": "2022-01-18T10:57:02Z",
+  "created": "2010-02-04",
+  "notation": "421-428",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

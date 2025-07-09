@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3HDmY6MrVHTCcPCchFDmPfjVr",
+    "https://id.oclc.org/worldcat/ddc/E3pMt4xYhvgC9y9qMbXb8HFgk4",
+    "https://id.oclc.org/worldcat/ddc/E3Hyj4bHRMrYYxV88QpqWrFDFd",
+    "https://id.oclc.org/worldcat/ddc/E36Y6PwYMJ4BR8qpQD38JfKJB9",
+    "https://id.oclc.org/worldcat/ddc/E44DbWmBtyHVwGwkJfmVvHryDT",
+    "https://id.oclc.org/worldcat/ddc/E4ckh6DwjRXrhKKft9P9RHjyR9",
+    "https://id.oclc.org/worldcat/ddc/E3V8DFYy4pYMRR9frd3W4DfKBk"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3kyJfFJxYB8K9dfxP9V64ptk7",
+  "prefLabel": {
+    "fr": "Sujets particuliers en psychologie",
+    "it": "Soggetti specifici in psicologia",
+    "de": "Einzelne Themen der Psychologie",
+    "en": "Specific topics in psychology",
+    "no": "Bestemte emner innen psykologi",
+    "sv": "Särskilda ämnen inom psykologi"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-20T06:37:21Z",
+  "created": "1996-06-01",
+  "notation": "152-158",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

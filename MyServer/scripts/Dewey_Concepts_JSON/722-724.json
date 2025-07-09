@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44h36RWgQQtG4JJYVRby86BxY",
+  "prefLabel": {
+    "it": "Scuole e stili architettonici",
+    "en": "Architectural schools and styles",
+    "de": "Schulen und Stile der Architektur",
+    "no": "Arkitektoniske retninger og stilarter",
+    "sv": "Arkitektoniska skolor och stilar",
+    "fr": "Écoles et styles architecturaux"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "722-724",
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3BGD9V9vDMrh3TXQtHbWbvxfh",
+    "https://id.oclc.org/worldcat/ddc/E44hwmYQbTFYhWhV9jftpbv66X",
+    "https://id.oclc.org/worldcat/ddc/E4bgD47bjM7ckvfFQTPQh3FD84"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

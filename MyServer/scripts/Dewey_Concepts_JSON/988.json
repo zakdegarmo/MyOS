@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3d3wYXXRF3qYjHRf7xPqqBcvY",
+  "prefLabel": {
+    "en": "Guiana",
+    "de": "Guayana",
+    "sv": "Guyana (Guyanastaterna)",
+    "it": "Guiana",
+    "fr": "Guyanes",
+    "no": "Guiana"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "type": "Concept",
+  "notation": "988",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2022-01-19T13:54:19Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

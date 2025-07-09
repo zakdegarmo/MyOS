@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wFYqT6Y46PxKpTXVCbbKwfFm",
+  "notation": "354",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mCRMyvKtph7kTXXXVcWGTgFx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Public administration of economy and environment",
+    "sv": "Offentlig förvaltning av ekonomi och miljö",
+    "it": "Amministrazione pubblica dell'economia e dell'ambiente",
+    "de": "Öffentliche Verwaltung von Wirtschaft und Umwelt",
+    "fr": "Administration publique de l’économie et de l’environnement",
+    "no": "Offentlig administrasjon av økonomi og miljø"
+  },
+  "created": "1998-10-27",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

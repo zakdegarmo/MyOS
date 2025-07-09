@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46q8dWptFBQTYMHjVRTprFm8d",
+  "prefLabel": {
+    "fr": "Statistiques générales de l'Amérique du Sud",
+    "en": "General statistics of South America",
+    "de": "Allgemeine Statistiken zu Südamerika",
+    "no": "Generell statistikk for Sør-Amerika",
+    "sv": "Allmän statistik för Sydamerika",
+    "it": "Statistiche generali del Sudamerica"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "notation": "318",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-02-03T19:58:09Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

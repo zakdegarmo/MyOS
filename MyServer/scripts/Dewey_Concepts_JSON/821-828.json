@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "prefLabel": {
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature anglaise",
+    "no": "Tilføyelser for bestemte former av engelsk litteratur",
+    "de": "Unterklassen für einzelne Gattungen der englischen Literatur",
+    "en": "Subdivisions for specific forms of English literature",
+    "sv": "Indelningar för särskilda former av engelsk litteratur",
+    "it": "Suddivisioni della letteratura inglese in base a specifiche forme"
+  },
+  "notation": "821-828",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3mCT8yPk9hpHVXGMxtbtkYBQy",
+    "https://id.oclc.org/worldcat/ddc/E3hYCvbgVGC6CBqht9pjvq74H9",
+    "https://id.oclc.org/worldcat/ddc/E3kWKmTC3mfT6gk8mwyKqj7xyj",
+    "https://id.oclc.org/worldcat/ddc/E3P4gCj6KY73jwR7W7wycmdwM3",
+    "https://id.oclc.org/worldcat/ddc/E3Jbb9fd87D4wJCr6HkgdYR7jY",
+    "https://id.oclc.org/worldcat/ddc/E3JgHtgK4cWDB9XYmVPtGqQBrb",
+    "https://id.oclc.org/worldcat/ddc/E3QVGhvQpPKkHcYMpghbv9RD4c",
+    "https://id.oclc.org/worldcat/ddc/E34V3CpMdHTpbTFCvWj3cQgRp6"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FVVQkWGwJXDVkYBpy7rCQVQF",
+  "type": "Concept",
+  "created": "2010-02-04",
+  "modified": "2024-11-20T06:37:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Jbb9fd87D4wJCr6HkgdYR7jY",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "notation": "828",
+  "prefLabel": {
+    "de": "Englische vermischte Schriften",
+    "en": "English miscellaneous writings",
+    "sv": "Diverse engelska texter",
+    "fr": "Écrits divers anglais",
+    "it": "Miscellanea inglese",
+    "no": "Engelske diverse skrifter"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2023-05-30T08:46:15Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

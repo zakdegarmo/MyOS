@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Hyj4bHRMrYYxV88QpqWrFDFd",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "no": [
+      "Sammenligning av menneskers og andre organismers psykologi; studiet av andre organismer for å belyse menneskelig atferd"
+    ],
+    "sv": [
+      "Jämförande av människans psykologi med andra arters psykologi; studiet av andra arter för att belysa mänskligt beteende"
+    ],
+    "en": [
+      "Comparison of human psychology and the psychology of other organisms; study of other organisms to elucidate human behavior"
+    ],
+    "de": [
+      "Vergleich der Psychologie des Menschen und der Psychologie anderer Organismen; Untersuchung anderer Organismen zur Erklärung menschlichen Verhaltens"
+    ],
+    "it": [
+      "Confronto tra la psicologia umana e la psicologia degli altri organismi; studio di altri organismi per spiegare il comportamento umano"
+    ],
+    "fr": [
+      "Comparaison entre la psychologie de l’être humain et la psychologie d’autres organismes ; étude d’autres organismes pour mieux comprendre le comportement humain"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "prefLabel": {
+    "en": "Comparative psychology",
+    "it": "Psicologia comparata",
+    "sv": "Jämförande psykologi",
+    "fr": "Psychologie comparée",
+    "de": "Vergleichende Psychologie",
+    "no": "Komparativ (sammenlignende) psykologi"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-11-13T14:41:24Z",
+  "type": "Concept",
+  "notation": "156",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

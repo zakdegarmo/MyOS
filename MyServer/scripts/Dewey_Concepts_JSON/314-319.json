@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "prefLabel": {
+    "en": "General statistics of specific continents, countries, localities in modern world",
+    "no": "Generell statistikk for bestemte verdensdeler, stater, lokalområder i nyere tid",
+    "fr": "Statistiques générales par continents, pays, localités particuliers du monde moderne",
+    "de": "Allgemeine Statistiken einzelner Kontinente, Länder, Ortschaften der Neuzeit",
+    "sv": "Allmän statistik för särskilda världsdelar, länder, orter i den moderna världen",
+    "it": "Statistiche generali di specifici continenti, paesi, località del mondo moderno"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VCYqcy3CJcvhBjh8V4WwFTJf",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46q8dWptFBQTYMHjVRTprFm8d",
+    "https://id.oclc.org/worldcat/ddc/E38jPQ6R663wVHbY6y7kHHQTbq",
+    "https://id.oclc.org/worldcat/ddc/E4bFmM38HgdDBYpY6tRH6P8Btk",
+    "https://id.oclc.org/worldcat/ddc/E3K86ftyp3wM9QfPw7GYVgGHVQ",
+    "https://id.oclc.org/worldcat/ddc/E44kVbHBDMrvhcPwVbyDX6Bhfd",
+    "https://id.oclc.org/worldcat/ddc/E3kRbbRqfjQx66VB9qYMDbjTpg"
+  ],
+  "notation": "314-319",
+  "type": "Concept",
+  "created": "1998-10-27",
+  "modified": "2021-01-19T07:51:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

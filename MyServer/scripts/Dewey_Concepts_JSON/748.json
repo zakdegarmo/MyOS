@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3r94gbxcrcmtP84Dr4bFQ7pxp",
+  "prefLabel": {
+    "de": "Glaskunst",
+    "fr": "Verre",
+    "no": "Glass",
+    "sv": "Glas",
+    "en": "Glass",
+    "it": "Vetro"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Classificare qui gli oggetti in vetro"
+    ],
+    "sv": [
+      "Klassificera här glasvaror (glasartiklar)"
+    ],
+    "no": [
+      "Her: Glasstøy"
+    ],
+    "en": [
+      "Class here glassware"
+    ],
+    "de": [
+      "Hier auch: Glasware"
+    ],
+    "fr": [
+      "Classer ici la verrerie"
+    ]
+  },
+  "modified": "2024-09-03T10:30:22Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "748",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tdmRTTHmcbhvkKQCrycvrTR3",
+  "modified": "2022-12-26T20:53:59Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "prefLabel": {
+    "de": "China bis 420",
+    "no": "Kina fram til 420",
+    "it": "Cina, fino al 420",
+    "en": "China to 420",
+    "fr": "Chine jusqu’à 420",
+    "sv": "Kina före 420"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "931",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

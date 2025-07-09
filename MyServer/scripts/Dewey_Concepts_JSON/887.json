@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VGBmcx9BkPvXtDRfxhB8rtrm",
+  "prefLabel": {
+    "it": "Satira e umorismo greco classico",
+    "no": "Klassisk gresk humor og satire",
+    "sv": "Klassisk grekisk humor och satir",
+    "fr": "Humour et satire grecs classiques",
+    "en": "Classical Greek humor and satire",
+    "de": "Griechischer Humor und griechische Satire in klassischem Griechisch"
+  },
+  "created": "1996-06-01",
+  "modified": "2022-03-08T07:08:32Z",
+  "type": "Concept",
+  "notation": "887",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

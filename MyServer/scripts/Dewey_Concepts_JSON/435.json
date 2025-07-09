@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3G98kW4WCwjDdR6jWBWDb3rmY",
+  "prefLabel": {
+    "sv": "Grammatik gällande standardtyska",
+    "en": "Grammar of standard German",
+    "it": "Grammatica del tedesco standard",
+    "fr": "Grammaire de l’allemand standard",
+    "no": "Standard tysk grammatikk",
+    "de": "Grammatik des Deutschen"
+  },
+  "modified": "2021-02-18T12:26:24Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FRCY7jyVbHXTJ9YyP7pXM8Bk",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "435",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

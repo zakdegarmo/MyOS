@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44bt8Yvm89pq7Wtkm8FfbPFkp",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Algérie",
+    "en": "Algeria",
+    "de": "Algerien",
+    "sv": "Algeriet",
+    "no": "Algerie",
+    "it": "Algeria"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "965",
+  "modified": "2021-07-24T12:01:56Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

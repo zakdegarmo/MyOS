@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Wbch8xDkdk6cVy8VPCCMhrBF",
+  "prefLabel": {
+    "sv": "Medborgerliga och politiska rättigheter",
+    "fr": "Droits civils et droits politiques",
+    "it": "Diritti civili e politici",
+    "en": "Civil and political rights",
+    "no": "Sivile rettigheter og politiske rettigheter",
+    "de": "Grundrechte und politische Rechte"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Menneskerettigheter, personlig frihet; statens forhold til sine borgere"
+    ],
+    "en": [
+      "Class here civil liberties, human rights, individual freedom, rights of humanity; relations of the state to its residents"
+    ],
+    "fr": [
+      "Classer ici les droits de l’homme, les droits de la personne, les libertés civiles, les libertés individuelles ; les relations de l’État avec ses résidents"
+    ],
+    "it": [
+      "Classificare qui i diritti dell'umanità, i diritti umani, le libertà civili, la libertà individuale; le relazioni dello stato coi suoi residenti"
+    ],
+    "sv": [
+      "Klassificera här medborgerliga friheter, mänskliga rättigheter, individens frihet; statens relationer till dess invånare"
+    ],
+    "de": [
+      "Hier auch: Bürgerrechte, Menschenrechte, Freiheitsrechte, Menschheitsrechte; Beziehungen des Staats zu seinen Einwohnern"
+    ]
+  },
+  "type": "Concept",
+  "modified": "2023-09-01T13:19:46Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "323",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

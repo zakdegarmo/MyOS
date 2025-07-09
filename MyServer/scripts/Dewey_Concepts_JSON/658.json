@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48YPvkG3ycmhhHvd9XgBJFT8c",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Kj3G3gqBqRHtqyRP7QYYTym",
+  "modified": "2025-07-04T19:51:58Z",
+  "prefLabel": {
+    "de": "Allgemeines Management",
+    "fr": "Gestion générale",
+    "no": "Ledelse og bedriftsøkonomi",
+    "it": "Gestione generale",
+    "sv": "Allmän företagsledning",
+    "en": "General management"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here general business management, general industrial management; administration of public agencies that themselves provide direct services (in contrast to public agencies that regulate, support, or control services provided by other organizations)"
+    ],
+    "it": [
+      "Classificare qui la gestione generale delle imprese, la gestione industriale generale; l'amministrazione di agenzie pubbliche che forniscono direttamente servizi (a differenza delle agenzie pubbliche che regolamentano, appoggiano o controllano servizi forniti da altre organizzazioni)"
+    ],
+    "fr": [
+      "Classer ici la gestion générale des affaires, la gestion générale d'entreprise ; l'administration des organismes publics qui fournissent eux-mêmes des services directs (comparativement aux organismes publics qui réglementent, soutiennent ou contrôlent les services fournis par d'autres organisations)"
+    ],
+    "de": [
+      "Hier auch: allgemeine Betriebsführung, allgemeines Industriemanagement; Management öffentlicher Behörden, die direkte Dienstleistungen anbieten (im Gegensatz zu öffentlichen Behörden, die von anderen Organisationen angebotene Dienste regulieren, unterstützen oder kontrollieren)"
+    ],
+    "sv": [
+      "Klassificera här allmän affärsverksamhet, allmän företagsledning inom industrin; ledning av offentliga organ som själva erbjuder tjänster utåt (i motsats till offentliga organ som reglerar, stöder eller kontrollerar tjänster som andra organisationer tillhandahåller)"
+    ],
+    "no": [
+      "Her: Generell bedriftsledelse, generell industriell ledelse; ledelse av offentlige etater som selv yter direkte tjenester (i motsetning til offentlige etater som regulerer, støtter eller kontrollerer tjenester som ytes av andre organisasjoner)"
+    ]
+  },
+  "notation": "658",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

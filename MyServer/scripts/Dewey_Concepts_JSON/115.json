@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gCP8JKWtgbwvcg8vYbc8MyFV",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36wJVYhXxFYxvDCTBQdqGgfjy",
+  "prefLabel": {
+    "it": "Tempo",
+    "de": "Zeit",
+    "en": "Time",
+    "sv": "Tid",
+    "fr": "Temps",
+    "no": "Tid"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Include l'eternità, lo spazio e il tempo, lo spazio-tempo, la relazione fra tempo e moto"
+    ],
+    "no": [
+      "Inkluderer: Evighet, tid og rom, romtid, forholdet mellom tid og bevegelse"
+    ],
+    "sv": [
+      "Omfattar evighet, rum och tid, rumtid, relationen mellan tid och rörelse"
+    ],
+    "en": [
+      "Including eternity, space and time, space-time, relation of time and motion"
+    ],
+    "fr": [
+      "Y compris l’éternité, l’espace et le temps, l’espace-temps, la relation entre le  temps et le mouvement"
+    ],
+    "de": [
+      "Einschließlich: Ewigkeit, Raum und Zeit, Raum-Zeit, Verhältnis von Zeit und Bewegung"
+    ]
+  },
+  "modified": "2024-11-05T14:56:30Z",
+  "notation": "115",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

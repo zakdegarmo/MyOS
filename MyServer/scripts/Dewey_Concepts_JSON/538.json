@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48qrp9xPcTJb3twpDrqXhmJjb",
+  "prefLabel": {
+    "no": "Magnetisme",
+    "sv": "Magnetism",
+    "en": "Magnetism",
+    "de": "Magnetismus",
+    "it": "Magnetismo",
+    "fr": "Magnétisme"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "538",
+  "modified": "2023-10-06T11:52:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

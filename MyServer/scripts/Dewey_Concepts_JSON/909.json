@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fCtK8MHpc6cqQj3BJwjF9MJT",
+  "scopeNote": {
+    "sv": [
+      "Civilisationer och händelser ej begränsade till världsdel, land, ort"
+    ],
+    "no": [
+      "Kulturer og begivenheter som ikke er geografisk begrenset"
+    ],
+    "it": [
+      "Civiltà e avvenimenti non limitati a un continente, un paese, una località"
+    ],
+    "de": [
+      "Zivilisation und Ereignisse nicht begrenzt auf Kontinent, Land, Ortschaft"
+    ],
+    "fr": [
+      "Civilisation et événements non limités par continent, pays, localité"
+    ],
+    "en": [
+      "Civilization and events not limited by continent, country, locality"
+    ]
+  },
+  "prefLabel": {
+    "no": "Verdenshistorie",
+    "fr": "Histoire universelle",
+    "sv": "Världshistoria",
+    "it": "Storia mondiale",
+    "de": "Weltgeschichte",
+    "en": "World history"
+  },
+  "modified": "2025-02-18T13:44:40Z",
+  "type": "Concept",
+  "notation": "909",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

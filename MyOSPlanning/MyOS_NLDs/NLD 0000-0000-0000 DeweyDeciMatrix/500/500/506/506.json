@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CqKBCkdfpGrwj4yJJhRhJTTT",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Organisationer och ledning (management)",
+    "de": "Organisationen und Management",
+    "en": "Organizations and management",
+    "it": "Organizzazioni e gestione",
+    "fr": "Organisations et gestion",
+    "no": "Organisasjoner og ledelse"
+  },
+  "modified": "2019-02-13T12:50:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E499djpPht98Yy6KgYTDPKWKFK",
+  "notation": "506",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cF94Hghfp7V69RKXDDgcxwJG",
+  "scopeNote": {
+    "de": [
+      "Hier auch: religiöse Kongregationen und Orden in der Kirchenorganisation; Mönchtum, umfassende Werke über christliche religiöse Kongregationen und Orden"
+    ],
+    "it": [
+      "Classificare qui le congregazioni e gli ordini religiosi nell'organizzazione della chiesa; il monachesimo, le opere d'insieme sulle congregazioni e gli ordini religiosi cristiani"
+    ],
+    "fr": [
+      "Classer ici les congrégations et les ordres religieux dans l’ensemble de l’organisation ecclésiale ; le monachisme, les ouvrages généraux sur les congrégations et les ordres religieux chrétiens"
+    ],
+    "sv": [
+      "Klassificera här religiösa sammanslutningar och ordnar inom kyrkans organisation; montasticism, övergripande verk om kristna religiösa sammanslutningar och ordnar"
+    ],
+    "no": [
+      "Her: Religiøse kongregasjoner og ordener i kirkelig organisering, oversiktsverker om kristne kongregasjoner og ordener"
+    ],
+    "en": [
+      "Class here religious congregations and orders in church organization; monasticism, comprehensive works on Christian religious congregations and orders"
+    ]
+  },
+  "prefLabel": {
+    "no": "Religiøse kongregasjoner og ordener",
+    "it": "Congregazioni e ordini religiosi",
+    "fr": "Congrégations et ordres religieux",
+    "de": "Religiöse Kongregationen und Orden",
+    "sv": "Religiösa sammanslutningar och ordnar",
+    "en": "Religious congregations and orders"
+  },
+  "notation": "255",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-13T14:41:24Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38RKbjpcKMwfJfHWq3B7Wqwh7",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

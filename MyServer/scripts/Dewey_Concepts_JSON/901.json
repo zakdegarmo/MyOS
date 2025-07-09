@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wfBxFPVkWRpFbvFjr3Qdggfb",
+  "modified": "2018-02-05T17:11:51Z",
+  "prefLabel": {
+    "de": "Geschichtsphilosophie und Geschichtstheorie",
+    "sv": "Filosofi och teori gällande historia",
+    "en": "Philosophy and theory of history",
+    "no": "Filosofi og teori innen historie",
+    "fr": "Philosophie et théorie de l’histoire",
+    "it": "Filosofia e teoria della storia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "created": "1996-06-01",
+  "notation": "901",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

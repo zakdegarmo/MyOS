@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xqc7Xgx8CM97qm3RCR8XP8jr",
+  "scopeNote": {
+    "it": [
+      "Include l'arredo urbano, le infrastrutture per i pedoni",
+      "Rapporto tra edifici, terrazze, recinti, cancelli, scale, accessori ornamentali e gli altri elementi dell'architettura del paesaggio"
+    ],
+    "no": [
+      "Inkluderer: Fasiliteter for fotgjengere; gatemøbler",
+      "Forholdet mellom bygninger, terrasser, gjerder, porter, trinn, ornamenter og andre elementer i landskapsarkitektur"
+    ],
+    "fr": [
+      "Y compris les aménagements pour piétons, le mobilier urbain",
+      "Rapports entre les bâtiments, les terrasses, les clôtures, les portails, les escaliers, les accessoires décoratifs et les autres éléments de l’architecture du paysage"
+    ],
+    "sv": [
+      "Omfattar miljöer avsedda för gångtrafikanter, gatumöbler",
+      "Förhållanden mellan byggnader, terrasser, inhägnader, portar, markplattor (trappsteg), dekorativa kompletteringar till element inom landskapsarkitektur"
+    ],
+    "en": [
+      "Relationship of buildings, terraces, fences, gates, steps, ornamental accessories to other elements of landscape architecture",
+      "Including pedestrian facilities, street furniture"
+    ],
+    "de": [
+      "Einschließlich: Fußgängeranlagen, Straßenmöblierung",
+      "Gestalterische Beziehungen von Gebäuden, Terrassen, Zäunen, Pforten, Treppen, schmückende oder andere Elemente in der Landschaftsgestaltung"
+    ]
+  },
+  "notation": "717",
+  "prefLabel": {
+    "fr": "Structures dans l’architecture du paysage",
+    "no": "Konstruksjoner i landskapsarkitektur",
+    "en": "Structures in landscape architecture",
+    "it": "Strutture nell'architettura del paesaggio",
+    "sv": "Strukturer inom landskapsarkitektur",
+    "de": "Andere Gestaltungselemente"
+  },
+  "modified": "2025-06-17T01:13:52Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

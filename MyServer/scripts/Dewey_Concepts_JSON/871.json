@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vFW9RrVMWw3xj8Wd4k9BfBRP",
+  "prefLabel": {
+    "no": "Latinsk poesi",
+    "en": "Latin poetry",
+    "sv": "Latinsk poesi",
+    "de": "Lateinische Versdichtung",
+    "fr": "Poésie latine",
+    "it": "Poesia latina"
+  },
+  "modified": "2021-05-28T10:24:11Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "871",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4ckdCTMdtHjdxPWxw7PttHQBy",
+  "prefLabel": {
+    "it": "Messico, America Centrale, Indie occidentali, Bermude   ",
+    "no": "Mexico, Mellom-Amerika, Vestindia, Bermuda",
+    "en": "Mexico, Central America, West Indies, Bermuda",
+    "sv": "Mexiko, Centralamerika, Västindien, Bermuda",
+    "de": "Mexiko, Zentralamerika, Westindien (Antillen), Bermudainseln",
+    "fr": "Mexique, Amérique centrale, Antilles, Bermudes"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui il Centroamerica (Middle America)"
+    ],
+    "de": [
+      "Hier auch: Mittelamerika"
+    ],
+    "en": [
+      "Class here Middle America"
+    ],
+    "no": [
+      "Her: Midtre Amerika"
+    ],
+    "sv": [
+      "Klassificera här Mellanamerika"
+    ],
+    "fr": [
+      "Classer ici l'Amérique moyenne (Méso-Amérique)"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "972",
+  "created": "1996-06-01",
+  "modified": "2025-02-01T12:54:52Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

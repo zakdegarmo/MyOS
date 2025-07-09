@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TKDDCBpmhpJt3T4WGY6YTfhp",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-08-27T09:23:11Z",
+  "prefLabel": {
+    "sv": "Etymologi gällande standardfranska",
+    "de": "Etymologie des Französischen",
+    "en": "Etymology of standard French",
+    "no": "Standard fransk etymologi",
+    "fr": "Étymologie du français standard",
+    "it": "Etimologia del francese standard"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "created": "1996-06-01",
+  "notation": "442",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

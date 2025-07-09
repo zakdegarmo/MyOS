@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38bYCrQ7pPd4WGkFb3b4wmkYr",
+  "prefLabel": {
+    "fr": "Questions concernant la politique publique en matière d’éducation",
+    "de": "Bildungspolitik",
+    "no": "Utdanningspolitikk",
+    "en": "Public policy issues in education",
+    "it": "Questioni di politica pubblica nell'educazione",
+    "sv": "Utbildningspolitiska frågor"
+  },
+  "scopeNote": {
+    "it": [
+      "Questioni di politica pubblica a qualsiasi livello dell'educazione"
+    ],
+    "fr": [
+      "Questions concernant la politique publique à n’importe quel niveau de l'éducation"
+    ],
+    "sv": [
+      "Utbildningspolitiska frågor på alla utbildningsnivåer"
+    ],
+    "en": [
+      "Public policy issues at any level of education"
+    ],
+    "de": [
+      "Themen der Bildungspolitik unabhängig von der Bildungsstufe"
+    ],
+    "no": [
+      "Utdanningspolitikk knyttet til hvilket som helst utdanningstrinn"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "379",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "type": "Concept",
+  "modified": "2025-03-04T03:06:41Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

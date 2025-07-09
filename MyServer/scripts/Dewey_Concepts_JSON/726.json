@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3R7mgDMjhhDcbfXmTptKYrjjY",
+  "prefLabel": {
+    "en": "Buildings for religious and related purposes",
+    "fr": "Édifices religieux et édifices à usages connexes",
+    "sv": "Byggnader för religiösa och liknande ändamål",
+    "it": "Edifici per usi religiosi e connessi alla religione",
+    "de": "Gebäude für religiöse und verwandte Zwecke",
+    "no": "Bygninger for religiøse og lignende formål"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "726",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

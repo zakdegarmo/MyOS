@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38jPQ6R663wVHbY6y7kHHQTbq",
+  "notation": "315",
+  "prefLabel": {
+    "sv": "Allmän statistik för Asien",
+    "it": "Statistiche generali dell'Asia",
+    "de": "Allgemeine Statistiken zu Asien",
+    "fr": "Statistiques générales de l'Asie",
+    "no": "Generell statistikk for Asia",
+    "en": "General statistics of Asia"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-02-03T19:58:09Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46d67tWXg6KprQpWTC4YV8g8f",
+  "prefLabel": {
+    "no": "Bergsonisme og intuisjonisme",
+    "sv": "Bergsonianism och intuitionism",
+    "it": "Bergsonismo e intuizionismo",
+    "en": "Bergsonism and intuitionism",
+    "de": "Bergsonismus und Intuitionismus",
+    "fr": "Bergsonisme et intuitionnisme"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "notation": "143",
+  "modified": "2020-12-07T09:57:01Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

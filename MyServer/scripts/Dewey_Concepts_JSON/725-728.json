@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+  "scopeNote": {
+    "no": [
+      "Her: Utvikling av arkitektoniske retninger og stilarter, oversiktsverker om bestemte byggverk og deres innvendige utforming og utsmykning, tverrfaglige verker om design og konstruksjon"
+    ],
+    "fr": [
+      "Classer ici l’histoire des écoles et des styles architecturaux, les ouvrages généraux sur les bâtiments particuliers, leur architecture et décoration intérieures, les ouvrages interdisciplinaires sur la conception et la construction"
+    ],
+    "it": [
+      "Classificare qui la storia delle scuole e degli stili architettonici, le opere d'insieme sulle specifiche strutture e la progettazione e decorazione dei loro interni, le opere interdisciplinari su progettazione e costruzione di specifiche strutture"
+    ],
+    "sv": [
+      "Klassificera här utveckling av skolor och stilar inom arkitektur, övergripande verk om särskilda anläggningar och inredningsformgivning och utsmyckning av dem, tvärvetenskapliga verk om formgivning och konstruktion"
+    ],
+    "de": [
+      "Hier auch: Entwicklung von Schulen und Stilen der Architektur, umfassende Werke über einzelne Bauwerke und ihre Raumgestaltung und Innendekorationen, fächerübergreifende Werke über Entwurf und Gestaltung"
+    ],
+    "en": [
+      "Class here development of architectural schools and styles, comprehensive works on specific structures and their interior design and decorations, interdisciplinary works on design and construction"
+    ]
+  },
+  "modified": "2022-06-11T12:12:47Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Dg3mPRBJkqpP89TTR8JJT73v",
+    "https://id.oclc.org/worldcat/ddc/E3kgq3fwytqMChtYXcJkkGV9bp",
+    "https://id.oclc.org/worldcat/ddc/E3KjfMqVd6dKmKVYHdRK6x6BWC",
+    "https://id.oclc.org/worldcat/ddc/E3R7mgDMjhhDcbfXmTptKYrjjY"
+  ],
+  "prefLabel": {
+    "sv": "Särskilda typer av anläggningar",
+    "fr": "Catégories particulières de bâtiments",
+    "en": "Specific types of structures",
+    "it": "Specifici tipi di struttura",
+    "de": "Einzelne Typen von Bauwerken",
+    "no": "Bestemte typer byggverk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "725-728",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

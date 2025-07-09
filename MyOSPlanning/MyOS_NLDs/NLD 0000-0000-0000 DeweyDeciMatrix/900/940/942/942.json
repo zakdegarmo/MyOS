@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E383cDPr6MDdbwqM3TjryYyfKy",
+  "prefLabel": {
+    "de": "England und Wales",
+    "en": "England and Wales",
+    "sv": "England och Wales",
+    "fr": "Angleterre et Pays de Galles",
+    "no": "England og Wales",
+    "it": "Inghilterra e Galles"
+  },
+  "created": "1998-10-27",
+  "notation": "942",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "modified": "2023-09-26T05:23:28Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

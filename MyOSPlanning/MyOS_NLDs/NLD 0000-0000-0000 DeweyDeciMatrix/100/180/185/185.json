@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FMc7f7DVrVjg9JtxhhDt3K6y",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "no": [
+      "Her: Oversiktsverker om aristotelisk filosofi og nyaristotelisme"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om aristotelisk och nyaristotelisk filosofi"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla filosofia aristotelica e sul neoaristotelismo"
+    ],
+    "en": [
+      "Class here comprehensive works on Aristotelian and Neo-Aristotelian philosophy"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über aristotelische und neoaristotelische Philosophie"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur l’aristotélisme et le néo-aristotélisme"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Aristotelisk filosofi",
+    "it": "Filosofia aristotelica",
+    "no": "Aristotelisk filosofi",
+    "fr": "Aristotélisme",
+    "de": "Aristotelische Philosophie",
+    "en": "Aristotelian philosophy"
+  },
+  "notation": "185",
+  "type": "Concept",
+  "modified": "2019-01-14T22:41:04Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

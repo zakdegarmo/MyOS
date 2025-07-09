@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dDTXcjrRxjThK7cqbCPK3YdY",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "scopeNote": {
+    "en": [
+      "Class here paranormal phenomena, frauds in occultism"
+    ],
+    "no": [
+      "Her: Paranormale fenomener, bedragerier innen okkultisme"
+    ],
+    "fr": [
+      "Classer ici les phénomènes paranormaux, les fraudes en matière d'occultisme"
+    ],
+    "de": [
+      "Hier auch: paranormale Phänomene, Betrug im Okkultismus"
+    ],
+    "sv": [
+      "Klassificera här paranormala fenomen, bedrägerier inom ockultism"
+    ],
+    "it": [
+      "Classificare qui i fenomeni paranormali, le frodi nell'occultismo"
+    ]
+  },
+  "notation": "130",
+  "prefLabel": {
+    "de": "Parapsychologie und Okkultismus",
+    "en": "Parapsychology and occultism",
+    "sv": "Parapsykologi och ockultism",
+    "fr": "Parapsychologie et occultisme",
+    "no": "Parapsykologi og okkultisme",
+    "it": "Parapsicologia e occultismo"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2025-06-10T04:34:50Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

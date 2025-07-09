@@ -1,0 +1,49 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bkxKxQcMd8yRRFpkFMqWRkvw",
+  "prefLabel": {
+    "it": "Letterature di specifiche lingue e famiglie linguistiche",
+    "no": "Bestemte språks og språkgruppers litteraturer",
+    "de": "Literaturen einzelner Sprachen und Sprachfamilien",
+    "fr": "Littératures des langues et familles de langues particulières",
+    "en": "Literatures of specific languages and language families",
+    "sv": "Litteraturer på särskilda språk och från särskilda språkfamiljer"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här samlingar av texter från litteraturer på två språk; historia, beskrivning, kritik av litteratur på två språk"
+    ],
+    "it": [
+      "Classificare qui le raccolte di testi di letterature in due lingue; la storia, la descrizione, lo studio critico di letterature in due lingue"
+    ],
+    "fr": [
+      "Classer ici les recueils de textes appartenant à la littérature de deux langues ; l'histoire, l’analyse, la critique portant sur la littérature de deux langues"
+    ],
+    "en": [
+      "Class here collections of texts from literatures of two languages; history, description, critical appraisal of literatures of two languages"
+    ],
+    "no": [
+      "Her: Samlinger av litterære tekster fra to språks litteraturer; historie, beskrivelse, kritisk vurdering av to språks litteraturer"
+    ],
+    "de": [
+      "Hier auch: Sammlungen von Texten aus Literaturen zweier Sprachen; Geschichte, Darstellung, kritische Bewertung von Literaturen zweier Sprachen"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3VPVRyYy7TpBhRPXrFW6mp6HX",
+    "https://id.oclc.org/worldcat/ddc/E44Q8p4J8FRFBBBFMHGCqYDPF6",
+    "https://id.oclc.org/worldcat/ddc/E3VpFb64j7Tvh9vmkF7xwFdc7M",
+    "https://id.oclc.org/worldcat/ddc/E3fpXkCTxtHTDGjhrXb4cCGY6X",
+    "https://id.oclc.org/worldcat/ddc/E38Hrr8yHtJ7mcVvRHVWqY8WpK",
+    "https://id.oclc.org/worldcat/ddc/E3jjwKWQrjy9DxTCCW7j8Gck3b",
+    "https://id.oclc.org/worldcat/ddc/E3D4VXXW8jgkBwVYwG8cVWyR66",
+    "https://id.oclc.org/worldcat/ddc/E3FVVQkWGwJXDVkYBpy7rCQVQF",
+    "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x"
+  ],
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-12-02T07:13:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PK96PcYmPw6vwM4p8KxK4r3r",
+  "notation": "810-890",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

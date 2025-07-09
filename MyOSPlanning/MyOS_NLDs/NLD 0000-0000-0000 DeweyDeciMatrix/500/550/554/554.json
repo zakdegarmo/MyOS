@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49gbF7PbprXdm9HJHJ4c4Dhgt",
+  "prefLabel": {
+    "fr": "Sciences de la Terre de l'Europe",
+    "it": "Scienze della Terra dell'Europa",
+    "en": "Earth sciences of Europe",
+    "no": "Geovitenskap vedrørende Europa",
+    "de": "Geowissenschaften Europas",
+    "sv": "Geovetenskaper gällande Europa"
+  },
+  "notation": "554",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+  "modified": "2020-09-14T05:58:10Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

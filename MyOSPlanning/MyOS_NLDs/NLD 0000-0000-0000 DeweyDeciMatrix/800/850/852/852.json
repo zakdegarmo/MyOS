@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bQkXqV47dhfVdhctCCXrDHf3",
+  "prefLabel": {
+    "fr": "Œuvres dramatiques italiennes",
+    "sv": "Italiensk dramatik",
+    "en": "Italian drama",
+    "no": "Italiensk drama",
+    "de": "Italienische Dramen",
+    "it": "Letteratura drammatica italiana"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "852",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-12-27T20:44:43Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

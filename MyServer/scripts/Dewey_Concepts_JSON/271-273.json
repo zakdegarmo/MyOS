@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Kw4jwwHk9jbR9fH3GQC6J4Wy",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Spezielle Themen der Kirchengeschichte",
+    "it": "Soggetti speciali di storia della chiesa",
+    "no": "Spesielle kirkehistoriske emner",
+    "sv": "Särskilda ämnen i kyrkohistoria",
+    "fr": "Sujets particuliers de l’histoire de l’Église",
+    "en": "Special topics of church history"
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E39yyCFXPdCQY8rFqJ8WFBBp4P",
+    "https://id.oclc.org/worldcat/ddc/E3K7g7pVr8GHyX4jHgFj3FgCBk",
+    "https://id.oclc.org/worldcat/ddc/E3FG4P7r9FrCBkVC7MBd6qcq4X"
+  ],
+  "modified": "2020-04-06T12:30:58Z",
+  "notation": "271-273",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3V3MTtT4xT46jFhm6vfQQkBpt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

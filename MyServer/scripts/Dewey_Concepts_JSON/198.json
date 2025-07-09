@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Dk7GCQPvYJk7Thqw39gXDYkD",
+  "prefLabel": {
+    "it": "Filosofia della Scandinavia e della Finlandia",
+    "fr": "Philosophie de la Scandinavie et de la Finlande",
+    "no": "Filosofi i Skandinavia og Finland",
+    "de": "Philosophie Skandinaviens und Finnlands",
+    "sv": "Skandinaviens och Finlands filosofi",
+    "en": "Philosophy of Scandinavia and Finland"
+  },
+  "type": "Concept",
+  "modified": "2019-01-14T22:41:04Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "198",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

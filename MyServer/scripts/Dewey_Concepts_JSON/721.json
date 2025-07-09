@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3w6Dt4hHchrdpbdCPVC6rXv4w",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR",
+  "prefLabel": {
+    "fr": "Matériaux architecturaux et éléments de structure",
+    "en": "Architectural materials and structural elements",
+    "de": "Architektonische Materialien und Bauelemente",
+    "no": "Arkitektoniske materialer og konstruksjonselementer",
+    "sv": "Arkitektoniska material och byggnadsdelar",
+    "it": "Materiali architettonici e elementi strutturali"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-01-22T15:44:20Z",
+  "notation": "721",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}
