@@ -1,3 +1,6 @@
 [submodule "ext_libs/MemOS"]
 	path = ext_libs/MemOS
 	url = https://github.com/zakdegarmo/MemOS.git
+[submodule "MyWebsite"]
+	path = MyWebsite
+	url = https://github.com/zakdegarmo/Swerver.git
