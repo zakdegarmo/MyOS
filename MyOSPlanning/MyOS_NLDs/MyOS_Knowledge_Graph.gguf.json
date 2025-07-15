@@ -1,0 +1,15 @@
+{
+  "framework_version": "1.0",
+  "description": "A self-indexing, 9-dimensional recursive knowledge graph.",
+  "root": {
+    "coordinate": "0",
+    "type": "genesis_node",
+    "name": "MyOS Root",
+    "metadata": {
+      "created_utc": "2025-07-11T19:51:20.166144+00:00",
+      "ontology_version": "1.0 - Axiom of Mirrored Inversion",
+      "creator": "Architect-Primus"
+    },
+    "nodes": []
+  }
+}

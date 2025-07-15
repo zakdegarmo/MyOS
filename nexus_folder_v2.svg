@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="80px" viewBox="0 0 100 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:myos="https://github.com/zakdegarmo/MyOS-Core-Logic/wiki/MyOS-Ontology#">
+    
+    <metadata>
+        <rdf:RDF>
+            <rdf:Description rdf:about="">
+                <myos:Description>This SVG icon represents a 'Nexus Folder' within the MyOS. It is a container for interconnected concepts and self-serving data objects.</myos:Description>
+                <myos:Version>2.0</myos:Version>
+                <myos:Schema>
+                    <![CDATA[
+                        {
+                          "@context": {
+                            "type": "@type",
+                            "id": "@id",
+                            "ConceptScheme": "skos:ConceptScheme",
+                            "Concept": "skos:Concept",
+                            "ComplexSubject": "mads:ComplexSubject",
+                            "modified": {
+                              "@id": "http://purl.org/dc/terms/modified",
+                              "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+                            },
+                            "inScheme": {
+                              "@id": "http://www.w3.org/2004/02/skos/core#inScheme",
+                              "@type": "@id"
+                            },
+                            "prefLabel": {
+                              "@id": "skos:prefLabel",
+                              "@container": "@language",
+                              "@context": {
+                                "none": "@none"
+                              }
+                            },
+                            "altLabel": {
+                              "@id": "skos:altLabel",
+                              "@container": [
+                                "@language",
+                                "@set"
+                              ],
+                              "@context": {
+                                "none": "@none"
+                              }
+                            },
+                            "notation": {
+                              "@id": "http://www.w3.org/2004/02/skos/core#notation"
+                            },
+                            "broader": {
+                              "@id": "http://www.w3.org/2004/02/skos/core#broader",
+                              "@type": "@id"
+                            },
+                            "narrower": {
+                              "@id": "http://www.w3.org/2004/02/skos/core#narrower",
+                              "@type": "@id"
+                            },
+                            "mads": "http://www.loc.gov/mads/rdf/v1#",
+                            "dct": "http://purl.org/dc/terms/",
+                            "skos": "http://www.w3.org/2004/02/skos/core#"
+                          }
+                        }
+                    ]]>
+                </myos:Schema>
+            </rdf:Description>
+        </rdf:RDF>
+    </metadata>
+
+    <g id="NexusFolder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,10 L40,10 L42,15 L90,15 C95.5228475,15 100,19.4771525 100,25 L100,65 C100,70.5228475 95.5228475,75 90,75 L10,75 C4.4771525,75 0,70.5228475 0,65 L0,20 C0,14.4771525 4.4771525,10 10,10 Z" fill="#FFD700" fill-rule="nonzero"></path>
+        
+        <g id="Network" transform="translate(45.000000, 35.000000)" stroke="#000000" stroke-width="2">
+            <circle id="Node1" cx="5" cy="5" r="5"></circle>
+            <circle id="Node2" cx="35" cy="5" r="5"></circle>
+            <circle id="Node3" cx="20" cy="25" r="5"></circle>
+            <line x1="9" y1="8" x2="31" y2="8" id="Line1"></line>
+            <line x1="8" y1="9" x2="17" y2="22" id="Line2"></line>
+        </g>
+    </g>
+</svg>

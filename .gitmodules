@@ -4,3 +4,6 @@
 [submodule "MyWebsite"]
 	path = MyWebsite
 	url = https://github.com/zakdegarmo/Swerver.git
+[submodule "utilities/application_verifier"]
+	path = utilities/application_verifier
+	url = https://github.com/zakdegarmo/MyOS-Application-Verifier.git
