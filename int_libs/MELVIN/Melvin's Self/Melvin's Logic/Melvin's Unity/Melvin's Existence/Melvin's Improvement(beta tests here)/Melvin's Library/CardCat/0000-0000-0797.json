@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VmQF6Jfh8TmFRRdmfg4CryqT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Sport dell'acqua e dell'aria",
+    "en": "Aquatic and air sports",
+    "no": "Vannsport og luftsport",
+    "sv": "Vattensporter och luftsporter",
+    "de": "Wasser- und Luftsport",
+    "fr": "Sports nautiques et aériens"
+  },
+  "type": "Concept",
+  "modified": "2024-09-20T11:07:11Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "notation": "797",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

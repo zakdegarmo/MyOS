@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PcdwqV3yh67RPp7wjwdkwFGY",
+  "notation": "439",
+  "prefLabel": {
+    "en": "Other Germanic languages",
+    "fr": "Autres langues germaniques",
+    "no": "Andre germanske språk",
+    "it": "Altre lingue germaniche",
+    "de": "Andere germanische Sprachen",
+    "sv": "Övriga germanska språk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43xFhR6XvvDg3Q9b4JMYtBxT9",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-06-15T12:43:10Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

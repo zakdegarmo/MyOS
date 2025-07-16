@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VHKXcYtjX8FXbHtkqHvcR7gF",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les films fixes, les diapositives, les transparents ; les images numériques, les photographies, les épreuves",
+      "Collections, histoire, critique"
+    ],
+    "sv": [
+      "Samlingar, historia, kritik",
+      "Klassificera här bildband, diabilder, genomsiktsbilder; digitala bilder, fotografier, tryck"
+    ],
+    "de": [
+      "Hier auch: Filmstreifen, Dias, Diapositive; digitale Bildmaterialien, Fotografien, Abzüge",
+      "Sammlungen, Geschichte, Kritik"
+    ],
+    "en": [
+      "Collections, history, criticism",
+      "Class here filmstrips, slides, transparencies; digital images, photographs, prints"
+    ],
+    "it": [
+      "Classificare qui le filmine, le diapositive; le immagini digitali, le fotografie, le stampe",
+      "Raccolte, storia, studio critico"
+    ],
+    "no": [
+      "Samlinger, historie, kritikk",
+      "Her: Stillbilder, lysbilder, transparenter; digitale bilder, fotografier, fotografiske trykk"
+    ]
+  },
+  "prefLabel": {
+    "it": "Fotografie",
+    "sv": "Fotografiska bilder",
+    "de": "Fotografische Bildmaterialien",
+    "en": "Photographic images",
+    "no": "Fotografiske bilder",
+    "fr": "Images photographiques"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "notation": "779",
+  "modified": "2025-03-05T18:38:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

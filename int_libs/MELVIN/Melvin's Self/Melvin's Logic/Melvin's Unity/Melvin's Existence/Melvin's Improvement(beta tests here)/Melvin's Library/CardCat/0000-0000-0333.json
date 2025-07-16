@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tq8mRfWXvWHQm67MXvY9vmkp",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här mark som en produktionsfaktor",
+      "Markresurser: alla naturliga och konstgjorda resurser över vilka markägaren har kontroll"
+    ],
+    "it": [
+      "Terra: tutte le risorse, naturali e prodotte dall'uomo, su cui il possesso del suolo permette il controllo",
+      "Classificare qui la terra come fattore della produzione"
+    ],
+    "no": [
+      "Her: Landområder som produksjonsfaktor",
+      "Landområder: Alle naturressurser og menneskeskapte ressurser man har kontroll over ved eiendomsrett til jorda"
+    ],
+    "de": [
+      "Boden: alle natürlichen und von Menschen hergestellten Ressourcen, über die man durch den Besitz des Bodens ein Verfügungsrecht hat",
+      "Hier auch: Boden als Produktionsfaktor"
+    ],
+    "fr": [
+      "Terre : ensemble des ressources naturelles ou ressources produites par l’homme sur lesquelles s’exerce un droit en vertu du droit de propriété attaché au sol",
+      "Classer ici la terre considérée comme facteur de production"
+    ],
+    "en": [
+      "Land: all natural and man-made resources over which possession of the earth gives control",
+      "Class here land as a factor of production"
+    ]
+  },
+  "prefLabel": {
+    "de": "Boden- und Energiewirtschaft",
+    "it": "Economia della terra e dell'energia",
+    "fr": "Économie de la terre et de l’énergie",
+    "en": "Economics of land and energy",
+    "sv": "Ekonomiska aspekter på mark och energi",
+    "no": "Forvaltning av landområder og energi"
+  },
+  "modified": "2023-08-24T18:01:12Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wJHWBVwm8V7Gdyyw7pvF7cJB",
+  "notation": "333",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

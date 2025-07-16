@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36Y89gD8KHqDfYCfDGfxFC4Jg",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3WqFJ6M6MHPX8kPHrcjY6HYtX",
+  "prefLabel": {
+    "sv": "Kristendom i Nordamerika",
+    "fr": "Christianisme en Amérique du Nord    ",
+    "it": "Cristianesimo in Nordamerica",
+    "no": "Kristendom i Nord-Amerika",
+    "de": "Christentum in Nordamerika",
+    "en": "Christianity in North America"
+  },
+  "modified": "2025-02-03T19:58:09Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "277",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37dFQrffDxh6qXRCHJKKCbBPx",
+  "notation": "174",
+  "scopeNote": {
+    "fr": [
+      "Classer ici l'éthique professionnelle ; l'éthique du travail"
+    ],
+    "no": [
+      "Her: Etikk i profesjonelle forhold; arbeidsetikk"
+    ],
+    "sv": [
+      "Klassificera här yrkesetik; arbetsetik"
+    ],
+    "de": [
+      "Hier auch: Arbeitsethik"
+    ],
+    "it": [
+      "Classificare qui l'etica professionale; l'etica del lavoro"
+    ],
+    "en": [
+      "Class here professional ethics; ethics of work"
+    ]
+  },
+  "prefLabel": {
+    "en": "Occupational ethics",
+    "it": "Etica delle attività",
+    "fr": "Déontologie (Éthique professionnelle)",
+    "sv": "Yrkesetik",
+    "de": "Berufsethik",
+    "no": "Yrkesetikk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2022-10-25T04:37:42Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

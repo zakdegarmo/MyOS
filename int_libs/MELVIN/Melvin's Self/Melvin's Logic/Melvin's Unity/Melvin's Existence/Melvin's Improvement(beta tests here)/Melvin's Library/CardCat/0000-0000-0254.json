@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tV8BtgcQDtgYdTVRhQbm8Pjh",
+  "prefLabel": {
+    "no": "Lokalkirkeadministrasjon",
+    "de": "Ortskirchliche Verwaltung",
+    "it": "Amministrazione della chiesa locale",
+    "en": "Local church administration",
+    "sv": "Församlingsadministration",
+    "fr": "Administration des Églises locales"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här församlingsadministration"
+    ],
+    "fr": [
+      "Classer ici l'administration des paroisses"
+    ],
+    "de": [
+      "Hier auch: Pfarrverwaltung, Gemeindeverwaltung"
+    ],
+    "it": [
+      "Classificare qui la gestione della parrocchia"
+    ],
+    "en": [
+      "Class here parish administration"
+    ],
+    "no": [
+      "Her: Menighetsadministrasjon"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T4W9fr4KQg3d34fdjpDCQg3B",
+  "created": "1996-06-01",
+  "modified": "2025-07-04T19:51:58Z",
+  "notation": "254",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

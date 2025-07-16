@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QvbjJ44cq7KPmDPrRcmQBHBt",
+  "prefLabel": {
+    "no": "Jernvarer, våpen, husholdningsutstyr og -apparater",
+    "it": "Ferramenta, armi da fuoco leggere e apparecchi domestici",
+    "sv": "Järnvaror, vapen och hushållsmaskiner",
+    "de": "Eisenwaren, Waffen, Haushaltsgeräte",
+    "en": "Hardware, weapons, household appliances",
+    "fr": "Quincaillerie, armes et appareils ménagers"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om tillverkning av järnvaror och byggnadsvaror"
+    ],
+    "no": [
+      "Her: Oversiktsverker om produksjon av jernvarer og byggevarer"
+    ],
+    "en": [
+      "Class here comprehensive works on manufacture of hardware and building supplies"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la fabrication de la quincaillerie et des fournitures de construction"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über die Fertigung von Eisenwaren und Baubedarf"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla fabbricazione di ferramenta e forniture da costruzione"
+    ]
+  },
+  "notation": "683",
+  "modified": "2024-09-25T16:54:46Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

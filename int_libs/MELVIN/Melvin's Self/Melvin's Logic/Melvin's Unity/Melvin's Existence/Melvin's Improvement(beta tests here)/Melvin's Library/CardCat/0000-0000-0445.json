@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qKcRp38JGMk3C9BBFtMhCFDc",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Standard fransk grammatikk",
+    "sv": "Grammatik gällande standardfranska",
+    "it": "Grammatica del francese standard",
+    "fr": "Grammaire du français standard    ",
+    "en": "Grammar of standard French",
+    "de": "Grammatik des Französischen"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CVKwKdykp6XXqKJJcJc96pMF",
+  "modified": "2021-05-07T10:48:34Z",
+  "type": "Concept",
+  "notation": "445",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3prHbwrXpPm9qqv7bYM6w6dKK",
+  "prefLabel": {
+    "it": "Chiesa cattolica",
+    "fr": "Église catholique romaine",
+    "de": "Römisch-Katholische Kirche",
+    "sv": "Romersk-katolska kyrkan",
+    "no": "Den romersk-katolske kirke",
+    "en": "Roman Catholic Church"
+  },
+  "modified": "2023-10-13T13:02:07Z",
+  "scopeNote": {
+    "no": [
+      "Her: Den katolske tradisjonalistbevegelse, oversiktsverker om den romersk-katolske kirke og orientalske kirker med orientalsk ritus og som er i kommunion med Roma"
+    ],
+    "it": [
+      "Classificare qui il movimento tradizionalista cattolico, le opere d'insieme su chiesa cattolica e chiese di rito orientale in comunione con Roma"
+    ],
+    "en": [
+      "Class here the Catholic traditionalist movement, comprehensive works on Roman Catholic Church and Eastern rite churches in communion with Rome"
+    ],
+    "de": [
+      "Hier auch: die katholische traditionalistische Bewegung, umfassende Werke über die Römisch-Katholische Kirche und die mit Rom unierten Ostkirchen"
+    ],
+    "sv": [
+      "Klassificera här rörelsen för romersk-katolsk traditionalism, övergripande verk om Romersk-katolska kyrkan och kyrkor med österländska riter unierade med Rom"
+    ],
+    "fr": [
+      "Classer ici le mouvement traditionaliste catholique, les ouvrages généraux sur l’Église catholique romaine et les Églises de rite oriental en communion avec Rome"
+    ]
+  },
+  "type": "Concept",
+  "notation": "282",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YJMQCXwTmHxYxyx4kqhQ9FQr",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

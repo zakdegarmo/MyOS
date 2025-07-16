@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QfdvRwHbt7PfMbWmbrxDFfBg",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36dJKkj94QmgDVpR4QY6RQRFG",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über Malerei und Zeichnung"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om målarkonst och teckningskonst"
+    ],
+    "no": [
+      "Her: Oversiktsverker om maleri og tegning"
+    ],
+    "en": [
+      "Class here comprehensive works on painting and drawing"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su pittura e disegno"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la peinture et le dessin"
+    ]
+  },
+  "prefLabel": {
+    "en": "Painting and paintings",
+    "sv": "Målarkonst och målningar",
+    "it": "Pittura e dipinti",
+    "de": "Malerei und Gemälde",
+    "no": "Maleri og malerier",
+    "fr": "Peinture et peintures"
+  },
+  "created": "1996-06-01",
+  "modified": "2023-08-10T06:21:18Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "750",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

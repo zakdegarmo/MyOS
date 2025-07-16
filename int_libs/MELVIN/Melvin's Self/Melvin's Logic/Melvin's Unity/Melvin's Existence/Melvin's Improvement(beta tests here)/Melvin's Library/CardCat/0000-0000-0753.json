@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GK67rMpGggHbJhqjbw37tyDH",
+  "modified": "2021-06-28T11:26:37Z",
+  "prefLabel": {
+    "de": "Symbolik, Allegorie, Mythologie, Legende",
+    "it": "Simbolismo, allegoria, mitologia, leggenda",
+    "no": "Symbolikk, allegorier, mytologi, legender",
+    "en": "Symbolism, allegory, mythology, legend",
+    "fr": "Symbolisme, allégorie, mythologie, légende",
+    "sv": "Symbolik, allegori, mytologi, legender"
+  },
+  "notation": "753",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

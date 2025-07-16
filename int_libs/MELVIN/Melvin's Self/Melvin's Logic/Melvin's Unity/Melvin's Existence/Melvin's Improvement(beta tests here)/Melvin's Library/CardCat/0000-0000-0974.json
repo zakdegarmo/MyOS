@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Ybq8V8FWJWDDK3hbhmypvkgg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Det nordøstlige USA (delstater i New England og Middle Atlantic-regionen)",
+    "en": "Northeastern United States (New England and Middle Atlantic states)",
+    "sv": "Nordöstra Förenta staterna (New England och mellanatlantiska delstater)",
+    "fr": "Nord-Est des États-Unis (Nouvelle-Angleterre et États du Moyen-Atlantique)",
+    "it": "Stati Uniti nordorientali (Nuova Inghilterra e stati atlantici centrali)",
+    "de": "Nordöstliche Staaten der USA (Neuengland und Mittelatlantische Staaten)"
+  },
+  "notation": "974",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rJgV76kwd6d6PYhTpKKXrXvY",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-05-10T19:01:45Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

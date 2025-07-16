@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Mv3QXcCkr979GhMBHTHBMQCk",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les protistes, les Thallobionta (Thallophyta)",
+      "Classer ici la microbiologie, les protophytes ; la biologie descriptive des microorganismes, des Fungi, des algues ; la biologie taxinomique des microorganismes, des Fungi, des algues ; les ouvrages généraux sur la biologie des microorganismes, des Fungi, des algues ; les ouvrages interdisciplinaires sur les microorganismes, les Fungi, les algues"
+    ],
+    "no": [
+      "Her: Protista, Thallobionta (Thallophyta)",
+      "Her: Mikrobiologi, protister, tallofytter; deskriptiv biologi for mikroorganismer, sopper, alger; taksonomisk biologi for mikroorganismer, sopper, alger; oversiktsverker om biologi for mikroorganismer, sopper, alger; tverrfaglige verker om mikroorganismer, sopper, alger"
+    ],
+    "en": [
+      "Class here Protista, Thallobionta (Thallophyta)",
+      "Class here microbiology, protophytes; descriptive biology of microorganisms, fungi, algae; taxonomic biology of microorganisms, fungi, algae; comprehensive works on biology of microorganisms, fungi, algae; interdisciplinary works on microorganisms, fungi, algae"
+    ],
+    "sv": [
+      "Klassificera här Protista, Thallobionta (Thallophyta)",
+      "Klassificera här mikrobiologi, protister (Protista), protofyter, thallofyter (bålväxter); mikroorganismers, svampars, algers deskriptiva biologi; mikroorganismers, svampars, algers taxonomiska biologi; övergripande verk om mikroorganismer, svampar, alger; tvärvetenskapliga verk om mikroorganismer, svampar, alger"
+    ],
+    "de": [
+      "Hier auch: Mikrobiologie, Protophyten; deskriptive Biologie von Mikroorganismen, Pilzen, Algen; taxonomische Biologie von Mikroorganismen, Pilzen, Algen; umfassende Werke über die Biologie von Mikroorganismen, Pilzen, Algen; fächerübergreifende Werke über Mikroorganismen, Pilzen, Algen",
+      "Hier auch: Protisten, Thallophyten"
+    ],
+    "it": [
+      "Classificare qui i Protista, le Thallobionta (Thallophita)",
+      "Classificare qui la microbiologia, le protofite; la biologia descrittiva di microrganismi, funghi, alghe; la biologia tassonomica di microrganismi, funghi, alghe; le opere interdisciplinari su microrganismi, funghi, alghe; le opere d'insieme sulla biologia di microrganismi, funghi, alghe"
+    ]
+  },
+  "notation": "579",
+  "created": "1996-06-01",
+  "modified": "2025-03-26T12:06:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Histoire naturelle des microorganismes, des Fungi, des algues",
+    "no": "Naturhistorie for mikroorganismer, sopper, alger",
+    "it": "Storia naturale di microrganismi, funghi, alghe",
+    "sv": "Mikroorganismers, svampars, algers naturhistoria",
+    "de": "Naturgeschichte von Mikroorganismen, Pilzen, Algen",
+    "en": "Natural history of microorganisms, fungi, algae"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3KV8ycpCVYvD3h48hvvf494Xg",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

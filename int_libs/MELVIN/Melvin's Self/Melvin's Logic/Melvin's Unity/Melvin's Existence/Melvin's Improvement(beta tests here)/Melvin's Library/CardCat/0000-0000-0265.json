@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36mfdD4tKpbK7PHPrVqJJVH3H",
+  "prefLabel": {
+    "sv": "Sakramenten, övriga riter och akter",
+    "de": "Sakramente, andere Riten und Handlungen",
+    "it": "Sacramenti, altri riti e atti",
+    "en": "Sacraments, other rites and acts",
+    "no": "Sakramenter, andre riter og handlinger",
+    "fr": "Sacrements, autres rites et cérémonies"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Non limitati a una denominazione o setta"
+    ],
+    "de": [
+      "Nicht begrenzt auf Konfession oder Sekte"
+    ],
+    "sv": [
+      "Inte begränsat av samfund eller sekt"
+    ],
+    "fr": [
+      "Indice non limité à une confession ou à une secte"
+    ],
+    "no": [
+      "Ikke begrenset av trossamfunn eller sekt"
+    ],
+    "en": [
+      "Not limited by denomination or sect"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "modified": "2023-06-16T11:19:18Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "265",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JDkDDyPMGgTM3XM84HQYBjmp",
+  "scopeNote": {
+    "en": [
+      "Class here texts of meditations, contemplations, prayers for individuals and families, religious poetry intended for devotional use"
+    ],
+    "fr": [
+      "Classer ici les textes de méditation, de contemplation, les prières individuelles et familiales, la poésie religieuse de dévotion"
+    ],
+    "it": [
+      "Classificare qui i testi di meditazione, di contemplazione, le preghiere per i singoli e le famiglie, la poesia religiosa per uso devoto"
+    ],
+    "no": [
+      "Her: Andaktsbøker, tekster til meditasjon, kontemplasjon, bønn for den enkelte og for familien, religiøse dikt til bruk for andakt"
+    ],
+    "sv": [
+      "Klassificera här texter för betraktelser, kontemplation, böner för enskilda och familjer, religiös poesi för andakt"
+    ],
+    "de": [
+      "Hier auch: Texte zur Meditation, Kontemplation, Gebetstexte für Einzelpersonen und Familien, religiöse Dichtung für den Andachtsgebrauch"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "de": "Erbauungsliteratur",
+    "no": "Oppbyggelig litteratur",
+    "en": "Devotional literature",
+    "sv": "Uppbyggelselitteratur",
+    "fr": "Littérature de dévotion",
+    "it": "Letteratura devota"
+  },
+  "type": "Concept",
+  "notation": "242",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "created": "1996-06-01",
+  "modified": "2023-06-21T11:33:43Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

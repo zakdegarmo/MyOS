@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rDwC88F4b49PKQ4ybb6TcRKX",
+  "type": "Concept",
+  "notation": "172",
+  "created": "1996-06-01",
+  "modified": "2022-09-30T11:17:02Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "prefLabel": {
+    "it": "Etica politica",
+    "en": "Political ethics",
+    "de": "Politische Ethik",
+    "fr": "Morale politique",
+    "no": "Politisk etikk",
+    "sv": "Politisk etik"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48WYF8yJtjVTtQWCk4cKMXmRX",
+  "prefLabel": {
+    "en": "Decorative arts",
+    "no": "Kunsthåndverk",
+    "fr": "Arts décoratifs",
+    "de": "Angewandte Kunst",
+    "it": "Arti decorative",
+    "sv": "Konsthantverk"
+  },
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'arte popolare (\"folk art\")"
+    ],
+    "de": [
+      "Hier auch: Volkskunst"
+    ],
+    "en": [
+      "Class here folk art"
+    ],
+    "sv": [
+      "Klassificera här folkkonst"
+    ],
+    "no": [
+      "Her: Folkekunst"
+    ],
+    "fr": [
+      "Classer ici l’art populaire"
+    ]
+  },
+  "type": "Concept",
+  "notation": "745",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "modified": "2024-07-09T12:23:46Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rjvffpTB9HcgMwcRkcTYcQr9",
+  "modified": "2025-05-27T12:18:13Z",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "no": [
+      "Her: Kreativ skriving, retorikk i betydningen effektiv bruk av språk"
+    ],
+    "fr": [
+      "Techniques d'écriture (rhétorique) : utilisation efficace de la langue",
+      "Classer ici la composition, la création littéraire"
+    ],
+    "sv": [
+      "Klassificera här litterär komposition, kreativt skrivande",
+      "Retorik: effektiv språkanvändning"
+    ],
+    "it": [
+      "Uso efficace della lingua",
+      "Classificare qui la composizione, la scrittura creativa"
+    ],
+    "de": [
+      "Hier auch: Schreiben von Texten",
+      "Rhetorik: wirkungsvoller Gebrauch von Sprache"
+    ],
+    "en": [
+      "Class here composition, creative writing",
+      "Rhetoric: effective use of language"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Techniques d'écriture et recueils de textes littéraires appartenant à plusieurs littératures",
+    "no": "Litterær komposisjon og samlinger av litterære tekster fra mer enn to litteraturer",
+    "de": "Rhetorik und Sammlungen von literarischen Texten aus mehr als zwei Literaturen",
+    "en": "Rhetoric and collections of literary texts from more than two literatures",
+    "it": "Retorica e raccolte di testi letterari tratti da più di due letterature",
+    "sv": "Retorik och samlingar av litterära texter från fler än två litteraturer"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "notation": "808",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

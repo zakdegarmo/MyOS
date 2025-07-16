@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fbmYP6BWmvtG4x9XPwTdWMjJ",
+  "created": "1996-06-01",
+  "notation": "496",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "prefLabel": {
+    "en": "African languages",
+    "de": "Afrikanische Sprachen",
+    "it": "Lingue africane",
+    "sv": "Afrikanska språk",
+    "fr": "Langues africaines",
+    "no": "Afrikanske språk"
+  },
+  "modified": "2024-10-31T12:30:46Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

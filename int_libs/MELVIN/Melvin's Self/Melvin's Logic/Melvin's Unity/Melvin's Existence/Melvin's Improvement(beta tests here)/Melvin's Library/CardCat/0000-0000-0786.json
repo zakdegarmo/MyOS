@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mKCwp4pvWcmFMtMQBP9gcykr",
+  "prefLabel": {
+    "it": "Strumenti a tastiera, meccanici, elettrofoni, a percussione",
+    "de": "Tasten-, Schlaginstrumente, mechanische, elektronische Instrumente",
+    "sv": "Tangentinstrument, mekaniska instrument, elektrofoner, slagverk",
+    "no": "Tangentinstrumenter, mekaniske instrumenter, elektroniske instrumenter, slagverkinstrumenter",
+    "en": "Keyboard, mechanical, electrophonic, percussion instruments",
+    "fr": "Instruments à clavier, mécaniques, électrophones, de percussion"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages généraux sur les instruments à clavier, sur les instruments à cordes et à clavier ; la musique d'un instrument à clavier non spécifié"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sugli strumenti a tastiera, sui cordofoni a tastiera; la musica per strumento a tastiera non specificato"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om tangentinstrument, om stränginstrument med tangenter; musik för ospecificerade tangentinstrument"
+    ],
+    "no": [
+      "Her: Oversiktsverker om tangentinstrumenter, om tangentinstrumenter med strenger; musikk for uspesifisert tangentinstrument"
+    ],
+    "en": [
+      "Class here comprehensive works on keyboard instruments, on keyboard stringed instruments; music for unspecified keyboard instrument"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Tasteninstrumente, über Saiteninstrumente mit Klaviatur; Musik für unspezifizierte Tasteninstrumente"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "786",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-12-21T13:48:39Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MhvcdHWcJJH8pqMGc7YxK4r",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

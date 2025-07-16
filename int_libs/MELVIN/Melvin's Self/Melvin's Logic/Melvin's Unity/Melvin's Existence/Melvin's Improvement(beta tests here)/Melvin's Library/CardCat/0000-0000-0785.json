@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bFBQx9rD8JyY7PqK4wWThyXH",
+  "prefLabel": {
+    "fr": "Ensembles à un seul instrument par partie",
+    "it": "Complessi con un solo strumento per parte",
+    "en": "Ensembles with only one instrument per part",
+    "sv": "Ensembler med bara ett instrument per stämma",
+    "de": "Ensembles mit nur einem Instrument pro Stimme",
+    "no": "Ensembler med bare ett instrument på hver stemme"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2025-04-23T11:43:24Z",
+  "scopeNote": {
+    "fr": [
+      "Classer ici la musique de chambre"
+    ],
+    "sv": [
+      "Klassificera här kammarmusik"
+    ],
+    "en": [
+      "Class here chamber music"
+    ],
+    "no": [
+      "Her: Kammermusikk"
+    ],
+    "de": [
+      "Hier auch: Kammermusik"
+    ],
+    "it": [
+      "Classificare qui la musica da camera"
+    ]
+  },
+  "notation": "785",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CCB8wxMWHKGxyfPDqDvF46hw",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

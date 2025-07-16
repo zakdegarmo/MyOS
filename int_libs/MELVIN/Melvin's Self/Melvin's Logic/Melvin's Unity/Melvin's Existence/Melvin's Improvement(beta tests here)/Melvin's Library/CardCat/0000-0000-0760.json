@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JwD88gTM8h6MVKvQqpWbV7T6",
+  "prefLabel": {
+    "it": "Incisione e stampe",
+    "de": "Druckgrafik und Drucke",
+    "fr": "Estampe et estampes",
+    "sv": "Tryckframställning och grafiska tryck",
+    "en": "Printmaking and prints",
+    "no": "Grafikkfremstilling og grafiske trykk"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E33wrjJkxK6wCVGWwhQRWx9wM8",
+  "notation": "760",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-08-24T07:10:29Z",
+  "type": "Concept",
+  "created": "1998-12-09",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

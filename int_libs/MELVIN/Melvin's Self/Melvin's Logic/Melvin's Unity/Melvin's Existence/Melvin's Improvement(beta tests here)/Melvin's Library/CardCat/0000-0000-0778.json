@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rbRxdc8RgJXpk9V9DqGmBGWr",
+  "notation": "778",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "prefLabel": {
+    "it": "Specifici campi e tipi speciali di fotografia",
+    "de": "Einzelne Bereiche und spezielle Arten der Fotografie",
+    "en": "Specific fields and special kinds of photography",
+    "no": "Bestemte fagområder og bestemte typer fotografi",
+    "fr": "Catégories et domaines particuliers de la photographie",
+    "sv": "Särskilda verksamhetsområden och särskilda typer av fotografi"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Anwendung und Herstellung von Geräten, Ausstattung, Materialien in einzelnen Bereichen und bei speziellen Arten der Fotografie"
+    ],
+    "en": [
+      "Class here interdisciplinary works on use and manufacture of apparatus, equipment, materials of specific fields and specific kinds of photography"
+    ],
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om användning och tillverkning av apparatur, utrustning och material inom särskilda verksamhetsområden och särskilda typer av fotografi"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om bruk og produksjon av apparater, utstyr, materialer brukt innen bestemte fagområder og bestemte typer fotografi"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari su uso e fabbricazione di apparecchi, attrezzature, materiali per specifici campi e tipi speciali di fotografia"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur l’utilisation et la fabrication des appareils, de l’équipement, du matériel des catégories et domaines particuliers de la photographie"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2025-03-05T18:38:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

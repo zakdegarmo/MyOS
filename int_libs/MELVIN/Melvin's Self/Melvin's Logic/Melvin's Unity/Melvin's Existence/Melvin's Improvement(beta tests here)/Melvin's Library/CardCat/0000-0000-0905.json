@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Bydy8Gm8VfyMHGv3Cf6gbTXg",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "notation": "905",
+  "prefLabel": {
+    "en": "Serial publications of history",
+    "fr": "Publication en série en histoire",
+    "de": "Fortlaufende geschichtliche Sammelwerke",
+    "sv": "Seriella resurser inom historia",
+    "no": "Periodika innen historie",
+    "it": "Seriali di storia"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2017-02-01T12:23:13Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

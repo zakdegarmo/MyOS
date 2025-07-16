@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "prefLabel": {
+    "en": "Specific parts of Bible, Apocrypha, pseudepigrapha, intertestamental works",
+    "no": "Bestemte deler av Bibelen, apokryfer, pseudepigrafer, intertestamentale verker",
+    "fr": "Parties spécifiques de la Bible, livres apocryphes, pseudépigraphes, intertestamentaires",
+    "it": "Specifiche parti della Bibbia, apocrifi, pseudepigrafi, opere intertestamentarie",
+    "sv": "Särskilda delar av Bibeln, apokryfer, pseudepigrafer, intertestamentliga verk",
+    "de": "Einzelne Teile der Bibel, Apokryphen, Pseudepigraphen, zwischentestamentliche Werke"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vY8Mp4b8cGGJh3JBRhfrmFYt",
+  "notation": "221-229",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3FVFYd9kyX4rJpMqg7dcwycHc",
+    "https://id.oclc.org/worldcat/ddc/E3j9X4X47ffgGr4bkhHbQk37J9",
+    "https://id.oclc.org/worldcat/ddc/E3fWdWfM7PdyX7D3H7YMPwTpd6",
+    "https://id.oclc.org/worldcat/ddc/E3h3hGDmJCHF6cwWQb7FkMMpdy",
+    "https://id.oclc.org/worldcat/ddc/E3pRjjHjrpJYJryfTXjT3TfY8q",
+    "https://id.oclc.org/worldcat/ddc/E3tkjDg7V7XxCJjFvBjPg8d4Xg",
+    "https://id.oclc.org/worldcat/ddc/E469FdWvGWBXrptW6G7KKYtg6c"
+  ],
+  "modified": "2024-11-20T06:37:21Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

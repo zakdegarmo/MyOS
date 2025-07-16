@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3JgrcHwDwT3D4ty3F7FPPcp7d",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la clinica medica, la medicina basata sull'evidenza, la medicina interna"
+    ],
+    "en": [
+      "Class here clinical medicine, evidence-based medicine, internal medicine"
+    ],
+    "sv": [
+      "Klassificera här klinisk medicin, evidensbaserad medicin, invärtesmedicin"
+    ],
+    "fr": [
+      "Classer ici la médecine clinique, la médecine factuelle, la médecine interne"
+    ],
+    "de": [
+      "Hier auch: klinische Medizin, evidenzbasierte Medizin, innere Medizin"
+    ],
+    "no": [
+      "Her: Klinisk medisin, kunnskapsbasert medisin, indremedisin"
+    ]
+  },
+  "prefLabel": {
+    "no": "Sykdommer",
+    "fr": "Maladies",
+    "de": "Krankheiten",
+    "en": "Diseases",
+    "sv": "Sjukdomar",
+    "it": "Malattie"
+  },
+  "type": "Concept",
+  "modified": "2025-04-11T06:57:30Z",
+  "notation": "616",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

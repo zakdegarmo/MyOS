@@ -1,0 +1,42 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38dDG4gTWQ74FJYxxKXYy48mH",
+  "scopeNote": {
+    "fr": [
+      "Classer ici l’histoire, l’analyse, la critique, les œuvres complètes, les biographies d’un seul philosophe sans tenir compte du point de vue"
+    ],
+    "en": [
+      "Class here development, description, critical appraisal, collected writings, biography of individual philosophers regardless of viewpoint"
+    ],
+    "sv": [
+      "Klassificera här utveckling, beskrivning, kritik, samlade skrifter, biografisk beskrivning av enskilda filosofer oavsett synvinkel"
+    ],
+    "it": [
+      "Classificare qui la storia, la descrizione, lo studio critico, le opere raccolte, la biografia dei singoli filosofi, senza tener conto della loro posizione filosofica"
+    ],
+    "no": [
+      "Her: Utvikling, beskrivelse, kritisk vurdering, samlede verker, biografier om bestemte filosofer, uansett deres filosofiske retning"
+    ],
+    "de": [
+      "Hier auch: Entwicklung, Darstellung, kritische Bewertung, gesammelte Schriften, Biografien einzelner Philosophen ungeachtet ihres Standpunkts"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Historia, geografisk aspekt, biografi",
+    "en": "History, geographic treatment, biography",
+    "no": "Historie, geografisk behandling, biografier",
+    "fr": "Histoire, étude géographique, biographie",
+    "it": "Storia, geografia, biografia",
+    "de": "Geschichte, geografische Behandlung, Biografien"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3cBPV43DPRrTpJdjh49kqQJW6",
+    "https://id.oclc.org/worldcat/ddc/E3DwDYB4hFbt6QHBh4k7btyqjT"
+  ],
+  "modified": "2021-02-02T08:09:46Z",
+  "notation": "180-190",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

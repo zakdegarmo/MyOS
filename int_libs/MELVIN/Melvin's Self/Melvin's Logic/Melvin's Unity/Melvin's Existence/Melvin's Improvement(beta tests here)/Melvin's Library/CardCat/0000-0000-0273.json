@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39yyCFXPdCQY8rFqJ8WFBBp4P",
+  "prefLabel": {
+    "it": "Controversie dottrinali ed eresie nella storia generale della chiesa",
+    "no": "Dogmestrid og kjetteri i generell kirkehistorie",
+    "sv": "Doktrinära strider och heresier i allmän kyrkohistoria",
+    "en": "Doctrinal controversies and heresies in general church history",
+    "fr": "Controverses et hérésies doctrinales dans l’histoire générale de l’Église",
+    "de": "Dogmatische Kontroversen und Häresien in der allgemeinen Kirchengeschichte"
+  },
+  "notation": "273",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Kw4jwwHk9jbR9fH3GQC6J4Wy",
+  "modified": "2023-10-16T11:35:36Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

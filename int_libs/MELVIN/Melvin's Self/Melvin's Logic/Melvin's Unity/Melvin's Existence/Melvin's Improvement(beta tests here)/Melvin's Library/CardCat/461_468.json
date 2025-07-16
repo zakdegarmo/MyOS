@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QwXX8k3gdqqkMywM8hjwjfCr",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3P6XTmdrVd4rvh8QrB8VmrvRw",
+    "https://id.oclc.org/worldcat/ddc/E38HxYtvygHbkHX3QMCgwHkWmY",
+    "https://id.oclc.org/worldcat/ddc/E39mfXVCBBc7dtm7bqydpKj7qK",
+    "https://id.oclc.org/worldcat/ddc/E3MWRMdrbDQRcpJfykQrdtMRgP",
+    "https://id.oclc.org/worldcat/ddc/E3M6qtQvdbGDjQwF9KFQYQxqKP",
+    "https://id.oclc.org/worldcat/ddc/E3RTxMM7rVwtfWQRDRFj9GdQFc",
+    "https://id.oclc.org/worldcat/ddc/E3YjdFFM3ypvjmT6fX34X6rqJy",
+    "https://id.oclc.org/worldcat/ddc/E37RtJWfjWJB9RYhKKjH8phFFm"
+  ],
+  "prefLabel": {
+    "no": "Inndeling av spansk",
+    "sv": "Indelningar av spanska",
+    "en": "Subdivisions of Spanish",
+    "it": "Suddivisioni dello spagnolo",
+    "fr": "Subdivisions pour l'espagnol",
+    "de": "Unterklassen von Spanisch"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "461-468",
+  "modified": "2021-05-05T07:19:18Z",
+  "type": "Concept",
+  "created": "2010-02-04",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vyFPRDfdq4wB3KR7YTc86cP3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

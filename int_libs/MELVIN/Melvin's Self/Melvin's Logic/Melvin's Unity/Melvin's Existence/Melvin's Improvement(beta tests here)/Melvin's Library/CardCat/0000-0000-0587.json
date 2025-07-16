@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qdWWTx8g3jkFtHc6dyYb63Ft",
+  "prefLabel": {
+    "de": "Pteridophyta (Farnpflanzen)",
+    "en": "Pteridophyta",
+    "no": "Pteridophyta",
+    "fr": "Ptéridophytes",
+    "sv": "Pteridophyta",
+    "it": "Pteridophyta"
+  },
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "scopeNote": {
+    "sv": [
+      "Andra namn: kärlkryptogamer, ormbunksväxter"
+    ],
+    "fr": [
+      "Variantes du nom : cryptogames vasculaires, plantes vasculaires sans graines"
+    ],
+    "de": [
+      "Synonyme Bezeichnungen: Gefäßkryptogamen, Gefäßsporenpflanzen, blütenlose Gefäßpflanzen"
+    ],
+    "no": [
+      "Andre betegnelser: Vaskulære kryptogamer, vaskulære planter uten frø"
+    ],
+    "it": [
+      "Altri nomi: crittogame vascolari, piante vascolari senza seme"
+    ],
+    "en": [
+      "Variant names: vascular cryptogams, vascular seedless plants"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "587",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jvBPhjpj6bXhpFG9j4tt6xgf",
+  "modified": "2024-07-25T12:09:51Z",
+  "prefLabel": {
+    "de": "Westafrika und vorgelagerte Inseln",
+    "it": "Africa occidentale e isole al largo",
+    "sv": "Västafrika och öar utanför kusten",
+    "no": "Vest-Afrika og øyene utenfor kysten",
+    "fr": "Afrique occidentale et îles au large",
+    "en": "West Africa and offshore islands"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "966",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

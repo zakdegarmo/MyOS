@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PbPWxCVt3CBMhW3VvR34jg8T",
+  "prefLabel": {
+    "no": "Det vestlige USA",
+    "de": "Westliche Staaten der USA",
+    "fr": "Ouest des États-Unis",
+    "it": "Stati Uniti occidentali",
+    "en": "Western United States",
+    "sv": "Västra Förenta staterna"
+  },
+  "notation": "978",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+  "modified": "2024-05-12T13:12:59Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

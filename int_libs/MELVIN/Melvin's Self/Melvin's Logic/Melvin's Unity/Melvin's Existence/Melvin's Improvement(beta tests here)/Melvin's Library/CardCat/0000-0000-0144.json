@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E344bp9Cq4BxtMhtdcPqydYKqp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-11-02T00:44:37Z",
+  "prefLabel": {
+    "de": "Humanismus und verwandte Systeme und Positionen",
+    "sv": "Humanism och besläktade system och doktriner",
+    "no": "Humanisme og lignende systemer og doktriner",
+    "en": "Humanism and related systems and doctrines",
+    "fr": "Humanisme et systèmes et doctrines connexes",
+    "it": "Umanismo, sistemi e dottrine affini"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "notation": "144",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

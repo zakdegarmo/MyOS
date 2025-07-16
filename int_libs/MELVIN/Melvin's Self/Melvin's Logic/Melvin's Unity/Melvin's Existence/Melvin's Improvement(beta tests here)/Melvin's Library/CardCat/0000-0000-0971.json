@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36CptBgKtk3m89g3FjFFb7pRc",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Kanada",
+    "fr": "Canada",
+    "it": "Canada",
+    "no": "Canada",
+    "en": "Canada",
+    "sv": "Kanada"
+  },
+  "notation": "971",
+  "type": "Concept",
+  "modified": "2022-05-12T08:37:32Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

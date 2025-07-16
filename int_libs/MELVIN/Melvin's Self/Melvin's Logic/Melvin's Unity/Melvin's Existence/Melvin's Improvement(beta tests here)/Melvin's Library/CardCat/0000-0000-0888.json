@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34WtF34QgFYPFqyjcBy8H6bDY",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Diverse texter på klassisk grekiska",
+    "fr": "Écrits divers grecs classiques",
+    "it": "Miscellanea greca classica",
+    "en": "Classical Greek miscellaneous writings",
+    "de": "Klassische griechische vermischte Schriften",
+    "no": "Klassisk greske diverse skrifter"
+  },
+  "type": "Concept",
+  "modified": "2023-01-23T21:26:26Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43ktmqrcMrCMDgDgMcWt4V3yX",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "888",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

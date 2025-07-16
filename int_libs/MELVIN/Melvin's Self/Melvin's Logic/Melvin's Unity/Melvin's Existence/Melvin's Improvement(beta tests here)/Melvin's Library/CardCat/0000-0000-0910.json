@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YxcggDV6j77RfJ6jJmhMkmdw",
+  "prefLabel": {
+    "de": "Geografie und Reisen",
+    "en": "Geography and travel",
+    "it": "Geografia e viaggi",
+    "fr": "Géographie et voyages",
+    "no": "Geografi og reiser",
+    "sv": "Geografi och resor"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Reiser med bestemte typer motorkjøretøy, f.eks. reiser med personbil, reiser med sykkel; tverrfaglige verker om turisme, om reiser"
+    ],
+    "fr": [
+      "Classer ici les voyages en véhicules de catégories particulières, ex. :  voyages en automobile, voyages à bicyclette ; ouvrages interdisciplinaires sur le tourisme, sur les voyages"
+    ],
+    "de": [
+      "Hier auch: Reisen mit bestimmten landgebundenen Fortbewegungsmitteln, z.B. Reisen mit dem Automobil, Reisen mit dem Fahrrad; fächerübergreifende Werke über Tourismus, über Reisen"
+    ],
+    "en": [
+      "Class here travel by specific kind of vehicle, e.g., travel by automobile, travel by bicycle; interdisciplinary works on tourism, on travel"
+    ],
+    "it": [
+      "Classificare qui i viaggi con uno specifico tipo di veicolo, p.e., i viaggi in automobile, i viaggi in bicicletta; le opere interdisciplinari sul turismo, sui viaggi"
+    ],
+    "sv": [
+      "Klassificera här resor efter särskild typ av transportmedel, t.ex. resor med bil, resor med cykel;  tvärvetenskapliga verk om turism, om resor"
+    ]
+  },
+  "created": "1996-06-01",
+  "modified": "2025-07-02T09:36:25Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "910",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyrDdqvYkypcHBGhvq7c9rDm",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

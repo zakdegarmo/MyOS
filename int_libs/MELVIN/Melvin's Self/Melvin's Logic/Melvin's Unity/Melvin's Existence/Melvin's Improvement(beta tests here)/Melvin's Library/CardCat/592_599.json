@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Mw68Fw6TFk3mcqPr8mGQHJMw",
+    "https://id.oclc.org/worldcat/ddc/E3vYQRGFK4hYbCXDwWTX6dvvfM",
+    "https://id.oclc.org/worldcat/ddc/E3XG84rMBbDpTXMRvjwPKgG6JM",
+    "https://id.oclc.org/worldcat/ddc/E498YF8mjfWBPgtV9X3HkTmqT4",
+    "https://id.oclc.org/worldcat/ddc/E3KJm6HRrRdbrfMbFP38f86ghV",
+    "https://id.oclc.org/worldcat/ddc/E3v9RGpYBXjDTgBhfPfKKBVP7B",
+    "https://id.oclc.org/worldcat/ddc/E3DFRj9B9V8KVPF7VkG8R3vKqT",
+    "https://id.oclc.org/worldcat/ddc/E3wmtmf8jCMh7YrH3RHMwkkgvW"
+  ],
+  "prefLabel": {
+    "sv": "Särskilda taxonomiska djurgrupper",
+    "fr": "Groupes taxinomiques particuliers d’animaux",
+    "en": "Specific taxonomic groups of animals",
+    "it": "Specifici raggruppamenti tassonomici di animali",
+    "no": "Bestemte taksonomiske dyregrupper",
+    "de": "Einzelne taxonomische Gruppen von Tieren"
+  },
+  "modified": "2024-02-01T06:36:18Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wgvJvJ6ddXrpQPHWbMH33btF",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "592-599",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

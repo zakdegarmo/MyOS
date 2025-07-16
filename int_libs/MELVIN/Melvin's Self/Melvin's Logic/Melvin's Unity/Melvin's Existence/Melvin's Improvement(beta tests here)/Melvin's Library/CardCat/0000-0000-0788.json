@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4936WhB6mCpvJf43GfJPQyRwm",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "fr": "Instruments à vent (Aérophones)",
+    "it": "Strumenti a fiato (Aerofoni)",
+    "sv": "Blåsinstrument (aerofoner)",
+    "no": "Blåseinstrumenter (aerofoner)",
+    "en": "Wind instruments (Aerophones)",
+    "de": "Blasinstrumente (Aerophone)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MhvcdHWcJJH8pqMGc7YxK4r",
+  "type": "Concept",
+  "notation": "788",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

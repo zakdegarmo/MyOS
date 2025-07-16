@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xfW4gXpYRCYBXr3Hj9ykqYdk",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Franske brev",
+    "de": "Französische Briefe",
+    "sv": "Franska brev",
+    "it": "Epistolografia francese",
+    "fr": "Correspondance française",
+    "en": "French letters"
+  },
+  "modified": "2021-07-13T05:34:40Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "notation": "846",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

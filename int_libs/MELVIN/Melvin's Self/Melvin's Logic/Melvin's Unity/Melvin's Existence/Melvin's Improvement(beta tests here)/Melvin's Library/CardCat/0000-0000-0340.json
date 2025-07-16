@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XCWjTw67bJDmC6Fyrr7R4bbr",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la scienza giuridica"
+    ],
+    "de": [
+      "Hier auch: Rechtswissenschaft"
+    ],
+    "fr": [
+      "Classer ici la science juridique"
+    ],
+    "en": [
+      "Class here jurisprudence"
+    ],
+    "no": [
+      "Her: Jus"
+    ],
+    "sv": [
+      "Klassificera här rättsvetenskap"
+    ]
+  },
+  "type": "Concept",
+  "modified": "2025-01-07T03:04:44Z",
+  "prefLabel": {
+    "fr": "Droit",
+    "sv": "Juridik",
+    "no": "Lov og rett",
+    "it": "Diritto",
+    "en": "Law",
+    "de": "Recht"
+  },
+  "notation": "340",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36rFpd6j6FkYh8qHHHBTmJbm4",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

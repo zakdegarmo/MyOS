@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E498YF8mjfWBPgtV9X3HkTmqT4",
+  "notation": "598",
+  "prefLabel": {
+    "no": "Aves",
+    "en": "Aves",
+    "fr": "Oiseaux",
+    "sv": "Aves (fåglar)",
+    "it": "Aves",
+    "de": "Aves (Vögel)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Landvögel, Ornithologie"
+    ],
+    "sv": [
+      "Klassificera här fåglar, landfåglar, ornitologi"
+    ],
+    "no": [
+      "Her: Fugler, landfugler, ornitologi"
+    ],
+    "en": [
+      "Class here birds, land birds; ornithology"
+    ],
+    "it": [
+      "Classificare qui gli uccelli, gli uccelli terrestri; l'ornitologia"
+    ],
+    "fr": [
+      "Classer ici les oiseaux terrestres, l’ornithologie"
+    ]
+  },
+  "created": "1998-10-27",
+  "type": "Concept",
+  "modified": "2025-04-10T01:05:06Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VftF9VGMJ3gT7M4t66Kfy7pT",
+  "scopeNote": {
+    "it": [
+      "Della chimica inorganica e della chimica combinata inorganica-organica"
+    ],
+    "fr": [
+      "De la chimie inorganique et de la combinaison chimie inorganique-chimie organique"
+    ],
+    "en": [
+      "Of inorganic and combined inorganic-organic chemistry"
+    ],
+    "sv": [
+      "Gällande oorganisk kemi och kombinerad oorganisk-organisk kemi"
+    ],
+    "no": [
+      "Knyttet til uorganisk og kombinert uorganisk-organisk kjemi"
+    ],
+    "de": [
+      "In der anorganischen Chemie und der Chemie anorganisch-organischer Verbindungen"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "542",
+  "modified": "2025-03-26T12:06:27Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DqwjJhTWjqVvVpXBRCH8tq48",
+  "prefLabel": {
+    "en": "Techniques, procedures, apparatus, equipment, materials",
+    "no": "Teknikker, arbeidsmetoder, apparater, utstyr, materialer",
+    "sv": "Tekniker, procedurer; apparatur, utrustning, material",
+    "fr": "Techniques, procédés, appareils, équipement, matériel",
+    "de": "Techniken, Verfahren, Geräte, Ausstattung, Materialien",
+    "it": "Tecniche, procedure, apparecchi, attrezzature, materiali"
+  },
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XG84rMBbDpTXMRvjwPKgG6JM",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "prefLabel": {
+    "en": "Invertebrates",
+    "it": "Invertebrati",
+    "de": "Evertebrata (Wirbellose)",
+    "sv": "Invertebrata (ryggradslösa djur)",
+    "fr": "Invertébrés",
+    "no": "Virvelløse dyr"
+  },
+  "notation": "592",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1998-10-27",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

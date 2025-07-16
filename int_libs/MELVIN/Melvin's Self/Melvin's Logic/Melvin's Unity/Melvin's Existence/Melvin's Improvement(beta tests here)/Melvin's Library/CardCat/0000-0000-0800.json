@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cVCxG7mDVx63fQCvDPdyfwK9",
+  "notation": "800",
+  "scopeNote": {
+    "de": [
+      "Hier auch: literarische Werke, Werke über Literatur"
+    ],
+    "it": [
+      "Classificare qui le opere di letteratura, le opere sulla letteratura"
+    ],
+    "no": [
+      "Her: Litterære verker, verker om litteratur"
+    ],
+    "fr": [
+      "Classer ici les ouvrages de littérature, les ouvrages sur la littérature"
+    ],
+    "en": [
+      "Class here works of literature, works about literature"
+    ],
+    "sv": [
+      "Klassificera här litterära verk, verk om litteratur"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Litteratur (skönlitteratur) och retorik",
+    "en": "Literature (Belles-lettres) and rhetoric",
+    "it": "Letteratura (Belle lettere) e retorica",
+    "fr": "Littérature (Belles-lettres) et techniques d’écriture",
+    "de": "Literatur (Belletristik) und Rhetorik",
+    "no": "Litteratur og litterær komposisjon"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DPJyHK66TRt3pMWHmdhCwrXK",
+  "modified": "2024-07-09T12:24:08Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

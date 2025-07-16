@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mBFB83bjxyGcJbqFB4h6Vcym",
+  "notation": "665",
+  "prefLabel": {
+    "de": "Industrieöle, Industriefette, Industriewachse, technische Gase",
+    "en": "Technology of industrial oils, fats, waxes, gases",
+    "sv": "Teknik gällande oljor, fetter, vaxer, gaser",
+    "fr": "Technologie des huiles, des graisses, des cires, des gaz industriels",
+    "no": "Teknologi vedrørende industrielle oljer, fettstoffer, vokser, gasser",
+    "it": "Tecnologia degli oli, dei grassi, delle cere, dei gas industriali"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "modified": "2023-09-01T11:12:25Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

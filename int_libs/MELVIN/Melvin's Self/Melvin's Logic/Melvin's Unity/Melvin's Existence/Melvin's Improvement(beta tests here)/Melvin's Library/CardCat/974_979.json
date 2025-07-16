@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Specific states of United States",
+    "sv": "Särskilda delstater i Förenta staterna",
+    "de": "Einzelne Bundesstaaten der USA",
+    "it": "Specifici stati degli Stati Uniti",
+    "no": "Bestemte delstater i USA",
+    "fr": "États particuliers des États-Unis"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3jjhtvKpJ87pF6vwpHRpVtKdR",
+    "https://id.oclc.org/worldcat/ddc/E3wWrrWkPCdgxfMXyrBKrqFXxT",
+    "https://id.oclc.org/worldcat/ddc/E3P3b4gFjMf3JPJQ36w3pD4Yd6",
+    "https://id.oclc.org/worldcat/ddc/E3rJgV76kwd6d6PYhTpKKXrXvY",
+    "https://id.oclc.org/worldcat/ddc/E3PbPWxCVt3CBMhW3VvR34jg8T"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "974-979",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

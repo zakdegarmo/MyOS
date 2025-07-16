@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4b4vxRYqPrJFQyCYbBcWWRyRP",
+  "scopeNote": {
+    "sv": [
+      "Omfattar avhållsamhet, frosseri, girighet, glupskhet, måttlighet",
+      "Klassificera här användningen av naturresurser, av förmögenhet"
+    ],
+    "no": [
+      "Inkluderer: Avholdenhet, fråtsing, grådighet, overforbruk, måtehold",
+      "Her: Bruk av naturressurser, bruk av goder"
+    ],
+    "fr": [
+      "Y compris l’abstinence, l'abus, l’avidité, la gloutonnerie, la gourmandise, la tempérance",
+      "Classer ici l’usage des ressources naturelles, des richesses"
+    ],
+    "en": [
+      "Including abstinence, gluttony, greed, overindulgence, temperance",
+      "Class here use of natural resources, of wealth"
+    ],
+    "it": [
+      "Include l'astinenza, la ghiottoneria, l'ingordigia, l'intemperanza, la temperanza",
+      "Classificare qui l'uso della ricchezza, delle risorse naturali"
+    ],
+    "de": [
+      "Hier auch: Nutzung natürlicher Ressourcen, Nutzung von Reichtum",
+      "Einschließlich: Abstinenz, Völlerei, Habgier, Unmäßigkeit, Mäßigung"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Konsumtionsetik",
+    "en": "Ethics of consumption",
+    "it": "Etica dei consumi",
+    "no": "Forbruksetikk",
+    "fr": "Morale en matière de consommation",
+    "de": "Konsumethik"
+  },
+  "type": "Concept",
+  "modified": "2024-08-21T20:01:01Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "notation": "178",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

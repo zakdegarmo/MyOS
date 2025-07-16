@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43dJhgXyp4xMGyw9d3hJywJBP",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VpFb64j7Tvh9vmkF7xwFdc7M",
+  "prefLabel": {
+    "sv": "Klassisk grekisk litteratur och litteraturer på besläktade grekiska språk",
+    "de": "Klassische griechische Literatur und Literaturen verwandter hellenischer Sprachen",
+    "en": "Classical Greek literature and literatures of related Hellenic languages",
+    "fr": "Littérature grecque classique et littératures des langues helléniques apparentées",
+    "no": "Klassisk gresk litteratur og beslektede hellenske språks litteraturer",
+    "it": "Letteratura greca classica e letterature di lingue elleniche affini"
+  },
+  "modified": "2025-02-10T22:06:38Z",
+  "scopeNote": {
+    "no": [
+      "Her: Hellenske språks litteraturer, oversiktsverker som består av eller er om klassiske språks (gresk og latinsk) litteraturer"
+    ],
+    "sv": [
+      "Klassificera litteratur på grekiska språk, övegripande verk av eller om litteraturer på klassiska språk (grekiska och latin)"
+    ],
+    "de": [
+      "Hier auch: Literaturen hellenischer Sprachen, umfassende Werke in oder über Literaturen klassischer Sprachen (Griechisch und Latein)"
+    ],
+    "it": [
+      "Classificare qui le letterature di lingue elleniche, le opere d'insieme delle e sulle letterature classiche (letteratura greca e letteratura latina)"
+    ],
+    "fr": [
+      "Classer ici les littératures des langues helléniques, les ouvrages généraux des littératures des langues classiques ou sur les littératures des langues classiques (grec et latin)"
+    ],
+    "en": [
+      "Class here literatures of Hellenic languages, comprehensive works of or on literatures of classical (Greek and Latin) languages"
+    ]
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "880",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

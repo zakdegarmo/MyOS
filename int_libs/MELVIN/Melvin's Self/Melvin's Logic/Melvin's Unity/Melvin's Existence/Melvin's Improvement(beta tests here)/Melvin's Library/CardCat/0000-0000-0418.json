@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KJ8W4Cm7Yx7VhQ4vbjt49F4P",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la linguistica prescrittiva",
+      "Include le opere d'insieme sull'educazione alla lettura delle labbra in riferimento a più lingue, le opere d'insieme sull'uso di segni e alfabeti manuali per la codificazione manuale di più lingue standard parlate"
+    ],
+    "en": [
+      "Class here prescriptive linguistics",
+      "Including comprehensive works on instruction in lipreading with respect to multiple languages, comprehensive works on use of signs and fingerspelling for manual coding of multiple standard spoken languages"
+    ],
+    "sv": [
+      "Klassificera här normativ språkvetenskap",
+      "Omfattar övergripande verk om läppavläsning gällande flera språk, övergripande verk om användning av tecken och bokstavering med handalfabet för manuellt åskådliggörande av olika talade standardspråk"
+    ],
+    "fr": [
+      "Classer ici la linguistique normative",
+      "Y compris les ouvrages généraux sur l'enseignement au moyen de la lecture sur les lèvres en relation avec plusieurs langues, les ouvrages généraux sur l'utilisation des signes et de l'épellation digitale pour le codage manuel de plusieurs langues parlées standard"
+    ],
+    "de": [
+      "Einschließlich: umfassende Werke über Anleitung im Lippenlesen im Hinblick auf mehrere Sprachen, umfassende Werke über Gebrauch von Zeichen und Fingeralphabet zur manuellen Kodierung mehrerer gesprochener Standardsprachen",
+      "Hier auch: präskriptive Linguistik"
+    ],
+    "no": [
+      "Her: Normativ lingvistikk",
+      "Inkluderer: Oversiktsverker om opplæring i munnavlesning av flere ulike språk, oversiktsverker om bruk av tegn og fingerstaving til manuell formidling av flere ulike muntlige standardspråk"
+    ]
+  },
+  "prefLabel": {
+    "en": "Applied linguistics",
+    "it": "Linguistica applicata",
+    "de": "Angewandte Linguistik",
+    "sv": "Tillämpad språkvetenskap",
+    "fr": "Linguistique appliquée",
+    "no": "Anvendt lingvistikk"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-27T08:33:32Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+  "created": "1996-06-01",
+  "notation": "418",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

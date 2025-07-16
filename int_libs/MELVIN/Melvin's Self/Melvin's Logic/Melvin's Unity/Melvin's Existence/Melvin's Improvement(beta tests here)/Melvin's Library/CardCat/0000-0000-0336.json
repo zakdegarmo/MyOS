@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E473kVBPTCRfYFYymw9YXvyqvC",
+  "modified": "2021-07-24T12:01:56Z",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här skatterelationer mellan stater, övergripande verk om offentliga finanser och statens ekonomiska förvaltning"
+    ],
+    "fr": [
+      "Classer ici les relations fiscales intergouvernementales, les ouvrages généraux sur les finances publiques et l’administration financière des États"
+    ],
+    "no": [
+      "Her: Mellomstatlige finansielle forbindelser, oversiktsverker om offentlige finanser og styresmakters finansadministrasjon"
+    ],
+    "de": [
+      "Hier auch: zwischenstaatliche Finanzbeziehungen, umfassende Werke über öffentliche Finanzen und öffentliche Finanzwirtschaft"
+    ],
+    "it": [
+      "Classificare qui le relazioni tributarie tra i vari paesi, le opere d'insieme su finanza pubblica e amministrazione finanziaria pubblica"
+    ],
+    "en": [
+      "Class here intergovernmental fiscal relations, comprehensive works on public finance and financial administration of governments"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Finances publiques",
+    "it": "Finanza pubblica",
+    "de": "Öffentliche Finanzen",
+    "sv": "Offentliga finanser",
+    "en": "Public finance",
+    "no": "Offentlige finanser"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8JXfYQrdPHKYR8bd4FH6vW",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "336",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

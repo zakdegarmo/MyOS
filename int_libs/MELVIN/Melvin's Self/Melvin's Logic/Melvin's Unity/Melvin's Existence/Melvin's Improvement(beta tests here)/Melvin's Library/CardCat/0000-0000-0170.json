@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qMwcFPgmWwRrJvhpVcXm6TB8",
+  "notation": "170",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Etik (moralfilosofi)",
+    "en": "Ethics (Moral philosophy)",
+    "de": "Ethik (Moralphilosophie)",
+    "it": "Etica (Filosofia morale)",
+    "fr": "Morale",
+    "no": "Etikk (moralfilosofi)"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici la conscience, le bien et le mal ; la morale appliquée à des sujets particuliers, les ouvrages interdisciplinaires sur la morale sociale"
+    ],
+    "no": [
+      "Her: Samvittighet, det gode og det onde; etikk vedrørende bestemte fag og emner, tverrfaglige verker om sosialetikk"
+    ],
+    "en": [
+      "Class here conscience, good and evil; ethics of specific subjects, interdisciplinary works on social ethics"
+    ],
+    "it": [
+      "Classificare qui l'etica di discipline e soggetti specifici, le opere interdisciplinari sull'etica sociale"
+    ],
+    "de": [
+      "Hier auch: Gewissen, Gut und Böse; Ethik einzelner Themen, fächerübergreifende Werke über Sozialethik"
+    ],
+    "sv": [
+      "Klassificera här samvete, gott och ont, etik inom särskilda ämnen, tvärvetenskapliga verk om socialetik"
+    ]
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hVQWDGkfFmQvYDhX8xXpTQVC",
+  "type": "Concept",
+  "modified": "2024-10-25T11:17:47Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

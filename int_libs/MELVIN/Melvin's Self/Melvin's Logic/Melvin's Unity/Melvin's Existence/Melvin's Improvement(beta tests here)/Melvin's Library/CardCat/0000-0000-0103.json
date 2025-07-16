@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3x487GC3fkt43cBfYpJrF7FWB",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "prefLabel": {
+    "it": "Dizionari, enciclopedie, concordanze di filosofia",
+    "de": "Philosophische Wörterbücher, Enzyklopädien, Konkordanzen",
+    "fr": "Dictionnaires, encyclopédies, concordances de philosophie",
+    "en": "Dictionaries, encyclopedias, concordances of philosophy",
+    "sv": "Lexikon, uppslagsverk, konkordanser inom filosofi",
+    "no": "Ordbøker, leksika, konkordanser innen filosofi"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "103",
+  "modified": "2025-02-03T19:58:09Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BWFrKGy8vhBgtHFBhwwrXTwy",
+  "scopeNote": {
+    "sv": [
+      "Notation T1--01 från tabell 1 så som den är modifierad nedan"
+    ],
+    "it": [
+      "Notazione T1--01 dalla Tavola 1 come di seguito modificata"
+    ],
+    "en": [
+      "Notation T1--01 from Table 1 as modified below"
+    ],
+    "no": [
+      "Notasjon H1--01 fra Hjelpetabell 1 slik den er modifisert under"
+    ],
+    "de": [
+      "Notation T1--01 aus Hilfstafel 1 entsprechend den nachfolgenden Änderungen"
+    ],
+    "fr": [
+      "Notation T1--01 , Table 1, telle que modifiée ci-dessous"
+    ]
+  },
+  "modified": "2024-01-29T12:06:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Filosofi og teori; internasjonale språk",
+    "de": "Sprachphilosophie und -theorie; internationale Sprachen",
+    "en": "Philosophy and theory; international languages",
+    "sv": "Filosofi och teori; internationella språk",
+    "it": "Filosofia e teoria; lingue internazionali",
+    "fr": "Philosophie et théorie ; langues internationales"
+  },
+  "notation": "401",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

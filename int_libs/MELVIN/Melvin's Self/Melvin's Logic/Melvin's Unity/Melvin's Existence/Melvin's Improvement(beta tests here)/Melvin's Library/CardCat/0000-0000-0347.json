@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GCYjQHrXJGBMYqRCkD8wWY96",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här civilprocess och tvistemålsdomstolar; övergripande verk om civil- och straffprocess och domstolar, den dömande makten, rättskipning, juridiska tjänster"
+    ],
+    "en": [
+      "Class here civil procedure and courts; comprehensive works on civil and criminal procedure and courts, judicial branch of government, administration of justice, legal services"
+    ],
+    "no": [
+      "Her: Sivilprosess og domstoler; oversiktsverker om sivil- og straffeprosess og domstoler behandlet sammen, den dømmende statsmakt, om rettspleie, juridisk tjenesteyting"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Zivil- und Strafprozessrecht und Zivil- und Strafgerichte, Judikative, Justizverwaltung, Rechtsberatung, freiwillige Gerichtsbarkeit"
+    ],
+    "it": [
+      "Classificare qui la procedura civile e i tribunali civili; le opere d'insieme su procedura e tribunali civili e penali, sul potere giudiziario, sull'amministrazione della giustizia, sui servizi legali"
+    ],
+    "fr": [
+      "Classer ici la procédure et les tribunaux civils ; les ouvrages généraux sur la procédure et les tribunaux civils et criminels, le pouvoir judiciaire, l’administration de la justice, les services juridiques"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Procédure et tribunaux",
+    "it": "Diritto processuale e tribunali",
+    "sv": "Process och domstolar",
+    "en": "Procedure and courts",
+    "de": "Zivilprozessrecht und Zivilgerichte",
+    "no": "Prosedyre og domstoler"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36V4gYgV8DTGVG8BCTcDqKfVf",
+  "modified": "2025-07-04T19:51:58Z",
+  "notation": "347",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

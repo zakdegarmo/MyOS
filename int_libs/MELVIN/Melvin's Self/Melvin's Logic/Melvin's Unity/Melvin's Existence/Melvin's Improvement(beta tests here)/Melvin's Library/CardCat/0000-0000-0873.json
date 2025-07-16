@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49dYf97PBp9XjHBhVPFgDY6cC",
+  "modified": "2022-03-08T11:10:01Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3y9fcH7JMhCDp7tmwRCy49J9b",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Poesia epica e narrativa latina",
+    "fr": "Poésie et fiction épiques latines",
+    "de": "Lateinische erzählende Versdichtung und Erzählprosa",
+    "en": "Latin epic poetry and fiction",
+    "no": "Latinsk episk poesi og fiksjon",
+    "sv": "Latinsk episk poesi och prosa"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "873",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

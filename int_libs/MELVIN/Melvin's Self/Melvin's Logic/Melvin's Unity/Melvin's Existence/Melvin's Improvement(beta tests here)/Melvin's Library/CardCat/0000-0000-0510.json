@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47xrPwhxcpDVhyp8FFY8gJRBV",
+  "scopeNote": {
+    "en": [
+      "Class here pure mathematics"
+    ],
+    "fr": [
+      "Classer ici les mathématiques pures"
+    ],
+    "sv": [
+      "Klassificera här ren matematik"
+    ],
+    "de": [
+      "Hier auch: reine Mathematik"
+    ],
+    "no": [
+      "Her: Ren matematikk"
+    ],
+    "it": [
+      "Classificare qui la matematica pura"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Mathématiques",
+    "no": "Matematikk",
+    "it": "Matematica",
+    "sv": "Matematik",
+    "en": "Mathematics",
+    "de": "Mathematik"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2025-02-10T21:54:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "notation": "510",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

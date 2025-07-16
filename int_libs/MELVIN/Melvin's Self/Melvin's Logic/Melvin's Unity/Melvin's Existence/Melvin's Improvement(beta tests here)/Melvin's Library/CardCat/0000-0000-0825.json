@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kWKmTC3mfT6gk8mwyKqj7xyj",
+  "prefLabel": {
+    "it": "Discorsi inglesi",
+    "no": "Engelske taler",
+    "sv": "Engelska tal",
+    "en": "English speeches",
+    "fr": "Discours anglais",
+    "de": "Englische Reden"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "825",
+  "modified": "2023-05-30T08:46:15Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

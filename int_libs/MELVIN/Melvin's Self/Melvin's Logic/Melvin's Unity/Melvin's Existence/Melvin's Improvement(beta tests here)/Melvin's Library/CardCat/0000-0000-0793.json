@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44T3rmgm4t38B6qytvjTQWkrq",
+  "prefLabel": {
+    "no": "Spill, leker og underholdning innendørs",
+    "de": "Spiele und Freizeitaktivitäten für drinnen",
+    "sv": "Spel, lekar och nöjen som utövas inomhus",
+    "en": "Indoor games and amusements",
+    "it": "Giochi e divertimenti al chiuso",
+    "fr": "Jeux et divertissements d'intérieur"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-07-24T12:01:56Z",
+  "type": "Concept",
+  "notation": "793",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

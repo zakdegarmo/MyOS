@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3y99MgvMfcByHwRg8r4FjyBVF",
+  "prefLabel": {
+    "no": "Bygging med bestemte typer materialer og for bestemte formål",
+    "fr": "Construction avec des catégories particulières de matériaux et construction destinée à des usages particuliers",
+    "de": "Bauen mit einzelnen Baustoffarten und für einzelne Zwecke",
+    "it": "Costruzione in specifici tipi di materiale e per specifici scopi",
+    "sv": "Konstruktion i särskilda materialtyper och för särskilda ändamål",
+    "en": "Construction in specific types of materials and for specific purposes"
+  },
+  "modified": "2020-02-17T21:56:28Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "notation": "693",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

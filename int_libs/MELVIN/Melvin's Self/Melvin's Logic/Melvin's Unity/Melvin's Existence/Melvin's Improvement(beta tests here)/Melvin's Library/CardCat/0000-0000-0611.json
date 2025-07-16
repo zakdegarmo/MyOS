@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E479BbY8YbgrwpKfvkdVkh9BcD",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "notation": "611",
+  "prefLabel": {
+    "no": "Menneskets anatomi, cytologi, histologi",
+    "sv": "Människans anatomi, cytologi, histologi",
+    "it": "Anatomia, citologia, istologia umana",
+    "de": "Menschliche Anatomie, Zytologie, Histologie",
+    "en": "Human anatomy, cytology, histology",
+    "fr": "Anatomie, cytologie, histologie humaines"
+  },
+  "created": "1998-10-22",
+  "type": "Concept",
+  "modified": "2024-07-09T12:16:52Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

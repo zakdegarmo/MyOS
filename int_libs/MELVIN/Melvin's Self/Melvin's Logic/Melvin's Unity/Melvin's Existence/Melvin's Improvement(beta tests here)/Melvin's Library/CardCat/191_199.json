@@ -1,0 +1,29 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Neuzeitliche westliche und andere nichtöstliche Philosophie nach Kontinent oder Land",
+    "it": "Filosofia occidentale moderna e altra filosofia non orientale per continente o paese",
+    "fr": "Philosophie occidentale moderne et autres philosophies non orientales par continent ou pays",
+    "sv": "Modern västerländsk och övrig icke-österländsk filosofi efter världsdel eller land",
+    "en": "Modern western and other noneastern philosophy by continent or country",
+    "no": "Vestens filosofi i nyere tid og annen ikke-østlig filosofi inndelt etter verdensdel eller stat"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3gJBMDF3TwXYkVKJGgkVC8h8H",
+    "https://id.oclc.org/worldcat/ddc/E38DptRk9PfFTXJmK4jTdR6gXW",
+    "https://id.oclc.org/worldcat/ddc/E48Pr4TV8DvG6qVTkDhr67GTyP",
+    "https://id.oclc.org/worldcat/ddc/E3XQkP9kkrmrVM6f8JHDDcQFcq",
+    "https://id.oclc.org/worldcat/ddc/E46byjvxXbTptBhqpykcgBqq7J",
+    "https://id.oclc.org/worldcat/ddc/E46cm3XJ39VPhjTpRYmddXrm98",
+    "https://id.oclc.org/worldcat/ddc/E46RXxFpYJgRg3xpqFjQKRwKJ7",
+    "https://id.oclc.org/worldcat/ddc/E3TMWTfHXhQ9fdRMhXcccTthTW",
+    "https://id.oclc.org/worldcat/ddc/E3Dk7GCQPvYJk7Thqw39gXDYkD"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "191-199",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cBPV43DPRrTpJdjh49kqQJW6",
+  "modified": "2019-01-14T22:41:04Z",
+  "created": "2010-02-04",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

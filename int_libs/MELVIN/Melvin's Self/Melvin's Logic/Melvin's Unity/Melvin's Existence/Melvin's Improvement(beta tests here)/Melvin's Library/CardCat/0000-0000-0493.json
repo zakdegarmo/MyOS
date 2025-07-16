@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PQgHttc7kMQhqPbxTYv9tPc6",
+  "prefLabel": {
+    "it": "Lingue afroasiatiche non semitiche",
+    "sv": "Icke-semitiska afroasiatiska språk",
+    "fr": "Langues afro-asiatiques non sémitiques",
+    "no": "Ikke-semittiske afroasiatiske språk",
+    "de": "Nichtsemitische afroasiatische Sprachen",
+    "en": "Non-Semitic Afro-Asiatic languages"
+  },
+  "notation": "493",
+  "modified": "2023-06-15T12:43:10Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

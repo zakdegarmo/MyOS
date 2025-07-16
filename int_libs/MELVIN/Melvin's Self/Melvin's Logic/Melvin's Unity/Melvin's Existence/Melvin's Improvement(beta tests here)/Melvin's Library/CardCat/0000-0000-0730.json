@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3C8q6qWrM83cXw8TPvxY8jT7b",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bildhauerkunst und verwandte Künste",
+    "it": "Scultura e arti affini",
+    "sv": "Skulptur och liknande konstformer",
+    "en": "Sculpture and related arts",
+    "no": "Skulptur og lignende kunstarter",
+    "fr": "Sculpture et arts connexes"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MwqmFCbPrRHjdTVvyVjHwgrx",
+  "scopeNote": {
+    "de": [
+      "Hier auch: plastische Künste"
+    ],
+    "fr": [
+      "Classer ici les arts plastiques (arts tridimensionnels)"
+    ],
+    "no": [
+      "Her: Plastisk kunst (tredimensjonal kunst)"
+    ],
+    "sv": [
+      "Klassificera här skulpturala konstformer (tredimensionell konst)"
+    ],
+    "it": [
+      "Classificare qui le arti plastiche (arti tridimensionali)"
+    ],
+    "en": [
+      "Class here plastic arts (three-dimensional arts)"
+    ]
+  },
+  "modified": "2024-08-15T04:29:16Z",
+  "notation": "730",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

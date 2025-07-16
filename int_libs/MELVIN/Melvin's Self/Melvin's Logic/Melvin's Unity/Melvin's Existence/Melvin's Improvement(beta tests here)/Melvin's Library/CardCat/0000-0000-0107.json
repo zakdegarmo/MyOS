@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48JvjD6x94pY6ywdchvDPYPTk",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Étude et enseignement, recherche, sujets connexes de la philosophie",
+    "no": "Utdanning og opplæring, forskning, lignende emner innen filosofi",
+    "sv": "Utbildning, forskning, liknande ämnen i filosofi",
+    "it": "Educazione, ricerca, soggetti connessi della filosofia",
+    "en": "Education, research, related topics of philosophy",
+    "de": "Ausbildung, Forschung, verwandte Themen der Philosophie"
+  },
+  "type": "Concept",
+  "modified": "2025-02-03T19:58:09Z",
+  "notation": "107",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

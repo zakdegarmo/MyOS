@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3vJcC8XR496WXW9pXK3gjwB7v",
+  "scopeNote": {
+    "en": [
+      "Class here southern Africa"
+    ],
+    "no": [
+      "Her: Det sørlige Afrika"
+    ],
+    "sv": [
+      "Klassificera här södra Afrika"
+    ],
+    "it": [
+      "Classificare qui l'Africa meridionale"
+    ],
+    "de": [
+      "Hier auch: Südafrika"
+    ],
+    "fr": [
+      "Classer ici l'Afrique australe"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2025-01-23T21:52:25Z",
+  "prefLabel": {
+    "fr": "République d'Afrique du Sud et pays d'Afrique australe avoisinants",
+    "en": "Republic of South Africa and neighboring southern African countries",
+    "no": "Republikken Sør-Afrika og naboland i det sørlige Afrika",
+    "de": "Republik Südafrika und benachbarte südafrikanische Länder",
+    "it": "Repubblica Sudafricana e paesi vicini dell'Africa meridionale",
+    "sv": "Sydafrika och närliggande länder i södra Afrika"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E47h3KMHqTWYwm8C373XBYgQJW",
+  "type": "Concept",
+  "notation": "968",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E46FFKXF3WxktVHJ93F9DdyTKf",
+    "https://id.oclc.org/worldcat/ddc/E4bhrwgWbYgMM7gc8y66gXT74V",
+    "https://id.oclc.org/worldcat/ddc/E436H4rjqpwGccBR9XMfBF8yy4",
+    "https://id.oclc.org/worldcat/ddc/E3xCF79J4FjmKT3JYmtDdbQxmd",
+    "https://id.oclc.org/worldcat/ddc/E3FkrgpT6Gk4JPxXbRGpKMB9Bj",
+    "https://id.oclc.org/worldcat/ddc/E36DyVYqXJDRYVCrCtvg6FTRMd",
+    "https://id.oclc.org/worldcat/ddc/E3H3DmFrBfwy8G3qprCKmq4RHW",
+    "https://id.oclc.org/worldcat/ddc/E4dfHGhx3CP9J6H88DhYHkwpGh",
+    "https://id.oclc.org/worldcat/ddc/E4d9FgyDDqfCKpRc6QJ3cBXyfP"
+  ],
+  "notation": "071-079",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les journaux particuliers d'ordre général sans tenir compte de la langue, leurs index, les ouvrages à leur sujet"
+    ],
+    "de": [
+      "Hier auch: einzelne Zeitungen ungeachtet der Sprache, Indizes zu Zeitungen, andere Werke über sie"
+    ],
+    "it": [
+      "Classificare qui gli specifici giornali generali senza tener conto della lingua, i loro indici, le opere che li studiano"
+    ],
+    "en": [
+      "Class here specific general newspapers regardless of language, indexes to them, other works about them"
+    ],
+    "sv": [
+      "Klassificera här särskilda allmänna dagstidningar oavsett språk, index till dem, övriga verk om dem"
+    ],
+    "no": [
+      "Her: Bestemte generelle aviser uansett språk, registre til bestemte generelle aviser, verker om bestemte generelle aviser"
+    ]
+  },
+  "created": "1998-10-23",
+  "prefLabel": {
+    "en": "Geographic treatment of journalism and newspapers",
+    "de": "Geografische Behandlung von Journalismus und Zeitungen",
+    "it": "Geografia del giornalismo e dei giornali",
+    "no": "Geografisk behandling av journalistikk og aviser",
+    "fr": "Étude géographique du journalisme et des journaux",
+    "sv": "Geografisk indelning av journalistik och dagstidningar"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yM8RgdPk6DCkvHd6CQGy8bbh",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

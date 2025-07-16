@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33qv8KdHTBWGGyWqGCtRpq7th",
+  "prefLabel": {
+    "no": "Bestemte områder innen offentlig administrasjon",
+    "sv": "Särskilda områden inom offentlig förvaltning",
+    "fr": "Domaines particuliers de l’administration publique",
+    "it": "Specifiche materie di amministrazione pubblica",
+    "en": "Specific fields of public administration",
+    "de": "Einzelne Bereiche der öffentlichen Verwaltung"
+  },
+  "created": "1996-06-01",
+  "notation": "353",
+  "modified": "2023-02-06T16:10:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mCRMyvKtph7kTXXXVcWGTgFx",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

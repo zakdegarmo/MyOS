@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38tym3TttCMypKhWtwYQ3wbgC",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "835",
+  "prefLabel": {
+    "it": "Discorsi tedeschi",
+    "en": "German speeches",
+    "fr": "Discours allemands",
+    "no": "Tyske taler",
+    "sv": "Tyska tal",
+    "de": "Deutsche Reden"
+  },
+  "modified": "2024-01-04T11:23:30Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PQDwg8bMQf6PBGwftpMGpfpM",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43xvHmrg4PrmMYxfKcqBJyPmk",
+  "prefLabel": {
+    "de": "Gartenpflanzen (Gartenbau)",
+    "no": "Hagebruksavlinger (hortikultur)",
+    "en": "Garden crops (Horticulture)",
+    "fr": "Produits des jardins (Horticulture)    ",
+    "it": "Ortaggi (Orticoltura)",
+    "sv": "Trädgårdsodling (hortikultur)"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les légumes (produits destinés principalement à la consommation humaine, sans autre traitement intermédiaire que la cuisson et la conservation) ; le jardinage domestique, la culture maraîchère"
+    ],
+    "en": [
+      "Class here vegetables (crops grown primarily for human consumption without intermediate processing other than cooking and preservation); home gardening, truck farming"
+    ],
+    "it": [
+      "Classificare qui le verdure (colture destinate principalmente al consumo umano, senza lavorazioni intermedie tranne la cucina e la conservazione; orticoltura domestica, le colture ortive a grande scala"
+    ],
+    "no": [
+      "Her: Grønnsaker (avlinger som dyrkes primært som menneskeføde uten annen behandling enn tilberedning og konservering); hjemmedyrking, handelsgartnerier"
+    ],
+    "de": [
+      "Hier auch: Gemüse (hauptsächlich zum Direktverzehr angebaute Pflanzen, d.h. ohne weitere Verarbeitung abgesehen von Kochen und Konservierung); Gartenbau im eigenen Garten, Gärtnern, Gemüsegärtnern, Gemüsebau"
+    ],
+    "sv": [
+      "Klassificera här grönsaker (grödor som odlas i första hand för mänsklig konsumtion utan annan bearbetning än tillagning eller konservering); trädgårdsodling för eget bruk, yrkesmässig odling av grönsaker"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PTX9FYywttqY4FFkxtgRqyGV",
+  "created": "1996-06-01",
+  "notation": "635",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-07-01T11:00:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

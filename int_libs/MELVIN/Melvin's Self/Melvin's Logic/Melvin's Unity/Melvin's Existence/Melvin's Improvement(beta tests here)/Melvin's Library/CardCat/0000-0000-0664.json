@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3TxDttdPHVr6cK6bqx8Py6PJd",
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Tecnologia alimentare",
+    "sv": "Livsmedelsteknik",
+    "de": "Lebensmitteltechnologie",
+    "fr": "Technologie des aliments",
+    "no": "Næringsmiddelteknologi",
+    "en": "Food technology"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über industrielle Lebensmittel- und Getränketechnologie",
+      "Verarbeitung für den Handel, Konservierung, Verpackung"
+    ],
+    "no": [
+      "Industriell framstilling, lagring, emballering",
+      "Her: Oversiktsverker om kommersiell drikkevare- og næringsmiddelteknologi"
+    ],
+    "it": [
+      "Preparazione, conservazione, confezione commerciale",
+      "Classificare qui le opere d'insieme sulla tecnologia commerciale di alimenti e bevande"
+    ],
+    "fr": [
+      "Préparation commerciale, conservation, conditionnement (emballage)",
+      "Classer ici les ouvrages généraux sur la technologie commerciale des aliments et des boissons"
+    ],
+    "sv": [
+      "Kommersiell framställning, konservering, förpackning",
+      "Klassificera här övergripande verk om kommersiell livsmedelsteknik och dryckesteknik"
+    ],
+    "en": [
+      "Commercial preparation, preservation, packaging",
+      "Class here comprehensive works on commercial food and beverage technology"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1998-10-16",
+  "notation": "664",
+  "modified": "2025-05-22T12:30:54Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

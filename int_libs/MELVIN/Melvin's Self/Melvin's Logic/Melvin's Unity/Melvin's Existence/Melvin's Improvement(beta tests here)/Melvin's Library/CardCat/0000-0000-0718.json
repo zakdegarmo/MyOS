@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xMXHwB66QfxVMJGCk6JvTh3b",
+  "prefLabel": {
+    "no": "Landskapsutforming for kirkegårder (gravlunder)",
+    "sv": "Landskapsarkitektur för begravningsplatser",
+    "it": "Progettazione del paesaggio dei cimiteri",
+    "en": "Landscape design of cemeteries",
+    "de": "Landschaftsgestaltung von Friedhöfen",
+    "fr": "Aménagement paysager des cimetières"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "718",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

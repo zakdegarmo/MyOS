@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34TgXvp93DffQcgJ6rtQh6HYJ",
+  "scopeNote": {
+    "en": [
+      "Class here textile handicrafts"
+    ],
+    "de": [
+      "Hier auch: Textilhandwerk"
+    ],
+    "no": [
+      "Her: Tekstilhåndverk"
+    ],
+    "it": [
+      "Classificare qui l'artigianato tessile"
+    ],
+    "fr": [
+      "Classer ici l’artisanat du textile"
+    ],
+    "sv": [
+      "Klassificera här hantverk i textil"
+    ]
+  },
+  "modified": "2023-08-09T07:15:51Z",
+  "prefLabel": {
+    "fr": "Arts du textile",
+    "no": "Tekstilkunst",
+    "sv": "Textil konst",
+    "it": "Arti tessili",
+    "de": "Textilkunst",
+    "en": "Textile arts"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "746",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37wbB7mBMhVtVmGYQxRj8FT3d",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

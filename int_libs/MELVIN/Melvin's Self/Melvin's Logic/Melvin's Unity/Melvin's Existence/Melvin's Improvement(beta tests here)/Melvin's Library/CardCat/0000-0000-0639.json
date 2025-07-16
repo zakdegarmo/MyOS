@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46M6FBKcM8fhT4Tgx7tQddvDg",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Hunting, fishing, conservation, related technologies",
+    "no": "Jakt, fiske, vern av biologiske ressurser, lignende virksomheter",
+    "sv": "Jakt, fiske, naturvård, liknande verksamheter",
+    "fr": "Chasse, pêche, conservation, technologies connexes",
+    "it": "Caccia, pesca, tutela delle risorse biologiche, tecnologie connesse",
+    "de": "Jagd, Fischfang, Erhaltung, verwandte Bereiche"
+  },
+  "notation": "639",
+  "scopeNote": {
+    "en": [
+      "Class here culture of nondomesticated animals"
+    ],
+    "it": [
+      "Classificare qui l'allevamento di animali non domestici"
+    ],
+    "fr": [
+      "Classer ici l’élevage des animaux non domestiqués"
+    ],
+    "de": [
+      "Hier auch: Zucht nicht domestizierter Tiere"
+    ],
+    "no": [
+      "Her: Oppdrett av ville dyr"
+    ],
+    "sv": [
+      "Klassificera här odling av vilda djur"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2019-11-15T15:40:09Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

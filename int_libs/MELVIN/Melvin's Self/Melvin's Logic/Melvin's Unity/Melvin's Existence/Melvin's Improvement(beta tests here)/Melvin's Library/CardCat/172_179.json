@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3DVgy7QM4m9pGtFXQdPfMwK8b",
+    "https://id.oclc.org/worldcat/ddc/E33jyJTfDMKQfwh7jWdbXg74yd",
+    "https://id.oclc.org/worldcat/ddc/E49KmGjx8M6xGb3BYtQdHYRV9r",
+    "https://id.oclc.org/worldcat/ddc/E4b4vxRYqPrJFQyCYbBcWWRyRP",
+    "https://id.oclc.org/worldcat/ddc/E3rDwC88F4b49PKQ4ybb6TcRKX",
+    "https://id.oclc.org/worldcat/ddc/E3wPvxKpjRy9wjkjyGH9rkPfQQ",
+    "https://id.oclc.org/worldcat/ddc/E37dFQrffDxh6qXRCHJKKCbBPx",
+    "https://id.oclc.org/worldcat/ddc/E3gYhYC8TGQBMjxXhjXVrr4K3j"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hVQWDGkfFmQvYDhX8xXpTQVC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "172-179",
+  "prefLabel": {
+    "no": "Anvendt etikk",
+    "it": "Etica applicata",
+    "fr": "Éthique appliquée",
+    "en": "Applied ethics",
+    "sv": "Tillämpad etik",
+    "de": "Angewandte Ethik"
+  },
+  "type": "Concept",
+  "modified": "2023-11-07T14:24:26Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47VJbkRqv8FpKFpRXqxmgMCDT",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "prefLabel": {
+    "en": "Hypotheses",
+    "it": "Ipotesi",
+    "fr": "Hypothèses",
+    "no": "Hypoteser",
+    "de": "Hypothesen",
+    "sv": "Hypoteser"
+  },
+  "modified": "2024-11-15T06:48:06Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "167",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

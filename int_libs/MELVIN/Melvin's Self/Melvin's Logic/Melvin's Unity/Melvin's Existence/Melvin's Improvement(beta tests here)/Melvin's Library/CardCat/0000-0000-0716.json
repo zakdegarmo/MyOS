@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y4D9bfYBBjB7YgBYFbHgBxWk",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über Pflanzen, die wegen ihrer Blüten für die Landschaftsgestaltung angepflanzt werden",
+      "Einschließlich: Bodenvegetation",
+      "Angepflanzt wegen ihrer Blüten oder anderer Eigenschaften"
+    ],
+    "en": [
+      "Cultivated for flowers or for other attributes",
+      "Including ground cover",
+      "Class here comprehensive works on plants cultivated for their flowers in landscape architecture"
+    ],
+    "no": [
+      "Her: Oversiktsverker om planter i landskapsarkitektur som dyrkes på grunn av sine blomster",
+      "Dyrket for sine blomster eller av andre grunner",
+      "Inkluderer: Bunndekke"
+    ],
+    "it": [
+      "Coltivate per i loro fiori o per altre caratteristiche",
+      "Include il tappeto vegetale",
+      "Classificare qui le opere d'insieme sulle piante coltivate per i loro fiori nell'architettura del paesaggio"
+    ],
+    "sv": [
+      "Omfattar markvegetation",
+      "Klassificera här övergripande verk om växter odlade för sina blommors skull, i landskapsarkitektur",
+      "Odlade för sina blommors, och andra egenskapers, skull"
+    ],
+    "fr": [
+      "Plantes cultivées pour leurs fleurs ou pour d’autres caractéristiques",
+      "Y compris les plantes couvre-sol",
+      "Classer ici les ouvrages généraux sur le rôle des plantes à fleurs dans l’architecture du paysage"
+    ]
+  },
+  "prefLabel": {
+    "it": "Piante erbacee nell'architettura del paesaggio",
+    "fr": "Plantes herbacées dans l’architecture du paysage",
+    "de": "Krautige Pflanzen als Gestaltungselemente",
+    "en": "Herbaceous plants in landscape architecture",
+    "no": "Urteplanter (urteaktige planter) i landskapsarkitektur",
+    "sv": "Örtväxter i landskapsarkitektur"
+  },
+  "notation": "716",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2023-12-13T14:19:49Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E363t7FjbM36vwvWTp7KQ8dxBh",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

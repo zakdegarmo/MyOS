@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ywmvmHVVVGkRCjcVVyC8qw6j",
+  "scopeNote": {
+    "it": [
+      "Include la Divine Light Mission, i Radhasvami"
+    ],
+    "fr": [
+      "Y compris la Mission de la lumière divine, la Radha Soami Satsang"
+    ],
+    "sv": [
+      "Omfattar Divine Light Mission, Radha Soami Satsang"
+    ],
+    "de": [
+      "Einschließlich: Divine-Light-Mission, Radha Soami Satsang"
+    ],
+    "no": [
+      "Inkluderer: Divine Light Mission, Radhasoami Satsang"
+    ],
+    "en": [
+      "Including Divine Light Mission, Radha Soami Satsang"
+    ]
+  },
+  "type": "Concept",
+  "created": "2000-02-02",
+  "prefLabel": {
+    "no": "Religioner av indisk opprinnelse",
+    "sv": "Religioner av indiskt ursprung",
+    "de": "Religionen indischen Ursprungs",
+    "it": "Religioni di origine indiana",
+    "en": "Religions of Indic origin",
+    "fr": "Religions d’origine indienne"
+  },
+  "notation": "294",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-10-04T12:02:29Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

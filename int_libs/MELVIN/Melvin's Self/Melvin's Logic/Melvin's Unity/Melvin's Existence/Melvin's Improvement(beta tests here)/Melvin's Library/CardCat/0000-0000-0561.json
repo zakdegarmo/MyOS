@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FMwVBdD3d78BXtrbKd98RV97",
+  "scopeNote": {
+    "it": [
+      "Classificare qui gli Spermatophyta fossili; la paleobotanica tassonomica",
+      "Include i fossili simili a piante di posizione tassonomica incerta"
+    ],
+    "no": [
+      "Her: Fossile Spermatophyta (frøplanter); taksonomisk paleobotanikk",
+      "Inkluderer: Plantelignende fossiler med usikker taksonomisk plassering"
+    ],
+    "sv": [
+      "Omfattar växtliknande fossiler med osäker taxonomisk ställning",
+      "Klassificera här fossil Spermatophyta (fanerogamer), Angiospermae (gömfröiga växter); taxonomisk paleobotanik"
+    ],
+    "de": [
+      "Einschließlich: pflanzenartige Fossilien mit unsicherer taxonomischer Stellung",
+      "Hier auch: fossile Spermatophyta, Angiospermae; taxonomische Paläobotanik"
+    ],
+    "en": [
+      "Including plantlike fossils of uncertain taxonomic position",
+      "Class here fossil Spermatophyta; taxonomic paleobotany"
+    ],
+    "fr": [
+      "Classer ici les Spermatophytes fossiles, la paléobotanique taxinomique",
+      "Y compris les fossiles proches des plantes ayant une position taxinomique incertaine"
+    ]
+  },
+  "notation": "561",
+  "prefLabel": {
+    "sv": "Paleobotanik; fossila mikroorganismer",
+    "en": "Paleobotany; fossil microorganisms",
+    "it": "Paleobotanica; microrganismi fossili",
+    "de": "Paläobotanik; fossile Mikroorganismen",
+    "no": "Paleobotanikk; fossile mikroorganismer",
+    "fr": "Paléobotanique ; microorganismes fossiles"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TWmb8CgMwft4mMtWrdWxXfFp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2023-05-29T04:20:25Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

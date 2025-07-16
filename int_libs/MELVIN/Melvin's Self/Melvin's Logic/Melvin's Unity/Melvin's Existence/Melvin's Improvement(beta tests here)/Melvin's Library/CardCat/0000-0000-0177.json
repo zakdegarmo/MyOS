@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49KmGjx8M6xGb3BYtQdHYRV9r",
+  "type": "Concept",
+  "scopeNote": {
+    "fr": [
+      "Indice limité aux sujets figurant ci-dessous"
+    ],
+    "it": [
+      "Solo i soggetti enunciati qui di seguito"
+    ],
+    "en": [
+      "Limited to the topics provided for below"
+    ],
+    "no": [
+      "Begrenset til emnene som er nevnt under"
+    ],
+    "sv": [
+      "Begränsat till ämnen med placering nedan"
+    ],
+    "de": [
+      "Begrenzt auf die im Folgenden vorgesehenen Themen"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Etikk i mellommenneskelige forhold",
+    "sv": "Etik i sociala relationer",
+    "it": "Etica delle relazioni sociali",
+    "en": "Ethics of social relations",
+    "de": "Ethik sozialer Beziehungen",
+    "fr": "Morale en matière de relations sociales"
+  },
+  "modified": "2022-09-30T11:17:02Z",
+  "notation": "177",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

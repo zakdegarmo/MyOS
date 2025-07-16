@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bFhGt46H7qPRcmqtDc84Whbm",
+  "prefLabel": {
+    "de": "Altenglische (Angelsächsische) Literatur",
+    "sv": "Fornengelsk (anglosaxisk) litteratur",
+    "en": "Old English (Anglo-Saxon) literature",
+    "it": "Letteratura in antico inglese (Letteratura anglosassone)",
+    "no": "Gammelengelsk (angelsaksisk) litteratur",
+    "fr": "Littérature vieil-anglaise (anglo-saxonne)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3FVVQkWGwJXDVkYBpy7rCQVQF",
+  "notation": "829",
+  "modified": "2020-04-15T19:32:39Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

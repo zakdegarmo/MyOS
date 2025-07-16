@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T7Tc9yhgfHFWY78HyrDyhyfJ",
+  "notation": "121",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über Wahrheit, z.B. Kohärenz-, Korrespondenztheorien"
+    ],
+    "no": [
+      "Her: Koherensteorien om sannhet, korrespondanseteorien om sannhet; oversiktsverker om sannhet"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulla verità, p.e., teorie della coerenza, della rispondenza"
+    ],
+    "fr": [
+      "Classer ici la théorie de la vérité comme cohérence, la théorie de la vérité comme correspondance ; les ouvrages généraux sur la vérité"
+    ],
+    "en": [
+      "Class here coherence, correspondence theories of truth; comprehensive works on truth"
+    ],
+    "sv": [
+      "Klassificera här sammanhang, korrespondensteorier för sanning, övergripande verk om sanning"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HKkj79xG8d8fp4RTR49cqgWW",
+  "type": "Concept",
+  "prefLabel": {
+    "fr": "Épistémologie (Théorie de la connaissance)",
+    "sv": "Kunskapsteori (epistemologi)",
+    "no": "Epistemologi (erkjennelsesteori)",
+    "it": "Gnoseologia (Teoria della conoscenza)",
+    "de": "Epistemologie (Erkenntnistheorie)",
+    "en": "Epistemology (Theory of knowledge)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-12T03:20:35Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

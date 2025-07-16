@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44Dt7tvjXHyCCtkkT4mDVC9GB",
+  "scopeNote": {
+    "fr": [
+      "Classer ici l’enseignement collégial, l’enseignement universitaire ; les universités"
+    ],
+    "it": [
+      "Classificare qui l'educazione al livello di college, l'educazione universitaria; le università"
+    ],
+    "sv": [
+      "Klassificera här högskoleutbildning, universitetsutbildning; universitet"
+    ],
+    "de": [
+      "Hier auch: Hochschulstudium, Universitätsstudium; Universitäten"
+    ],
+    "en": [
+      "Class here college education, university education; universities"
+    ],
+    "no": [
+      "Her: Høyskoleutdanning, universitetsutdanning; universiteter"
+    ]
+  },
+  "prefLabel": {
+    "it": "Educazione superiore",
+    "sv": "Högre utbildning (tertiär utbildning)",
+    "en": "Higher education (Tertiary education)",
+    "no": "Høyere utdanning",
+    "de": "Hochschulbildung (Tertiärbereich)",
+    "fr": "Enseignement supérieur (Enseignement de troisième degré)"
+  },
+  "created": "1996-06-01",
+  "modified": "2024-09-27T17:19:10Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "notation": "378",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

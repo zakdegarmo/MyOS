@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3H4XJ8pWbbgpdyfKj6kXHWwrq",
+  "notation": "622",
+  "modified": "2024-05-06T08:11:22Z",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Mining and related operations",
+    "it": "Arte mineraria e attività connesse",
+    "sv": "Utvinning och angränsande verksamheter",
+    "de": "Bergbau und verwandte Tätigkeiten",
+    "no": "Utvinning og lignende operasjoner",
+    "fr": "Technique minière et activités connexes"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

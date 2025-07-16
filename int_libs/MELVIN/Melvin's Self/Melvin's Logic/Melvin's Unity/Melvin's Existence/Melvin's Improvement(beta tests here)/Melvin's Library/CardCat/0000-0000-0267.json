@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xT4GmwrdKcbKCCK9Tm6jD6XW",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le associazioni pie, i sodalizi, le confraternite"
+    ],
+    "en": [
+      "Class here pious societies, sodalities, confraternities"
+    ],
+    "no": [
+      "Her: Fromme selskaper, sodaliteter, konfraterniteter"
+    ],
+    "de": [
+      "Hier auch: fromme Gemeinschaften, Sodalitäten, Bruderschaften"
+    ],
+    "fr": [
+      "Classer ici les associations pieuses, les confréries, les sodalités"
+    ],
+    "sv": [
+      "Klassificera här fromma sällskap, sodaliteter, brödraskap"
+    ]
+  },
+  "prefLabel": {
+    "en": "Associations for religious work",
+    "it": "Associazioni per attività religiose",
+    "sv": "Föreningar för religiöst arbete",
+    "no": "Foreninger som driver religiøst arbeid",
+    "de": "Religiöse Verbände",
+    "fr": "Associations à but religieux"
+  },
+  "modified": "2023-06-07T09:06:05Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3bhjWp3yrM4KBMHHQ3Rtyg3wV",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "267",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

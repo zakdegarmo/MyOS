@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33ptT7km4PwxTrpKcF6Bd7RCM",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Classical Greek and related Hellenic languages",
+    "de": "Klassisches Griechisch und verwandte hellenische Sprachen",
+    "sv": "Klassisk grekiska och besläktade grekiska språk",
+    "no": "Klassisk gresk og beslektede hellenske språk",
+    "it": "Greco classico e lingue elleniche affini",
+    "fr": "Grec classique et langues helléniques connexes"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les langues helléniques, les ouvrages généraux sur les langues classiques (grec et latin)",
+      "Grec classique : grec répandu de 750 à 350 av. J.-C."
+    ],
+    "it": [
+      "Greco classico: il greco tra il 750 e il 350 a.C.",
+      "Classificare qui le lingue elleniche, le opere d'insieme sulle lingue classiche (Greco e Latino)"
+    ],
+    "sv": [
+      "Klassisk grekiska: grekiska mellan 750 och 350 f.Kr.",
+      "Klassificera här grekiska språk, övergripande verk om klassiska språk (grekiska och latin)"
+    ],
+    "no": [
+      "Klassisk gresk: Gresk mellom 750 og 350 f.Kr.",
+      "Her: Hellenske språk, oversiktsverker om klassiske språk (gresk og latin)"
+    ],
+    "en": [
+      "Classical Greek: the Greek that flourished between 750 and 350 B.C.",
+      "Class here Hellenic languages, comprehensive works on classical (Greek and Latin) languages"
+    ],
+    "de": [
+      "Hier auch: hellenische Sprachen, umfassende Werke über Alte Sprachen (Sprachen des klassischen Altertums, Griechisch und Latein)",
+      "Klassisches Griechisch (Altgriechisch): das Griechisch mit Blütezeit zwischen 750 und 350 v. Chr."
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K8rMpQCFTkBtB9Rr9k3bQGmp",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2023-06-15T12:43:10Z",
+  "notation": "480",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Kr7ymkyMFcgptxPMTjh9pkGR",
+  "prefLabel": {
+    "de": "Griechische, etruskische, römische Bildhauerkunst",
+    "it": "Scultura greca, etrusca, romana",
+    "en": "Greek, Etruscan, Roman sculpture",
+    "no": "Gresk, etruskisk, romersk skulptur",
+    "fr": "Sculptures grecque, étrusque, romaine",
+    "sv": "Grekisk skulptur, etruskisk skulptur, romersk skulptur"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GQ3HjPCbxXTJVJ4HjcyBvt6V",
+  "modified": "2021-06-29T07:51:22Z",
+  "created": "1996-06-01",
+  "notation": "733",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

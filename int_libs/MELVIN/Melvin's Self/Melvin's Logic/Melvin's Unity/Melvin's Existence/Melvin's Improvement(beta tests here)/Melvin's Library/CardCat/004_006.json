@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36rRpGBXwxc7xxKp4gR8gG4pD",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3crFxr84MQkDt9mHBYTvbkPCB",
+    "https://id.oclc.org/worldcat/ddc/E379xBCBchbdmrqYKbR6BJFPFX",
+    "https://id.oclc.org/worldcat/ddc/E3fBwkTjp89TW8cXVFMddRqqDT"
+  ],
+  "prefLabel": {
+    "it": "Informatica; sviluppo del software, software, dati dei computer; metodi speciali di elaborazione",
+    "sv": "Datavetenskap; programvaruutveckling, program, data; speciella datormetoder",
+    "no": "Informatikk; programvareutvikling, programvare, data; spesielle datamaskinmetoder",
+    "de": "Informatik; Softwareentwicklung, Software, Daten; spezielle Computerverfahren",
+    "en": "Computer science; software development, software, data; special computer methods",
+    "fr": "Informatique ; développement de logiciels, logiciels, données ; méthodes informatiques particulières"
+  },
+  "created": "2008-08-28",
+  "type": "Concept",
+  "modified": "2023-01-17T14:53:34Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "notation": "004-006",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

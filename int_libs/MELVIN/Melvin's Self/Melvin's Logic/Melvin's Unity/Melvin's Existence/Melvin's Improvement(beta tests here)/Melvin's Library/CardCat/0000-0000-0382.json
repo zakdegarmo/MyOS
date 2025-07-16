@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B86Dkq6fGxc7mgQWYV938hVV",
+  "prefLabel": {
+    "de": "Internationaler Handel (Außenhandel)",
+    "en": "International commerce (Foreign trade)",
+    "fr": "Commerce international (Commerce extérieur)",
+    "no": "Internasjonal handel (utenrikshandel)",
+    "it": "Commercio internazionale (Commercio estero)",
+    "sv": "Internationell handel (utrikeshandel)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Class here trade between nations and their colonies, protectorates, trusts"
+    ],
+    "sv": [
+      "Klassificera här handel mellan nationer och deras kolonier, protektorat, truster"
+    ],
+    "fr": [
+      "Classer ici le commerce entre les nations et leurs colonies, leurs protectorats, leurs territoires sous tutelle"
+    ],
+    "de": [
+      "Hier auch: Handel zwischen Ländern und ihren Kolonien, Protektoraten, Treuhandgebieten"
+    ],
+    "no": [
+      "Her: Handel mellom stater og deres kolonier, protektorater, tilsynsområder"
+    ],
+    "it": [
+      "Classificare qui il commercio di un paese con le sue colonie, i suoi protettorati, i territori soggetti alla sua tutela"
+    ]
+  },
+  "type": "Concept",
+  "modified": "2025-07-03T16:29:52Z",
+  "notation": "382",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

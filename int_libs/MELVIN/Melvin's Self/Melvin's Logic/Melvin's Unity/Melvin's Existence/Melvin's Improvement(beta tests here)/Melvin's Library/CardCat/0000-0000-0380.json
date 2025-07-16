@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GkqBbRx64xmDkvG9DDRbjcc9",
+  "prefLabel": {
+    "de": "Handel, Kommunikation, Verkehr",
+    "no": "Handel, kommunikasjonsmidler, samferdsel",
+    "en": "Commerce, communications, transportation",
+    "fr": "Commerce, communications, transports",
+    "sv": "Handel, kommunikationer, transport",
+    "it": "Commercio, comunicazioni, trasporto"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "380",
+  "created": "2000-02-02",
+  "modified": "2025-04-11T19:43:05Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

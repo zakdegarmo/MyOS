@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dJt3GtKTp378GjFkRmkPQWY9",
+  "notation": "997",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Öar i Atlanten",
+    "no": "Atlanterhavsøyene",
+    "en": "Atlantic Ocean islands",
+    "de": "Inseln des Atlantischen Ozeans",
+    "it": "Isole dell'oceano Atlantico",
+    "fr": "Îles de l'océan Atlantique"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-07-14T11:47:27Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

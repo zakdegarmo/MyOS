@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33xPD9rfdW4VQQGftJMfWYJVP",
+  "prefLabel": {
+    "no": "Folkeminne",
+    "en": "Folklore",
+    "de": "Folklore",
+    "fr": "Folklore",
+    "sv": "Folklore",
+    "it": "Folclore"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+  "modified": "2024-09-16T17:44:07Z",
+  "notation": "398",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

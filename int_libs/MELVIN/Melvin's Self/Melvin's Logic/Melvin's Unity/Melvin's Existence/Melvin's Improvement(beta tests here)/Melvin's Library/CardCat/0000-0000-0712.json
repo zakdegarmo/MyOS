@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49PWXcrCtRhhC7wvV8CMK4Y3F",
+  "prefLabel": {
+    "en": "Landscape architecture (Landscape design)",
+    "sv": "Landskapsarkitektur",
+    "it": "Architettura del paesaggio (Progettazione del paesaggio)",
+    "de": "Landschaftsgestaltung (Landschaftsdesign)",
+    "no": "Landskapsarkitektur (landskapsutforming)",
+    "fr": "Architecture du paysage (Aménagement du paysage)"
+  },
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "712",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

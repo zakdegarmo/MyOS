@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CGjy6VpYJdQRBQ8hMXJHRXQG",
+  "prefLabel": {
+    "en": "Special topics in fine and decorative arts",
+    "sv": "Särskilda ämnen inom konst och konsthantverk",
+    "fr": "Sujets particuliers relatifs aux beaux-arts et aux arts décoratifs",
+    "de": "Spezielle Themen der bildenden und angewandten Kunst",
+    "it": "Soggetti speciali nelle belle arti e arti decorative",
+    "no": "Spesielle emner innen kunst og kunsthåndverk"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "notation": "704",
+  "modified": "2025-03-05T18:38:27Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

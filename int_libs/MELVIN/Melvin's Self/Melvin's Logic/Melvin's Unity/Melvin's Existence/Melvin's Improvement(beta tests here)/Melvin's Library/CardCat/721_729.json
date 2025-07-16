@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR",
+  "prefLabel": {
+    "it": "Aspetti specifici dell'architettura",
+    "fr": "Aspects particuliers de l’architecture",
+    "en": "Specific aspects of architecture",
+    "de": "Einzelne Aspekte der Architektur",
+    "no": "Bestemte aspekter ved arkitektur",
+    "sv": "Särskilda aspekter på arkitektur"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "721-729",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E49rDDr3W63QyyM4WWT9MM8tYM",
+    "https://id.oclc.org/worldcat/ddc/E3w6Dt4hHchrdpbdCPVC6rXv4w",
+    "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+    "https://id.oclc.org/worldcat/ddc/E44h36RWgQQtG4JJYVRby86BxY"
+  ],
+  "modified": "2024-10-28T14:28:33Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Cm6Twb7HCRCP3HxytDrB8jQ9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

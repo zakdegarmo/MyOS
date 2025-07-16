@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QdKJhHGbbP7Mdw77BfbfQVC6",
+  "prefLabel": {
+    "en": "Non-Austronesian languages of Oceania, Austronesian languages, miscellaneous languages",
+    "fr": "Langues non austronésiennes de l'Océanie, langues austronésiennes, diverses autres langues",
+    "de": "Nichtaustronesische ozeanische Sprachen, austronesische Sprachen, verschiedene andere Sprachen",
+    "it": "Lingue non austronesiane dell'Oceania, lingue austronesiane, lingue varie",
+    "no": "Ikke-austronesiske språk i Oseania, austronesiske språk, diverse språk",
+    "sv": "Ickeaustronesiska språk i Oceanien, austronesiska språk, diverse språk"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "modified": "2024-07-02T08:54:22Z",
+  "notation": "499",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

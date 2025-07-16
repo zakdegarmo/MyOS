@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44X3mwxXtkVqc98F934BPwx9v",
+  "prefLabel": {
+    "sv": "Pigmentprocesser för kopiering",
+    "fr": "Procédés d’impression aux pigments",
+    "de": "Pigmentdruckverfahren",
+    "no": "Pigmentprosesser for kopiering",
+    "it": "Procedimenti di stampa con pigmenti",
+    "en": "Pigment processes of printing"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E364PkxfwxvCJWtd6byyXxDKpK",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "en": [
+      "Early photographic printing processes"
+    ],
+    "de": [
+      "Frühe Fotodruckverfahren"
+    ],
+    "it": [
+      "Primi procedimenti di stampa"
+    ],
+    "sv": [
+      "Tidiga fotografiska kopieringsprocesser"
+    ],
+    "no": [
+      "Tidlige fotografiske kopieringsprosesser"
+    ],
+    "fr": [
+      "Premiers procédés d’impression photographique"
+    ]
+  },
+  "notation": "773",
+  "created": "1996-06-01",
+  "modified": "2020-07-06T10:08:44Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

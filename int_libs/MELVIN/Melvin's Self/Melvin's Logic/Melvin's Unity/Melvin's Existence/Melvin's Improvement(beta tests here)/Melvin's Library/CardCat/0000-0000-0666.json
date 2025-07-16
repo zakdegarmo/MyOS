@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4b3Q9h3YxfBV3mXfmyKqvrqW7",
+  "modified": "2024-08-22T01:05:48Z",
+  "prefLabel": {
+    "no": "Keramisk teknologi og lignende teknologier",
+    "de": "Keramiktechnologie und zugeordnete Technologien",
+    "en": "Ceramic and allied technologies",
+    "sv": "Keramiska och liknande tekniker",
+    "it": "Tecnologia ceramica e tecnologie affini",
+    "fr": "Technologie de la céramique et technologies connexes"
+  },
+  "notation": "666",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

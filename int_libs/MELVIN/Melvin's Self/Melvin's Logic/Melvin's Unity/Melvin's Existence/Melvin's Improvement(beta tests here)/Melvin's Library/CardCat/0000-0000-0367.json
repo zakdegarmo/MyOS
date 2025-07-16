@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36rfvRWVbK9pcDtJ97k8tbKVH",
+  "broader": "https://id.oclc.org/worldcat/ddc/E34MbHd7YxgJMG3rT6dMKfX9J3",
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Vereine, Fortbildungsvereine",
+      "Hier auch: Vereine für bestimmte Personengruppen, z.B. Vereine für Schauspieler"
+    ],
+    "sv": [
+      "Klassificera här sällskapsföreningar för särskilda grupper av människor, t.ex. sällskapsföreningar för skådespelare",
+      "Omfattar sällskapsföreningar, klubbar och studieförbund"
+    ],
+    "en": [
+      "Class here social clubs for specific types of people, e.g., social clubs for actors",
+      "Including social clubs, study clubs"
+    ],
+    "it": [
+      "Include i circoli di studio, i circoli sociali",
+      "Classificare qui i circoli sociali per specifiche categorie di persone, p.e., circoli per attori"
+    ],
+    "no": [
+      "Her: Selskapsklubber for bestemte typer personer, f.eks. selskapsklubber for enslige",
+      "Inkluderer: Selskapsklubber, studieklubber"
+    ],
+    "fr": [
+      "Y compris les clubs d’étude, les clubs sociaux",
+      "Classer ici les clubs sociaux pour les groupes particuliers de personnes, ex. : clubs sociaux pour les acteurs"
+    ]
+  },
+  "modified": "2025-02-21T18:38:48Z",
+  "prefLabel": {
+    "it": "Circoli di carattere generale",
+    "de": "Allgemeine Klubs",
+    "fr": "Clubs généraux",
+    "no": "Generelle klubber",
+    "en": "General clubs",
+    "sv": "Allmänna föreningar"
+  },
+  "type": "Concept",
+  "created": "2000-02-02",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "367",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

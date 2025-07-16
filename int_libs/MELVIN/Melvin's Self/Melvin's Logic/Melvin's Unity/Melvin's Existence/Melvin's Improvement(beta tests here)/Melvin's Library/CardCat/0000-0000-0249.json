@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47V3T9cD9TCt4JCWDfDdDC6BX",
+  "scopeNote": {
+    "no": [
+      "Her: Familiebønn; familiens praktisering av religiøse restriksjoner, ritualer, seremonier"
+    ],
+    "de": [
+      "Hier auch: Familiengebet; Befolgung religiöser Einschränkungen, Riten, Zeremonien in der Familie"
+    ],
+    "sv": [
+      "Klassificera här familjebön; följandet av religiösa restriktioner, riter, ceremonier i familjen"
+    ],
+    "en": [
+      "Class here family prayer; family observance of religious restrictions, rites, ceremonies"
+    ],
+    "it": [
+      "Classificare qui la preghiera in famiglia; l'osservanza in famiglia di restrizioni, riti, cerimonie religiose"
+    ],
+    "fr": [
+      "Classer ici la prière en famille ; la pratique familiale des obligations, des rites, des cérémonies religieux"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Pratiques chrétiennes dans la vie familiale",
+    "de": "Christliches Leben in der Familie",
+    "it": "Pratiche cristiane nella vita della famiglia",
+    "en": "Christian observances in family life",
+    "sv": "Kristet bruk i familjelivet",
+    "no": "Praktisering av kristendom i familielivet"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "notation": "249",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2023-06-21T10:59:28Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PTX9FYywttqY4FFkxtgRqyGV",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3G79V6cjtWD9ptDGrDqjwRvq8",
+    "https://id.oclc.org/worldcat/ddc/E43xvHmrg4PrmMYxfKcqBJyPmk",
+    "https://id.oclc.org/worldcat/ddc/E48T9XpvTjWDMt6mCpXyw7WTQD"
+  ],
+  "type": "Concept",
+  "prefLabel": {
+    "it": "Specifiche colture",
+    "sv": "Särskilda grödor",
+    "en": "Specific plant crops",
+    "no": "Bestemte dyrkede planter",
+    "fr": "Plantes cultivées particulières",
+    "de": "Einzelne Kulturpflanzen"
+  },
+  "notation": "633-635",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "created": "1998-10-23",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-08-09T07:15:31Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

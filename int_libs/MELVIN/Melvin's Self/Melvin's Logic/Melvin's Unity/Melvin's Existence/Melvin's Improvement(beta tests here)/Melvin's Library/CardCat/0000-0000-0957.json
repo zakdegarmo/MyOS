@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3FpqcWhwCvycRqCDbDjYfttqK",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Sibirien (Asiatiska Ryssland)",
+    "fr": "Sibérie (Russie d’Asie)",
+    "en": "Siberia (Asiatic Russia)",
+    "no": "Sibir (asiatisk Russland)",
+    "de": "Sibirien (Asiatisches Russland)",
+    "it": "Siberia (Russia asiatica)"
+  },
+  "modified": "2021-08-24T12:30:11Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "957",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

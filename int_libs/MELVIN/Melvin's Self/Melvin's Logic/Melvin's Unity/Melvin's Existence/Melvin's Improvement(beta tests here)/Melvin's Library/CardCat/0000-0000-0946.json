@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3x4cPGCpk6p8BYHY84Mtww69Y",
+  "prefLabel": {
+    "fr": "Espagne, Andorre, Gibraltar, Portugal",
+    "sv": "Spanien, Andorra, Gibraltar, Portugal",
+    "it": "Spagna, Andorra, Gibilterra, Portogallo",
+    "no": "Spania, Andorra, Gibraltar, Portugal",
+    "de": "Spanien, Andorra, Gibraltar, Portugal",
+    "en": "Spain, Andorra, Gibraltar, Portugal"
+  },
+  "modified": "2023-06-26T18:29:23Z",
+  "notation": "946",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PGyQFhmgwcCBKCV3vkGKj4Ph",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Sujets particuliers du langage",
+    "en": "Special topics of language",
+    "it": "Soggetti speciali del linguaggio",
+    "de": "Spezielle Themen zur Sprache",
+    "no": "Spesielle emner vedrørende språk",
+    "sv": "Särskilda ämnen inom språk"
+  },
+  "created": "1996-06-01",
+  "modified": "2023-08-31T12:26:54Z",
+  "type": "Concept",
+  "notation": "404",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

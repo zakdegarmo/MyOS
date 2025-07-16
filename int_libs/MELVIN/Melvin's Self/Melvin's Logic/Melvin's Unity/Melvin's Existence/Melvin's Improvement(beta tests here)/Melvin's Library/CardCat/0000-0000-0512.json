@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39wkpQGV83YdP4bYF46X7FXDG",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här universell algebra, modern algebra (abstrakt algebra kombinerad med talteori)"
+    ],
+    "en": [
+      "Class here universal algebra, modern algebra (abstract algebra combined with number theory)"
+    ],
+    "de": [
+      "Hier auch: universelle Algebra, moderne Algebra (abstrakte Algebra in Kombination mit Zahlentheorie)"
+    ],
+    "fr": [
+      "Classer ici l’algèbre universelle, l’algèbre moderne (algèbre abstraite en relation avec la théorie des nombres)"
+    ],
+    "no": [
+      "Her: Universell algebra, moderne algebra (abstrakt algebra kombinert med tallteori)"
+    ],
+    "it": [
+      "Classificare qui l'algebra universale, l'algebra moderna (algebra astratta combinata con la teoria dei numeri)"
+    ]
+  },
+  "prefLabel": {
+    "en": "Algebra",
+    "fr": "Algèbre",
+    "de": "Algebra",
+    "it": "Algebra",
+    "no": "Algebra",
+    "sv": "Algebra"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "type": "Concept",
+  "notation": "512",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-09-02T08:43:29Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

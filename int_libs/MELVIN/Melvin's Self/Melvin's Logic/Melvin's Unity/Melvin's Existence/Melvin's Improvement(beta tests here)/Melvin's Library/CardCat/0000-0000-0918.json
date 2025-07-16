@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y9cqmKTcx3YJjgxcCBVjQ38V",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Geography of and travel in South America",
+    "de": "Geografie Südamerikas und Reisen in Südamerika",
+    "sv": "Geografi och resor gällande Sydamerika",
+    "it": "Geografia e viaggi relativi al Sudamerica",
+    "fr": "Géographie et voyages en Amérique du Sud",
+    "no": "Geografi og reiser i Sør-Amerika"
+  },
+  "modified": "2022-03-30T19:53:06Z",
+  "notation": "918",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

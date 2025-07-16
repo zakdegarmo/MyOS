@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cy9rbCDXtwRTx8QB47JkmBjP",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4hpMp9H9pyTxD9Tdq7XRcWx",
+  "prefLabel": {
+    "it": "Cristianesimo",
+    "en": "Christianity",
+    "sv": "Kristendom",
+    "no": "Kristendom",
+    "fr": "Christianisme",
+    "de": "Christentum"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-10-13T13:02:07Z",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la teologia cristiana, la teologia dogmatica cristiana, la teologia contestuale",
+      "Include la mitologia cristiana"
+    ],
+    "sv": [
+      "Omfattar kristen mytologi",
+      "Klassificera här kristen teologi, kristen doktrinär teologi, kontextuell teologi"
+    ],
+    "de": [
+      "Hier auch: christliche Theologie, christliche Dogmatik, kontextuelle Theologie",
+      "Einschließlich: christliche Mythologie"
+    ],
+    "no": [
+      "Her: Kristen teologi, kristen dogmatikk, kontekstuell teologi",
+      "Inkluderer: Kristen mytologi"
+    ],
+    "fr": [
+      "Classer ici la théologie chrétienne, la théologie dogmatique (doctrinale) chrétienne, la théologie contextuelle",
+      "Y compris la mythologie chrétienne"
+    ],
+    "en": [
+      "Class here Christian theology, Christian doctrinal theology, contextual theology",
+      "Including Christian mythology"
+    ]
+  },
+  "notation": "230",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Ht9Jff7jK78Tw7fbYCw6TqBP",
+  "notation": "284",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "no": "Protestantiske trossamfunn av europeisk opprinnelse og beslektede organisasjoner",
+    "en": "Protestant denominations of Continental origin and related bodies",
+    "it": "Denominazioni protestanti originarie dell'Europa continentale e istituti loro connessi",
+    "fr": "Confessions protestantes d’origine européenne continentale et groupes connexes",
+    "sv": "Protestantiska samfund av kontinentalt ursprung och relaterade organ",
+    "de": "Protestantische Konfessionen kontinentaleuropäischen Ursprungs"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGTmCjc89pg4mfbhdrhJ3xjf",
+  "modified": "2023-06-06T13:41:04Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3r3Jgk3fWmMHf6qb9Qjf3KrJK",
+  "prefLabel": {
+    "sv": "Spansk dramatik",
+    "no": "Spansk drama",
+    "fr": "Œuvres dramatiques espagnoles",
+    "de": "Spanische Dramen",
+    "en": "Spanish drama",
+    "it": "Letteratura drammatica spagnola"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-03T10:19:56Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "type": "Concept",
+  "notation": "862",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

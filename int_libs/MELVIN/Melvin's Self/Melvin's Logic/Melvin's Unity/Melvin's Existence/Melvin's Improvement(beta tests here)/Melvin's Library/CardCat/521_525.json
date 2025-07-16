@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QqGKJj3vC6QdtVGWKyvdJbvG",
+  "notation": "521-525",
+  "prefLabel": {
+    "sv": "Astronomi",
+    "de": "Astronomie",
+    "no": "Astronomi",
+    "en": "Astronomy",
+    "fr": "Astronomie",
+    "it": "Astronomia"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3wDtFwvCRJK9TbkBchkfc6CXk",
+    "https://id.oclc.org/worldcat/ddc/E3Vdxh37x6r968VBfpTxgYBtcy",
+    "https://id.oclc.org/worldcat/ddc/E3WFVmVWm3cDMMQmhvwYmhBr8k",
+    "https://id.oclc.org/worldcat/ddc/E3jwjjT6Bgq4H8jQgtByC4pFJQ",
+    "https://id.oclc.org/worldcat/ddc/E3XGJPyvgp6H9TmWtX7Jdbr83w"
+  ],
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2019-09-22T00:49:44Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

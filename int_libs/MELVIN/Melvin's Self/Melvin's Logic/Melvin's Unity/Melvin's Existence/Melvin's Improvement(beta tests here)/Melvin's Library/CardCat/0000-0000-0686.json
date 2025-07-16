@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47kMfk7H7D3bwVJ69kKbYBbp3",
+  "prefLabel": {
+    "fr": "Imprimerie et activités connexes",
+    "de": "Drucken und verwandte Tätigkeiten",
+    "it": "Stampa e attività connesse",
+    "sv": "Tryckning och relaterade aktiviteter",
+    "no": "Trykking og lignende virksomhet",
+    "en": "Printing and related activities"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Produksjon av trykksaker, bokkunst"
+    ],
+    "fr": [
+      "Classer ici la fabrication des publications, les arts du livre"
+    ],
+    "de": [
+      "Hier auch: Design und Herstellung von Publikationen, Buchkunst"
+    ],
+    "it": [
+      "Classificare qui la manifattura delle pubblicazioni, le arti del libro"
+    ],
+    "en": [
+      "Class here manufacture of publications, book arts"
+    ],
+    "sv": [
+      "Klassificera här tillverkning av publikationer, bokkonst"
+    ]
+  },
+  "modified": "2024-09-25T16:54:46Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "notation": "686",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

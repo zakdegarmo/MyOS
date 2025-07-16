@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3j9X4X47ffgGr4bkhHbQk37J9",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "prefLabel": {
+    "no": "Brevene",
+    "sv": "Breven",
+    "en": "Epistles",
+    "de": "Briefe",
+    "it": "Lettere",
+    "fr": "Épîtres"
+  },
+  "type": "Concept",
+  "modified": "2023-06-02T11:07:19Z",
+  "scopeNote": {
+    "no": [
+      "Her: Paulusbrevene"
+    ],
+    "it": [
+      "Classificare qui le Lettere di Paolo"
+    ],
+    "de": [
+      "Hier auch: Paulusbriefe"
+    ],
+    "sv": [
+      "Klassificera här Paulus brev"
+    ],
+    "fr": [
+      "Classer ici les Épîtres de saint Paul"
+    ],
+    "en": [
+      "Class here Pauline epistles"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "227",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

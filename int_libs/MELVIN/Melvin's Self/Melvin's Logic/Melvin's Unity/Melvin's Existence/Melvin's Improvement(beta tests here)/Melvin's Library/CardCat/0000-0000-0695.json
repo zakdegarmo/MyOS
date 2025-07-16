@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YvMfxbpYwhFG3yvc79VkjcBK",
+  "prefLabel": {
+    "en": "Roof covering",
+    "it": "Coperture",
+    "fr": "Couverture de toitures",
+    "sv": "Taktäckning",
+    "no": "Taktekking",
+    "de": "Dachdeckung"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "notation": "695",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

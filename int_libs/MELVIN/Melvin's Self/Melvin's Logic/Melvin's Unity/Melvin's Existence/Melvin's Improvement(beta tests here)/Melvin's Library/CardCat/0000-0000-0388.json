@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3B3ybTTThkMykK836bKkXKG6q",
+  "prefLabel": {
+    "it": "Trasporto",
+    "en": "Transportation",
+    "de": "Verkehr",
+    "no": "Samferdsel",
+    "fr": "Transports",
+    "sv": "Transport"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Bakketransport, oversiktsverker om kommunikasjonsmidler og samferdsel, tverrfaglige verker om samferdsel"
+    ],
+    "en": [
+      "Class here ground transportation, comprehensive works on communications and transportation, interdisciplinary works on transportation"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su comunicazioni e trasporto, le opere interdisciplinari sul trasporto"
+    ],
+    "de": [
+      "Hier auch: Landverkehr, umfassende Werke über Kommunikation und Verkehr, fächerübergreifende Werke über Verkehr"
+    ],
+    "sv": [
+      "Klassificera här landtransport, övergripande verk om kommunikationer och transport, tvärvetenskapliga verk om transport"
+    ],
+    "fr": [
+      "Classer ici les transports terrestres, les ouvrages généraux sur les communications et les transports, les ouvrages interdisciplinaires sur les transports"
+    ]
+  },
+  "modified": "2022-02-08T09:13:43Z",
+  "created": "1996-06-01",
+  "notation": "388",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hmTGRWwG87XDTY3CGmWqbvVV",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

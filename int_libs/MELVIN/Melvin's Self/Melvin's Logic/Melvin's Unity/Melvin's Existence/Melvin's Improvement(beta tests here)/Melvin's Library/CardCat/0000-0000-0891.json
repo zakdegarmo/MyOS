@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tW4XpBRKmfkDH4PD8d7HfY9J",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jyTYjymgFMkFgrCGr8WPrJ4x",
+  "notation": "891",
+  "modified": "2025-02-10T21:54:17Z",
+  "prefLabel": {
+    "en": "East Indo-European and Celtic literatures",
+    "it": "Letterature indeuropee orientali e letterature celtiche",
+    "fr": "Littératures indo-européennes orientales et littératures celtiques",
+    "sv": "Östliga indoeuropeiska och keltiska litteraturer",
+    "de": "Ostindoeuropäische und keltische Literaturen",
+    "no": "Østindoeuropeiske og keltiske språks litteraturer"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

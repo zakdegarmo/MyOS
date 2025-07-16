@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33RYj7PW4xTt6BpHR4QtmP4Bw",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PkDW3DwQhHCrpkRhQqRBt3jp",
+  "prefLabel": {
+    "no": "Bestemte deler av og fysiologiske systemer hos planter",
+    "de": "Einzelne Teile von und physiologische Systeme bei Pflanzen",
+    "sv": "Särskilda delar av växter, fysiologiska system hos växter",
+    "fr": "Anatomie et physiologie végétales",
+    "it": "Specifiche parti e sistemi fisiologici nelle piante",
+    "en": "Specific parts of and physiological systems in plants"
+  },
+  "created": "1996-06-01",
+  "notation": "575",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2024-11-29T13:25:01Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

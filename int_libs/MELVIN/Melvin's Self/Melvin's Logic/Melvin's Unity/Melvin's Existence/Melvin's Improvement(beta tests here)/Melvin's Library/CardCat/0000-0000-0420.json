@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dtQkJYdYCcCdj4x4vmCWw9xP",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Engelsk og gammelengelsk (angelsaksisk)",
+    "en": "English and Old English (Anglo-Saxon)",
+    "fr": "Anglais et vieil anglais (Anglo-saxon)",
+    "sv": "Engelska och fornengelska (anglosaxiska)",
+    "it": "Inglese e antico inglese (anglosassone)",
+    "de": "Englisch und Altenglisch (Angelsächsisch)"
+  },
+  "notation": "420",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-02-19T10:21:57Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyBrwXhqT7JpFw7rtgbVjfcK",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

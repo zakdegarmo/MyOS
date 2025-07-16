@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cFQr6wVC3qtYmJrpRX3YD3c7",
+  "prefLabel": {
+    "no": "Voksenopplæring",
+    "sv": "Vuxenutbildning",
+    "fr": "Éducation des adultes",
+    "en": "Adult education",
+    "it": "Educazione degli adulti",
+    "de": "Erwachsenenbildung"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'aggiornamento periodico, l'educazione continua (non legata a un titolo di studio), l'educazione permanente, l'educazione ricorrente, l'educazione supplementare"
+    ],
+    "en": [
+      "Class here continuing, further, lifelong, permanent, recurrent education"
+    ],
+    "sv": [
+      "Klassificera här fortsättningsutbildning, vidareutbildning, livslångt lärande,  återkommande utbildning, folkbildning för vuxna"
+    ],
+    "no": [
+      "Her: Etterutdanning, videreutdanning, folkeopplysning, livslang læring, tilbakevendende utdanning"
+    ],
+    "fr": [
+      "Classer ici l’éducation permanente, l'éducation récurrente, la formation complémentaire, la formation continue"
+    ],
+    "de": [
+      "Hier auch: Weiterbildung, ständige Weiterbildung, lebenslanges Lernen, alternierende Weiterbildung"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wPXw9dKcvQf9F8qp7QkBXKPt",
+  "notation": "374",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-05-05T00:58:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

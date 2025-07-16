@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VwVKtkXvwB6vJrJq3Ff64XXC",
+  "prefLabel": {
+    "en": "Natural history of organisms and related subjects",
+    "no": "Naturhistorie for organismer og lignende emner",
+    "sv": "Organismers naturhistoria och liknande ämnen",
+    "de": "Naturgeschichte von Organismen und verwandte Themen",
+    "it": "Storia naturale degli organismi e soggetti connessi",
+    "fr": "Histoire naturelle des organismes et sujets connexes"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "578",
+  "scopeNote": {
+    "fr": [
+      "Classer ici la biologie descriptive, les catégories particulières non taxinomiques d’organismes, les ouvrages généraux sur les phénomènes biologiques généraux et externes, les ouvrages généraux sur la biologie taxinomique"
+    ],
+    "no": [
+      "Her: Deskriptiv biologi, bestemte ikke-taksonomiske kategorier organismer, oversiktsverker om generelle og ytre biologiske fenomener, oversiktsverker om taksonomisk biologi"
+    ],
+    "en": [
+      "Class here descriptive biology, specific nontaxonomic kinds of organisms, comprehensive works on general and external biological phenomena, comprehensive works on taxonomic biology"
+    ],
+    "sv": [
+      "Klassificera här deskriptiv biologi, särskilda slags icke-taxonomiska organismer, övergripande verk om allmänna och yttre biologiska fenomen, övergripande verk om taxonomisk biologi"
+    ],
+    "it": [
+      "Classificare qui la biologia descrittiva, gli specifici tipi non tassonomici di organismo, le opere d'insieme sui fenomeni  biologici generali ed esterni, le opere d'insieme sulla biologia tassonomica"
+    ],
+    "de": [
+      "Hier auch: deskriptive Biologie, einzelne Gruppen nichtverwandter Organismen, umfassende Werke über allgemeine und äußerliche biologische Phänomene, umfassende Werke über taxonomische Biologie"
+    ]
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fRwXbTxTRG9TRXrrTxmcrgk3",
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

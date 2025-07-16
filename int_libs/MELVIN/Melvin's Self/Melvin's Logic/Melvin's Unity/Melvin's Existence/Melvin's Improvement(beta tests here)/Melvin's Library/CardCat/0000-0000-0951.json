@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bJTKtP3yfkkHm9QTQ69Xp6kf",
+  "notation": "951",
+  "prefLabel": {
+    "fr": "Chine et régions adjacentes",
+    "no": "Kina og tilgrensende områder",
+    "sv": "Kina och angränsande områden",
+    "de": "China und benachbarte Gebiete",
+    "en": "China and adjacent areas",
+    "it": "Cina e aree limitrofe"
+  },
+  "modified": "2023-06-26T18:29:23Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

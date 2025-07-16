@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48T9XpvTjWDMt6mCpXyw7WTQD",
+  "prefLabel": {
+    "it": "Piante da frutto (Frutticoltura), frutta, scienze forestali",
+    "de": "Obstanlagen, Früchte, Forstwirtschaft",
+    "no": "Frukthager, frukter, skogbruk",
+    "fr": "Vergers, fruits, forêts et bois, sylviculture",
+    "sv": "Fruktträdgårdar, frukter, skogsbruk",
+    "en": "Orchards, fruits, forestry"
+  },
+  "created": "1996-06-01",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les ouvrages généraux sur l’arboriculture",
+      "Fruits : éléments reproducteurs des plantes à graines qui ont une chair comestible plus ou moins sucrée, associée à la graine"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om grödor från träd",
+      "Frukter: reproducerande fröväxter med ätligt, mer eller mindre sött fruktkött i anslutning till kärnan"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Baumfrüchte",
+      "Früchte: generative Teile von Samenpflanzen, deren Samen von essbarem, mehr oder weniger süßem Fruchtfleisch umschlossen sind"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sull'arboricoltura",
+      "Frutti: corpi riproduttivi delle piante da seme che hanno una polpa commestibile più o meno dolce connessa al seme"
+    ],
+    "no": [
+      "Frukt: Reproduktive deler av frøplanter, som har et spiselig og mer eller mindre søtt fruktkjøtt forbundet med frøet",
+      "Her: Oversiktsverker om avlinger fra trær"
+    ],
+    "en": [
+      "Class here comprehensive works on tree crops",
+      "Fruits: reproductive bodies of seed plants having an edible more or less sweet pulp associated with the seed"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "634",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PTX9FYywttqY4FFkxtgRqyGV",
+  "modified": "2024-09-27T17:22:55Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

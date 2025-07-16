@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3w4dtb4Td4RCmFt6Dq7mG9xX3",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Sport e giochi atletici e all'aperto",
+    "no": "Sport, idrett, friluftsliv",
+    "en": "Athletic and outdoor sports and games",
+    "fr": "Sports et jeux athlétiques, et sports et jeux de plein air",
+    "sv": "Idrott samt spel och lekar som utövas utomhus",
+    "de": "Sportarten und Sportspiele"
+  },
+  "scopeNote": {
+    "de": [
+      "Einschließlich: Moderner Fünfkampf",
+      "Hier auch: Regierungspolitik zu sportpolitischen Themen"
+    ],
+    "en": [
+      "Including modern pentathlon",
+      "Class here government policy on sports"
+    ],
+    "no": [
+      "Inkluderer: Moderne femkamp",
+      "Her: Offentlig idrettspolitikk"
+    ],
+    "fr": [
+      "Classer ici la politique gouvernementale à l'égard des sports",
+      "Y compris le pentathlon moderne"
+    ],
+    "sv": [
+      "Omfattar modern femkamp",
+      "Klassificera här idrottspolitik"
+    ],
+    "it": [
+      "Classificare qui la politica statale sugli sport",
+      "Include il pentathlon moderno"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E43tCxq3hT8H6gD4dVxRhjwCY9",
+  "notation": "796",
+  "created": "1998-12-23",
+  "type": "Concept",
+  "modified": "2025-06-16T11:48:32Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48KQRJYhfRrFdpyDvHpWMrXpX",
+  "prefLabel": {
+    "en": "Iconography",
+    "it": "Iconografia",
+    "sv": "Ikonografi",
+    "de": "Ikonografie",
+    "fr": "Iconographie",
+    "no": "Ikonografi"
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3hTDRhVDcJqvB7fJMpG47xTbf",
+    "https://id.oclc.org/worldcat/ddc/E3bwbtVXWPChccWjHCtKbV9DXx",
+    "https://id.oclc.org/worldcat/ddc/E348bVmgfp93cXTjkmTch9KWJQ",
+    "https://id.oclc.org/worldcat/ddc/E3GK67rMpGggHbJhqjbw37tyDH",
+    "https://id.oclc.org/worldcat/ddc/E3DBm7VJKkFMJyh9xWYQH7xQ99",
+    "https://id.oclc.org/worldcat/ddc/E433k6Vh3JKqdP9brWPXC3TWRT"
+  ],
+  "scopeNote": {
+    "no": [
+      "Her: Utvikling, beskrivelse, kritisk vurdering, verker uavhengig av form"
+    ],
+    "it": [
+      "Classificare qui la storia, la descrizione, lo studio critico, le opere, senza tener conto della forma"
+    ],
+    "de": [
+      "Hier auch: Entwicklung, Darstellung, kritische Bewertung, Werke ungeachtet der Form"
+    ],
+    "fr": [
+      "Classer ici l’histoire, l’analyse, les critiques, les œuvres sans tenir compte de la forme picturale"
+    ],
+    "en": [
+      "Class here development, description, critical appraisal, works regardless of form"
+    ],
+    "sv": [
+      "Klassificera här utveckling, beskrivning, kritik, verk oavsett form"
+    ]
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "753-758",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36dJKkj94QmgDVpR4QY6RQRFG",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yFXgbvyVwbGHxt6hmYJbqDqB",
+  "notation": "147",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Animisme, okkasjonalisme, panenteisme, parallellisme, vitalisme"
+    ],
+    "en": [
+      "Including animism, occasionalism, panentheism, parallelism, vitalism"
+    ],
+    "it": [
+      "Include l'animismo, l'occasionalismo, il panenteismo, il parallelismo, il vitalismo"
+    ],
+    "sv": [
+      "Omfattar animism, ockasionalism, panenteism, parallellism, vitalism"
+    ],
+    "de": [
+      "Einschließlich: Animismus, Okkasionalismus, Panentheismus, Parallelismus, Vitalismus"
+    ],
+    "fr": [
+      "Y compris l’animisme, l’occasionnalisme, le panenthéisme, le parallélisme, le vitalisme"
+    ]
+  },
+  "prefLabel": {
+    "en": "Pantheism and related systems and doctrines",
+    "fr": "Panthéisme et systèmes et doctrines connexes",
+    "it": "Panteismo, sistemi e dottrine affini",
+    "sv": "Panteism och besläktade system och doktriner",
+    "no": "Panteisme og lignende systemer og doktriner",
+    "de": "Pantheismus und verwandte Systeme und Positionen"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-12-07T09:57:01Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

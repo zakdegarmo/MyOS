@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kFfx78GpvHhkDpKQXHMWVRYV",
+  "prefLabel": {
+    "it": "Libri profetici dell'Antico Testamento",
+    "fr": "Livres prophétiques de l’Ancien Testament",
+    "sv": "Gamla Testamentets profetiska böcker",
+    "no": "Det gamle testamentes profetiske bøker",
+    "de": "Prophetische Bücher des Alten Testaments",
+    "en": "Prophetic books of Old Testament"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here Major Prophets, Neviʼim"
+    ],
+    "no": [
+      "Her: De store profeter, Nebiʼim"
+    ],
+    "sv": [
+      "Klassificera här De stora profeterna, Neviim"
+    ],
+    "fr": [
+      "Classer ici les grands prophètes, les Neviʼim"
+    ],
+    "it": [
+      "Classificare qui i Profeti maggiori, i Nevi'im"
+    ],
+    "de": [
+      "Hier auch: Große Propheten, Nevîʼîm"
+    ]
+  },
+  "created": "1996-06-01",
+  "notation": "224",
+  "modified": "2023-06-02T11:13:20Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tkjDg7V7XxCJjFvBjPg8d4Xg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

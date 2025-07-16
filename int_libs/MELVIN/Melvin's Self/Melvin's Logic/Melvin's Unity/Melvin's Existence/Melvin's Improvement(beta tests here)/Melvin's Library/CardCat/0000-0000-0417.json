@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PbG6d3mcj7FM8dTCvhR3Thc8",
+  "prefLabel": {
+    "no": "Dialektologi og historisk lingvistikk",
+    "fr": "Dialectologie et linguistique historique",
+    "de": "Dialektologie und historische Linguistik",
+    "sv": "Dialektforskning (dialektologi) och språkhistoria",
+    "it": "Dialettologia e linguistica storica",
+    "en": "Dialectology and historical linguistics"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+  "modified": "2021-01-22T13:45:29Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "417",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

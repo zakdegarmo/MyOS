@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jHF6CRbXf3xcQgYPW7r47Kyq",
+  "scopeNote": {
+    "no": [
+      "Teori, prinsipper, metoder"
+    ],
+    "it": [
+      "Teoria, principî, metodi"
+    ],
+    "en": [
+      "Theory, principles, methods"
+    ],
+    "fr": [
+      "Théorie, principes, méthodes"
+    ],
+    "sv": [
+      "Teori, principer, metoder"
+    ],
+    "de": [
+      "Theorie, Prinzipien, Methoden"
+    ]
+  },
+  "prefLabel": {
+    "de": "Perspektive in der Zeichnung",
+    "it": "Prospettiva nel disegno",
+    "fr": "Perspective en dessin",
+    "sv": "Perspektiv inom teckningskonst",
+    "en": "Perspective in drawing",
+    "no": "Perspektiv i tegning"
+  },
+  "notation": "742",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2024-11-05T11:49:56Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3H4YFftgq9FK96wtTfFbdGBWT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

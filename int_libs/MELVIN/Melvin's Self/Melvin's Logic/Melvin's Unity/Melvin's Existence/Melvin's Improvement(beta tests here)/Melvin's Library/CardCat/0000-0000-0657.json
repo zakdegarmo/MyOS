@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43KHM9C8c3FFhB7C6HtwTxBdG",
+  "notation": "657",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Regnskap",
+    "fr": "Comptabilité",
+    "sv": "Redovisning",
+    "it": "Contabilità",
+    "en": "Accounting",
+    "de": "Rechnungslegung"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: finanzielle Rechnungslegung"
+    ],
+    "fr": [
+      "Classer ici la comptabilité financière"
+    ],
+    "it": [
+      "Classificare qui la contabilità finanziaria"
+    ],
+    "no": [
+      "Her: Finansregnskap"
+    ],
+    "sv": [
+      "Klassificera här ekonomisk redovisning"
+    ],
+    "en": [
+      "Class here financial accounting"
+    ]
+  },
+  "modified": "2024-11-04T15:05:36Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44TH3jMWWYyXdKMqhPkjhVR4F",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

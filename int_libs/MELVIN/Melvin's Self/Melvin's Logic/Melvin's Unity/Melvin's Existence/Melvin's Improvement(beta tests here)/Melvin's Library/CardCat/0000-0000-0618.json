@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fhDtQ43r3wJcjPRqWv8Wc8bT",
+  "prefLabel": {
+    "de": "Gynäkologie, Geburtsmedizin, Pädiatrie, Geriatrie",
+    "fr": "Gynécologie, obstétrique, pédiatrie, gériatrie",
+    "no": "Gynekologi, obstetrikk, pediatri, geriatri",
+    "it": "Ginecologia, ostetricia, pediatria, geriatria",
+    "en": "Gynecology, obstetrics, pediatrics, geriatrics",
+    "sv": "Gynekologi, obstetrik, pediatrik, geriatrik"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "modified": "2024-08-21T20:01:01Z",
+  "created": "2000-02-02",
+  "notation": "618",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

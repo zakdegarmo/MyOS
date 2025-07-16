@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wPwJyXJcWBkKdxYWTDHcCKjJ",
+  "scopeNote": {
+    "no": [
+      "Notasjon H1--01 fra Hjelpetabell 1 slik den er modifisert under",
+      "Her: Påvirkning fra andre emner på kunst"
+    ],
+    "sv": [
+      "Notation T1--01 från tabell 1 som den är modifierad nedan",
+      "Klassificera här aspekter på mottagande, inneboende egenskaper"
+    ],
+    "en": [
+      "Notation T1--01 from Table 1 as modified below",
+      "Class here effects of other topics on fine and decorative arts"
+    ],
+    "de": [
+      "Notation T1--01 aus Hilfstafel 1 entsprechend den nachfolgenden Änderungen",
+      "Hier auch: Einflüsse anderer Themen auf die bildende und angewandte Kunst"
+    ],
+    "fr": [
+      "Notation T1--01 , Table 1 telle que modifiée ci-dessous",
+      "Classer ici l'influence d’autres sujets sur les beaux-arts et les arts décoratifs"
+    ],
+    "it": [
+      "Classificare qui gli effetti di altri argomenti sulle belle arti e sulle arti decorative",
+      "Notazione T1--01 dalla Tavola 1 come di seguito modificata"
+    ]
+  },
+  "prefLabel": {
+    "de": "Philosophie und Theorie der bildenden und angewandten Kunst",
+    "it": "Filosofia e teoria delle belle arti e arti decorative",
+    "en": "Philosophy and theory of fine and decorative arts",
+    "fr": "Philosophie et théorie des beaux-arts et des arts décoratifs",
+    "no": "Filosofi og teori innen kunst og kunsthåndverk",
+    "sv": "Filosofi och teori gällande konst och konsthantverk"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-01-25T15:07:38Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cfyqgwXqKjR8wYdfQpcJBfwm",
+  "notation": "701",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

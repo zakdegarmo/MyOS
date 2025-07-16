@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3tvpBQ6HmjD3BqMVtMCCQQghP",
+  "prefLabel": {
+    "fr": "Économie du travail",
+    "no": "Arbeidsøkonomi",
+    "de": "Arbeitsökonomie",
+    "en": "Labor economics",
+    "it": "Economia del lavoro",
+    "sv": "Arbetsmarknadsekonomi"
+  },
+  "scopeNote": {
+    "fr": [
+      "Classer ici les relations de travail, les ouvrages interdisciplinaires sur le travail"
+    ],
+    "no": [
+      "Her: Samarbeidsforhold i arbeidslivet, tverrfaglige verker om arbeid"
+    ],
+    "it": [
+      "Classificare qui le relazioni industriali, le opere interdisciplinari sul lavoro"
+    ],
+    "sv": [
+      "Klassificera här relationer mellan arbetsmarknadens parter, tvärvetenskapliga verk om arbete"
+    ],
+    "de": [
+      "Hier auch: Arbeitsbeziehungen, Industrial Relations, fächerübergreifende Werke über Arbeit"
+    ],
+    "en": [
+      "Class here industrial relations, interdisciplinary works on labor"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3wJHWBVwm8V7Gdyyw7pvF7cJB",
+  "modified": "2025-07-03T16:29:52Z",
+  "created": "1996-06-01",
+  "notation": "331",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

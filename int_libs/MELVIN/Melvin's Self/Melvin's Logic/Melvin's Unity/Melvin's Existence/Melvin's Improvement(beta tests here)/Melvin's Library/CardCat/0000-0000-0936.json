@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cYqVytP7CM9FhxdkQT7wwrTm",
+  "scopeNote": {
+    "it": [
+      "Classificare qui l'Europa, l'Europa occidentale",
+      "Include la regione del Mediterraneo occidentale"
+    ],
+    "de": [
+      "Hier auch: Europa, Westeuropa",
+      "Einschließlich: westlicher Mittelmeerraum"
+    ],
+    "fr": [
+      "Y compris la région méditerranéenne occidentale",
+      "Classer ici l'Europe, l'Europe de l'Ouest"
+    ],
+    "en": [
+      "Class here Europe, western Europe",
+      "Including western Mediterranean region"
+    ],
+    "sv": [
+      "Klassificera här Europa, västra Europa",
+      "Omfattar västra Medelhavsregionen"
+    ],
+    "no": [
+      "Her: Europa, Vest-Europa",
+      "Inkluderer: Den vestlige middelhavsregion"
+    ]
+  },
+  "prefLabel": {
+    "de": "Europa nördlich und westlich der italienischen Halbinsel bis ca. 499",
+    "fr": "Europe au nord et à l’ouest de la péninsule italienne jusque vers 499",
+    "sv": "Europa norr och väster om Apenninska halvön före ca 499",
+    "it": "Europa a nord e a ovest della penisola italiana, fino al 499 ca.",
+    "no": "Europa nord og vest for den italienske halvøy fram til ca. år 499",
+    "en": "Europe north and west of Italian Peninsula to ca. 499"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "936",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "type": "Concept",
+  "modified": "2024-07-12T04:48:12Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

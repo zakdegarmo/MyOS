@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bFmM38HgdDBYpY6tRH6P8Btk",
+  "prefLabel": {
+    "it": "Statistiche generali dell'Europa",
+    "fr": "Statistiques générales de l'Europe",
+    "no": "Generell statistikk for Europa",
+    "sv": "Allmän statistik för Europa",
+    "de": "Allgemeine Statistiken zu Europa",
+    "en": "General statistics of Europe"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "created": "1996-06-01",
+  "notation": "314",
+  "modified": "2025-02-03T19:58:09Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

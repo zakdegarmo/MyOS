@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wPmr3mfP7DYwjPrBFpHBVjkq",
+  "notation": "752",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Couleur",
+    "it": "Colore",
+    "sv": "Färg",
+    "no": "Farger",
+    "de": "Farbe",
+    "en": "Color"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36dJKkj94QmgDVpR4QY6RQRFG",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-06-28T11:26:37Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

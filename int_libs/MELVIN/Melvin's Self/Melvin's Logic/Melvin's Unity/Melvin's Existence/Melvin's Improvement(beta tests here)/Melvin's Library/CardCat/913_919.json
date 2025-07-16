@@ -1,0 +1,47 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om forntida och modern geografi och resor gällande särskilda världsdelar, länder, orter"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über alte und neue Geografie von und Reisen in einzelnen Kontinenten, Ländern, Ortschaften"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la géographie ancienne et moderne et sur les voyages dans les continents, pays, localités particuliers"
+    ],
+    "en": [
+      "Class here comprehensive works on ancient and modern geography of and travel in specific continents, countries, localities"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su geografia antica e moderna e viaggi antichi e moderni relativi a specifici continenti, paesi, località"
+    ],
+    "no": [
+      "Her: Oversiktsverker om geografi og reiser i bestemte verdensdeler, stater, lokalområder i oldtiden og i nyere tid"
+    ]
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4c8Fyw9t69gwTCtXCkJwTDyCx",
+    "https://id.oclc.org/worldcat/ddc/E3cPMCWQgdTJhKFW7ghX383vfd",
+    "https://id.oclc.org/worldcat/ddc/E3Xg3qp4t9QpRPYpb4ywgGPJ43",
+    "https://id.oclc.org/worldcat/ddc/E36X4wbF7H8PkBRXrX7tddbDgp",
+    "https://id.oclc.org/worldcat/ddc/E43xm4fbcTpvwwQHMdT3mK76mb",
+    "https://id.oclc.org/worldcat/ddc/E3Y9cqmKTcx3YJjgxcCBVjQ38V",
+    "https://id.oclc.org/worldcat/ddc/E3WhvpCPxkKjtvqydwQTxqjWPC"
+  ],
+  "prefLabel": {
+    "de": "Geografie von und Reisen in einzelnen Kontinenten, Ländern, Ortschaften; außerirdischen Welten",
+    "en": "Geography of and travel in specific continents, countries, localities; extraterrestrial worlds",
+    "sv": "Geografi och resor i särskilda världsdelar, länder, orter; utomjordiska världar",
+    "no": "Geografi og reiser i bestemte verdensdeler, stater, landområder; til himmellegemer utenfor jorda",
+    "it": "Geografia e viaggi di e in specifici continenti, paesi, località; mondi extraterrestri",
+    "fr": "Géographie et voyages dans les continents, pays, localités particuliers ; mondes extraterrestres"
+  },
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xyrDdqvYkypcHBGhvq7c9rDm",
+  "modified": "2025-03-14T05:56:06Z",
+  "type": "Concept",
+  "notation": "913-919",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

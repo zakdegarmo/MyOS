@@ -1,0 +1,39 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47qHbHjwtmhjd8JwhkTcHdR6V",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-10-23T06:09:27Z",
+  "notation": "948",
+  "prefLabel": {
+    "sv": "Skandinavien",
+    "de": "Skandinavien und Finnland",
+    "en": "Scandinavia and Finland",
+    "no": "Skandinavia og Finland",
+    "fr": "Scandinavie et Finlande",
+    "it": "Scandinavia e Finlandia"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: nordische Länder (Skandinavien und Finnland), Nordeuropa"
+    ],
+    "fr": [
+      "Classer ici les pays nordiques, l'Europe septentrionale"
+    ],
+    "no": [
+      "Her: Nord-Europa, Norden",
+      "Inkluderer: *Barentsregionen, *Nordkalotten, *Sápmi"
+    ],
+    "en": [
+      "Class here Nordic countries, northern Europe"
+    ],
+    "sv": [
+      "Klassificera här norra Europa"
+    ],
+    "it": [
+      "Classificare qui i Paesi nordici, l'Europa settentrionale"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

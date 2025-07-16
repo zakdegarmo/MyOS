@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3G4Jv936PDyMTfx9yYYTHF6T7",
+  "scopeNote": {
+    "de": [
+      "Hier auch: umfassende Werke über einzelne physiologische Systeme"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om särskilda organsystem"
+    ],
+    "no": [
+      "Her: Oversiktsverker om bestemte fysiologiske systemer"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les systèmes ou les appareils physiologiques particuliers"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su specifici sistemi fisiologici"
+    ],
+    "en": [
+      "Class here comprehensive works on specific physiological systems"
+    ]
+  },
+  "notation": "573",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "Specific physiological systems in animals, regional histology and physiology in animals",
+    "no": "Bestemte fysiologiske systemer hos dyr, regional histologi og fysiologi hos dyr",
+    "sv": "Särskilda organsystem hos djur, regional histologi och djurfysiologi",
+    "de": "Einzelne physiologische Systeme bei Tieren, regionäre Histologie und Physiologie bei Tieren",
+    "it": "Specifici sistemi fisiologici negli animali, fisiologia e istologia regionale negli animali",
+    "fr": "Systèmes physiologiques particuliers des animaux, histologie et physiologie régionales animales"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PkDW3DwQhHCrpkRhQqRBt3jp",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qhYWKWdW98TFDVmq8MgM37Wf",
+  "prefLabel": {
+    "de": "Etymologie des Italienischen",
+    "fr": "Étymologie de l'italien standard",
+    "en": "Etymology of standard Italian",
+    "sv": "Etymologi gällande standarditalienska",
+    "it": "Etimologia dell'italiano standard",
+    "no": "Standard italiensk etymologi"
+  },
+  "notation": "452",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-02-09T17:13:32Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3tDTdxt9MyY6bprvMmjYvp8Gy",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

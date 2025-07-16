@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qjMCpV7pFFGVGPrMkkYkQKVr",
+  "prefLabel": {
+    "it": "Disegno e disegni secondo il soggetto",
+    "de": "Zeichnung und Zeichnungen nach Motiv",
+    "en": "Drawing and drawings by subject",
+    "fr": "Dessin et dessins par sujets",
+    "no": "Tegning og tegninger inndelt etter motiv",
+    "sv": "Teckningskonst och teckningar efter motiv"
+  },
+  "type": "Concept",
+  "modified": "2022-07-01T11:06:02Z",
+  "created": "1996-06-01",
+  "notation": "743",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3H4YFftgq9FK96wtTfFbdGBWT",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

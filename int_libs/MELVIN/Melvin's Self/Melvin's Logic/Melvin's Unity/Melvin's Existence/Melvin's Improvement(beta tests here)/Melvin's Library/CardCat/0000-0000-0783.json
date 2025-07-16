@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3km7RXBV3JTKMcdJvGhWDvvD3",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "fr": "Musique pour voix solistes",
+    "sv": "Musik för en röst  ",
+    "it": "Musica per voci singole",
+    "en": "Music for single voices",
+    "no": "Musikk for enkeltstemmer",
+    "de": "Musik für Einzelstimmen"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here the voice"
+    ],
+    "fr": [
+      "Classer ici la voix"
+    ],
+    "sv": [
+      "Klassificera här rösten"
+    ],
+    "no": [
+      "Her: Stemmen"
+    ],
+    "de": [
+      "Hier auch: die Stimme"
+    ],
+    "it": [
+      "Classificare qui la voce"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E48gbD63Gd44m4cH48wCwrwfHq",
+  "created": "1996-06-01",
+  "notation": "783",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

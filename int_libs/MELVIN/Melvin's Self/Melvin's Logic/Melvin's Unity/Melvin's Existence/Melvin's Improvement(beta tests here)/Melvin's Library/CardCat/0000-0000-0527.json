@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fRXrV78yKpDfjWmtvq4BtdhG",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Astronavigation",
+    "no": "Astronomisk navigasjon",
+    "it": "Navigazione astronomica",
+    "de": "Astronavigation",
+    "fr": "Navigation astronomique",
+    "en": "Celestial navigation"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d9Cb8g3VYXGG8bg4gjbVgr3p",
+  "modified": "2023-10-09T11:50:37Z",
+  "type": "Concept",
+  "notation": "527",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

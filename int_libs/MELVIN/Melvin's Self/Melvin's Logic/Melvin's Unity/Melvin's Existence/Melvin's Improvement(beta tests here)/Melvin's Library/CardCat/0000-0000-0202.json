@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3MCMjdXp9WyXKGbDtVTYPtR3f",
+  "prefLabel": {
+    "sv": "Doktriner (lärosatser)",
+    "de": "Lehren",
+    "en": "Doctrines",
+    "it": "Dottrine",
+    "no": "Dogmer",
+    "fr": "Doctrines"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Überzeugungen, Apologetik, Polemik; umfassende Werke über Theologie"
+    ],
+    "en": [
+      "Class here beliefs, apologetics, polemics; comprehensive works on theology"
+    ],
+    "fr": [
+      "Classer ici les croyances, l’apologétique, la polémique, les ouvrages généraux sur la théologie"
+    ],
+    "no": [
+      "Her: Tro, apologetikk, polemikk; oversiktsverker om teologi"
+    ],
+    "sv": [
+      "Klassificera här övertygelser, apologetik, polemik; övergripande verk om teologi"
+    ],
+    "it": [
+      "Classificare qui le credenze, l'apologetica, la polemica, le opere d'insieme sulla teologia"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qyqgxyhpbcwXKxRdrvxX3Hkg",
+  "created": "1998-10-23",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "202",
+  "modified": "2023-11-17T11:00:30Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

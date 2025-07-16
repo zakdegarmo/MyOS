@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cWXqyWwdKphPhxkWFcxKY988",
+  "prefLabel": {
+    "sv": "Klädsel och utseende",
+    "it": "Costume e tenuta personale",
+    "en": "Costume and personal appearance",
+    "no": "Klesdrakt og personlig framtreden",
+    "de": "Kleidung und äußeres Erscheinungsbild",
+    "fr": "Costume et apparence personnelle"
+  },
+  "modified": "2025-03-07T02:20:58Z",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här tvärvetenskapliga verk om kläder, klädsel (klädesplagg), mode; fritidskläder (sportkläder)"
+    ],
+    "en": [
+      "Class here interdisciplinary works on costume, clothing (apparel, garments), fashion; casual wear (sportswear)"
+    ],
+    "de": [
+      "Hier auch: fächerübergreifende Werke über Kleidung, Mode; Freizeitkleidung (Sportlich-legere Kleidung)"
+    ],
+    "it": [
+      "Classificare qui le opere interdisciplinari su costume, abbigliamento, moda, abbigliamento casual"
+    ],
+    "no": [
+      "Her: Tverrfaglige verker om klesdrakt, klær, mote; folkedrakter, hverdagsklær (fritidsklær)"
+    ],
+    "fr": [
+      "Classer ici les ouvrages interdisciplinaires sur le costume, les vêtements (l'habillement), la mode ; les vêtements décontractés (les vêtements de sport)"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "391",
+  "type": "Concept",
+  "created": "2000-02-02",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

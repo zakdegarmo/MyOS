@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HhdCbRGJj7TVTHRGrwrryj7X",
+  "prefLabel": {
+    "en": "Chromolithography and serigraphy",
+    "sv": "Färglitografi och serigrafi",
+    "fr": "Chromolithographie et sérigraphie",
+    "de": "Farblithografie und Serigrafie",
+    "it": "Cromolitografia e serigrafia",
+    "no": "Fargelitografi og serigrafi"
+  },
+  "notation": "764",
+  "type": "Concept",
+  "modified": "2023-05-22T10:08:13Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E334Pg4Bq3bQ9FFxFTybhpRfvC",
+  "prefLabel": {
+    "it": "Egitto, fino al 640",
+    "sv": "Egypten före 640",
+    "no": "Egypt fram til 640",
+    "en": "Egypt to 640",
+    "fr": "Égypte jusqu’à 640",
+    "de": "Ägypten bis 640"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "notation": "932",
+  "modified": "2023-10-11T05:08:39Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

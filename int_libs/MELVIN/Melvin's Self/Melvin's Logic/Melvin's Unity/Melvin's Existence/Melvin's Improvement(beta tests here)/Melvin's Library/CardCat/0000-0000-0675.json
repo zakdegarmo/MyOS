@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xm37b9pGRwwTTqRQghFdVTdb",
+  "type": "Concept",
+  "modified": "2024-11-05T08:53:29Z",
+  "prefLabel": {
+    "de": "Leder- und Pelzverarbeitung",
+    "fr": "Traitement du cuir et de la fourrure",
+    "it": "Lavorazione delle pelli e delle pellicce",
+    "sv": "Läderbearbetning och pälsberedning",
+    "no": "Lærindustri og pelsindustri",
+    "en": "Leather and fur processing"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gfFyWJGXtRhc6v8dWTb4pRD",
+  "created": "1996-06-01",
+  "notation": "675",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

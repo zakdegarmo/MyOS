@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36X4wbF7H8PkBRXrX7tddbDgp",
+  "prefLabel": {
+    "de": "Geografie Europas und Reisen in Europa",
+    "it": "Geografia e viaggi relativi all'Europa",
+    "sv": "Geografi och resor gällande Europa",
+    "no": "Geografi og reiser i Europa",
+    "en": "Geography of and travel in Europe",
+    "fr": "Géographie et voyages en Europe"
+  },
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "notation": "914",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

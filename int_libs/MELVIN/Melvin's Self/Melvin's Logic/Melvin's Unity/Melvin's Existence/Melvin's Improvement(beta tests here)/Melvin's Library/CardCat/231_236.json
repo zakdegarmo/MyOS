@@ -1,0 +1,46 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "prefLabel": {
+    "no": "Bestemte emner innen kristen dogmatikk",
+    "fr": "Sujets particuliers de la théologie dogmatique (doctrinale) chrétienne",
+    "en": "Specific topics in Christian doctrinal theology",
+    "sv": "Särskilda ämnen inom kristen doktrinär teologi",
+    "de": "Einzelne Themen der christlichen Dogmatik",
+    "it": "Soggetti specifici di teologia dogmatica cristiana"
+  },
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Class here specific doctrines of specific denominations and sects"
+    ],
+    "it": [
+      "Classificare qui le specifiche dottrine di specifiche denominazioni e sette"
+    ],
+    "fr": [
+      "Classer ici les doctrines particulières des confessions et sectes particulières"
+    ],
+    "no": [
+      "Her: Bestemte dogmer innen bestemte trossamfunn og sekter"
+    ],
+    "de": [
+      "Hier auch: einzelne Lehren einzelner Konfessionen und Sekten"
+    ],
+    "sv": [
+      "Klassificera här särskilda doktriner inom särskilda samfund och sekter"
+    ]
+  },
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E366bHkkKpvj8R46J67DRyhWYP",
+    "https://id.oclc.org/worldcat/ddc/E3kVBMqF7tPTHMH4jVj3HbvBCy",
+    "https://id.oclc.org/worldcat/ddc/E43kry8GCqJXH8KtGBYQk3MDDQ",
+    "https://id.oclc.org/worldcat/ddc/E3DF8PFGgYKj8PxHJmFf9KtTJT",
+    "https://id.oclc.org/worldcat/ddc/E3BqdqHcB9gt6Qmmr7QF8m6ddr",
+    "https://id.oclc.org/worldcat/ddc/E3pfwQWhJ83jXC8YMGJcFDjBxt"
+  ],
+  "notation": "231-236",
+  "modified": "2024-11-20T06:37:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36DrXFp89KdrchdbVqVdBVktP",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

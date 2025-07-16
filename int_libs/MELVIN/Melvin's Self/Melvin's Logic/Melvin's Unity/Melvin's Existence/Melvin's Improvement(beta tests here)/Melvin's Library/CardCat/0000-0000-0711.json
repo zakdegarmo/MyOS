@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KbwKGxd6wdBh8qgQBhpDK3h9",
+  "notation": "711",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Pläne",
+      "Planmäßige Gestaltung der räumlichen Umwelt für Gemeinwohl, öffentlichen Komfort, öffentliches Vergnügen"
+    ],
+    "en": [
+      "Class here plans",
+      "Design of physical environment for public welfare, convenience, pleasure"
+    ],
+    "fr": [
+      "Classer ici les plans",
+      "Aménagement du milieu physique pour le bien-être, l’utilité et l’agrément de la population"
+    ],
+    "no": [
+      "Her: Planer",
+      "Design av det fysiske miljø til offentlighetens velferd, bekvemmelighet og glede"
+    ],
+    "sv": [
+      "Utformning av fysiska miljöer som syftar till att främja allmänhetens trivsel, bekvämlighet, välbefinnande",
+      "Klassificera här planer"
+    ],
+    "it": [
+      "Progettazione dell'ambiente fisico per il benessere, l'utilità, il divertimento pubblico",
+      "Classificare qui i piani"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Raumplanung (Städtebau)",
+    "sv": "Fysisk planering (samhällsplanering)",
+    "en": "Area planning (Civic art)",
+    "no": "Arealplanlegging",
+    "fr": "Aménagement du territoire (Art de l'aménagement des villes)",
+    "it": "Urbanistica (Pianificazione territoriale)"
+  },
+  "modified": "2024-08-13T17:29:19Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

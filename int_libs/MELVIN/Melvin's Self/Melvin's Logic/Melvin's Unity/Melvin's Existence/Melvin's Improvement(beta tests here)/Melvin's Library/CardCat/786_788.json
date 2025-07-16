@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E34MhvcdHWcJJH8pqMGc7YxK4r",
+  "notation": "786-788",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3CCB8wxMWHKGxyfPDqDvF46hw",
+  "prefLabel": {
+    "fr": "Instruments particuliers et leur musique",
+    "it": "Specifici strumenti e loro musica",
+    "no": "Bestemte instrumenter og musikk for disse",
+    "sv": "Särskilda instrument och deras musik",
+    "de": "Einzelne Instrumente und ihre Musik",
+    "en": "Specific instruments and their music"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4936WhB6mCpvJf43GfJPQyRwm",
+    "https://id.oclc.org/worldcat/ddc/E3vYWC893xXxWHyr43qCjVdVYF",
+    "https://id.oclc.org/worldcat/ddc/E3mKCwp4pvWcmFMtMQBP9gcykr"
+  ],
+  "modified": "2023-06-27T07:01:52Z",
+  "created": "1996-06-01",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Musik für Soloinstrumente, Musik für ein Solo-Melodieinstrument mit einem Tasteninstrument oder anderem begleitenden oder zusammenspielenden Instrument; rein mechanische Instrumente, Instrumente mit elektrischer Tonerzeugung"
+    ],
+    "en": [
+      "Class here music for solo instrument, music for solo melody instrument with keyboard or other accompanying or collaborative instrument; acoustic form of instruments, electric form of instruments"
+    ],
+    "sv": [
+      "Klassificera här musik för soloinstrument, musik för soloinstrument som ackompanjeras av tangentinstrument eller ett annat samarbetande instrument; akustisk form av instrument, elektrisk form av instrument"
+    ],
+    "no": [
+      "Her: Musikk for soloinstrumenter, komposisjoner for ett soloinstrument med klaver eller akkompagnement av eller samarbeid med et annet instrument; akustisk form av instrumenter, elektrisk form av instrumenter"
+    ],
+    "it": [
+      "Classificare qui la musica per strumento solista, musica per strumento melodico solista con accompagnamento di tastiera o altro; la forma acustica degli strumenti,  la forma elettrica degli strumenti"
+    ],
+    "fr": [
+      "Classer ici la musique pour instrument soliste, la musique pour instrument mélodique soliste et instrument à clavier ou tout autre instrument accompagnateur ou collaborateur ; la forme acoustique des instruments, la forme électrique des instruments"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3t3WfFXTXWyCYyvV7ck3gy7gQ",
+  "prefLabel": {
+    "it": "Principî generali della matematica",
+    "en": "General principles of mathematics",
+    "sv": "Matematikens allmänna principer",
+    "no": "Generelle matematiske prinsipper",
+    "de": "Allgemeine mathematische Prinzipien",
+    "fr": "Principes généraux des mathématiques"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "modified": "2019-09-18T18:08:35Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "511",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

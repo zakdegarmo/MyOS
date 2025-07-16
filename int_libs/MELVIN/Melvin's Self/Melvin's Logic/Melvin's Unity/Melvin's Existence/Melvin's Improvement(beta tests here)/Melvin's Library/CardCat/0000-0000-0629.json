@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KyTd6cvpj4B3qWwpRBB9WkdF",
+  "prefLabel": {
+    "no": "Andre områder innen teknikk",
+    "en": "Other branches of engineering",
+    "it": "Altri rami dell'ingegneria",
+    "de": "Andere Fachrichtungen der Ingenieurwissenschaften",
+    "sv": "Övriga teknikområden",
+    "fr": "Autres branches de l’ingénierie"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2019-11-15T10:54:37Z",
+  "created": "1996-06-01",
+  "notation": "629",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bx3XpBC8c6mqRMJg6tvqj6Rf",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3vY8Mp4b8cGGJh3JBRhfrmFYt",
+    "https://id.oclc.org/worldcat/ddc/E3Hdq4y9PrPK8tJrjXgkWcXRCt",
+    "https://id.oclc.org/worldcat/ddc/E36gxHwC7qqbhmPpHKHhQrtYTV"
+  ],
+  "prefLabel": {
+    "en": "Bible and specific religions",
+    "no": "Bibelen og bestemte religioner",
+    "it": "Bibbia e specifiche religioni",
+    "fr": "Bible et religions particulières",
+    "sv": "Bibeln och särskilda religioner",
+    "de": "Bibel und einzelne Religionen"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "created": "2012-02-14",
+  "notation": "220-290",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QGtWm7RBHVmJyQgtqjCv8TXt",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

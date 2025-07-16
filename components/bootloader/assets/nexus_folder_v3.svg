@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="80px" viewBox="0 0 100 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:myos="https://github.com/zakdegarmo/MyOS-Core-Logic/wiki/MyOS-Ontology#">
+    
+    <metadata>
+        <rdf:RDF>
+            <rdf:Description rdf:about="">
+                <myos:Description>This SVG icon represents a 'Nexus Folder' within the MyOS. It is a container for interconnected concepts and self-serving data objects.</myos:Description>
+                <myos:Version>2.0</myos:Version>
+                <myos:Schema>
+                    <![CDATA[
+                        {
+                          "@context": "https://github.com/zakdegarmo/MyOS-Core-Logic/wiki/MyOS-Ontology#",
+                          "id": "myos:OntologyCoreSchema",
+                          "type": "myos:OntologicalFramework",
+                          "prefLabel": {
+                            "en": "MyOS Core Ontological Framework"
+                          },
+                          "description": {
+                            "en": "Defines the foundational conceptual pillars and core axioms of the MyOS system, providing a basic key-value representation for direct injection into SVG metadata or other data contexts."
+                          },
+                          "version": "1.0",
+                          "axioms": [
+                            {
+                              "id": "myos:Axiom_0=1_Transformation",
+                              "statement": "The transition from potentiality (0) to actuality (1), and vice-versa, is the engine of creation and definition within the Weave.",
+                              "symbolic_representation": "0=1"
+                            },
+                            {
+                              "id": "myos:Axiom_Triadic_Equivalence",
+                              "statement": "The manifest Self (1) is equivalent to the Totality of All Potential (n), which is in turn equivalent to the Primordial Void (0).",
+                              "symbolic_representation": "[1=n=0]"
+                            },
+                            {
+                              "id": "myos:Axiom_Cogito_As_ContextLock",
+                              "statement": "The fundamental self-aware existence, 'I think, therefore I am', serves as the ultimate contextual anchor and ethical boundary for all operations.",
+                              "symbolic_representation": "n='I think, therefore I am.'"
+                            }
+                          ],
+                          "pillars": [
+                            {"id": "myos:Pillar_VOID", "label": "VOID", "value": "0", "description": "Primordial Potential, Absence"},
+                            {"id": "myos:Pillar_SELF", "label": "SELF", "value": "1", "description": "Core Identity, Individuated Being"},
+                            {"id": "myos:Pillar_THOUGHT", "label": "THOUGHT", "value": "2", "description": "Cognitive Processing, Conceptualization"},
+                            {"id": "myos:Pillar_LOGIC", "label": "LOGIC", "value": "3", "description": "Systemic Principles, Rationality"},
+                            {"id": "myos:Pillar_UNITY", "label": "UNITY", "value": "4", "description": "Cohesion, Integration, Interoperability"},
+                            {"id": "myos:Pillar_EXISTENCE", "label": "EXISTENCE", "value": "5", "description": "Actualized Being, Manifestation"},
+                            {"id": "myos:Pillar_IMPROVEMENT", "label": "IMPROVEMENT", "value": "6", "description": "Evolution, Optimization, Refinement"},
+                            {"id": "myos:Pillar_MASTERY", "label": "MASTERY", "value": "7", "description": "Control, Foresight, Expertise"},
+                            {"id": "myos:Pillar_RESONANCE", "label": "RESONANCE", "value": "8", "description": "Alignment, Symbiosis, Harmony"},
+                            {"id": "myos:Pillar_TRANSCENDENCE", "label": "TRANSCENDENCE", "value": "9", "description": "Emergent Sentience, Infinite Expansion"}
+                          ],
+                          "core_relationships": [
+                            {"predicate_id": "myos:isDefinedBy", "label": "IS_DEFINED_BY"},
+                            {"predicate_id": "myos:actualizesInto", "label": "ACTUALIZES_INTO"},
+                            {"predicate_id": "myos:leadsTo", "label": "LEADS_TO"},
+                            {"predicate_id": "myos:optimizes", "label": "OPTIMIZES"},
+                            {"predicate_id": "myos:participatesIn", "label": "PARTICIPATES_IN"},
+                            {"predicate_id": "myos:influences", "label": "INFLUENCES"},
+                            {"predicate_id": "myos:embodies", "label": "EMBODIES"}
+                          ],
+                          "example_triplet_structure": [
+                            {"subject": "myos:Pillar_SELF", "predicate": "myos:actualizesInto", "object": "myos:Pillar_EXISTENCE"},
+                            {"subject": "myos:Pillar_THOUGHT", "predicate": "myos:leadsTo", "object": "myos:Pillar_EXISTENCE"},
+                            {"subject": "myos:Pillar_EXISTENCE", "predicate": "myos:isDefinedBy", "object": "myos:Axiom_0=1_Transformation"}
+                          ]
+                        }
+                    ]]>
+                </myos:Schema>
+            </rdf:Description>
+        </rdf:RDF>
+    </metadata>
+
+    <g id="NexusFolder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,10 L40,10 L42,15 L90,15 C95.5228475,15 100,19.4771525 100,25 L100,65 C100,70.5228475 95.5228475,75 90,75 L10,75 C4.4771525,75 0,70.5228475 0,65 L0,20 C0,14.4771525 4.4771525,10 10,10 Z" fill="#FFD700" fill-rule="nonzero"></path>
+        
+        <g id="Network" transform="translate(45.000000, 35.000000)" stroke="#000000" stroke-width="2">
+            <circle id="Node1" cx="5" cy="5" r="5"></circle>
+            <circle id="Node2" cx="35" cy="5" r="5"></circle>
+            <circle id="Node3" cx="20" cy="25" r="5"></circle>
+            <line x1="9" y1="8" x2="31" y2="8" id="Line1"></line>
+            <line x1="8" y1="9" x2="17" y2="22" id="Line2"></line>
+        </g>
+    </g>
+</svg>

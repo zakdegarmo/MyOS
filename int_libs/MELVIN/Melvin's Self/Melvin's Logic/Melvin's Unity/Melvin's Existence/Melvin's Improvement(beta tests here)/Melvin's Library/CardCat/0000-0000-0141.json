@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cBryqcw7CDb7KBrBdWdFDYrC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "fr": [
+      "Y compris le panpsychisme, le spiritisme, le subjectivisme, le bénévolat (volontariat)"
+    ],
+    "de": [
+      "Einschließlich: Panpsychismus, Spiritualismus, Subjektivismus, Voluntarismus"
+    ],
+    "en": [
+      "Including panpsychism, spiritualism, subjectivism, voluntarism"
+    ],
+    "sv": [
+      "Omfattar panpsykism, spiritualism, subjektivism, voluntarism"
+    ],
+    "it": [
+      "Include il panpsichismo, il soggettivismo, lo spiritualismo, il volontarismo"
+    ],
+    "no": [
+      "Inkluderer: Panpsykisme, spiritisme, subjektivisme, voluntarisme"
+    ]
+  },
+  "prefLabel": {
+    "en": "Idealism and related systems and doctrines",
+    "fr": "Idéalisme et systèmes et doctrines connexes",
+    "de": "Idealismus und verwandte Systeme und Positionen",
+    "it": "Idealismo, sistemi e dottrine affini",
+    "sv": "Idealism och liknande system och doktriner",
+    "no": "Idealisme og lignende systemer og doktriner"
+  },
+  "notation": "141",
+  "created": "1996-06-01",
+  "modified": "2024-11-02T00:44:37Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

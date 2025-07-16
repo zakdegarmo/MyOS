@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3P4gCj6KY73jwR7W7wycmdwM3",
+  "prefLabel": {
+    "de": "Englische Dramen",
+    "en": "English drama",
+    "it": "Letteratura drammatica inglese",
+    "sv": "Engelsk dramatik",
+    "no": "Engelsk drama",
+    "fr": "Œuvres dramatiques anglaises"
+  },
+  "modified": "2023-04-28T08:44:57Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RjjDMWCR4PmcWkpjcBxqYHyB",
+  "notation": "822",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

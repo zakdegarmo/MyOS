@@ -1,0 +1,35 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3q6JhWTDVgXT8xYJGjXR9fKKJ",
+  "modified": "2023-12-15T12:26:46Z",
+  "scopeNote": {
+    "fr": [
+      "Classer ici les plantes sans graines"
+    ],
+    "en": [
+      "Class here seedless plants"
+    ],
+    "sv": [
+      "Klassificera här frölösa växter"
+    ],
+    "no": [
+      "Her: Planter uten frø"
+    ],
+    "it": [
+      "Classificare qui le piante senza seme"
+    ]
+  },
+  "prefLabel": {
+    "en": "Cryptogamia",
+    "it": "Cryptogamia",
+    "sv": "Kryptogamer (sporväxter)",
+    "no": "Sporeplanter",
+    "de": "Cryptogamia (Blütenlose Pflanzen)",
+    "fr": "Cryptogames"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "586",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

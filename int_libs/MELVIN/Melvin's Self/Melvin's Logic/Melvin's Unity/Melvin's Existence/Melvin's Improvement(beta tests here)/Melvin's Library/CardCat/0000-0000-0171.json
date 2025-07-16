@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44Pvwb7jkchP3wBRQHpBQGWt9",
+  "scopeNote": {
+    "no": [
+      "Uansett tid og sted"
+    ],
+    "sv": [
+      "Oavsett tid eller plats"
+    ],
+    "it": [
+      "Senza tener conto di tempo o luogo"
+    ],
+    "de": [
+      "Ungeachtet der Zeit oder des Orts"
+    ],
+    "en": [
+      "Regardless of time or place"
+    ],
+    "fr": [
+      "Sans tenir compte ni de l’époque ni du lieu"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Ethische Systeme",
+    "sv": "Etiska system",
+    "it": "Sistemi etici",
+    "no": "Etiske systemer",
+    "fr": "Systèmes moraux",
+    "en": "Ethical systems"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-10-25T11:17:47Z",
+  "type": "Concept",
+  "notation": "171",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hVQWDGkfFmQvYDhX8xXpTQVC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

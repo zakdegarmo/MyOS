@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DwCBpcxrqWfFYt9QtFQT8QPV",
+  "prefLabel": {
+    "fr": "Arithmétique",
+    "it": "Aritmetica",
+    "sv": "Aritmetik",
+    "no": "Aritmetikk",
+    "de": "Arithmetik",
+    "en": "Arithmetic"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TxPx4G9RbWWmmKWPr7HdhfY3",
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Regning"
+    ],
+    "de": [
+      "Einschließlich: Rechnen"
+    ],
+    "fr": [
+      "Y compris la numératie (culture mathématique)"
+    ],
+    "sv": [
+      "Omfattar räkneförmåga"
+    ],
+    "it": [
+      "Include la conoscenza dei numeri"
+    ],
+    "en": [
+      "Including numeracy"
+    ]
+  },
+  "notation": "513",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

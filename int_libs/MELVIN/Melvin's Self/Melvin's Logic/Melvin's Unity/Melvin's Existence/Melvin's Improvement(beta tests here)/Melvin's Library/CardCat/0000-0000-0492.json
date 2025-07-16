@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49K9BT9dxMxGx4DRJhdpVgcBt",
+  "scopeNote": {
+    "it": [
+      "Classificare qui le lingue semitiche"
+    ],
+    "de": [
+      "Hier auch: semitische Sprachen"
+    ],
+    "fr": [
+      "Classer ici les langues sémitiques"
+    ],
+    "sv": [
+      "Klassificera här semitiska språk"
+    ],
+    "no": [
+      "Her: Semittiske språk"
+    ],
+    "en": [
+      "Class here Semitic languages"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Langues afro-asiatiques    ",
+    "en": "Afro-Asiatic languages",
+    "sv": "Afroasiatiska språk",
+    "no": "Afroasiatiske språk",
+    "it": "Lingue afroasiatiche",
+    "de": "Afroasiatische Sprachen"
+  },
+  "type": "Concept",
+  "notation": "492",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "modified": "2023-06-15T12:43:10Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

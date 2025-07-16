@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3X4KRybVFbv9xGj9kpCpkRPh3",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Kristen etikk og oppbyggelig teologi",
+    "sv": "Kristen moralisk och uppbyggande teologi",
+    "de": "Christliche Ethik und spirituelle Theologie",
+    "it": "Morale cristiana e teologia devozionale",
+    "en": "Christian moral and devotional theology",
+    "fr": "Théologie morale et spirituelle chrétiennes"
+  },
+  "notation": "240",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "modified": "2023-06-22T10:37:35Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

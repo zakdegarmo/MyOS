@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BctqhVx8bt6rHchXJRdGfvt6",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "en": "Sensationalism",
+    "de": "Sensualismus",
+    "sv": "Sensualism",
+    "no": "Sensualisme",
+    "fr": "Sensualisme (Sensationnisme)",
+    "it": "Sensismo"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Ideologi som filosofisk system basert på analyse av ideer med utspring i sansefornemmelser"
+    ],
+    "fr": [
+      "Classer ici le système selon lequel les idées se réduisent à des sensations"
+    ],
+    "en": [
+      "Class here ideology as the system based on analysis of ideas into their sensory elements"
+    ],
+    "it": [
+      "Classificare qui l'ideologia come sistema fondato sull'analisi delle idee nei loro elementi sensorî"
+    ],
+    "de": [
+      "Hier auch: Ideologie als System, das auf der Rückführung von Ideen auf Sinneswahrnehmungen basiert"
+    ],
+    "sv": [
+      "Klassificera här ideologi som systemet grundat på analysen av idéerna i deras sinnesförnimmelser"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hjRgRDJyKptrmrDvgxYd7pQC",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "145",
+  "modified": "2020-12-07T09:57:01Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

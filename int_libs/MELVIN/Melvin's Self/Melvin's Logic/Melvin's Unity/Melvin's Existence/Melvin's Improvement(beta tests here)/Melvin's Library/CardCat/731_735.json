@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E374qb8Wk9B7yrvJttgwB7tbtt",
+  "prefLabel": {
+    "it": "Scultura",
+    "fr": "Sculpture",
+    "no": "Skulptur",
+    "sv": "Skulptur",
+    "de": "Bildhauerkunst",
+    "en": "Sculpture"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3GQ3HjPCbxXTJVJ4HjcyBvt6V",
+    "https://id.oclc.org/worldcat/ddc/E38B6ktvf8PC4wbKYbjChqdF9w"
+  ],
+  "modified": "2022-03-11T06:04:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MwqmFCbPrRHjdTVvyVjHwgrx",
+  "notation": "731-735",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

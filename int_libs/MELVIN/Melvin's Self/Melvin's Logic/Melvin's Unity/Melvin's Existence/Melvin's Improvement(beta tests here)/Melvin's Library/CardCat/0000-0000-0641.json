@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qmJhHKyj97TxB76CbpWvppfj",
+  "prefLabel": {
+    "sv": "Mat och dryck",
+    "de": "Essen und Trinken",
+    "en": "Food and drink",
+    "it": "Cibi e bevande",
+    "no": "Mat og drikke",
+    "fr": "Nourriture et boisson"
+  },
+  "created": "1996-06-01",
+  "modified": "2025-06-09T13:13:28Z",
+  "notation": "641",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3frMxXmrXk6rhk6gm43TXGK73",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

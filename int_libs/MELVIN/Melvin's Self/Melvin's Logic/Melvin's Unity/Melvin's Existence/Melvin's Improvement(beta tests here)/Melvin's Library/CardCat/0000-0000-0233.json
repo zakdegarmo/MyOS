@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pfwQWhJ83jXC8YMGJcFDjBxt",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Mänskligheten",
+    "no": "Mennesket",
+    "fr": "Humanité (Le genre humain)",
+    "en": "Humankind",
+    "it": "Il genere umano",
+    "de": "Der Mensch"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "233",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "modified": "2023-06-22T11:54:22Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

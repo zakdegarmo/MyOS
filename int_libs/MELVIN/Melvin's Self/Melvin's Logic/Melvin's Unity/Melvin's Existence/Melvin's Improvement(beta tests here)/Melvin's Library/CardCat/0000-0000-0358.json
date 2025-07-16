@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4b6GGGjKTPPpPVDdVTFDpThhD",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4dby3kbCvfjtGJPDfdB3xXJHC",
+  "notation": "358",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Luftstreitkräfte und andere spezialisierte Streitkräfte und Kampfführung; Pionierdienst und verwandte Dienste",
+    "sv": "Luftstridskrafter (luftkrigsväsen) och övriga specialiserade styrkor och krigföring; ingenjörsväsen och relaterade tjänster",
+    "en": "Air and other specialized forces and warfare; engineering and related services",
+    "fr": "Forces aériennes (Armée de l’air) et autres forces spécialisées et leurs opérations ; génie et services connexes",
+    "it": "Forze e operazioni aeree, altre forze e operazioni specializzate; genio militare e servizi connessi",
+    "no": "Luftforsvar og andre spesialiserte styrker og deres krigføring; ingeniørtropper og lignende tjenester"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-11-01T20:59:46Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

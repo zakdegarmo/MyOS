@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bbtqFYDt4WgDykxtHQB9b7kc",
+  "modified": "2024-04-03T10:42:45Z",
+  "notation": "814",
+  "prefLabel": {
+    "sv": "Amerikanska essäer på engelska",
+    "en": "American essays in English",
+    "it": "Saggistica americana in inglese",
+    "fr": "Essais américains en anglais",
+    "no": "Amerikanske essayer på engelsk",
+    "de": "Amerikanische Essays in Englisch"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

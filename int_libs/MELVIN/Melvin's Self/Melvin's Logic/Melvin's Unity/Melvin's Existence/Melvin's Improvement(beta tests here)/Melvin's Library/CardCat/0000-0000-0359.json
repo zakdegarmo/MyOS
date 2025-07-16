@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Kv3vFMCrc8wPfprxTqx7dDyf",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Marinestreitkräfte und Kampfführung"
+    ],
+    "en": [
+      "Class here sea forces and warfare"
+    ],
+    "fr": [
+      "Classer ici les forces maritimes et leurs opérations"
+    ],
+    "no": [
+      "Her: Sjøstridskrefter og sjøstrid"
+    ],
+    "sv": [
+      "Klassificera här marina styrkor och krigföring"
+    ],
+    "it": [
+      "Classificare qui le forze e le operazioni marine"
+    ]
+  },
+  "prefLabel": {
+    "en": "Naval forces and warfare",
+    "it": "Forze e operazioni navali",
+    "no": "Marinestyrker og sjøkrig",
+    "de": "Seestreitkräfte und Kampfführung",
+    "sv": "Sjöstridskrafter (sjökrigsväsen) och sjökrigföring",
+    "fr": "Forces navales et leurs opérations"
+  },
+  "modified": "2024-08-07T06:59:57Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4dby3kbCvfjtGJPDfdB3xXJHC",
+  "notation": "359",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

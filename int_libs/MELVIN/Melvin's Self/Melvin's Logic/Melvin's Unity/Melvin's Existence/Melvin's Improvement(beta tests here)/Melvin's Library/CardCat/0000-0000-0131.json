@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kYMbRWvr9vkPpppRTRYYVCfF",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3qj43xgv6XRqGKmBQbg3GctbX",
+  "prefLabel": {
+    "it": "Metodi parapsicologici e occultistici per il conseguimento del benessere, della felicità, del successo",
+    "sv": "Parapsykologiska och ockulta metoder för att nå välbefinnande, lycka, framgång",
+    "fr": "Techniques parapsychologiques et occultes pour atteindre le bien-être, le bonheur, le succès",
+    "de": "Parapsychologische und okkulte Methoden zur Erreichung von Wohlbefinden, Glück, Erfolg",
+    "en": "Parapsychological and occult methods for achieving well-being, happiness, success",
+    "no": "Bruk av parapsykologiske og okkulte metoder for å oppnå personlig velvære, lykke, suksess"
+  },
+  "notation": "131",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2020-09-28T09:21:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

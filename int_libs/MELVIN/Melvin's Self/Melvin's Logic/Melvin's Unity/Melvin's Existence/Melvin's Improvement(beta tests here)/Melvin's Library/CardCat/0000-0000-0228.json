@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pRjjHjrpJYJryfTXjT3TfY8q",
+  "modified": "2023-06-02T11:07:19Z",
+  "notation": "228",
+  "prefLabel": {
+    "de": "Johannes-Apokalypse (Offenbarung des Johannes)",
+    "no": "Johannes' åpenbaring (Apokalypsen)",
+    "sv": "Uppenbarelseboken (apokalypsen)",
+    "it": "Apocalisse di Giovanni",
+    "en": "Revelation (Apocalypse)",
+    "fr": "Apocalypse de saint Jean"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vFdPM6CXV7Kgr9FBwYpPrG3P",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

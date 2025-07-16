@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39JmrPqDXh6w6MF3CgqJXhfBV",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "prefLabel": {
+    "sv": "Personer inom teknik",
+    "de": "Personen aus dem Bereich Technik",
+    "no": "Personer knyttet til teknologi",
+    "fr": "Personnes dont l’activité est liée à la technologie",
+    "it": "Persone operanti nel campo della tecnologia",
+    "en": "People in technology"
+  },
+  "notation": "926",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "modified": "2022-08-29T10:01:08Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

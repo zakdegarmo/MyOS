@@ -1,0 +1,55 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37Wb4rRY7988V676BDf7Dt4hw",
+  "scopeNote": {
+    "no": [
+      "Her: Bestemte leksika og bøker med diverse fakta, og verker om disse",
+      "Inndeles etter originalspråk"
+    ],
+    "de": [
+      "Hier auch: einzelne Enzyklopädien und Faktenbücher vermischten Inhalts, auch Werke darüber",
+      "Gegliedert nach der Sprache, in der sie ursprünglich verfasst wurden"
+    ],
+    "sv": [
+      "Enligt det språk på vilket de ursprungligen skrevs",
+      "Klassificera här särskilda uppslagsverk och böcker med diverse fakta, verk om dem"
+    ],
+    "en": [
+      "By language in which originally written",
+      "Class here specific encyclopedias and books of miscellaneous facts, works about them"
+    ],
+    "fr": [
+      "Selon la langue originale",
+      "Classer ici les encyclopédies particulières et les livres de renseignements divers particuliers, les ouvrages à leur sujet"
+    ],
+    "it": [
+      "Classificare qui le specifiche enciclopedie e raccolte di notizie varie, le opere che le studiano",
+      "Secondo la lingua originale"
+    ]
+  },
+  "prefLabel": {
+    "en": "General encyclopedic works in specific languages and language families",
+    "de": "Allgemeinenzyklopädien in einzelnen Sprachen und Sprachfamilien",
+    "sv": "Allmänna uppslagsverk på särskilda språk och språkfamiljer",
+    "no": "Generelle leksikalske verker på bestemte språk og språkgrupper",
+    "fr": "Encyclopédies générales dans les langues et dans les familles de langues particulières",
+    "it": "Opere enciclopediche generali in specifiche lingue e famiglie linguistiche"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3m8MWXpjB4VmWCwxHhwRxRhVW",
+    "https://id.oclc.org/worldcat/ddc/E3d6yKqckYyt83pyQcr7DMWWRX",
+    "https://id.oclc.org/worldcat/ddc/E3tybK8QMCF8yxyfKYhBDPHDqj",
+    "https://id.oclc.org/worldcat/ddc/E3MkH9MVptw86FRxhRX6DRcb6M",
+    "https://id.oclc.org/worldcat/ddc/E44ybyvBFQCRJ66gpCkRYkVvv3",
+    "https://id.oclc.org/worldcat/ddc/E3Rw7k4k4fCPHQYTp3GGGrCc8f",
+    "https://id.oclc.org/worldcat/ddc/E4c6HM3dRJdrhD6H667hxqbMwV",
+    "https://id.oclc.org/worldcat/ddc/E3p3h4R4bxq7WTpjy3RRycvrWG",
+    "https://id.oclc.org/worldcat/ddc/E3XXV7WvKdxBq8MjwKRYyQ3bp7"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3KpMY9kYqgqmMgRBwCCXMhkf7",
+  "created": "1996-06-01",
+  "notation": "031-039",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

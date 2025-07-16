@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XWt9hRTHm7tGTMPjwFKb6q7V",
+  "modified": "2024-10-04T12:02:29Z",
+  "prefLabel": {
+    "sv": "Kyrkointeriörer och liknande föremål",
+    "de": "Kirchenausstattung und damit zusammenhängende Gegenstände",
+    "fr": "Mobilier d’église et objets religieux",
+    "en": "Church furnishings and related articles",
+    "no": "Kirkelig inventar og lignende gjenstander",
+    "it": "Arredamento sacro e oggetti connessi"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rVPRBx4Qyt8jCXqKHmGhjdXt",
+  "scopeNote": {
+    "en": [
+      "Including paintings, textiles; sculpture, structural decoration"
+    ],
+    "it": [
+      "Include le pitture, i tessuti; la scultura, la decorazione di strutture"
+    ],
+    "no": [
+      "Inkluderer: Malerier, skulpturer, utsmykning av byggverk, tekstiler"
+    ],
+    "sv": [
+      "Omfattar målningar, textilier, skulptur, utsmyckning av byggnader"
+    ],
+    "de": [
+      "Einschließlich: Gemälde, plastische Künste, Bildhauerkunst, Baudekoration, Textilien"
+    ],
+    "fr": [
+      "Y compris les peintures, les tissus ; la décoration des éléments de structure, les sculptures"
+    ]
+  },
+  "notation": "247",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

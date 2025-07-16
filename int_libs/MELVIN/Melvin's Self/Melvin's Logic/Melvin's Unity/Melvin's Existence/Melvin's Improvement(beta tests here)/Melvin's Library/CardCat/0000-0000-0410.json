@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43RQpCKxh6brjJBFKfRmKgckx",
+  "prefLabel": {
+    "fr": "Linguistique",
+    "it": "Linguistica",
+    "en": "Linguistics",
+    "sv": "Språkvetenskap (lingvistik)",
+    "de": "Linguistik",
+    "no": "Lingvistikk"
+  },
+  "scopeNote": {
+    "sv": [
+      "Klassificera här beskrivande språkvetenskap, synkron lingvistik; övergripande verk om euroasiatiska språk, indoeuropeiska språk, indogermanska språk, indohettitiska språk; tvärvetenskapliga verk om språkdokumentation"
+    ],
+    "it": [
+      "Classificare qui la linguistica descrittiva, la linguistica sincronica; le opere d'insieme sulle lingue eurasiatiche, sulle lingue indoeuropee, sulle lingue indogermaniche, sulle lingue indoittite; sulle opere interdisciplinari sulla documentazione linguistica"
+    ],
+    "no": [
+      "Her: Beskrivende, synkron lingvistikk; oversiktsverker om eurasiske språk, om indoeuropeiske språk, om indogermanske språk, om indohettittiske språk; tverrfaglige verker om språkdokumentasjon"
+    ],
+    "de": [
+      "Hier auch: deskriptive, synchronische Linguistik; umfassende Werke über eurasische Sprachen, über indoeuropäische Sprachen, über indogermanische Sprachen, über hethitisch-luwische Sprachen"
+    ],
+    "en": [
+      "Class here descriptive, synchronic linguistics; comprehensive works on Eurasiatic languages, on Indo-European languages, on Indo-Germanic languages, on Indo-Hittite languages; interdisciplinary works on language documentation"
+    ],
+    "fr": [
+      "Classer ici la linguistique descriptive, la linguistique synchronique ; les ouvrages généraux sur les langues eurasiatiques, sur les langues indo-européennes, sur les langues indo-germaniques, sur les langues indo-hittites ; les ouvrages interdisciplinaires sur la documentation linguistique"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F8Bh6rc7rp3T93fHhDyJ4pQ3",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "410",
+  "modified": "2023-11-23T07:23:25Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

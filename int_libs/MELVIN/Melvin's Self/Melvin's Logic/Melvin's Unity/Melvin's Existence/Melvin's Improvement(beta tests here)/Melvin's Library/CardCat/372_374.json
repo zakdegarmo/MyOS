@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wPXw9dKcvQf9F8qp7QkBXKPt",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "de": "Einzelne Bildungsstufen",
+    "it": "Specifici livelli dell'educazione",
+    "en": "Specific levels of education",
+    "no": "Bestemte utdanningstrinn",
+    "fr": "Niveaux d’enseignement particuliers",
+    "sv": "Särskilda utbildningsnivåer"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xKH7c8d88d9rqWvg4hyHxgBV",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4cFQr6wVC3qtYmJrpRX3YD3c7",
+    "https://id.oclc.org/worldcat/ddc/E3PCQwfBwvx7r3G8wCgcdQpGC6",
+    "https://id.oclc.org/worldcat/ddc/E3gTB6Tw7rPB7tkjBDKDPMXxwj"
+  ],
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2020-10-29T14:16:44Z",
+  "notation": "372-374",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

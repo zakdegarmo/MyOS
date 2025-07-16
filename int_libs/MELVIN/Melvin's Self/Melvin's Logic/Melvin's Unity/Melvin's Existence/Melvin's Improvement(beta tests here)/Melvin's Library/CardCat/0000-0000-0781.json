@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wc7dGK8qYKhgcwPRwWyj93vw",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Allmänna principer och musikformer",
+    "no": "Generelle prinsipper og musikalske former",
+    "it": "Principî generali e forme musicali",
+    "fr": "Principes généraux et formes musicales",
+    "en": "General principles and musical forms",
+    "de": "Allgemeine Prinzipien und musikalische Formen"
+  },
+  "scopeNote": {
+    "de": [
+      "Hier auch: Musiktheorie"
+    ],
+    "sv": [
+      "Klassificera här musikteori"
+    ],
+    "fr": [
+      "Classer ici la théorie musicale"
+    ],
+    "no": [
+      "Her: Musikkteori"
+    ],
+    "it": [
+      "Classificare qui la teoria musicale"
+    ],
+    "en": [
+      "Class here music theory"
+    ]
+  },
+  "modified": "2023-10-31T21:22:08Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48gbD63Gd44m4cH48wCwrwfHq",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "781",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

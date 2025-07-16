@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3mJWxG9PTrGg6Jdhyc3xrvm6w",
+  "notation": "987",
+  "modified": "2022-06-15T12:12:33Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "prefLabel": {
+    "it": "Venezuela",
+    "fr": "Venezuela",
+    "no": "Venezuela",
+    "en": "Venezuela",
+    "de": "Venezuela",
+    "sv": "Venezuela"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

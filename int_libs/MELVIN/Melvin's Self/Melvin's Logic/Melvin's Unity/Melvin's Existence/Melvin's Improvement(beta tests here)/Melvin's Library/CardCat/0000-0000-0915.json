@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E43xm4fbcTpvwwQHMdT3mK76mb",
+  "prefLabel": {
+    "fr": "Géographie et voyages en Asie",
+    "no": "Geografi og reiser i Asia",
+    "sv": "Geografi och resor gällande Asien",
+    "it": "Geografia e viaggi relativi all'Asia",
+    "en": "Geography of and travel in Asia",
+    "de": "Geografie Asiens und Reisen in Asien"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-01-05T12:55:45Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3RhKXwr6DgQB7C7D4Dx4Cr9hr",
+  "created": "1996-06-01",
+  "notation": "915",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

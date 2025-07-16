@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3k6hPB8C6cgxYkc7d79VFV9vQ",
+  "prefLabel": {
+    "de": "Verschiedenes",
+    "sv": "Diverse",
+    "it": "Miscellanea",
+    "fr": "Ouvrages divers",
+    "en": "Miscellany",
+    "no": "Diverse"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T3fjVhCXRjVmqhhY4MxKdqHM",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "402",
+  "modified": "2021-01-22T13:45:29Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

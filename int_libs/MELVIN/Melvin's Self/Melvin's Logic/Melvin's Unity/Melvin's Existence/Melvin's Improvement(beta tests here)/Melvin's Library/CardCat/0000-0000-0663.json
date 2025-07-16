@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rH8GxT7GyfXPT4v3cTrG6xgY",
+  "scopeNote": {
+    "no": [
+      "Industriell framstilling, lagring, emballering"
+    ],
+    "de": [
+      "Verarbeitung für den Handel, Konservierung, Verpackung"
+    ],
+    "fr": [
+      "Préparation commerciale, conservation, conditionnement (emballage)"
+    ],
+    "sv": [
+      "Kommersiell framställning, konservering, förpackning"
+    ],
+    "en": [
+      "Commercial preparation, preservation, packaging"
+    ],
+    "it": [
+      "Preparazione, conservazione, confezione commerciale"
+    ]
+  },
+  "prefLabel": {
+    "fr": "Technologie des boissons",
+    "en": "Beverage technology",
+    "de": "Getränketechnologie",
+    "it": "Tecnologia delle bevande",
+    "no": "Drikkevareteknologi",
+    "sv": "Dryckestillverkning"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "663",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "modified": "2025-05-22T12:30:54Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

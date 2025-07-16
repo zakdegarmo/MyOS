@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PTqWDgH4bTKmF4bdHcH7mFFP",
+  "prefLabel": {
+    "sv": "Filosofisk logik",
+    "en": "Philosophical logic",
+    "de": "Philosophische Logik",
+    "fr": "Logique philosophique",
+    "it": "Logica filosofica",
+    "no": "Filosofisk logikk"
+  },
+  "scopeNote": {
+    "no": [
+      "Inkluderer: Logiske operatorer, negasjoner, sannhetstabeller",
+      "Her: Uformell logikk, syllogistisk logikk, aristotelisk logikk; formallogikk, utsagnslogikk (setningslogikk), predikatlogikk; første ordens logikk; kritisk tenkning; aksiomer, modalitet, predikater, proposisjoner",
+      "Vitenskapen om det å resonnere"
+    ],
+    "it": [
+      "Include gli operatori logici, la negazione le tavole di verità",
+      "Classificare qui la logica informale. la logica sillogistica, la logica aristotelica; la logica formale, il calcolo proposizionale, il calcolo dei predicati; la logica del primo ordine, il pensiero critico; gli assiomi, la modalità, la predicazione, le proposizioni",
+      "Scienza del ragionamento"
+    ],
+    "fr": [
+      "Classer ici la logique informelle, la logique syllogistique, la logique des termes (logique traditionnelle) ; le calcul propositionnel, le calcul des prédicats ; la logique formelle, la logique du premier ordre ; la pensée critique ; les axiomes, la modalité, la prédication, les propositions",
+      "Y compris les fonctions logiques (opérateurs logiques), la négation, les tables de vérité",
+      "Science du raisonnement"
+    ],
+    "de": [
+      "Einschließlich: logische Operatoren, Negation, Wahrheitstafeln",
+      "Wissenschaft vom Schließen",
+      "Hier auch: informelle Logik, syllogistische Logik, Begriffslogik; mathematische Logik, Aussagenkalkül (Aussagenlogik), Prädikatenkalkül; Prädikatenlogik erster Stufe; kritisches Denken; Axiome, Modalität, Prädikation, Aussagen, Sätze"
+    ],
+    "en": [
+      "Science of reasoning",
+      "Class here informal logic, syllogistic logic, term logic; formal logic, propositional calculus (sentential calculus), predicate calculus; first-order logic; critical thinking; axioms, modality, predication, propositions",
+      "Including logic operators, negation, truth tables"
+    ],
+    "sv": [
+      "Klassificera här informell logik, syllogistisk logik, klassisk logik; formell logik, satslogik, predikatlogik; första ordningens logik; kritiskt tänkande; axiomer, modalitet, predikation, propositioner",
+      "Argumentationsanalys",
+      "Omfattar logiska operatorer, negation, sanningstabeller"
+    ]
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-12T03:20:35Z",
+  "type": "Concept",
+  "notation": "160",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

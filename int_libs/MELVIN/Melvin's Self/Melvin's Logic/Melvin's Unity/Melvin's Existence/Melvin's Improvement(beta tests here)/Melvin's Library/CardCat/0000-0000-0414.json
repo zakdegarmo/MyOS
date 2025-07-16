@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GTm4g8GqFjMv6YwXBmTmfw9H",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här konsonanter, vokaler; morfofonologi, morfofonematik, fonematik"
+    ],
+    "no": [
+      "Her: Konsonanter, vokaler; morfofonologi, morfofonemikk, fonematikk"
+    ],
+    "it": [
+      "Classificare qui le consonanti, le vocali; la morfofonologia, la morfofonematica, la fonematica"
+    ],
+    "en": [
+      "Class here consonants, vowels; morphophonology, morphophonemics, phonemics"
+    ],
+    "de": [
+      "Hier auch: Konsonanten, Vokale; Morphonologie, Morphophonemik, Phonemik"
+    ],
+    "fr": [
+      "Classer ici les consonnes, les voyelles ; la morphophonologie, la morphophonématique, la phonématique"
+    ]
+  },
+  "modified": "2021-04-19T11:38:19Z",
+  "prefLabel": {
+    "sv": "Fonologi och fonetik gällande språkens standardformer",
+    "fr": "Phonologie et phonétique des formes standard des langues",
+    "de": "Phonologie und Phonetik der Standardformen von Sprachen",
+    "it": "Fonologia e fonetica delle forme standard delle lingue",
+    "en": "Phonology and phonetics of standard forms of languages",
+    "no": "Standardspråkets fonologi og fonetikk"
+  },
+  "notation": "414",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jr8g8CWdtq9W3FRDXgvmCDwJ",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

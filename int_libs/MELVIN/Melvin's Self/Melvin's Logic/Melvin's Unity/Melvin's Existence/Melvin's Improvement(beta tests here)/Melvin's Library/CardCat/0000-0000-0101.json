@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3gBRKxyXbHKPFjB3PhBTdBCWf",
+  "notation": "101",
+  "scopeNote": {
+    "no": [
+      "Her: Verker om begrepet filosofi, om filosofiens prinsipper og spørsmål, om filosofisk metode"
+    ],
+    "fr": [
+      "Classer ici les ouvrages sur le concept de philosophie, sur la nature du devoir  philosophique, sur la méthode philosophique"
+    ],
+    "en": [
+      "Class here works on the concept of philosophy, on the nature of the philosophical task, on the method of philosophy"
+    ],
+    "it": [
+      "Classificare qui le opere sul concetto di filosofia, sul compito della filosofia, sul metodo della filosofia"
+    ],
+    "de": [
+      "Hier auch: Werke über den Philosophiebegriff, über das Wesen der philosophischen Tätigkeit, über philosophische Methodenlehre"
+    ],
+    "sv": [
+      "Klassificera här verk om filosofins begrepp, om filosofins uppgift, om filosofins metod"
+    ]
+  },
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Teori innen filosofi",
+    "fr": "Théorie de la philosophie",
+    "de": "Theorie der Philosophie",
+    "it": "Teoria della filosofia",
+    "en": "Theory of philosophy",
+    "sv": "Filosofins teori"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "modified": "2019-08-20T19:01:47Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

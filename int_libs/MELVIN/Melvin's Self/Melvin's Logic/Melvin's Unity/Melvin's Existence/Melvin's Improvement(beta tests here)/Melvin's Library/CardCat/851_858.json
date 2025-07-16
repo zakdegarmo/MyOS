@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E49JrGpVjXtPxWYx9kjQw7BkJK",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3GDYXk7gXWt7B86TQMKVJfCgD",
+    "https://id.oclc.org/worldcat/ddc/E3PVD8JBmyQXtVKRy9PV844kjk",
+    "https://id.oclc.org/worldcat/ddc/E3HK6v7R6FQdcDfFMfMbD4wMDk",
+    "https://id.oclc.org/worldcat/ddc/E4bQkXqV47dhfVdhctCCXrDHf3",
+    "https://id.oclc.org/worldcat/ddc/E47pq7k7cPmrwFWkvWq6XJBhkm",
+    "https://id.oclc.org/worldcat/ddc/E3r4rcR3wWYJRB3yyrYtCbKyQ3",
+    "https://id.oclc.org/worldcat/ddc/E3wmfv8KMcktwYK3qCkhpHH6Tc",
+    "https://id.oclc.org/worldcat/ddc/E34kJbfv8pcXwpbHmt9twtH6xh"
+  ],
+  "prefLabel": {
+    "no": "Tilføyelser for bestemte former av italiensk litteratur",
+    "de": "Unterklassen für einzelne Gattungen der italienischen Literatur",
+    "sv": "Indelningar för särskilda former av italiensk litteratur",
+    "it": "Suddivisioni della letteratura italiana in base a specifiche forme",
+    "en": "Subdivisions for specific forms of Italian literature",
+    "fr": "Subdivisions pour les genres littéraires particuliers de la littérature italienne"
+  },
+  "type": "Concept",
+  "created": "2010-02-04",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "851-858",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3fpXkCTxtHTDGjhrXb4cCGY6X",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

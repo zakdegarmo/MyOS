@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3bhyTcQgqTQ3TXxCWCGVfhgDC",
+  "prefLabel": {
+    "fr": "Cristallographie",
+    "en": "Crystallography",
+    "it": "Cristallografia",
+    "sv": "Kristallografi",
+    "no": "Krystallografi",
+    "de": "Kristallografie"
+  },
+  "notation": "548",
+  "modified": "2025-03-24T21:03:41Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d4fdtMbRXJbwXFWcJ3X6r7rP",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

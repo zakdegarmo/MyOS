@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3q7BQbRXypwYJpmgXd9BPwtgw",
+  "prefLabel": {
+    "en": "Etymology of classical Latin",
+    "no": "Klassisk latinsk etymologi",
+    "fr": "Étymologie du latin classique",
+    "it": "Etimologia del latino classico",
+    "sv": "Klassisk latinsk etymologi",
+    "de": "Etymologie des klassischen Latein"
+  },
+  "notation": "472",
+  "modified": "2021-01-22T09:14:17Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

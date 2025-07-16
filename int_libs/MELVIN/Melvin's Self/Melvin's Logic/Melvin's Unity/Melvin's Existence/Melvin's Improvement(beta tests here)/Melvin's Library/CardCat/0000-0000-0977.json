@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3P3b4gFjMf3JPJQ36w3pD4Yd6",
+  "prefLabel": {
+    "fr": "Centre-Nord des États-Unis",
+    "en": "North central United States",
+    "no": "Det nord-sentrale USA",
+    "sv": "Nordcentrala Förenta staterna",
+    "de": "Nördliche zentrale Staaten der USA",
+    "it": "Stati Uniti centrosettentrionali"
+  },
+  "notation": "977",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+  "modified": "2024-05-10T13:12:23Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

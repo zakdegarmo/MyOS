@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47CTJfjt6dvKGrw66bVT3P3gj",
+  "prefLabel": {
+    "it": "Ingegneria chimica e tecnologie connesse",
+    "de": "Chemische Verfahrenstechnik und verwandte Technologien",
+    "no": "Kjemiteknikk og lignende teknologier",
+    "fr": "Génie chimique et technologies connexes",
+    "sv": "Kemiteknik och liknande teknik",
+    "en": "Chemical engineering and related technologies"
+  },
+  "notation": "660",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "created": "1996-06-01",
+  "modified": "2025-05-22T12:30:54Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

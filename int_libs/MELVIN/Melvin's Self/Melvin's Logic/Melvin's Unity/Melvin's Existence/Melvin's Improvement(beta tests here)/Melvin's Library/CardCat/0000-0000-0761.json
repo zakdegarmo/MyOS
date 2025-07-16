@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E373XRjMxbdr4BkbBHBPc7vBV4",
+  "prefLabel": {
+    "no": "Høytrykkprosesser (illustrasjonstrykk)",
+    "fr": "Impression en relief (Clichés)",
+    "it": "Procedimenti a rilievo",
+    "sv": "Relieftekniker (högtryckstekniker)",
+    "de": "Hochdruckverfahren (Blockdruck)",
+    "en": "Relief processes (Block printing)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "it": [
+      "Include il timbro di gomma, la patata cruda"
+    ],
+    "en": [
+      "Including raw potato printing, rubber-stamp printing"
+    ],
+    "no": [
+      "Inkluderer: Potettrykk, trykk med gummistempler"
+    ],
+    "sv": [
+      "Omfattar potatistryck, tryck med gummistämpel"
+    ],
+    "fr": [
+      "Y compris l’impression à la pomme de terre, l’impression avec timbre de caoutchouc"
+    ],
+    "de": [
+      "Einschließlich: Kartoffeldruck, Stempeldruck"
+    ]
+  },
+  "notation": "761",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37j97wcpyPKyRx7RkbXpKbVMX",
+  "modified": "2023-12-22T06:30:32Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

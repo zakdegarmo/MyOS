@@ -1,0 +1,43 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DFRj9B9V8KVPF7VkG8R3vKqT",
+  "notation": "597",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här Pisces (fiskar), Osteichthyes (benfiskar), Actinopterygii (strålfeniga fiskar), Teleostei (egentliga benfiskar); iktyologi",
+      "Klassificera här benfiskar, fiskar, strålfeniga fiskar; iktyologi"
+    ],
+    "no": [
+      "Her: Benfisk, fisk, strålefinnede fisk; ichthyologi",
+      "Her: Actinopterygii, Osteichthyes, Pisces, Teleostei"
+    ],
+    "it": [
+      "Classificare qui i Pisces, gli Osteichthyes, gli Actinopterygii, i Teleostei",
+      "Classificare qui i pesci, i pesci ossei, i pesci raggiati; l'ittiologia"
+    ],
+    "fr": [
+      "Classer ici les Actinoptérygiens, les Ostéichtyens, les Pisces, les Téléostéens",
+      "Classer ici les poissons, les poissons à nageoires rayonnées, les poissons à squelette osseux ; l’ichtyologie"
+    ],
+    "en": [
+      "Class here Actinopterygii, Osteichthyes, Pisces, Teleostei",
+      "Class here bony fishes, fishes, ray-finned fishes; ichthyology"
+    ],
+    "de": [
+      "Hier auch: Pisces (Fische), Osteichthyes (Knochenfische), Actinopterygii (Strahlenflosser), Teleostei; Ichthyologie"
+    ]
+  },
+  "prefLabel": {
+    "it": "Vertebrati a sangue freddo",
+    "sv": "Växelvarma ryggradsdjur (kallblodiga ryggradsdjur)",
+    "de": "Wechselwarme Wirbeltiere",
+    "no": "Vekselvarme virveldyr",
+    "fr": "Vertébrés à sang froid    ",
+    "en": "Cold-blooded vertebrates"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MMg6Gpt8H7HrBkf78yJhxMqH",
+  "created": "1999-08-05",
+  "type": "Concept",
+  "modified": "2021-12-21T13:41:41Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

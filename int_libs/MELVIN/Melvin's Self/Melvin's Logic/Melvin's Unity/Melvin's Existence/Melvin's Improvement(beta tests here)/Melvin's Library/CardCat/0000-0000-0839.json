@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QVkT9mbHQ9brHHgvBtwj7JfQ",
+  "notation": "839",
+  "prefLabel": {
+    "fr": "Autres littératures germaniques",
+    "no": "Andre germanske språks litteraturer",
+    "de": "Andere germanische Literaturen",
+    "en": "Other Germanic literatures",
+    "sv": "Övriga germanska litteraturer",
+    "it": "Altre letterature germaniche"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3VPVRyYy7TpBhRPXrFW6mp6HX",
+  "type": "Concept",
+  "modified": "2025-02-10T21:54:17Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XQhpjxMvX6RvvFcbb7vTmqK8",
+  "prefLabel": {
+    "sv": "Mätningslära och standardisering",
+    "de": "Metrologie und Normung",
+    "fr": "Métrologie et normalisation",
+    "no": "Metrologi (mål og vekt) og standardisering",
+    "it": "Metrologia e standardizzazione",
+    "en": "Metrology and standardization"
+  },
+  "notation": "389",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3t93wfqhB4BwfQqQ63ch9YVD7",
+  "modified": "2022-02-07T16:32:29Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

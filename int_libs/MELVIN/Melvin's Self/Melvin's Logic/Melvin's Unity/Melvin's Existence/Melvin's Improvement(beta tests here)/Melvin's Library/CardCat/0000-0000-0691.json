@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kXcCfrwVppjPf8HQ3hfBqkwg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "no": [
+      "Her: Egenskaper knyttet til byggematerialer, valg av byggematerialer"
+    ],
+    "de": [
+      "Hier auch: Eigenschaften, Auswahl"
+    ],
+    "it": [
+      "Classificare qui le proprietà costruttive, la scelta"
+    ],
+    "fr": [
+      "Classer ici le choix, les propriétés des matériaux de construction"
+    ],
+    "en": [
+      "Class here construction properties, selection"
+    ],
+    "sv": [
+      "Klassificera här byggegenskaper, urval"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Byggnadsmaterial",
+    "no": "Byggematerialer",
+    "en": "Building materials",
+    "it": "Materiali da costruzione",
+    "de": "Baustoffe",
+    "fr": "Matériaux de construction"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "691",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gCgKx6Mq78MHD6vtmQGtHp9r",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

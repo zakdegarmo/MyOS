@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ytfc7mWCRMBx8RGtXJbqwBgx",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "prefLabel": {
+    "en": "Organizations and management of history",
+    "de": "Organisationen und Management der Geschichtswissenschaft",
+    "no": "Organisasjoner og ledelse innen historie",
+    "it": "Organizzazioni e gestione della storia",
+    "sv": "Organisationer och administration inom historia",
+    "fr": "Organisations et gestion en histoire"
+  },
+  "type": "Concept",
+  "notation": "906",
+  "modified": "2018-02-05T17:11:51Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

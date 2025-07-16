@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3rgW3VjDXpXkBhXGDdWf7JMtC",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Spanish poetry",
+    "de": "Spanische Versdichtung",
+    "it": "Poesia spagnola",
+    "no": "Spansk poesi",
+    "fr": "Poésie espagnole",
+    "sv": "Spansk poesi"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Gh6hMDBRmBWFQG7tmdCg66jQ",
+  "notation": "861",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-03-03T10:19:56Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

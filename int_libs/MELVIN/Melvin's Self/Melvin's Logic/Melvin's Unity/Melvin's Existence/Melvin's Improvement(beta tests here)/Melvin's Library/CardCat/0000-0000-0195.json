@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48Pr4TV8DvG6qVTkDhr67GTyP",
+  "prefLabel": {
+    "it": "Filosofia dell'Italia",
+    "en": "Philosophy of Italy",
+    "de": "Philosophie Italiens",
+    "sv": "Italiens filosofi",
+    "fr": "Philosophie de l'Italie",
+    "no": "Filosofi i Italia"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3W3wjJGffMFKDTdFCFyVw8M4v",
+  "modified": "2017-12-16T21:35:49Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "195",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

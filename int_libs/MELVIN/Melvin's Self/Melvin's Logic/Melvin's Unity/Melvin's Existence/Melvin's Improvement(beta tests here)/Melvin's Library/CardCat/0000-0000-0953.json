@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E378twgFwr34PVTYby7PxBRXjW",
+  "prefLabel": {
+    "fr": "Péninsule arabique et régions adjacentes",
+    "de": "Arabische Halbinsel und benachbarte Gebiete",
+    "no": "Den arabiske halvøy og tilgrensende områder",
+    "it": "Penisola araba e aree limitrofe",
+    "en": "Arabian Peninsula and adjacent areas",
+    "sv": "Arabiska halvön och angränsande områden"
+  },
+  "modified": "2025-02-10T21:54:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YYVw99YpTfTHC6YxCVRgYW3C",
+  "type": "Concept",
+  "notation": "953",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

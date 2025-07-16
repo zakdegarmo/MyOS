@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38GbhkbWvwv7Jjdcq6GKkb4PF",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3T4W9fr4KQg3d34fdjpDCQg3B",
+  "scopeNote": {
+    "de": [
+      "Hier auch: die Arbeit von Priestern, Pfarrern, Pastoren, geistlichen Rektoren, Vikaren, Kuraten, Hilfspriestern, Kaplänen, Kirchenältesten, Diakonen, Gemeindeassistenten, Pastoralreferenten, Assistenten, Laien in Bezug auf die Arbeit der Kirche auf lokaler Ebene"
+    ],
+    "en": [
+      "Class here the work of priests, ministers, pastors, rectors, vicars, curates, chaplains, elders, deacons, assistants, laity in relation to the work of the church at the local level"
+    ],
+    "sv": [
+      "Klassificera här prästers, predikanters, pastorers, kyrkoherdars, pastorsadjunkters, kaplaners, åldermäns, diakoners, assistenters, lekmäns arbete i relation till kyrkans arbete på lokal nivå"
+    ],
+    "it": [
+      "Classificare qui il lavoro di preti, ministri, pastori, rettori, vicari, curati, cappellani, anziani, diaconi, assistenti, laici in relazione all'opera della chiesa a livello locale"
+    ],
+    "fr": [
+      "Classer ici le travail des prêtres, des ministres du culte, des pasteurs, des vicaires, des curés, des aumôniers, des anciens, des diacres, des auxiliaires, des laïcs en relation avec l'Église locale"
+    ],
+    "no": [
+      "Her: Arbeid og plikter for prester, pastorer, sogneprester, kapellaner, hjelpeprester, institusjonsprester, eldste, diakoner, menighetsassistenter, legfolk i kirkelig tjeneste på lokalplan"
+    ]
+  },
+  "notation": "253",
+  "prefLabel": {
+    "de": "Pastorale Arbeit (Pastoraltheologie)",
+    "it": "Lavoro pastorale (Teologia pastorale)",
+    "en": "Pastoral work (Pastoral theology)",
+    "no": "Pastoralt arbeid (pastoralteologi)",
+    "fr": "Activités pastorales (Théologie pastorale)",
+    "sv": "Prästämbetet och prästens arbete (pastoralteologi)"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-12-16T20:03:50Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

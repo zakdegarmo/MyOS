@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4bYWVvmxyMcyT7JcwX8JVbrjb",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "it": "Aves (Uccelli) fossili",
+    "en": "Fossil Aves (birds)",
+    "fr": "Oiseaux fossiles",
+    "no": "Fossile Aves (fugler)",
+    "de": "Fossile Aves (Vögel)",
+    "sv": "Fossil Aves (fåglar)"
+  },
+  "scopeNote": {
+    "no": [
+      "Her: Fossile Neornithes (nåtidsfugler)"
+    ],
+    "de": [
+      "Hier auch: Neornithes"
+    ],
+    "en": [
+      "Class here Neornithes"
+    ],
+    "sv": [
+      "Klassificera här Neornithes (svanslösa fåglar)"
+    ],
+    "fr": [
+      "Classer ici les Néornithes"
+    ],
+    "it": [
+      "Classificare qui i Neornithes"
+    ]
+  },
+  "notation": "568",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HrDgVH4RWhYgQxPJrYxpmtdq",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

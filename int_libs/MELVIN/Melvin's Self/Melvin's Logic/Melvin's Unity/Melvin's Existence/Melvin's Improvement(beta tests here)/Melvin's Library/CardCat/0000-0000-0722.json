@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44hwmYQbTFYhWhV9jftpbv66X",
+  "prefLabel": {
+    "it": "Architettura dalle origini al 300 ca.",
+    "de": "Architektur von den Anfängen bis ca. 300",
+    "sv": "Arkitektur före ca 300",
+    "fr": "Architecture jusque vers 300",
+    "no": "Oldtidens arkitektur fram til ca. 300",
+    "en": "Architecture from earliest times to ca. 300"
+  },
+  "notation": "722",
+  "modified": "2021-01-19T07:51:53Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E44h36RWgQQtG4JJYVRby86BxY",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

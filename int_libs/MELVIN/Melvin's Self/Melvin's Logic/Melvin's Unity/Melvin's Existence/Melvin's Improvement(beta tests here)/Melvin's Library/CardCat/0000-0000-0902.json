@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E47qwJmm39BfWwjcQ8x8TtFTgK",
+  "prefLabel": {
+    "sv": "Diverse inom historia",
+    "it": "Miscellanea di storia",
+    "fr": "Ouvrages divers sur l'histoire",
+    "de": "Verschiedenes zu Geschichte",
+    "en": "Miscellany of history",
+    "no": "Diverse innen historie"
+  },
+  "modified": "2017-02-01T12:23:13Z",
+  "notation": "902",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

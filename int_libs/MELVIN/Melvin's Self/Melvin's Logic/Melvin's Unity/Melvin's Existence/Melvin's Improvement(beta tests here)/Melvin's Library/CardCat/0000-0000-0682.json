@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3pmf9PvHMCYHDyxpfKCp7f7xv",
+  "prefLabel": {
+    "de": "Schmiedehandwerk",
+    "no": "Smedhåndverk",
+    "it": "Piccola fucinatura",
+    "fr": "Petits travaux de forge (Art du forgeron)",
+    "sv": "Finsmide",
+    "en": "Small forge work (Blacksmithing)"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "notation": "682",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BVhFwqM3CPGKKpHr7KjydvTj",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-11-05T08:53:29Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

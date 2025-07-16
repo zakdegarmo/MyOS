@@ -1,0 +1,35 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46pgwykXCqvCfqkxXWDMyKbH6",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "no": [
+      "Her: Angiospermer (blomsterplanter), kjerne-tofrøbladede planter"
+    ],
+    "en": [
+      "Class here angiosperms (flowering plants), core eudicots"
+    ],
+    "it": [
+      "Classificare qui le Angiospermae (piante da fiore), il nucleo delle eudicotiledoni"
+    ],
+    "sv": [
+      "Klassificera här angiospermer (blommande växter), tvåhjärtbladiga växter (core eudicots"
+    ],
+    "fr": [
+      "Classer ici les Angiospermes (plantes à fleurs), les Eudicotylédones supérieures"
+    ]
+  },
+  "prefLabel": {
+    "sv": "Eudikotyledoner och växtsärv (ceratophyllum)",
+    "it": "Eudicotiledoni e Ceratophyllales",
+    "de": "Magnoliopsida (Zweikeimblättrige)",
+    "fr": "Eudicotylédones et Cératophyllales",
+    "no": "Eudicots og Ceratophyllales",
+    "en": "Eudicots and Ceratophyllales"
+  },
+  "modified": "2024-09-27T17:22:55Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QwMcCgcKy7hcPWJJkyx6YfdF",
+  "notation": "583",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

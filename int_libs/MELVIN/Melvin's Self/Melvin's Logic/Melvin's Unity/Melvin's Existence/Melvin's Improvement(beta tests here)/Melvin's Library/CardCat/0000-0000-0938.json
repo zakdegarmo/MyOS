@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46V6Xdh3pqqcMvgMhPfKW4rJP",
+  "prefLabel": {
+    "en": "Greece to 323",
+    "no": "Hellas fram til 323",
+    "it": "Grecia, fino al 323",
+    "fr": "Grèce jusqu’à 323",
+    "sv": "Grekland före 323",
+    "de": "Griechenland bis 323"
+  },
+  "modified": "2023-02-20T21:35:45Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+  "scopeNote": {
+    "no": [
+      "Her: Den hellenistiske verden; den østlige middelhavsregion; Sør-Europa"
+    ],
+    "de": [
+      "Hier auch: Hellenistische Welt; östlicher Mittelmeerraum; Südeuropa"
+    ],
+    "en": [
+      "Class here the Hellenistic World; the eastern Mediterranean region; southern Europe"
+    ],
+    "sv": [
+      "Klassificera här den hellenistiska världen; östra Medelhavsregionen; Sydeuropa"
+    ],
+    "it": [
+      "Classificare qui il mondo ellenistico; la regione del Mediterraneo orientale; l'Europa meridionale"
+    ],
+    "fr": [
+      "Classer ici le monde hellénistique ; la région méditerranéenne orientale ; l'Europe méridionale"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "938",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

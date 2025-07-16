@@ -1,0 +1,44 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xwRqwWxXTWRfy8FVBQJbYDk8",
+  "notation": "560",
+  "prefLabel": {
+    "it": "Paleontologia",
+    "sv": "Paleontologi",
+    "no": "Paleontologi",
+    "en": "Paleontology",
+    "fr": "Paléontologie",
+    "de": "Paläontologie"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "scopeNote": {
+    "en": [
+      "Class here paleozoology",
+      "Including organisms of uncertain status as plant or animal, as chordate or invertebrate"
+    ],
+    "it": [
+      "Classificare qui la paleozoologia",
+      "Include gli organismi di definizione incerta tra pianta o animale, tra cordati o invertebrati"
+    ],
+    "de": [
+      "Hier auch: Paläozoologie",
+      "Einschließlich: nicht eindeutig als Pflanze oder Tier, als Chordatier oder Wirbelloses identifizierbare Organismen"
+    ],
+    "sv": [
+      "Omfattar organismer med osäker status som växt eller djur, som kordater eller invertebrater",
+      "Klassificera här paleozoologi"
+    ],
+    "no": [
+      "Inkluderer: Organismer med usikker status som planter eller dyr, organismer med usikker status som ryggstrengdyr eller virvelløse dyr",
+      "Her: Paleozoologi"
+    ],
+    "fr": [
+      "Classer ici la paléozoologie",
+      "Y compris les organismes ayant un statut incertain comme plante ou comme animal, tels les cordés ou les invertébrés"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3TWmb8CgMwft4mMtWrdWxXfFp",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

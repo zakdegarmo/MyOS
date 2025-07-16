@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cvdMgWGjDhmXKp89t3GPCtW6",
+  "created": "2010-02-04",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3g6g9cBvjdKCRfrGWw6jtDrh7",
+    "https://id.oclc.org/worldcat/ddc/E37RHGcdqTqjdd76yCdDkqTrFY",
+    "https://id.oclc.org/worldcat/ddc/E3dbFYBpvvHXb8wgdBbWkhq6Bd",
+    "https://id.oclc.org/worldcat/ddc/E4dj96Jd4wXg4HyTvWypy94V7B",
+    "https://id.oclc.org/worldcat/ddc/E3BBhhFvFKwxcXTmRGXQHgVDRQ",
+    "https://id.oclc.org/worldcat/ddc/E3kC6Mxw9ymdjbFYchJQqCPvTt"
+  ],
+  "prefLabel": {
+    "no": "Bibliografier og kataloger som gjelder enkeltpersoner, over anonyme og pseudonyme verker, over verker utgitt i bestemte områder, over verker om bestemte emner, over verker fra bestemte samlinger eller som er til salgs",
+    "en": "Bibliographies and catalogs of individuals, of anonymous and pseudonymous works, of works from specific places, of works on specific subjects, of works held in specific collections or offered for sale",
+    "it": "Bibliografie e cataloghi personali, di opere anonime e pseudonime, di opere per luogo di pubblicazione, di opere su soggetti specifici o in discipline specifiche, di opere conservate in  specifiche collezioni o offerte in vendita",
+    "fr": "Bibliographies et catalogues d’une seule personne, d'ouvrages anonymes ou publiés sous un pseudonyme, d'ouvrages par lieux d’édition, d'ouvrages sur des sujets particuliers, d'ouvrages conservés dans des collections particulières ou offerts à la vente",
+    "sv": "Bibliografier och kataloger över enskilda personer, över anonyma och pseudonyma verk, över verk från särskilda platser, över verk om särskilda ämnen",
+    "de": "Bibliografien und Kataloge von Einzelpersonen, anonymer und pseudonymer Werke, von Werken aus bestimmten Orten, von Werken über einzelne Themen, von Werken aus einzelnen Sammlungen oder von zum Verkauf angebotenen Werken"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GCD8WK4KcFRyfRFpb94w6yct",
+  "notation": "012-017",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

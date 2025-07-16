@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E36Y3PydPkjTGcMH9vXY4mqXQk",
+  "modified": "2024-11-12T03:20:35Z",
+  "prefLabel": {
+    "de": "Östliche Philosophie",
+    "no": "Østens filosofi",
+    "en": "Eastern philosophy",
+    "it": "Filosofia orientale",
+    "sv": "Österländsk filosofi",
+    "fr": "Philosophie orientale"
+  },
+  "scopeNote": {
+    "de": [
+      "Antike, mittelalterliche, neuzeitliche"
+    ],
+    "fr": [
+      "Ancienne, médiévale, moderne"
+    ],
+    "it": [
+      "Antica, medievale, moderna"
+    ],
+    "no": [
+      "I oldtiden, middelalderen, nyere tid"
+    ],
+    "en": [
+      "Ancient, medieval, modern"
+    ],
+    "sv": [
+      "Antik, medeltida, modern"
+    ]
+  },
+  "notation": "181",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3DwDYB4hFbt6QHBh4k7btyqjT",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

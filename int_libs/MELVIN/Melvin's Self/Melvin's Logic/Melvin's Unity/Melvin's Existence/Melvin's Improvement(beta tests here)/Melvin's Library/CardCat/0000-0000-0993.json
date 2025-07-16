@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3fTXtCmtRQRyhKGwBTCQ4VMjB",
+  "prefLabel": {
+    "fr": "Nouvelle-Zélande",
+    "sv": "Nya Zeeland",
+    "no": "New Zealand",
+    "it": "Nuova Zelanda",
+    "de": "Neuseeland",
+    "en": "New Zealand"
+  },
+  "modified": "2024-12-06T05:04:22Z",
+  "created": "1996-06-01",
+  "notation": "993",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jvqpv7FKdbXBx98wgRvPJJFd",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

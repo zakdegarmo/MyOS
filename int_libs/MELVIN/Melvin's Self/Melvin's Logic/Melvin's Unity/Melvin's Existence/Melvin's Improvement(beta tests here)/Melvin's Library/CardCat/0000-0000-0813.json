@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3WQXVKt899jmxJjBD6HpRyqJh",
+  "modified": "2024-03-06T09:25:05Z",
+  "prefLabel": {
+    "fr": "Fiction américaine en anglais",
+    "de": "Amerikanische Erzählprosa in Englisch",
+    "sv": "Amerikanska romaner och noveller på engelska",
+    "it": "Narrativa americana in inglese",
+    "no": "Amerikansk fiksjon på engelsk",
+    "en": "American fiction in English"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3K4gfcCYWj3kdtYyfQd7w83Xf",
+  "type": "Concept",
+  "notation": "813",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3CMjtyBFMPdrWcgHbbBTCVCWg",
+  "prefLabel": {
+    "en": "Agriculture and related technologies",
+    "no": "Landbruk og lignende virksomheter",
+    "de": "Landwirtschaft und verwandte Bereiche",
+    "sv": "Jordbruk och liknande verksamheter",
+    "fr": "Agronomie, agriculture et techniques connexes",
+    "it": "Agricoltura e tecnologie connesse"
+  },
+  "modified": "2025-06-14T01:22:57Z",
+  "scopeNote": {
+    "it": [
+      "Classificare qui la pratica agricola, le aziende agrarie, le colture vegetali; le opere interdisciplinari sulle piante di interesse agricolo"
+    ],
+    "no": [
+      "Her: Gårdsdrift, bondegårder, planteavlinger; tverrfaglige verker om planter med betydning for landbruket"
+    ],
+    "sv": [
+      "Klassificera här lantbruk, bondgårdar, grödor; tvärvetenskapliga verk om växter av betydelse för jordbruket"
+    ],
+    "de": [
+      "Hier auch: Ackerbau, landwirtschaftliche Betriebe, Kulturpflanzen; fächerübergreifende Werke über Pflanzen von landwirtschaftlicher Bedeutung"
+    ],
+    "en": [
+      "Class here farming, farms, plant crops; interdisciplinary works on plants of agricultural importance"
+    ],
+    "fr": [
+      "Classer ici les exploitations agricoles, les fermes, les plantes cultivées ; les ouvrages interdisciplinaires sur les plantes d'intérêt agricole"
+    ]
+  },
+  "notation": "630",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3cTPWpVkY9GvtpdFWDdwxwXK9",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

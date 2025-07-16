@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E366bHkkKpvj8R46J67DRyhWYP",
+  "prefLabel": {
+    "it": "Esseri spirituali",
+    "no": "Åndelige vesener",
+    "de": "Geistliche Wesen",
+    "fr": "Êtres spirituels",
+    "sv": "Andeväsen",
+    "en": "Spiritual beings"
+  },
+  "modified": "2023-06-22T11:20:54Z",
+  "created": "1996-06-01",
+  "notation": "235",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43FpTKfgCHWyKbdd4qDvr88cK",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

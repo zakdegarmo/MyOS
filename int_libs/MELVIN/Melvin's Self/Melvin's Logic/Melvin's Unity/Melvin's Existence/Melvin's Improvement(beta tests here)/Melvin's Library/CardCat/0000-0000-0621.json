@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4djYmFy7KK4mwFQy33t3Tt7kT",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här maskinteknik"
+    ],
+    "it": [
+      "Classificare qui l'ingegneria meccanica"
+    ],
+    "en": [
+      "Class here mechanical engineering"
+    ],
+    "no": [
+      "Her: Mekanisk teknikk"
+    ],
+    "fr": [
+      "Classer ici le génie mécanique"
+    ],
+    "de": [
+      "Hier auch: mechanische Technik"
+    ]
+  },
+  "notation": "621",
+  "prefLabel": {
+    "it": "Fisica applicata",
+    "fr": "Physique appliquée",
+    "sv": "Tillämpad fysik",
+    "de": "Angewandte Physik",
+    "no": "Anvendt fysikk",
+    "en": "Applied physics"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "modified": "2024-10-31T13:51:17Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

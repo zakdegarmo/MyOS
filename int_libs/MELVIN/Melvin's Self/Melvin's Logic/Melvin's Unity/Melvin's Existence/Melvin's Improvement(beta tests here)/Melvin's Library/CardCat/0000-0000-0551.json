@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PgRm9D87BGDMypGtG69RcTq8",
+  "prefLabel": {
+    "fr": "Géologie, hydrologie, météorologie",
+    "en": "Geology, hydrology, meteorology",
+    "sv": "Geologi, hydrologi, meteorologi",
+    "it": "Geologia, idrologia, meteorologia",
+    "no": "Geologi, hydrologi, meteorologi",
+    "de": "Geologie, Hydrologie, Meteorologie"
+  },
+  "notation": "551",
+  "scopeNote": {
+    "de": [
+      "Geologie: Wissenschaft, die sich mit Eigenschaften und Phänomenen der festen Erde (Lithosphäre) beschäftigt"
+    ],
+    "it": [
+      "Geologia: la scienza che studia le proprietà e i fenomeni della litosfera"
+    ],
+    "fr": [
+      "Géologie : science qui a pour objet l’étude des propriétés et des phénomènes de la croûte terrestre (lithosphère)"
+    ],
+    "sv": [
+      "Geologi: vetenskap som behandlar egenskaper och fenomen hos den fasta jordskorpan (litosfären)"
+    ],
+    "en": [
+      "Geology: science that deals with properties and phenomena of the solid earth (lithosphere)"
+    ],
+    "no": [
+      "Geologi: Vitenskapen om egenskaper og fenomener i jordas ytre skall (litosfæren)"
+    ]
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2023-08-24T18:01:12Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cPCb7kKH3m7XjBCyrGGwrjKT",
+  "created": "1996-06-01",
+  "notation": "947",
+  "scopeNote": {
+    "no": [
+      "Her: Øst-Europa"
+    ],
+    "it": [
+      "Classificare qui l'Europa orientale"
+    ],
+    "fr": [
+      "Classer ici l'Europe de l'Est"
+    ],
+    "de": [
+      "Hier auch: Osteuropa"
+    ],
+    "en": [
+      "Class here eastern Europe"
+    ],
+    "sv": [
+      "Klassificera här östra Europa"
+    ]
+  },
+  "prefLabel": {
+    "en": "Russia and neighboring east European countries",
+    "it": "Russia e paesi vicini dell'Europa orientale",
+    "sv": "Ryssland och angränsande östeuropeiska länder",
+    "fr": "Russie et pays est-européens avoisinants",
+    "no": "Russland og østeuropeiske naboland",
+    "de": "Russland und benachbarte osteuropäische Länder"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3HGgXxxHdqkxjhrvqfgkdKTVK",
+  "modified": "2024-08-27T11:28:36Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

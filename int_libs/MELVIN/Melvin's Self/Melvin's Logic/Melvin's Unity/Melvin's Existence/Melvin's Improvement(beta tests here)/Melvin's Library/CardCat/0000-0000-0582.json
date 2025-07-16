@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XwwtyYgfQVgB8jWc7v9cjV8g",
+  "prefLabel": {
+    "en": "Plants noted for specific vegetative characteristics and flowers",
+    "sv": "Växter som utmärks av särskilda vegetativa särdrag och blommor",
+    "no": "Planter som kjennetegnes ved bestemte vegetative karakteristika og ved bestemte blomster",
+    "de": "Pflanzen mit spezifischen vegetativen Merkmalen und Blüten",
+    "fr": "Plantes étudiées en fonction de leurs caractéristiques végétatives particulières et de leurs fleurs",
+    "it": "Piante note per specifiche caratteristiche vegetative e per i fiori"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "582",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yx8TDxRgvFKfDCR4G8hQF8mT",
+  "prefLabel": {
+    "fr": "Subdivisions pour le latin",
+    "de": "Unterklassen von Latein",
+    "en": "Subdivisions of Latin",
+    "no": "Inndeling av latin",
+    "sv": "Indelningar av latin",
+    "it": "Suddivisioni del latino"
+  },
+  "modified": "2023-11-08T20:00:00Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3hDPPXbxwJwxCFTg8DDwcHBkx",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3H9PhBQtTBKM7FYFPVhTGdjRX",
+    "https://id.oclc.org/worldcat/ddc/E3QkVy4JvCY7DkppFyVkJKW4Km",
+    "https://id.oclc.org/worldcat/ddc/E3q7BQbRXypwYJpmgXd9BPwtgw",
+    "https://id.oclc.org/worldcat/ddc/E3krtcgpdHDXCchDtxKY4J973M",
+    "https://id.oclc.org/worldcat/ddc/E3vXprQjdTPXB4T3vr6pmVc7Q9",
+    "https://id.oclc.org/worldcat/ddc/E443VjpdPbh7Q8CwtJ7YqkpjD6",
+    "https://id.oclc.org/worldcat/ddc/E49xQFWtkH43tQYw66xwxJPdR8",
+    "https://id.oclc.org/worldcat/ddc/E3qDjvwBt668TMFVhQrVWDXhMJ"
+  ],
+  "created": "2010-02-04",
+  "notation": "471-478",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

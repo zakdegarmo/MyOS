@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3QWTGGvfxCCrgrVfGBF4bt46Y",
+  "modified": "2025-06-25T10:02:57Z",
+  "prefLabel": {
+    "de": "Politikwissenschaft (Politik und Regierung)",
+    "no": "Statsvitenskap (politikk og styresmakt)",
+    "it": "Scienza politica (Politica e governo)",
+    "en": "Political science (Politics and government)",
+    "fr": "Science politique (Politique et gouvernement)",
+    "sv": "Statsvetenskap"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "notation": "320",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

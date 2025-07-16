@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38F4F6xbBYGJtPX6TDWmfd79k",
+  "prefLabel": {
+    "fr": "Personnes dont l’activité est liée aux arts et aux loisirs",
+    "it": "Persone operanti nel campo delle arti e delle attività ricreative",
+    "en": "People in the arts and recreation",
+    "sv": "Personer inom konstarterna och fritid",
+    "de": "Personen aus den Bereichen Kunst, Freizeit und Erholung",
+    "no": "Personer knyttet til kunst, idrett, underholdning"
+  },
+  "type": "Concept",
+  "notation": "927",
+  "modified": "2024-09-20T12:30:48Z",
+  "created": "2000-02-02",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mhVJmVwqGkh4TPqDyXBVX3qw",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

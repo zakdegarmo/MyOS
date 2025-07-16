@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48Ww9Qh3vk9mHWY6Vcw3XdfT8",
+  "notation": "981",
+  "prefLabel": {
+    "no": "Brasil",
+    "de": "Brasilien",
+    "it": "Brasile",
+    "fr": "Brésil",
+    "en": "Brazil",
+    "sv": "Brasilien"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48HtXkqwCQpFRChxHFW8kTjMW",
+  "type": "Concept",
+  "modified": "2023-01-17T19:01:19Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

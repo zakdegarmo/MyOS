@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44kVbHBDMrvhcPwVbyDX6Bhfd",
+  "prefLabel": {
+    "sv": "Allmän statistik för Australasien, öar i Stilla havet, öar i Atlanten, öar i Arktis, Antarktis",
+    "en": "General statistics of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica",
+    "no": "Generell statistikk for Australasia, stillehavsøyene, atlanterhavsøyene, arktiske øyer, Antarktis",
+    "fr": "Statistiques générales de l'Australasie, des îles du Pacifique, des îles de l'Atlantique, des îles de l'Arctique, de l'Antarctique",
+    "de": "Allgemeine Statistiken zu Australasien, zu den Inseln des Pazifischen Ozeans, des Atlantischen Ozeans, des Arktischen Ozeans, der Antarktis",
+    "it": "Statistiche generali dell'Australasia, delle isole del Pacifico, delle isole dell'Atlantico, delle isole dell'Artico, dell'Antartico"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "319",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+  "modified": "2017-12-16T23:42:06Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

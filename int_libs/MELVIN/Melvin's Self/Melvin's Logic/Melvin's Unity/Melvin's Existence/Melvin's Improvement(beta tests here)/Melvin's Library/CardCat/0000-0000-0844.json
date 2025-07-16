@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38kTMfw83tqFcBFPvDWKhpWYW",
+  "prefLabel": {
+    "fr": "Essais français",
+    "en": "French essays",
+    "it": "Saggistica francese",
+    "de": "Französische Essays",
+    "no": "Franske essayer",
+    "sv": "Franska essäer"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "844",
+  "modified": "2022-11-02T13:10:31Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

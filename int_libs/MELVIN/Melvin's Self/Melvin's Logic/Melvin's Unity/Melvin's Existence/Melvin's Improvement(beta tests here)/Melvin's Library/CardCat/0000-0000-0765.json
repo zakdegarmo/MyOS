@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3RV8w9JphKrDqPGmHDg77FycC",
+  "prefLabel": {
+    "fr": "Gravure sur métal",
+    "de": "Metallgravur",
+    "en": "Metal engraving",
+    "it": "Incisione in metallo",
+    "sv": "Metallgravyr",
+    "no": "Metallgravering"
+  },
+  "scopeNote": {
+    "en": [
+      "Class here comprehensive works on metal relief and metal intaglio processes, on intaglio processes"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur la gravure sur métal en relief et la gravure sur métal en creux, sur la gravure en creux"
+    ],
+    "sv": [
+      "Klassificera här övergripande verk om metallrelief och djuptryck i metall, om  djuptryckstekniker"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Metallhochdruck- und Metalltiefdruckverfahren, über Tiefdruckverfahren"
+    ],
+    "no": [
+      "Her: Oversiktsverker om høytrykkprosesser og dyptrykkprosesser med metaller, om dyptrykkprosesser"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme su procedimenti in rilievo e procedimenti a intaglio in metallo, sui procedimenti a intaglio"
+    ]
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "765",
+  "modified": "2024-08-20T12:45:16Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3MGYtxfcwfKB4CYwxBhfGTBh3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

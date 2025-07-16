@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44DbWmBtyHVwGwkJfmVvHryDT",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Psicologia differenziale e dello sviluppo",
+    "fr": "Psychologie différentielle et psychologie du développement",
+    "de": "Differentielle Psychologie und Entwicklungspsychologie",
+    "en": "Differential and developmental psychology",
+    "no": "Differensialpsykologi og utviklingspsykologi",
+    "sv": "Differentiell psykologi och utvecklingspsykologi"
+  },
+  "scopeNote": {
+    "de": [
+      "Einschließlich: die Rolle des Spielens in der Entwicklung"
+    ],
+    "no": [
+      "Inkluderer: Lekens rolle i utviklingen"
+    ],
+    "fr": [
+      "Y compris le rôle du jeu dans le développement"
+    ],
+    "sv": [
+      "Omfattar lekens roll i utvecklingen"
+    ],
+    "it": [
+      "Include la funzione del gioco nello sviluppo"
+    ],
+    "en": [
+      "Including role of play in development"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+  "type": "Concept",
+  "notation": "155",
+  "modified": "2025-01-09T14:55:28Z",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

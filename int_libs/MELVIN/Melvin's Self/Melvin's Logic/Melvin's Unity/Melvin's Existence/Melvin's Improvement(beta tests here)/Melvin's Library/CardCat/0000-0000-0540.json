@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3cBk7rwVXqtrmbqJrdMdWrxxY",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3d4fdtMbRXJbwXFWcJ3X6r7rP",
+  "notation": "540",
+  "prefLabel": {
+    "sv": "Kemi och angränsande vetenskaper",
+    "de": "Chemie und zugeordnete Wissenschaften",
+    "en": "Chemistry and allied sciences",
+    "fr": "Chimie et sciences connexes",
+    "it": "Chimica e scienze connesse",
+    "no": "Kjemi og beslektede vitenskaper"
+  },
+  "type": "Concept",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-09-01T13:28:55Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

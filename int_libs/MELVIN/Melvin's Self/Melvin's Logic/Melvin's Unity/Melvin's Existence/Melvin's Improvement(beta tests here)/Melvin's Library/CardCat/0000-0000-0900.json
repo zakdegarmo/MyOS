@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E48wq7jdPxXjCKcWbGhyfThfCY",
+  "type": "Concept",
+  "scopeNote": {
+    "en": [
+      "Class here social situations and conditions; general political history; military, diplomatic, political, economic, social, welfare aspects of specific wars"
+    ],
+    "fr": [
+      "Classer ici les situations et les conditions sociales ; l’histoire de la politique générale ; les aspects militaires, diplomatiques, politiques, économiques, sociaux et humanitaires des guerres particulières"
+    ],
+    "it": [
+      "Classificare qui le situazioni e condizioni sociali; la storia politica generale; gli aspetti militari, diplomatici, politici, economici, sociali, assistenziali delle specifiche guerre"
+    ],
+    "de": [
+      "Hier auch: soziale Situationen und soziale Bedingungen; allgemeine Politikgeschichte; militärische, diplomatiegeschichtliche, politische, wirtschaftliche, gesellschaftliche, soziale Aspekte einzelner Kriege"
+    ],
+    "no": [
+      "Her: Samfunnsforhold, samfunnsanalyser; allmenn politisk historie; militære, diplomatiske, politiske, økonomiske, sosiale aspekter ved bestemte kriger"
+    ],
+    "sv": [
+      "Klassificera här sociala förhållanden; allmän politisk historia; militära aspekter, diplomatiska aspekter, politiska aspekter, ekonomiska aspekter, sociala aspekter, välfärdsaspekter på särskilda krig"
+    ]
+  },
+  "notation": "900",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "en": "History, geography, and auxiliary disciplines",
+    "it": "Storia, geografia e discipline ausiliarie",
+    "fr": "Histoire, géographie et disciplines auxiliaires",
+    "no": "Historie, geografi og deres hjelpefag",
+    "de": "Geschichte, Geografie und Hilfswissenschaften",
+    "sv": "Historia, geografi och historiska hjälpvetenskaper"
+  },
+  "modified": "2025-06-27T05:57:56Z",
+  "created": "1998-10-23",
+  "broader": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

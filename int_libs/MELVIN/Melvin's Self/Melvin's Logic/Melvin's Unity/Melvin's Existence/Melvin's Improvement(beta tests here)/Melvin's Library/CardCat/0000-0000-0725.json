@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3KjfMqVd6dKmKVYHdRK6x6BWC",
+  "prefLabel": {
+    "en": "Public structures",
+    "sv": "Offentliga anläggningar",
+    "de": "Öffentliche Bauwerke",
+    "no": "Offentlige byggverk",
+    "fr": "Bâtiments d'utilité publique",
+    "it": "Strutture pubbliche"
+  },
+  "modified": "2024-07-11T10:38:10Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3mRBrchvwmC7GBqqw8bYF8mFt",
+  "type": "Concept",
+  "notation": "725",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

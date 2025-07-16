@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT",
+  "modified": "2024-05-08T12:04:41Z",
+  "prefLabel": {
+    "en": "Countries and localities",
+    "sv": "Länder och orter",
+    "no": "Stater og lokalområder",
+    "de": "Länder und Ortschaften",
+    "it": "Paesi e località",
+    "fr": "Pays et localités"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3T7F4y6Mv3JwmJhBQ3XbJ68j8",
+    "https://id.oclc.org/worldcat/ddc/E3YY9YpjdH8DKd6WffWpG7wTgJ",
+    "https://id.oclc.org/worldcat/ddc/E4ckdCTMdtHjdxPWxw7PttHQBy",
+    "https://id.oclc.org/worldcat/ddc/E36CptBgKtk3m89g3FjFFb7pRc"
+  ],
+  "notation": "971-979",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YMRBtQf7PfxbM7dkmTy7wf7J",
+  "created": "2000-02-02",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

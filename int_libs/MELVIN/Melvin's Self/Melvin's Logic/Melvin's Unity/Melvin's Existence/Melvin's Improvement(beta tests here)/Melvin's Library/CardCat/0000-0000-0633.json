@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3G79V6cjtWD9ptDGrDqjwRvq8",
+  "prefLabel": {
+    "de": "Feld- und Plantagenfrüchte",
+    "fr": "Plantes de grande culture et produits de plantations",
+    "no": "Åkeravlinger og plantasjeavlinger",
+    "it": "Colture da pieno campo e da piantagione",
+    "sv": "Åkergrödor och planteringsgrödor (jordbruksgrödor)",
+    "en": "Field and plantation crops"
+  },
+  "scopeNote": {
+    "no": [
+      "Storskalaproduksjon av avlinger til landbruksformål eller til annen industriell bearbeiding enn konservering"
+    ],
+    "it": [
+      "Produzione a grande scala di colture destinate a scopi agricoli e alla lavorazione industriale (esclusa la conservazione)"
+    ],
+    "en": [
+      "Large-scale production of crops intended for agricultural purposes or industrial processing other than preservation"
+    ],
+    "fr": [
+      "Production à grande échelle de cultures destinées à des fins agricoles ou à un traitement industriel autre que la conservation"
+    ],
+    "sv": [
+      "Storskalig produktion av grödor avsedda för jordbruksändamål eller annan industriell bearbetning än konservering"
+    ],
+    "de": [
+      "Produktion von Nutzpflanzen in großem Umfang für landwirtschaftliche Zwecke oder zur industriellen Verarbeitung außer zur Konservierung"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PTX9FYywttqY4FFkxtgRqyGV",
+  "notation": "633",
+  "modified": "2024-04-04T00:04:30Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

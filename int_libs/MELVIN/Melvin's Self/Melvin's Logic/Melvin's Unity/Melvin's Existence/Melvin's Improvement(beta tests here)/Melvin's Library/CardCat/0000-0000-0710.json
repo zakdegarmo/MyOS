@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E37ygb8pQmxbQVT8mJvCTjTqMk",
+  "prefLabel": {
+    "en": "Area planning and landscape architecture",
+    "no": "Arealplanlegging og landskapsarkitektur",
+    "de": "Raumplanung und Landschaftsarchitektur",
+    "sv": "Fysisk planering och landskapsarkitektur",
+    "it": "Urbanistica e architettura del paesaggio",
+    "fr": "Aménagement du territoire et architecture du paysage"
+  },
+  "created": "1996-06-01",
+  "notation": "710",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2022-02-10T08:20:35Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Hk8Hybm9gHCJBxYdfWRqrBbC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

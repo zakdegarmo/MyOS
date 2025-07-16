@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3jwhbrTrhyGWB6D7h9qXqVVXx",
+  "prefLabel": {
+    "fr": "Étude et enseignement, recherche, sujets connexes",
+    "no": "Utdanning og opplæring, forskning, lignende emner",
+    "en": "Education, research, related topics",
+    "sv": "Utbildning, forskning, liknande ämnen",
+    "de": "Ausbildung, Forschung, verwandte Themen",
+    "it": "Educazione, ricerca, soggetti connessi"
+  },
+  "scopeNote": {
+    "en": [
+      "Notation T1--07 from Table 1 as modified below"
+    ],
+    "no": [
+      "Notasjon H1--07 fra Hjelpetabell 1 slik den er modifisert under"
+    ],
+    "fr": [
+      "Notation T1--07 , Table 1 telle que modifiée ci-dessous"
+    ],
+    "it": [
+      "Notazione T1--07 dalla Tavola 1 come di seguito modificata"
+    ],
+    "sv": [
+      "Notation T1--07 från tabell 1 så som den är modifierad nedan"
+    ],
+    "de": [
+      "Notation T1--07 aus Hilfstafel 1 entsprechend den nachfolgenden Änderungen"
+    ]
+  },
+  "modified": "2024-06-24T04:12:08Z",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "2000-02-02",
+  "notation": "607",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38kxrp6qgBrM4ccVMXvfxxgd8",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

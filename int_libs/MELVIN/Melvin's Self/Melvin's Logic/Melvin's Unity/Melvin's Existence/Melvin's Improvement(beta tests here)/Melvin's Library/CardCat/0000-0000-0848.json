@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3r4fH8bg3bwmfJKQX6BtFTcgQ",
+  "prefLabel": {
+    "en": "French miscellaneous writings",
+    "no": "Franske diverse skrifter",
+    "fr": "Écrits divers français",
+    "sv": "Diverse franska texter",
+    "it": "Miscellanea francese",
+    "de": "Französische vermischte Schriften"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E47HGmR9kmgDmYtGRK4pqK4WRm",
+  "type": "Concept",
+  "notation": "848",
+  "modified": "2025-03-10T09:26:48Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

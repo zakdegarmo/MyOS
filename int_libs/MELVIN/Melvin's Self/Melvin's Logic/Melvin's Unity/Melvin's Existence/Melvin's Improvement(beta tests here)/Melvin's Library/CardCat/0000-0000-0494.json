@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3ThBWCYhrRQbG9RwGbr4bR4DB",
+  "prefLabel": {
+    "en": "Altaic, Uralic, Hyperborean, Dravidian languages, miscellaneous languages of south Asia",
+    "no": "Altaiske, uralske, hyperboreiske, dravidiske språk, diverse sørasiatiske språk",
+    "fr": "Langues altaïques, ouraliennes, hyperboréennes, dravidiennes, diverses langues de l'Asie du Sud",
+    "sv": "Altaiska, uraliska, paleoasiatiska (hyperboreiska), dravidiska språk, diverse sydasiatiska språk",
+    "de": "Altaische, uralische, paläosibirische, drawidische Sprachen; verschiedene Sprachen Südasiens",
+    "it": "Lingue altaiche, lingue uraliche, lingue iperboreane, lingue dravidiche, lingue varie dell'Asia Meridionale"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3yfgH93ChdmG6GDxmQdvjRP76",
+  "notation": "494",
+  "created": "1998-10-28",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2024-01-24T12:22:14Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}
