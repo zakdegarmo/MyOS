@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3HwRDCvrb8pRHtrqfBwYh666T",
+  "type": "Concept",
+  "notation": "082",
+  "modified": "2024-11-20T06:37:21Z",
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Generelle samlinger på engelsk",
+    "en": "General collections in English",
+    "fr": "Recueils généraux en anglais",
+    "it": "Raccolte generali in inglese",
+    "sv": "Allmänna samlingsverk på engelska",
+    "de": "Allgemeine Sammelwerke in Englisch"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

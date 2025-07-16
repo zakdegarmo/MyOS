@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BcDhGtYGY9hMqgFYrXrVtXHv",
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3gBRKxyXbHKPFjB3PhBTdBCWf",
+    "https://id.oclc.org/worldcat/ddc/E3wQwDxbCJGv4rjkWDmqtRjmqr",
+    "https://id.oclc.org/worldcat/ddc/E3dcr6cvk67J8rFv6VhtmCgpTD",
+    "https://id.oclc.org/worldcat/ddc/E3DMxYqd7dq4PQJDVVTYXcpFpb",
+    "https://id.oclc.org/worldcat/ddc/E3DwPTFXJxT6hRhBV4RWPtwTmR",
+    "https://id.oclc.org/worldcat/ddc/E3x487GC3fkt43cBfYpJrF7FWB",
+    "https://id.oclc.org/worldcat/ddc/E3RPyf8vBM76k34v4W4wyjpqdt",
+    "https://id.oclc.org/worldcat/ddc/E3pfGWC4fMC8hTwDvhvvvPFXYC",
+    "https://id.oclc.org/worldcat/ddc/E3dvBtrYbcdVtPYB3FCRxCBcjw",
+    "https://id.oclc.org/worldcat/ddc/E48JvjD6x94pY6ywdchvDPYPTk"
+  ],
+  "prefLabel": {
+    "no": "Filosofi",
+    "sv": "Filosofi",
+    "it": "Filosofia",
+    "de": "Philosophie",
+    "en": "Philosophy",
+    "fr": "Philosophie"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "10",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

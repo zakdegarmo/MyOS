@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E44gfmXtjGhH6vWjph3HDdgX8v",
+  "prefLabel": {
+    "it": "Opere proibite (Libri proibiti), falsificazioni, beffe letterarie",
+    "no": "Forbudte verker, forfalskninger, svindler",
+    "fr": "Ouvrages interdits, supercheries, faux littéraires",
+    "sv": "Förbjudna böcker, förfalskningar, lurendrejerier",
+    "en": "Prohibited works, forgeries, hoaxes",
+    "de": "Verbotene Werke, Fälschungen, Scherzdrucke"
+  },
+  "created": "1996-06-01",
+  "modified": "2025-02-03T19:58:09Z",
+  "notation": "098",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3p36TyqKKkBBT7JQFVKdpP8F7",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E38rVRdwMt9CXDhRf7Y3vwdYRm",
+    "https://id.oclc.org/worldcat/ddc/E3JgrcHwDwT3D4ty3F7FPPcp7d",
+    "https://id.oclc.org/worldcat/ddc/E3dRWtyg7GcyTG9JfD9tkX6Dx4",
+    "https://id.oclc.org/worldcat/ddc/E3kMkcPHb7fwKRt3qjKbCx8cRY",
+    "https://id.oclc.org/worldcat/ddc/E3fhDtQ43r3wJcjPRqWv8Wc8bT",
+    "https://id.oclc.org/worldcat/ddc/E3Y9wpMtQ39kfCkF3T8fPVRYBJ",
+    "https://id.oclc.org/worldcat/ddc/E479BbY8YbgrwpKfvkdVkh9BcD",
+    "https://id.oclc.org/worldcat/ddc/E3YM8MMTVgYPgDmxF4cHh8XGcP",
+    "https://id.oclc.org/worldcat/ddc/E3FfrXwPHMgCtrvVRvxJK4rfBv",
+    "https://id.oclc.org/worldcat/ddc/E3cXh8TvwRxgXQdhTBcbGjypyD"
+  ],
+  "prefLabel": {
+    "en": "Medicine & health",
+    "sv": "Medicin & hälsa",
+    "it": "Medicina e salute",
+    "de": "Medizin & Gesundheit",
+    "fr": "Médecine et santé",
+    "no": "Medisin og helse"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-12-13T14:46:50Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "61",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

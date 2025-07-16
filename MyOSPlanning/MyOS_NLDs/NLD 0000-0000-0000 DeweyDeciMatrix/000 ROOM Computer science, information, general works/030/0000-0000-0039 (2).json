@@ -1,0 +1,27 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E439MmWB9rxmcqBjf9wjK7TRry",
+  "prefLabel": {
+    "sv": "Seder, etikett & folklore",
+    "en": "Customs, etiquette & folklore",
+    "it": "Usi e costumi, galateo e folclore",
+    "fr": "Coutumes, étiquette, folklore",
+    "de": "Bräuche, Etikette & Folklore",
+    "no": "Skikker, etikette og folkeminne"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3bbKVDVy6x7ygXHd9jmw66M8K",
+    "https://id.oclc.org/worldcat/ddc/E49tc7jgq4y3KKwRJWgJDdRJyh",
+    "https://id.oclc.org/worldcat/ddc/E3dg9bw9P74KqM8xw7Mw7cPt9P",
+    "https://id.oclc.org/worldcat/ddc/E3wHkmqBqvTXbJdq9Ct4MRth33",
+    "https://id.oclc.org/worldcat/ddc/E33xPD9rfdW4VQQGftJMfWYJVP",
+    "https://id.oclc.org/worldcat/ddc/E4bDrrBrMTHvPf6PjMJQbDkYyf",
+    "https://id.oclc.org/worldcat/ddc/E3vXhMJY3w6MfMV8QCWJtHVTtb"
+  ],
+  "modified": "2021-04-08T11:28:18Z",
+  "type": "Concept",
+  "notation": "39",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3y4d4gHktCbQH3fD6mmqxjxXF",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3CrmKqcVvyWDJr7kPXcB67fWR",
+    "https://id.oclc.org/worldcat/ddc/E3xwtWvY7BDWcCK8hbTTpKcwvC",
+    "https://id.oclc.org/worldcat/ddc/E3rbRxdc8RgJXpk9V9DqGmBGWr",
+    "https://id.oclc.org/worldcat/ddc/E364PkxfwxvCJWtd6byyXxDKpK",
+    "https://id.oclc.org/worldcat/ddc/E3VHKXcYtjX8FXbHtkqHvcR7gF",
+    "https://id.oclc.org/worldcat/ddc/E38fvJGxjfJJVdxJcfGxbrDbgB",
+    "https://id.oclc.org/worldcat/ddc/E3wvKf7HXphwDy7X47CWqB6wwM",
+    "https://id.oclc.org/worldcat/ddc/E3ThxPdDGwt3FFf86XM8jVCFc4"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jVXD7f9YJFpxkXfyhXTQjQXV",
+  "modified": "2021-01-19T07:51:53Z",
+  "prefLabel": {
+    "fr": "Photographie, art par ordinateur, film, vidéo",
+    "de": "Fotografie, Computerkunst, Film, Video",
+    "it": "Fotografia, computer art, film, video",
+    "sv": "Fotografi, datorkonst, film, video",
+    "no": "Fotografi, datakunst, film, video",
+    "en": "Photography, computer art, film, video"
+  },
+  "notation": "77",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

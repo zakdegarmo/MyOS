@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Cm6Twb7HCRCP3HxytDrB8jQ9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jVXD7f9YJFpxkXfyhXTQjQXV",
+  "prefLabel": {
+    "it": "Architettura",
+    "en": "Architecture",
+    "de": "Architektur",
+    "no": "Arkitektur",
+    "sv": "Arkitektur",
+    "fr": "Architecture"
+  },
+  "type": "Concept",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3TvTcmV4x4wkGJtmB8RRGbVCV",
+    "https://id.oclc.org/worldcat/ddc/E3WhPqJ3pRwXRyCKqjKGD8rmfR"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "72",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

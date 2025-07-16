@@ -1,0 +1,23 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3hVQWDGkfFmQvYDhX8xXpTQVC",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3qMwcFPgmWwRrJvhpVcXm6TB8",
+    "https://id.oclc.org/worldcat/ddc/E44xDjrBCTb7gYq8XChjVpq9pb",
+    "https://id.oclc.org/worldcat/ddc/E44Pvwb7jkchP3wBRQHpBQGWt9"
+  ],
+  "prefLabel": {
+    "en": "Ethics",
+    "de": "Ethik",
+    "it": "Etica",
+    "sv": "Etik",
+    "fr": "Morale",
+    "no": "Etikk"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-02-26T12:12:05Z",
+  "created": "1996-06-01",
+  "notation": "17",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

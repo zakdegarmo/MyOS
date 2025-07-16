@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3yjb8Wj3rVQprrrgJpB8d3vFg",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "sv": "Växter (botanik)",
+    "it": "Piante (Botanica)",
+    "fr": "Plantes (Botanique)",
+    "de": "Pflanzen (Botanik)",
+    "no": "Planter (botanikk)",
+    "en": "Plants (Botany)"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3XwwtyYgfQVgB8jWc7v9cjV8g",
+    "https://id.oclc.org/worldcat/ddc/E33gDgPGDbQty49F4J4YTMCKJJ",
+    "https://id.oclc.org/worldcat/ddc/E3JGHKDVtYx8bYwBgD9pdyk86K",
+    "https://id.oclc.org/worldcat/ddc/E3vqMQ6kgH6tqTKFQrqXpytCPc",
+    "https://id.oclc.org/worldcat/ddc/E3dFvDWxvW8p6khkkWP3GkCxPV"
+  ],
+  "created": "1996-06-01",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "58",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3vgmgRMWffYB3kftYW4MtRXkb",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

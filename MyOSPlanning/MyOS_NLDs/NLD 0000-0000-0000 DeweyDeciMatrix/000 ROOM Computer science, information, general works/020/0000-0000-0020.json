@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3PFMMTv4HHQ7tFP9JyfymTvxh",
+  "prefLabel": {
+    "en": "Library and information sciences",
+    "fr": "Bibliothéconomie et sciences de l’information",
+    "it": "Biblioteconomia e scienza dell'informazione",
+    "no": "Bibliotek- og informasjonsvitenskap",
+    "de": "Bibliotheks- und Informationswissenschaften",
+    "sv": "Biblioteks- och informationsvetenskap"
+  },
+  "type": "Concept",
+  "notation": "020",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Archivwissenschaften, Archivwesen; Informatik"
+    ],
+    "it": [
+      "Classificare qui l'archivistica, l'informatica"
+    ],
+    "sv": [
+      "Klassificera här arkivvetenskap"
+    ],
+    "en": [
+      "Class here archival science; informatics"
+    ],
+    "fr": [
+      "Classer ici l'archivistique ; la science informatique"
+    ],
+    "no": [
+      "Her: Arkivvitenskap; informatikk"
+    ]
+  },
+  "modified": "2024-09-27T17:19:10Z",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

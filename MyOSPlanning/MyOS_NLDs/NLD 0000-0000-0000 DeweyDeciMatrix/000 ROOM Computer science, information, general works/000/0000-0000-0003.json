@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3qKdmdYFCBtjkqX8pX7hkwKqB",
+  "modified": "2025-05-13T01:18:38Z",
+  "scopeNote": {
+    "de": [
+      "Hier auch: Operations Research; Systemtheorie, Systemanalyse, Systementwurf, Systemoptimierung; Modelle (Simulationen) bezogen auf Systeme der realen Welt"
+    ],
+    "fr": [
+      "Classer ici la recherche opérationnelle ; la théorie, l’analyse, la conception,  l’optimisation de systèmes ; les modèles (simulations) appliqués à des situations réelles"
+    ],
+    "it": [
+      "Classificare qui la ricerca operativa; la teoria, l'analisi, la progettazione, l'ottimizzazione dei sistemi; i modelli (simulazione) applicati ai sistemi del mondo reale"
+    ],
+    "en": [
+      "Class here operations research; systems theory, analysis, design, optimization; models (simulations) applied to real-world systems"
+    ],
+    "no": [
+      "Her: Operasjonsanalyse; systemteori, systemanalyse, systemdesign, systemoptimalisering; modeller (simuleringer) anvendt på reelle systemer"
+    ],
+    "sv": [
+      "Klassificera här operationsanalys; systemteori, systemanalys, systemdesign, systemoptimering; modeller (simuleringar) som tillämpas på reella system"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "fr": "Systèmes",
+    "no": "Systemer",
+    "de": "Systeme",
+    "en": "Systems",
+    "sv": "System",
+    "it": "Sistemi"
+  },
+  "notation": "003",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

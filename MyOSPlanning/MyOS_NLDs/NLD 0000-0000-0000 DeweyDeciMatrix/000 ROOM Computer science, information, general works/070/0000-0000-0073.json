@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3H3DmFrBfwy8G3qprCKmq4RHW",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "scopeNote": {
+    "no": [
+      "Her: Journalistikk og aviser i Mellom-Europa"
+    ],
+    "sv": [
+      "Klassificera här journalistik och dagstidningar i Centraleuropa"
+    ],
+    "fr": [
+      "Classer ici le journalisme et les journaux en Europe centrale"
+    ],
+    "de": [
+      "Hier auch: Journalismus und Zeitungen in Mitteleuropa"
+    ],
+    "en": [
+      "Class here journalism and newspapers in central Europe"
+    ],
+    "it": [
+      "Classificare qui il giornalismo e i giornali nell'Europa centrale"
+    ]
+  },
+  "notation": "073",
+  "prefLabel": {
+    "de": "Journalismus und Zeitungen in Deutschland und benachbarten mitteleuropäischen Ländern",
+    "no": "Journalistikk og aviser i Tyskland og mellomeuropeiske naboland",
+    "fr": "Journalisme et journaux en Allemagne et dans les pays avoisinants de l'Europe centrale",
+    "it": "Giornalismo e giornali in Germania e nei paesi limitrofi dell'Europa centrale",
+    "en": "Journalism and newspapers in Germany and neighboring central European countries",
+    "sv": "Journalistik och dagstidningar i Tyskland och angränsande centraleuropeiska länder"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Qj4XJBDWfQHXhykxDxBFPJwH",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

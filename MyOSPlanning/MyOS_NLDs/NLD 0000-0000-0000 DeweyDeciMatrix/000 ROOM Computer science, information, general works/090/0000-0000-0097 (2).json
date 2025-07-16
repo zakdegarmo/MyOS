@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3YMRBtQf7PfxbM7dkmTy7wf7J",
+  "prefLabel": {
+    "fr": "Histoire de l’Amérique du Nord",
+    "no": "Nord-Amerikas historie",
+    "sv": "Nordamerikas historia",
+    "de": "Geschichte Nordamerikas",
+    "en": "History of North America",
+    "it": "Storia del Nordamerica"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3rhFhVJtCxThPKQYGvgBFXD34",
+  "modified": "2021-03-03T07:41:50Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3343rhqDJBK38cGFQR3kFvpfK",
+    "https://id.oclc.org/worldcat/ddc/E3xwfCMTjjtXwcKYm3B3xjJqFT"
+  ],
+  "type": "Concept",
+  "notation": "97",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

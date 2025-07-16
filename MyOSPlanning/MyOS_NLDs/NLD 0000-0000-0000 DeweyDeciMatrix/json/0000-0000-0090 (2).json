@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cjj9FCCDTvRQhdVKmXkktBX3",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Bydy8Gm8VfyMHGv3Cf6gbTXg",
+    "https://id.oclc.org/worldcat/ddc/E3QBvFm7R64rYM6wwgDvk48Y7X",
+    "https://id.oclc.org/worldcat/ddc/E3xGVy8QQkyrtpYCmjyCWJ4HFQ",
+    "https://id.oclc.org/worldcat/ddc/E3Q6XdTy9tDRqCcdTxPYGffCpV",
+    "https://id.oclc.org/worldcat/ddc/E3ytfc7mWCRMBx8RGtXJbqwBgx",
+    "https://id.oclc.org/worldcat/ddc/E47qwJmm39BfWwjcQ8x8TtFTgK",
+    "https://id.oclc.org/worldcat/ddc/E3fCtK8MHpc6cqQj3BJwjF9MJT",
+    "https://id.oclc.org/worldcat/ddc/E3wfBxFPVkWRpFbvFjr3Qdggfb",
+    "https://id.oclc.org/worldcat/ddc/E48wq7jdPxXjCKcWbGhyfThfCY",
+    "https://id.oclc.org/worldcat/ddc/E3yH97XwKDWF3YTVP7MxDkBfkH"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XJ693tPgQQM7bhtXhgWVTVbb",
+  "prefLabel": {
+    "en": "History",
+    "it": "Storia",
+    "fr": "Histoire",
+    "no": "Historie",
+    "de": "Geschichte",
+    "sv": "Historia"
+  },
+  "modified": "2021-01-19T07:51:53Z",
+  "created": "1996-06-01",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "90",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E38vYK9DDpWykJmCHyhxJcp7cw",
+  "scopeNote": {
+    "en": [
+      "Class here digital libraries and digital archives devoted to specific subjects; comprehensive works on special libraries"
+    ],
+    "no": [
+      "Her: Digitale biblioteker og digitale arkiver knyttet til bestemte fag eller emner; oversiktsverker om fagbiblioteker"
+    ],
+    "it": [
+      "Classificare qui le biblioteche digitali e gli archivi digitali dedicati a soggetti specifici; le opere d'insieme sulle biblioteche speciali"
+    ],
+    "sv": [
+      "Klassificera här digitala bibliotek och digitala arkiv som innehåller särskilda ämnen; övergripande verk om specialbibliotek"
+    ],
+    "de": [
+      "Hier auch: themenspezifische digitale Bibliotheken, themenspezifische digitale Archive, umfassende Werke über Spezialbibliotheken"
+    ],
+    "fr": [
+      "Classer ici les bibliothèques numériques et les archives numériques consacrées à des sujets particuliers ; les ouvrages généraux sur les bibliothèques spécialisées"
+    ]
+  },
+  "created": "1996-06-01",
+  "prefLabel": {
+    "no": "Biblioteker og arkiver knyttet til bestemte fag og emner",
+    "en": "Libraries and archives devoted to specific subjects",
+    "fr": "Bibliothèques et archives consacrées à des sujets particuliers",
+    "it": "Biblioteche e archivi dedicati a soggetti specifici",
+    "sv": "Bibliotek, arkiv, informationscentrum för särskilda ämnen",
+    "de": "Auf einzelne Fächer und Themen spezialisierte Bibliotheken und Archive"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jm4JjFt4vhVjCwXk38fWXVrg",
+  "type": "Concept",
+  "modified": "2024-11-02T00:44:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "026",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

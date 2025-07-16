@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3C3YG6rpp8PHYhthkRJ6pdCHd",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3Tvhh48tBHKdCF4pR4qqbPfvC",
+    "https://id.oclc.org/worldcat/ddc/E3FyYKT4rm3Kxd7TQ6KycQ6XBp",
+    "https://id.oclc.org/worldcat/ddc/E3Y7D77kMXyFR7mKBdMRKk4MVR",
+    "https://id.oclc.org/worldcat/ddc/E3mCRMyvKtph7kTXXXVcWGTgFx",
+    "https://id.oclc.org/worldcat/ddc/E4dby3kbCvfjtGJPDfdB3xXJHC"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "prefLabel": {
+    "de": "Öffentliche Verwaltung & Militärwissenschaft",
+    "no": "Offentlig administrasjon og militærvitenskap",
+    "fr": "Administration publique et science militaire",
+    "it": "Amministrazione pubblica e scienza militare",
+    "sv": "Offentlig förvaltning och militärvetenskap",
+    "en": "Public administration & military science"
+  },
+  "notation": "35",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XBhmq9PBHkVqpmtdG7PxcQTJ",
+  "scopeNote": {
+    "en": [
+      "Including interdisciplinary works on consultants",
+      "Class here discussion of ideas from many fields; interdisciplinary approach to knowledge",
+      "Description and critical appraisal of intellectual activity in general"
+    ],
+    "sv": [
+      "Omfattar tvärvetenskapliga verk om konsulter",
+      "Beskrivning och kritisk värdering av intellektuell verksamhet i allmänhet",
+      "Klassificera här diskussion av ideer från många områden; tvärvetenskaplig syn  på kunskap"
+    ],
+    "it": [
+      "Classificare qui la discussione d'idee provenienti da molti campi disciplinari; l'approccio interdisciplinare alla conoscenza",
+      "Include le opere interdisciplinari sui consulenti",
+      "Descrizione e valutazione critica dell'attività intellettuale in generale"
+    ],
+    "no": [
+      "Her: Idéer fra flere områder; tverrfaglig tilnærming til kunnskap",
+      "Inkluderer: Tverrfaglige verker om spesialister",
+      "Beskrivelse og kritisk vurdering av intellektuell virksomhet i alminnelighet"
+    ],
+    "fr": [
+      "Y compris les ouvrages interdisciplinaires sur les consultants",
+      "Classer ici l’analyse des idées de plusieurs domaines du savoir ; l'approche interdisciplinaire de la connaissance",
+      "Analyse et critique de l’activité intellectuelle en général"
+    ],
+    "de": [
+      "Einschließlich: fächerübergreifende Werke über Berater",
+      "Darstellung und kritische Bewertung intellektueller, geistiger Aktivität im Allgemeinen",
+      "Hier auch: Diskussion von Ideen aus vielen Gebieten, fächerübergreifender Ansatz zum Wissensbegriff"
+    ]
+  },
+  "prefLabel": {
+    "no": "Kunnskap",
+    "en": "Knowledge",
+    "de": "Wissen",
+    "sv": "Kunskap",
+    "fr": "Le savoir",
+    "it": "Conoscenza"
+  },
+  "notation": "001",
+  "type": "Concept",
+  "modified": "2024-08-01T00:10:08Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3wPkTKg64BJp6r8RP4mWyHX99",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här övergripande verk om samlingsverk på germanska språk"
+    ],
+    "no": [
+      "Her: Oversiktsverker om generelle samlinger på germanske språk"
+    ],
+    "de": [
+      "Hier auch: umfassende Werke über Sammelwerke in germanischen Sprachen"
+    ],
+    "it": [
+      "Classificare qui le opere d'insieme sulle raccolte in lingue germaniche"
+    ],
+    "fr": [
+      "Classer ici les ouvrages généraux sur les recueils en langues germaniques"
+    ],
+    "en": [
+      "Class here comprehensive works on Germanic-language collections"
+    ]
+  },
+  "prefLabel": {
+    "it": "Raccolte generali in altre lingue germaniche",
+    "fr": "Recueils généraux dans les autres langues germaniques",
+    "no": "Generelle samlinger på andre germanske språk",
+    "de": "Allgemeine Sammelwerke in anderen germanischen Sprachen",
+    "sv": "Allmänna samlingsverk på övriga germanska språk",
+    "en": "General collections in other Germanic languages"
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "type": "Concept",
+  "modified": "2024-11-20T06:37:21Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "notation": "083",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

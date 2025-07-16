@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3crFxr84MQkDt9mHBYTvbkPCB",
+  "prefLabel": {
+    "no": "Informatikk",
+    "sv": "Datavetenskap",
+    "de": "Informatik",
+    "en": "Computer science",
+    "it": "Informatica",
+    "fr": "Informatique"
+  },
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "004",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här databearbetning; urval och användning av hårdvara; elektroniska datorer; elektroniska digitala datorer; datorsystem (datorer, deras kringutrustning, deras operativsystem); cyberinfrastruktur; centrala processorer; adaptive computing systems; datortillförlitlighet; interaktiv datorbearbetning online; mobil databehandling; övergripande verk om hårdvara och program i elektronisk databearbetning"
+    ],
+    "no": [
+      "Her: Databehandling; valg og bruk av maskinvare; elektroniske datamaskiner; elektroniske digitale datamaskiner; datasystemer (datamaskiner, deres periferiutstyr, deres operativsystemer), informasjonssystemer; cyberinfrastruktur; sentralprosessorenheter; adaptive computing systems (adaptive datasystemer); systempålitelighet; interaktiv tilkoblet behandling (online); mobil databehandling; oversiktsverker om maskinvare og programvare i elektronisk databehandling"
+    ],
+    "de": [
+      "Hier auch: Datenverarbeitung; Auswahl und Einsatz von Hardware; elektronische Computer; elektronische Digitalcomputer; Computersysteme (Computer, ihre Peripheriegeräte, ihre Betriebssysteme); Informationssysteme; E-Science (Cyberinfrastructure), Zentraleinheiten; Adaptive Computing Systems;  Zuverlässigkeit von Computern; Dialogverarbeitung, Onlineverarbeitung; Mobile Computing; umfassende Werke über Hardware und Software in der elektronischen Datenverarbeitung"
+    ],
+    "fr": [
+      "Classer ici le traitement des données ; le choix et l’utilisation du matériel informatique ; les ordinateurs ; les ordinateurs électroniques numériques ; les systèmes informatiques (les ordinateurs, leurs appareils périphériques, leurs systèmes d’exploitation), les systèmes d'information ; la cyberinfrastructure ; les unités centrales de traitement ; les systèmes informatiques adaptatifs ; la fiabilité des ordinateurs ; la science informatique ; le traitement en ligne, le traitement interactif ; l'informatique mobile ; les ouvrages généraux sur le matériel informatique et les logiciels dans le traitement électronique des données"
+    ],
+    "it": [
+      "Classificare qui l'elaborazione dei dati, la scelta e l'uso dell'hardware dei computer; i computer elettronici; i computer elettronici digitali; i sistemi di elaborazione (i computer, le loro periferiche, i loro sistemi operativi), sistemi d'informazione; le infrastrutture cibernetiche; le unità di elaborazione centrale; i sistemi di elaborazione adattativi; l'affidabilità dei computer; l'elaborazione interattiva e in linea; l'elaborazione mobile; le opere d'insieme su hardware e software nell'elaborazione elettronica dei dati"
+    ],
+    "en": [
+      "Class here data processing; selection and use of computer hardware; electronic computers; electronic digital computers; computer systems (computers, their peripheral devices, their operating systems), information systems; cyberinfrastructure; central processing units; adaptive computing systems; computer reliability; informatics; interactive, online processing; mobile computing; comprehensive works on hardware and software in electronic data processing"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E36rRpGBXwxc7xxKp4gR8gG4pD",
+  "modified": "2025-05-22T12:30:54Z",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

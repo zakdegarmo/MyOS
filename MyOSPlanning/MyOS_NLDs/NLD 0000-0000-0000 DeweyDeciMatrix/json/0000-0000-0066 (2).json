@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Y8bPTKWKbcTXGHvXRvyrTYW9",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3mBFB83bjxyGcJbqFB4h6Vcym",
+    "https://id.oclc.org/worldcat/ddc/E3Y79m4MXKPcwhRW3Xd6cQGB7b",
+    "https://id.oclc.org/worldcat/ddc/E3TxDttdPHVr6cK6bqx8Py6PJd",
+    "https://id.oclc.org/worldcat/ddc/E3VhKy9D9tp6t37p7ktc4Bdj9j",
+    "https://id.oclc.org/worldcat/ddc/E4b3Q9h3YxfBV3mXfmyKqvrqW7",
+    "https://id.oclc.org/worldcat/ddc/E3pcxfjfJvfF8c8gvVYMjBwHXP",
+    "https://id.oclc.org/worldcat/ddc/E3PQ4Vy3fcBycYMrPRdVBkwDb3",
+    "https://id.oclc.org/worldcat/ddc/E47CTJfjt6dvKGrw66bVT3P3gj",
+    "https://id.oclc.org/worldcat/ddc/E3rPhHpx7mDk4Jqpd8Dj6yxb39",
+    "https://id.oclc.org/worldcat/ddc/E3rH8GxT7GyfXPT4v3cTrG6xgY"
+  ],
+  "prefLabel": {
+    "it": "Ingegneria chimica",
+    "de": "Chemische Verfahrenstechnik",
+    "no": "Kjemiteknikk",
+    "en": "Chemical engineering",
+    "fr": "Génie chimique",
+    "sv": "Kemiteknik"
+  },
+  "modified": "2022-07-01T07:38:57Z",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "notation": "66",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

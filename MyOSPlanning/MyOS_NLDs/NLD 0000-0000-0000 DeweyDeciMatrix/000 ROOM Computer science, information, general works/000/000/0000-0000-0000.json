@@ -1,0 +1,28 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XcRgHB6R3J74DQRyxYVYXWxw",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3mB8yx7Qxd9g9VKGGK8Dk3DTY",
+    "https://id.oclc.org/worldcat/ddc/E33pKJkT4v4WvPJWxChwvmBPKg",
+    "https://id.oclc.org/worldcat/ddc/E3CtmgXDd8wJdkcXKcffM4M3qm",
+    "https://id.oclc.org/worldcat/ddc/E3XBhmq9PBHkVqpmtdG7PxcQTJ",
+    "https://id.oclc.org/worldcat/ddc/E3cb8Vf8QhVdgpyHwkdGWwCxj6",
+    "https://id.oclc.org/worldcat/ddc/E3YTjKXTHpW4qFHcbrhD8Wr3Cq",
+    "https://id.oclc.org/worldcat/ddc/E36rRpGBXwxc7xxKp4gR8gG4pD",
+    "https://id.oclc.org/worldcat/ddc/E3qKdmdYFCBtjkqX8pX7hkwKqB"
+  ],
+  "broader": "https://id.oclc.org/worldcat/ddc/E3F9hRv97HYyxWxcKvb6FFGm3y",
+  "notation": "00",
+  "modified": "2019-03-28T13:04:40Z",
+  "created": "1996-06-01",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "fr": "Informatique, le savoir et systèmes",
+    "it": "Informatica, conoscenza e sistemi",
+    "no": "Informatikk, kunnskap og systemer",
+    "en": "Computer science, knowledge & systems",
+    "de": "Informatik, Wissen & Systeme",
+    "sv": "Datavetenskap, kunskap & system"
+  },
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

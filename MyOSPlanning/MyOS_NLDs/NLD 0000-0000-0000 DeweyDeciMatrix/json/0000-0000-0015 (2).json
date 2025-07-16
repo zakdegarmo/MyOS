@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3kyJfFJxYB8K9dfxP9V64ptk7",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3mGgPQbTWxJdqYVt7cd9TkPCm",
+    "https://id.oclc.org/worldcat/ddc/E36QMTBWktGfyCgbkkHM7JvbvG",
+    "https://id.oclc.org/worldcat/ddc/E3BJWFQr9w63MJyHj8rtyGWQQv",
+    "https://id.oclc.org/worldcat/ddc/E3hBGgF3h97G4TqfCHJHGmTmP7"
+  ],
+  "prefLabel": {
+    "de": "Psychologie",
+    "fr": "Psychologie",
+    "en": "Psychology",
+    "sv": "Psykologi",
+    "no": "Psykologi",
+    "it": "Psicologia"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2020-12-07T09:57:01Z",
+  "notation": "15",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3dF397jdR8DVq4m8qKcWT4fhb",
+  "prefLabel": {
+    "no": "Generelle samlinger på italiensk, dalmatisk, rumensk, retoromansk, sardinsk, korsikansk",
+    "fr": "Recueils généraux en italien, en dalmate, en roumain, en rhétique, en sarde, en corse",
+    "it": "Raccolte generali in italiano, dalmatico, romeno, retico, sardo, corso",
+    "en": "General collections in Italian, Dalmatian, Romanian, Rhaetian, Sardinian, Corsican",
+    "sv": "Allmänna samlingsverk på italienska, dalmatiska, rumänska, rätoromanska, sardiska, korsikanska",
+    "de": "Allgemeine Sammelwerke in Italienisch, Dalmatisch, Rumänisch, Rätoromanisch, Sardisch, Korsisch"
+  },
+  "created": "2000-02-02",
+  "type": "Concept",
+  "modified": "2021-02-26T12:12:05Z",
+  "notation": "085",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

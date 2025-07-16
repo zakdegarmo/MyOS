@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cdgCvV486xHmDmXckkMdttvb",
+  "prefLabel": {
+    "it": "Gestione del personale (Gestione delle risorse umane)",
+    "fr": "Gestion du personnel (Gestion des ressources humaines)",
+    "en": "Personnel management (Human resource management)",
+    "de": "Personalmanagement (Human Resource Management)",
+    "sv": "Personaladministration (Human resource management)",
+    "no": "Personalforvaltning (HR-ledelse)"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3PDD4QrDWRxg8RgMPm69gHYgY",
+  "modified": "2025-01-26T21:30:28Z",
+  "notation": "023",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

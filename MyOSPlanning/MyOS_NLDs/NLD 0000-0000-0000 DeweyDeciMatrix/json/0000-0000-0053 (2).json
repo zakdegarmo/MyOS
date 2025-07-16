@@ -1,0 +1,26 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E33vwXDq48F8qp4gWGfTY66yhv",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3kpmXQjmQ8xTcVJBRBw4JMv6B",
+    "https://id.oclc.org/worldcat/ddc/E3vdF4fVFR6v8w3YxTDWrtRcVP",
+    "https://id.oclc.org/worldcat/ddc/E3YDpKHB7VkrhcXH3KF6hv9CP6",
+    "https://id.oclc.org/worldcat/ddc/E4bBTK7TY3v9X87Bcc6qVcyHXp",
+    "https://id.oclc.org/worldcat/ddc/E3BWqXyJgrPjvpbGCVFvmK3GcJ",
+    "https://id.oclc.org/worldcat/ddc/E3T9W7V9QfgpkXpGkVq6V8P9wQ"
+  ],
+  "prefLabel": {
+    "no": "Fysikk",
+    "de": "Physik",
+    "fr": "Physique",
+    "sv": "Fysik",
+    "it": "Fisica",
+    "en": "Physics"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "notation": "53",
+  "created": "1996-06-01",
+  "modified": "2022-08-10T12:22:21Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

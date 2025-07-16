@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3T8FjmbmgP9vw6fgggJVwjyQX",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4bwh7vjk46xyjt4p97YVdtYJY",
+    "https://id.oclc.org/worldcat/ddc/E48Jrm49WYXXHqWwccKj478YHX",
+    "https://id.oclc.org/worldcat/ddc/E4d7DkTpm9y3D8qgbJgrQTQXm4",
+    "https://id.oclc.org/worldcat/ddc/E3hgFPrf9TtWQ9Qt4mTqyBKG9d",
+    "https://id.oclc.org/worldcat/ddc/E3D4T6f4696M98rtJg8kgwmT8H",
+    "https://id.oclc.org/worldcat/ddc/E3kYwJP7KxCcGfrrT6yJYV46yR",
+    "https://id.oclc.org/worldcat/ddc/E43BHBrGkQDQ6Xbw7HbRTJmhTY",
+    "https://id.oclc.org/worldcat/ddc/E3p4QKCwygTpQPmMqCJFFHtDYH",
+    "https://id.oclc.org/worldcat/ddc/E3YFmrCKPdbMgxdgTx3XG9q7Fy",
+    "https://id.oclc.org/worldcat/ddc/E3HJ3WYV9GWBFyqtQqtfGp9KX7"
+  ],
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "prefLabel": {
+    "it": "Filosofia e teoria della religione",
+    "fr": "Philosophie et théorie de la religion",
+    "de": "Religionsphilosophie & Religionstheorie",
+    "sv": "Religionsfilosofi & religionsteori",
+    "en": "Philosophy & theory of religion",
+    "no": "Filosofi og teori innen religion"
+  },
+  "notation": "21",
+  "type": "Concept",
+  "created": "1996-06-01",
+  "modified": "2021-03-02T07:43:12Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3QGtWm7RBHVmJyQgtqjCv8TXt",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

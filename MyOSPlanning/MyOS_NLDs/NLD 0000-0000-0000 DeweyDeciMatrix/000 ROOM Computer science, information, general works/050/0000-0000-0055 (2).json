@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46ggD9YCP8xj9TYwQGMqjrBDV",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3cM7wgYRWffH79bByqx43cvBt",
+    "https://id.oclc.org/worldcat/ddc/E3xyh9QtF7KcXVfx8vt79vpdVT",
+    "https://id.oclc.org/worldcat/ddc/E3PgRm9D87BGDMypGtG69RcTq8",
+    "https://id.oclc.org/worldcat/ddc/E38CM33vy9DMBGfdfk78YXyXcB",
+    "https://id.oclc.org/worldcat/ddc/E3hMY94hF9vV6HmbPtDPkFkj9P"
+  ],
+  "prefLabel": {
+    "no": "Geovitenskap",
+    "it": "Scienze della Terra e geologia",
+    "sv": "Geovetenskaper & geologi",
+    "fr": "Sciences de la Terre et géologie",
+    "en": "Earth sciences & geology",
+    "de": "Geowissenschaften & Geologie"
+  },
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E43Gh6wpwVt8QhmBHgbxyfvpH8",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "55",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GDMDphTr7MhF6KVHGxG7xtVq",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här digitala bibliotek, digitala arkiv, forskningsbibliotek; övergripande verk om bibliotek och  arkiv för särskilda materialtyper"
+    ],
+    "en": [
+      "Class here digital libraries, digital archives, research libraries; comprehensive works on libraries and  archives devoted to special materials"
+    ],
+    "it": [
+      "Classificare qui le biblioteche digitali, gli archivi digitali; le biblioteche di ricerca; le opere d'insieme sulle biblioteche e sugli archivi dedicati a materiali speciali"
+    ],
+    "no": [
+      "Her: Digitale biblioteker, digitale arkiver, forskningsbiblioteker; oversiktsverker om biblioteker og arkiver knyttet til spesielt materiale"
+    ],
+    "fr": [
+      "Classer ici les bibliothèques numériques, les archives numériques, les bibliothèques de recherche ; les ouvrages généraux sur les bibliothèques et les archives consacrées à des documents spéciaux"
+    ],
+    "de": [
+      "Hier auch: digitale Bibliotheken, digitale Archive; umfassende Werke über Bibliotheken und Archive mit Schwerpunkt auf Sonderbeständen"
+    ]
+  },
+  "notation": "027",
+  "prefLabel": {
+    "sv": "Allmänna bibliotek och arkiv",
+    "no": "Generelle biblioteker og arkiver",
+    "en": "General libraries and archives",
+    "de": "Allgemeine Bibliotheken und Archive",
+    "it": "Biblioteche e archivi generali",
+    "fr": "Bibliothèques et archives générales"
+  },
+  "modified": "2024-11-02T00:44:37Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3Jm4JjFt4vhVjCwXk38fWXVrg",
+  "type": "Concept",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3VCYqcy3CJcvhBjh8V4WwFTJf",
+  "prefLabel": {
+    "it": "Statistica",
+    "en": "Statistics",
+    "no": "Statistikk",
+    "fr": "Statistiques",
+    "sv": "Statistik",
+    "de": "Statistiken"
+  },
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3qXGFWpGGggFd9dxt9DCgB9BK",
+    "https://id.oclc.org/worldcat/ddc/E3YFmvGMxXgfPQyRjyXx9yPtFF",
+    "https://id.oclc.org/worldcat/ddc/E3CqTYJPBQqTBcPQ6Mf4M3xGDV",
+    "https://id.oclc.org/worldcat/ddc/E3XYvvPdYtdxr6wVYT8HYVkWvJ",
+    "https://id.oclc.org/worldcat/ddc/E3wVcbdVTXdrRThcQMM9V8hd6Q"
+  ],
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "31",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

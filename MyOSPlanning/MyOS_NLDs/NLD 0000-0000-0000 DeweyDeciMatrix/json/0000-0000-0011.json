@@ -1,0 +1,38 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3GWQH448gfMw3HcrQrvCwTfhX",
+  "prefLabel": {
+    "de": "Bibliografien und Kataloge",
+    "en": "Bibliographies and catalogs",
+    "it": "Bibliografie e cataloghi",
+    "no": "Bibliografier og kataloger",
+    "sv": "Bibliografier och kataloger",
+    "fr": "Bibliographies et catalogues"
+  },
+  "modified": "2024-07-24T12:23:51Z",
+  "scopeNote": {
+    "sv": [
+      "Klassificera här allmänna samlingar av korta bibliografiska referat; bibliografier och kataloger som saknar annan placering"
+    ],
+    "fr": [
+      "Classer ici les recueils généraux de courts résumés bibliographiques ; les bibliographies et les catalogues ne figurant pas ailleurs"
+    ],
+    "en": [
+      "Class here general collections of brief bibliographic abstracts; bibliographies and catalogs not provided for elsewhere"
+    ],
+    "no": [
+      "Her: Generelle samlinger av kortfattede bibliografiske sammendrag; bibliografier og kataloger som ikke har annen plassering"
+    ],
+    "de": [
+      "Hier auch: allgemeine bibliografische Abstractsammlungen; Bibliografien und Kataloge, sofern nicht an anderer Stelle vorgesehen"
+    ],
+    "it": [
+      "Classificare qui le raccolte generali di brevi riassunti analitici (abstract) bibliografici; le bibliografie e i cataloghi non enunciati altrove"
+    ]
+  },
+  "broader": "https://id.oclc.org/worldcat/ddc/E3GCD8WK4KcFRyfRFpb94w6yct",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "notation": "011",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3BcdM4VtttvB9BMVt7jbFyqkT",
+  "broader": "https://id.oclc.org/worldcat/ddc/E48vcjGQpp8fBXfwMggX3MFhyp",
+  "prefLabel": {
+    "sv": "Ingenjörsvetenskaper",
+    "en": "Engineering",
+    "fr": "Ingénierie",
+    "no": "Teknikk (ingeniørfag)",
+    "de": "Ingenieurwissenschaften",
+    "it": "Ingegneria"
+  },
+  "created": "1996-06-01",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E4djYmFy7KK4mwFQy33t3Tt7kT",
+    "https://id.oclc.org/worldcat/ddc/E39YQ4tr6yGRTKc4HKC69Ydfmf",
+    "https://id.oclc.org/worldcat/ddc/E33d4KTQ97c3pVPh7mWGpbj44B",
+    "https://id.oclc.org/worldcat/ddc/E3tPjwQmcxRdR8jHvRd4fcFy3g",
+    "https://id.oclc.org/worldcat/ddc/E3H4XJ8pWbbgpdyfKj6kXHWwrq",
+    "https://id.oclc.org/worldcat/ddc/E3ckwhcYYPdJ44yK866Ft7kDTy",
+    "https://id.oclc.org/worldcat/ddc/E3jqqCRyx6pX4RGD44cjXDFmKQ",
+    "https://id.oclc.org/worldcat/ddc/E46wGgvDqcbjWh6647djMpK7XB",
+    "https://id.oclc.org/worldcat/ddc/E3KyTd6cvpj4B3qWwpRBB9WkdF",
+    "https://id.oclc.org/worldcat/ddc/E3KrMxtpRg6jkp6Vk3mhmmQffJ"
+  ],
+  "notation": "62",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

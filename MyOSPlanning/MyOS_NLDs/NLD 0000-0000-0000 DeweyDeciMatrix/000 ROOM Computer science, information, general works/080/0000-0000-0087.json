@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3M7mmdmcdHYVCbY4wVjDfKgQh",
+  "notation": "087",
+  "type": "Concept",
+  "prefLabel": {
+    "no": "Generelle samlinger på slaviske språk",
+    "de": "Allgemeine Sammelwerke in slawischen Sprachen",
+    "sv": "Allmänna samlingsverk på slaviska språk",
+    "it": "Raccolte generali in lingue slave",
+    "en": "General collections in Slavic languages",
+    "fr": "Recueils généraux en langues slaves"
+  },
+  "created": "1996-06-01",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3xkTYQYBVBgmktHQ8CHvmBtgC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "modified": "2021-01-19T07:51:53Z",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

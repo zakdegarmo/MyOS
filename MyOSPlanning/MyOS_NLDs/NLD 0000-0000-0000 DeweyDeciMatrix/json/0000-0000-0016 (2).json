@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E4cBVvCPkdcmCkrbv8WxDmQjJD",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3HxBVWRQvhdpqYc9HfGJcVwjy",
+    "https://id.oclc.org/worldcat/ddc/E47VJbkRqv8FpKFpRXqxmgMCDT",
+    "https://id.oclc.org/worldcat/ddc/E44KVbFBtQfhP6CVh3VDVMWKDQ",
+    "https://id.oclc.org/worldcat/ddc/E3fycwvXpMqCyWHGgvQ8Tyxcrj",
+    "https://id.oclc.org/worldcat/ddc/E3FcwbpKrR7wMJx8VdKXpVXcyY",
+    "https://id.oclc.org/worldcat/ddc/E3Kj897DD3jfDJpBTbHcqywY9Q",
+    "https://id.oclc.org/worldcat/ddc/E3XmQD83Mt7wP3F83mGHQydpQR",
+    "https://id.oclc.org/worldcat/ddc/E47fmb8dCMgqtBGBMxXXgrKdKY",
+    "https://id.oclc.org/worldcat/ddc/E493ypDxHTY7QxQYqB8Vf6W9rQ",
+    "https://id.oclc.org/worldcat/ddc/E3PTqWDgH4bTKmF4bdHcH7mFFP"
+  ],
+  "created": "1996-06-01",
+  "prefLabel": {
+    "sv": "Filosofisk logik",
+    "de": "Philosophische Logik",
+    "no": "Filosofisk logikk",
+    "it": "Logica",
+    "fr": "Logique philosophique",
+    "en": "Philosophical logic"
+  },
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3YGK3VqR9ghCwg3kDwfrXDTJ9",
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "16",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

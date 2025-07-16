@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3Q6wG9XhqPpY9GpRQb73kMxcC",
+  "prefLabel": {
+    "de": "Allgemeine Organisationen in anderen geografischen Gebieten",
+    "no": "Generelle organisasjoner i andre geografiske områder",
+    "it": "Organizzazioni generali in altre aree geografiche",
+    "en": "General organizations in other geographic areas",
+    "fr": "Organisations générales dans les autres aires géographiques",
+    "sv": "Allmänna organisationer i övriga geografiska områden"
+  },
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "notation": "068",
+  "created": "1996-06-01",
+  "modified": "2021-01-19T07:51:53Z",
+  "broader": "https://id.oclc.org/worldcat/ddc/E37WkvfY8kTjRV6MVG86748c9t",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

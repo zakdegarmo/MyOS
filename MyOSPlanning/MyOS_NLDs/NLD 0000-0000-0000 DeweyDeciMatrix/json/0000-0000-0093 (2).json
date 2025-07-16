@@ -1,0 +1,22 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E39wJ7kM4jrHhpd6Yy7fPC4fyw",
+  "prefLabel": {
+    "sv": "Forntida världens historia (före ca 499)",
+    "no": "Oldtidens stater og landområder (fram til ca. år 499)",
+    "en": "History of ancient world (to ca. 499)",
+    "it": "Storia del mondo antico (fino al 499 ca.)",
+    "de": "Geschichte des Altertums (bis ca. 499)",
+    "fr": "Histoire du monde antique (jusque vers 499)"
+  },
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E36M3wJvRmxM7R6Xp4q63gWfgK",
+    "https://id.oclc.org/worldcat/ddc/E3hWQvvDPgJrYvTtf7gXTqpFfX"
+  ],
+  "modified": "2021-01-19T07:51:53Z",
+  "notation": "93",
+  "type": "Concept",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3jqfm7BRYBD983d9qRCJ6fDKF",
+  "created": "1996-06-01",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3DwDYB4hFbt6QHBh4k7btyqjT",
+  "prefLabel": {
+    "de": "Antike, mittelalterliche & östliche Philosophie",
+    "it": "Filosofia antica, medievale e orientale",
+    "no": "Oldtidens og middelalderens filosofi, østens filosofi",
+    "fr": "Philosophie ancienne, médiévale et orientale",
+    "en": "Ancient, medieval & eastern philosophy",
+    "sv": "Antik, medeltida & österländsk filosofi"
+  },
+  "modified": "2021-02-02T08:09:46Z",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3FGMbbfMxrYtBWb6HqCpRqtMx",
+    "https://id.oclc.org/worldcat/ddc/E3r99rdYFvYFFYT9bTWXXfFdVT",
+    "https://id.oclc.org/worldcat/ddc/E36Y3PydPkjTGcMH9vXY4mqXQk",
+    "https://id.oclc.org/worldcat/ddc/E47gd9yKmpYb8dcKRRvGFmCTT8"
+  ],
+  "created": "1996-06-01",
+  "notation": "18",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E38dDG4gTWQ74FJYxxKXYy48mH",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

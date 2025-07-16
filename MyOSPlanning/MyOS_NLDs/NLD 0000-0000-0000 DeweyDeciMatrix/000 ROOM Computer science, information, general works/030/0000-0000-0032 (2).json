@@ -1,0 +1,30 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E46gGgKjx96p6BTwkwpPcBxH88",
+  "narrower": [
+    "https://id.oclc.org/worldcat/ddc/E3qHMPbYhCM9x3rfPBCvCGThF8",
+    "https://id.oclc.org/worldcat/ddc/E3bd4XGGXWgkMyTh3f43KXwx8G",
+    "https://id.oclc.org/worldcat/ddc/E3Wbch8xDkdk6cVy8VPCCMhrBF",
+    "https://id.oclc.org/worldcat/ddc/E44hcYKTqjrWMBJQX9BxcrXygV",
+    "https://id.oclc.org/worldcat/ddc/E3QWTGGvfxCCrgrVfGBF4bt46Y",
+    "https://id.oclc.org/worldcat/ddc/E364R3w6yR3gxv7GYGkyTKYVG7",
+    "https://id.oclc.org/worldcat/ddc/E3WXtPrtjqR7fBkF6rfy69mPqf",
+    "https://id.oclc.org/worldcat/ddc/E47x6GdQdm6KrcgyBxCDc3GgTK",
+    "https://id.oclc.org/worldcat/ddc/E36wpjgVyVtv8WxmFf9hW99qhy",
+    "https://id.oclc.org/worldcat/ddc/E38vPgQthGwyyWPkQJjYgdvk6g"
+  ],
+  "prefLabel": {
+    "no": "Statsvitenskap",
+    "fr": "Science politique",
+    "en": "Political science",
+    "it": "Scienza politica",
+    "de": "Politikwissenschaft",
+    "sv": "Statsvetenskap"
+  },
+  "created": "1996-06-01",
+  "modified": "2022-08-10T12:21:24Z",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E33pB9TRT8wPbpdhyXTBjmXWY4",
+  "notation": "32",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}

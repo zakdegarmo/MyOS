@@ -1,0 +1,18 @@
+{
+  "id": "https://id.oclc.org/worldcat/ddc/E3XMTFBV4w94cVYpPMcJR47WjF",
+  "modified": "2017-12-16T20:54:34Z",
+  "notation": "092",
+  "prefLabel": {
+    "fr": "Livres xylographiques",
+    "it": "Libri silografici",
+    "no": "Blokkbøker",
+    "en": "Block books",
+    "sv": "Blockböcker",
+    "de": "Blockbücher"
+  },
+  "created": "1996-06-01",
+  "type": "Concept",
+  "broader": "https://id.oclc.org/worldcat/ddc/E3gPHFk8bFm8tYFyqC6DDWkyYC",
+  "inScheme": "https://id.oclc.org/worldcat/ddc/",
+  "@context": "https://id.oclc.org/worldcat/ddc/context.json"
+}
