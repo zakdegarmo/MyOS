@@ -7,3 +7,6 @@
 [submodule "utilities/application_verifier"]
 	path = utilities/application_verifier
 	url = https://github.com/zakdegarmo/MyOS-Application-Verifier.git
+[submodule "🝧/3d_ttf"]
+	path = 🝧/3d_ttf
+	url = https://github.com/zakdegarmo/3d_ttf.git
