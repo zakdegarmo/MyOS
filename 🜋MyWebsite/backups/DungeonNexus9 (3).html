@@ -29,24 +29,23 @@
         import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
         let camera, scene, renderer, controls, labelRenderer;
-        let doors = [];
+        let doors = []; // This will now hold placeholder groups in the correct order
         let hub;
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
         let roomSize;
 
-        // --- CORRECTED: Using raw.githubusercontent URLs for models from the MyOS repo ---
-        const modelBasePath = 'https://raw.githubusercontent.com/zakdegarmo/MyOS/main/%F0%9F%9C%8BMyWebsite/models/';
+        // --- NEW: Ordered array of door data ---
         const doorData = [
-            { id: 1, model: `${modelBasePath}glyph_self.glb`, link: 'https://zakdegarmo.github.io/MyOntology/' },
-            { id: 2, model: `${modelBasePath}glyph_thought.glb`, link: 'https://zakdegarmo.github.io/ZaksNotepad/index.html' },
-            { id: 3, model: `${modelBasePath}glyph_logic.glb`, link: '#' },
-            { id: 4, model: `${modelBasePath}glyph_unity.glb`, link: '#' },
-            { id: 5, model: `${modelBasePath}glyph_existence.glb`, link: 'https://ai.studio/apps/drive/1zRyunFnZjxXt3TNy2uwBGcxze-pFhZ-w' },
-            { id: 6, model: `${modelBasePath}glyph_improvement.glb`, link: 'https://data-vis-eosin.vercel.app/' },
-            { id: 7, model: `${modelBasePath}glyph_mastery.glb`, link: 'https://ai.studio/apps/drive/1XRz8dvokYQyVhmuBG_yMZF4ielHllS2-' },
-            { id: 8, model: `${modelBasePath}glyph_resonance.glb`, link: 'https://3d-ttf.vercel.app/' },
-            { id: 9, model: `${modelBasePath}glyph_transcendence.glb`, link: 'https://hyper-aether-pilgrim.vercel.app/' }
+            { id: 1, model: 'models/glyph_self.glb', link: 'https://zakdegarmo.github.io/MyOntology/' },
+            { id: 2, model: 'models/glyph_thought.glb', link: 'https://zakdegarmo.github.io/ZaksNotepad/index.html' },
+            { id: 3, model: 'models/glyph_logic.glb', link: '#' }, // Placeholder link
+            { id: 4, model: 'models/glyph_unity.glb', link: '#' }, // Placeholder link
+            { id: 5, model: 'models/glyph_existence.glb', link: '#' }, // Placeholder link
+            { id: 6, model: 'models/glyph_improvement.glb', link: 'https://data-vis-eosin.vercel.app/' },
+            { id: 7, model: 'models/glyph_mastery.glb', link: 'https://ai.studio/apps/drive/1XRz8dvokYQyVhmuBG_yMZF4ielHllS2-' },
+            { id: 8, model: 'models/glyph_resonance.glb', link: 'https://3d-ttf.vercel.app/' },
+            { id: 9, model: 'models/glyph_transcendence.glb', link: 'https:hyper-aether-pilgrim.vercel.app/' }
         ];
 
         function init() {
@@ -122,15 +121,17 @@
             });
 
             doorData.forEach((data, i) => {
+                // Create a placeholder group for each door immediately to preserve order
                 const doorGroup = new THREE.Group();
                 doorGroup.userData = { id: data.id, link: data.link };
                 
-                doors.push(doorGroup);
+                doors.push(doorGroup); // Add placeholder to the main array
                 scene.add(doorGroup);
 
                 loader.load(data.model, (gltf) => {
                     const model = gltf.scene;
                     
+                    // Apply material and scale to the loaded model
                     model.traverse((child) => {
                         if (child.isMesh) {
                             child.material = doorMaterial;
@@ -141,6 +142,7 @@
                     const scale = 20 / Math.max(size.x, size.y, size.z);
                     model.scale.set(scale, scale, scale);
                     
+                    // Add the loaded model to its placeholder group
                     doorGroup.add(model);
                 });
             });
@@ -163,6 +165,7 @@
             
             if (intersects.length > 0) {
                 let selectedObject = intersects[0].object;
+                // Traverse up to find the parent group with the link and ID
                 while (selectedObject.parent && !selectedObject.userData.link) {
                     selectedObject = selectedObject.parent;
                 }
@@ -184,6 +187,7 @@
             controls.update();
             const time = Date.now() * 0.0005;
             
+            // Animate the placeholder groups, which will move the models once they load
             doors.forEach((doorGroup, i) => {
                 const angle = time * 0.5 + (i / doorData.length) * Math.PI * 2;
                 const doorRadius = roomSize * 0.4;
@@ -195,8 +199,9 @@
                 doorGroup.position.y = -(roomSize / 2) + (doorHeight / 2) + hoverOffset + Math.sin(angle * 2.5 + i) * 5;
                 doorGroup.lookAt(hub.position);
 
+                const pulseScale = 1 + Math.sin(time * 5 + i) * 0.02;
+                // Check if the model has loaded before trying to set its scale
                 if (doorGroup.children.length > 0) {
-                    const pulseScale = 1 + Math.sin(time * 5 + i) * 0.02;
                     doorGroup.children[0].scale.set(pulseScale, pulseScale, pulseScale);
                 }
             });
