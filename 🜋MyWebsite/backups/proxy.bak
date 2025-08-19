@@ -1,0 +1,35 @@
+import fs from 'fs/promises';
+
+const PORT = 3000;
+const INDEX_HTML_PATH = './DungeonNexus9.html';
+
+// The server's logic (The ♀DOOR)
+const server = Bun.serve({
+  port: PORT,
+  async fetch(req) {
+    // Determine the requested file path
+    const url = new URL(req.url);
+    const path = url.pathname === '/' ? INDEX_HTML_PATH : '.' + url.pathname;
+
+    try {
+      // Read the file from the local file system
+      const file = await Bun.file(path);
+
+      // Return the file as a response
+      return new Response(file, {
+        status: 200,
+        headers: {
+          'Content-Type': file.type,
+        },
+      });
+    } catch (err) {
+      // If the file is not found, return a 404 response
+      return new Response('File not found', {
+        status: 404,
+      });
+    }
+  },
+});
+
+console.log(`The ♀DOOR is open at http://localhost:${server.port}`);
+console.log(`This server handles all requests for the 🜍DOOR`);

@@ -1,0 +1,284 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #0B1120;
+    color: #fff;
+    overflow: hidden; /* Prevent scrollbars */
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
+}
+
+.loading-splash {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0B1120;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+}
+
+.loading-splash.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.loading-splash video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.transition-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 1s ease-in-out;
+    z-index: 9999;
+}
+
+.content-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgba(11, 17, 32, 0.95); /* #0B1120 with more opacity */
+    backdrop-filter: blur(10px);
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    z-index: 9998;
+    pointer-events: none;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.content-page.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.content-wrapper {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 420px; /* Main content and a fixed-width sidebar for the companion */
+    grid-template-rows: auto 1fr;
+    grid-template-areas:
+        "header header"
+        "content companion";
+    gap: 20px;
+}
+
+.realm-header {
+    grid-area: header;
+    position: relative;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.back-button {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+    z-index: 10; /* Ensure it's clickable */
+}
+
+.back-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.realm-header h1 {
+    font-size: 2.5rem;
+    padding-bottom: 5px;
+    margin: 0;
+    text-shadow: 0 0 10px;
+    text-align: center;
+}
+
+.realm-content-viewer {
+    grid-area: content;
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+/* This allows a component to span the full grid area */
+.realm-content-area-full {
+    grid-area: content / span 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.realm-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.companion-container {
+    grid-area: companion;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    overflow-y: auto;
+}
+
+/* --- Visual Cortex Viewer Styles --- */
+.visual-cortex-viewer {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Make it take up the full space of its container */
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 1px solid #55efc4;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(85, 239, 196, 0.2);
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.visual-cortex-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: rgba(85, 239, 196, 0.1);
+    border-bottom: 1px solid #55efc4;
+}
+
+.visual-cortex-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #55efc4;
+    text-shadow: 0 0 5px #55efc4;
+}
+
+.status-indicator {
+    font-weight: bold;
+    color: #ff6b6b; /* Red for disconnected */
+    text-shadow: 0 0 5px #ff6b6b;
+}
+
+.status-indicator.connected {
+    color: #55efc4; /* Green for connected */
+    text-shadow: 0 0 5px #55efc4;
+}
+
+.visual-cortex-logs {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 15px;
+}
+
+.log-entry {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.log-timestamp {
+    color: #81ecec; /* Cyan */
+    margin-right: 10px;
+}
+
+.log-message {
+    color: #dfe6e9; /* Light grey */
+    white-space: pre-wrap;
+}
+
+.log-entry.status .log-message {
+    color: #ffeaa7; /* Yellow */
+    font-style: italic;
+}
+
+.log-entry.error .log-message {
+    color: #ff6b6b; /* Red */
+    font-weight: bold;
+}
+
+/* --- Text File Viewer Styles --- */
+.text-file-viewer {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #dfe6e9;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.text-file-viewer pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.text-file-viewer .status-message {
+    color: #ffeaa7; /* Yellow, like status messages in VisualCortex */
+    font-style: italic;
+}
+
+.text-file-viewer .error-message {
+    color: #ff6b6b; /* Red */
+    font-weight: bold;
+}
+
+
+/* Responsive layout for smaller screens */
+@media (max-width: 900px) {
+    .content-wrapper {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto 1fr; /* Header, companion, content */
+        grid-template-areas:
+            "header"
+            "companion"
+            "content";
+        overflow-y: auto;
+    }
+    .companion-container {
+        align-items: center; /* Center it when it's in its own row */
+        margin-bottom: 20px;
+    }
+    .realm-content-viewer, .realm-content-area-full {
+        min-height: 400px; /* Ensure it has some height on mobile */
+        grid-area: content; /* Ensure both take up the content area */
+        grid-column: 1 / -1; /* Make it span the full single column */
+    }
+}

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DungeonNexus9</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.157.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.157.0/examples/jsm/"
+          }
+        }
+    </script>
+    <style>
+        body { margin: 0; overflow: hidden; background-color: #000000; font-family: 'Inter', sans-serif; }
+        canvas { display: block; }
+    </style>
+  </head>
+  <body class="font-sans">
+    <div id="container"></div>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+        import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
+        import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+        let camera, scene, renderer, controls, labelRenderer;
+        let doors = [];
+        let hub;
+        const raycaster = new THREE.Raycaster();
+        const mouse = new THREE.Vector2();
+        let roomSize;
+
+        // --- NEW: Map GLB files to door numbers ---
+        const doorModelMap = {
+            1: 'models/glyph_self.glb',
+            2: 'models/glyph_thought.glb',
+            3: 'models/glyph_logic.glb',
+            4: 'models/glyph_unity.glb',
+            5: 'models/glyph_existence.glb',
+            6: 'models/glyph_improvement.glb',
+            7: 'models/glyph_mastery.glb',
+            8: 'models/glyph_resonance.glb',
+            9: 'models/glyph_transcendence.glb'
+            // Note: 'Everything' glyph is not used as there are only 9 doors
+        };
+
+        function init() {
+            scene = new THREE.Scene();
+            scene.fog = new THREE.FogExp2(0x000000, 0.005);
+
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setPixelRatio(window.devicePixelRatio);
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            document.body.appendChild(renderer.domElement);
+
+            labelRenderer = new CSS2DRenderer();
+            labelRenderer.setSize(window.innerWidth, window.innerHeight);
+            labelRenderer.domElement.style.position = 'absolute';
+            labelRenderer.domElement.style.top = '0px';
+            labelRenderer.domElement.style.pointerEvents = 'none';
+            document.body.appendChild(labelRenderer.domElement);
+
+            roomSize = 250;
+            const skyboxGeometry = new THREE.BoxGeometry(roomSize, roomSize, roomSize, 10, 10, 10);
+            const skyboxMaterial = new THREE.MeshBasicMaterial({ color: 0xffff00, wireframe: true, side: THREE.BackSide });
+            const skybox = new THREE.Mesh(skyboxGeometry, skyboxMaterial);
+            scene.add(skybox);
+
+            const floorSize = roomSize * 2;
+            const floorGeometry = new THREE.PlaneGeometry(floorSize, floorSize);
+            const floorMaterial = new THREE.MeshBasicMaterial({ color: 0x808080, side: THREE.DoubleSide });
+            const floor = new THREE.Mesh(floorGeometry, floorMaterial);
+            floor.rotation.x = -Math.PI / 2;
+            floor.position.y = -(roomSize / 2);
+            scene.add(floor);
+
+            camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 5000);
+            camera.position.set(0, 0, roomSize * 0.4);
+
+            controls = new OrbitControls(camera, renderer.domElement);
+            controls.enableDamping = true;
+            controls.dampingFactor = 0.05;
+            controls.minDistance = 10;
+            controls.maxDistance = roomSize * 0.8;
+            controls.target.set(0, -(roomSize / 2) + 15, 0);
+
+            const ambientLight = new THREE.AmbientLight(0x444444, 0.5);
+            scene.add(ambientLight);
+            const pointLight = new THREE.PointLight(0xffffff, 0.5, 1000);
+            pointLight.position.set(0, 0, 0);
+            scene.add(pointLight);
+
+            const hubGeometry = new THREE.IcosahedronGeometry(15, 3);
+            const hubMaterial = new THREE.MeshBasicMaterial({ color: 0xffff00, wireframe: true });
+            hub = new THREE.Mesh(hubGeometry, hubMaterial);
+            const hubHeight = 15 * 2;
+            const hoverOffset = 5;
+            hub.position.y = -(roomSize / 2) + (hubHeight / 2) + hoverOffset;
+            hub.userData = { id: 0, name: "Back to Previous", description: "Return to the last visited location." };
+            scene.add(hub);
+            
+            createDoors();
+
+            window.addEventListener('resize', onWindowResize);
+            document.addEventListener('click', onClick);
+        }
+
+        function createDoors() {
+            const loader = new GLTFLoader();
+            const doorMaterial = new THREE.MeshStandardMaterial({
+                color: 0x00ffff,
+                metalness: 0.8,
+                roughness: 0.2,
+                emissive: 0x00ffff,
+                emissiveIntensity: 0.2,
+                wireframe: true
+            });
+
+            for (let i = 0; i < 9; i++) {
+                const doorId = i + 1;
+                const modelPath = doorModelMap[doorId];
+                
+                if (!modelPath) continue;
+
+                loader.load(modelPath, (gltf) => {
+                    const door = gltf.scene;
+                    door.userData = { id: doorId, name: `Portal ${doorId}` };
+                    
+                    // Apply material and scale
+                    door.traverse((child) => {
+                        if (child.isMesh) {
+                            child.material = doorMaterial;
+                        }
+                    });
+                    const box = new THREE.Box3().setFromObject(door);
+                    const size = box.getSize(new THREE.Vector3());
+                    const scale = 20 / Math.max(size.x, size.y, size.z);
+                    door.scale.set(scale, scale, scale);
+                    
+                    doors.push(door);
+                    scene.add(door);
+
+                    // Add number label
+                    const doorLabelDiv = document.createElement('div');
+                    doorLabelDiv.className = 'door-label text-white text-3xl font-bold';
+                    doorLabelDiv.textContent = `${doorId}`;
+                    doorLabelDiv.style.textShadow = '0px 0px 10px rgba(255,255,0,0.8)';
+                    doorLabelDiv.style.color = '#FFFF00';
+                    const doorLabel = new CSS2DObject(doorLabelDiv);
+                    doorLabel.position.set(0, 15, 0); // Position label above the glyph
+                    door.add(doorLabel);
+                });
+            }
+        }
+
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            labelRenderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        function onClick(event) {
+            event.preventDefault();
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = - (event.clientY / window.innerHeight) * 2 + 1;
+
+            raycaster.setFromCamera(mouse, camera);
+            // Check for intersections with the doors' children (the actual meshes) and the hub
+            const intersects = raycaster.intersectObjects([...doors.map(d => d.children[0]), hub], true);
+            
+            if (intersects.length > 0) {
+                let selectedObject = intersects[0].object;
+                // Traverse up to find the parent group with the ID
+                while (selectedObject.parent && !selectedObject.userData.id) {
+                    selectedObject = selectedObject.parent;
+                }
+                const { id, name } = selectedObject.userData;
+
+                if (id === 0) {
+                    console.log("Attempting to go back...");
+                    setTimeout(() => { window.history.back(); }, 500);
+                } else if (id === 1) {
+                    window.location.href = "https://zakdegarmo.github.io/MyOntology/";
+                } else if (id === 2) {
+                    // This is the new link for the blog
+                    window.location.href = "https://zakdegarmo.github.io/ZaksNotepad/GoogleRAGsucks.html";
+                } else if (id === 6) {
+                    window.location.href = "https://data-vis-eosin.vercel.app/";
+                } else if (id === 7) {
+                    window.location.href = "https://ai.studio/apps/drive/1XRz8dvokYQyVhmuBG_yMZF4ielHllS2-";
+                } else if (id === 9) {
+                    window.location.href = "https://hyper-aether-pilgrim-4yu6.vercel.app/";
+                } else {
+                    console.log(`Clicked on ${name}`);
+                }
+            }
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            const time = Date.now() * 0.0005;
+            
+            doors.forEach((door, i) => {
+                const angle = time * 0.5 + (i / 9) * Math.PI * 2;
+                const doorRadius = roomSize * 0.4;
+                const doorHeight = 30;
+                const hoverOffset = 5;
+                
+                door.position.x = Math.cos(angle) * doorRadius;
+                door.position.z = Math.sin(angle) * doorRadius;
+                door.position.y = -(roomSize / 2) + (doorHeight / 2) + hoverOffset + Math.sin(angle * 2.5 + i) * 5;
+                door.lookAt(hub.position);
+
+                const pulseScale = 1 + Math.sin(time * 5 + i) * 0.02;
+                door.scale.set(pulseScale, pulseScale, pulseScale);
+            });
+
+            renderer.render(scene, camera);
+            labelRenderer.render(scene, camera);
+        }
+
+        init();
+        animate();
+    </script>
+  </body>
+</html>

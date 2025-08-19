@@ -1,0 +1,21 @@
+{
+  "short_name": "AI Buddy",
+  "name": "AI Buddy Code Editor",
+  "description": "A code editor with an integrated AI assistant that can be installed on your desktop.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1b26",
+  "background_color": "#1a1b26"
+}

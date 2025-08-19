@@ -1,0 +1,5 @@
+{
+  "name": "Ollama GGUF Model Manager",
+  "description": "A web application to upload, manage, and test GGUF models with an Ollama backend. Allows users to upload GGUF files, view available models, test them with prompts, and delete models from the server.",
+  "requestFramePermissions": []
+}
